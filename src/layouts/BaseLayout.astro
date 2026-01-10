@@ -1,0 +1,134 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Discover the best Notion templates, courses, and tools. Find products optimized for your workflow." } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title} | NotionStack</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container">
+          <a href="/" class="logo">NotionStack</a>
+          <ul>
+            <li><a href="/products">All Products</a></li>
+            <li><a href="/products/templates">Templates</a></li>
+            <li><a href="/products/courses">Courses</a></li>
+            <li><a href="/products/tools">Tools</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2026 NotionStack. Find the best Notion products.</p>
+        <p>Affiliate links may earn us a commission at no cost to you.</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  :root {
+    --color-primary: #000;
+    --color-background: #fff;
+    --color-text: #1a1a1a;
+    --color-border: #e5e5e5;
+    --max-width: 1200px;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: var(--color-text);
+    background: var(--color-background);
+    line-height: 1.6;
+  }
+
+  .container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  header {
+    border-bottom: 1px solid var(--color-border);
+    padding: 1rem 0;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+  }
+
+  nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  .logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--color-primary);
+  }
+
+  nav ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: var(--color-text);
+    transition: opacity 0.2s;
+  }
+
+  nav a:hover {
+    opacity: 0.7;
+  }
+
+  main {
+    min-height: calc(100vh - 200px);
+  }
+
+  footer {
+    border-top: 1px solid var(--color-border);
+    padding: 2rem 0;
+    margin-top: 4rem;
+    text-align: center;
+  }
+
+  footer p {
+    color: #666;
+    font-size: 0.9rem;
+  }
+
+  footer p + p {
+    margin-top: 0.5rem;
+  }
+</style>

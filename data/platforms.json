@@ -1,0 +1,32 @@
+{
+  "platforms": [
+    {
+      "id": "gumroad",
+      "name": "Gumroad",
+      "url": "https://gumroad.com",
+      "affiliateSupport": true,
+      "defaultCommission": 30
+    },
+    {
+      "id": "lemonsqueezy",
+      "name": "Lemon Squeezy",
+      "url": "https://lemonsqueezy.com",
+      "affiliateSupport": true,
+      "defaultCommission": 30
+    },
+    {
+      "id": "thrivecart",
+      "name": "ThriveCart",
+      "url": "https://thrivecart.com",
+      "affiliateSupport": true,
+      "defaultCommission": 50
+    },
+    {
+      "id": "notion",
+      "name": "Notion Template Gallery",
+      "url": "https://notion.so/templates",
+      "affiliateSupport": false,
+      "defaultCommission": 0
+    }
+  ]
+}

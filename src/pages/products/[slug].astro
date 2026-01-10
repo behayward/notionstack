@@ -1,0 +1,337 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+
+export async function getStaticPaths() {
+  const productsDir = join(process.cwd(), 'content/products');
+  const files = await readdir(productsDir);
+  const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+  const paths = await Promise.all(
+    jsonFiles.map(async (file) => {
+      const filePath = join(productsDir, file);
+      const content = await readFile(filePath, 'utf-8');
+      const product = JSON.parse(content);
+
+      return {
+        params: { slug: product.slug },
+        props: { product }
+      };
+    })
+  );
+
+  return paths;
+}
+
+const { product } = Astro.props;
+---
+
+<BaseLayout
+  title={product.name}
+  description={product.description}
+>
+  <article class="product-detail">
+    <div class="container">
+      <div class="breadcrumb">
+        <a href="/">Home</a> / <a href="/products">Products</a> / {product.name}
+      </div>
+
+      <header class="product-header">
+        <div class="product-meta">
+          <span class="category">{product.category}</span>
+          {product.subcategory && <span class="subcategory">{product.subcategory}</span>}
+        </div>
+        <h1>{product.name}</h1>
+        <p class="creator">by <a href={product.creator.url} target="_blank" rel="noopener">{product.creator.name}</a></p>
+      </header>
+
+      <div class="product-content">
+        <div class="main-content">
+          <section class="description">
+            <h2>About This Product</h2>
+            <p>{product.description}</p>
+          </section>
+
+          {product.tags && product.tags.length > 0 && (
+            <section class="tags">
+              <h3>Tags</h3>
+              <div class="tag-list">
+                {product.tags.map(tag => (
+                  <span class="tag">{tag}</span>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {product.useCases && product.useCases.length > 0 && (
+            <section class="use-cases">
+              <h3>Perfect For</h3>
+              <ul>
+                {product.useCases.map(useCase => (
+                  <li>{useCase}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+        </div>
+
+        <aside class="sidebar">
+          <div class="product-card">
+            <div class="price-section">
+              <span class="price">${product.price}</span>
+              <span class="currency">{product.currency}</span>
+            </div>
+
+            <a
+              href={product.hasAffiliate ? product.affiliateUrl : product.productUrl}
+              class="cta-button"
+              target="_blank"
+              rel="noopener"
+            >
+              Get This {product.category === 'template' ? 'Template' : product.category === 'course' ? 'Course' : product.category === 'tool' ? 'Tool' : 'Product'} →
+            </a>
+
+            <div class="product-info">
+              <div class="info-row">
+                <span class="label">Platform</span>
+                <span class="value">{product.platform}</span>
+              </div>
+              {product.hasAffiliate && product.affiliateRate && (
+                <div class="info-row">
+                  <span class="label">Creator Earnings</span>
+                  <span class="value">{product.affiliateRate}%</span>
+                </div>
+              )}
+            </div>
+
+            {product.hasAffiliate && (
+              <p class="affiliate-disclosure">
+                This is an affiliate link. We may earn a commission at no cost to you.
+              </p>
+            )}
+          </div>
+        </aside>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+
+  .breadcrumb {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb a {
+    color: #667eea;
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .product-header {
+    margin-bottom: 3rem;
+  }
+
+  .product-meta {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .category, .subcategory {
+    display: inline-block;
+    background: #f5f5f5;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .subcategory {
+    background: #e5e5e5;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .creator {
+    font-size: 1.1rem;
+    color: #666;
+  }
+
+  .creator a {
+    color: #667eea;
+    text-decoration: none;
+  }
+
+  .creator a:hover {
+    text-decoration: underline;
+  }
+
+  .product-content {
+    display: grid;
+    grid-template-columns: 1fr 350px;
+    gap: 3rem;
+  }
+
+  @media (max-width: 900px) {
+    .product-content {
+      grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+      order: -1;
+    }
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .description h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .description p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #444;
+  }
+
+  .tags h3, .use-cases h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .tag {
+    background: #f0f0f0;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+  }
+
+  .use-cases ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .use-cases li {
+    padding: 0.5rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+
+  .use-cases li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 2rem;
+    height: fit-content;
+  }
+
+  .product-card {
+    border: 2px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 2rem;
+    background: white;
+  }
+
+  .price-section {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .price {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  .currency {
+    font-size: 1.2rem;
+    color: #666;
+    margin-left: 0.5rem;
+  }
+
+  .cta-button {
+    display: block;
+    width: 100%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+  }
+
+  .product-info {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e5e5;
+  }
+
+  .info-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+  }
+
+  .label {
+    color: #666;
+    font-size: 0.9rem;
+  }
+
+  .value {
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+
+  .affiliate-disclosure {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e5e5;
+    font-size: 0.8rem;
+    color: #999;
+    text-align: center;
+    line-height: 1.4;
+  }
+</style>

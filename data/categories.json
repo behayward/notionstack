@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": "template",
+      "name": "Templates",
+      "description": "Pre-built Notion templates for various use cases",
+      "subcategories": [
+        "productivity",
+        "business",
+        "personal",
+        "finance",
+        "content",
+        "education",
+        "health"
+      ]
+    },
+    {
+      "id": "course",
+      "name": "Courses",
+      "description": "Educational courses and tutorials for Notion",
+      "subcategories": [
+        "beginner",
+        "advanced",
+        "business",
+        "productivity"
+      ]
+    },
+    {
+      "id": "tool",
+      "name": "Tools",
+      "description": "Tools and integrations that work with Notion",
+      "subcategories": [
+        "automation",
+        "integration",
+        "widget",
+        "extension"
+      ]
+    },
+    {
+      "id": "prompts",
+      "name": "Prompts",
+      "description": "AI prompts and prompt libraries for Notion AI",
+      "subcategories": [
+        "writing",
+        "analysis",
+        "creative",
+        "business"
+      ]
+    }
+  ]
+}

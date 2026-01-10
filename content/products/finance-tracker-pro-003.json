@@ -1,0 +1,24 @@
+{
+  "id": "finance-tracker-pro-003",
+  "name": "Finance Tracker Pro",
+  "slug": "finance-tracker-pro",
+  "description": "Professional personal finance template with expense tracking, budget planning, investment monitoring, and financial goal setting. Automated calculations included.",
+  "price": 19,
+  "currency": "USD",
+  "creator": {
+    "name": "FinanceTemplates",
+    "url": "https://lemonsqueezy.com/financetemplates"
+  },
+  "platform": "lemonsqueezy",
+  "productUrl": "https://financetemplates.lemonsqueezy.com/checkout/finance-tracker",
+  "affiliateUrl": "https://financetemplates.lemonsqueezy.com/checkout/finance-tracker?aff=notionstack",
+  "category": "template",
+  "subcategory": "finance",
+  "tags": ["finance", "budget", "expenses", "investment", "money"],
+  "useCases": ["personal"],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2024-12-12",
+  "lastUpdated": "2024-12-12"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ultimate-notion-dashboard-001",
+  "name": "Ultimate Notion Dashboard",
+  "slug": "ultimate-notion-dashboard",
+  "description": "All-in-one productivity dashboard for managing tasks, projects, notes, and goals. Includes calendar integration, habit tracker, and weekly planner.",
+  "price": 29,
+  "currency": "USD",
+  "creator": {
+    "name": "ProductivityPro",
+    "url": "https://gumroad.com/productivitypro"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://productivitypro.gumroad.com/l/dashboard",
+  "affiliateUrl": "https://productivitypro.gumroad.com/l/dashboard?a=notionstack",
+  "category": "template",
+  "subcategory": "productivity",
+  "tags": ["dashboard", "productivity", "all-in-one", "tasks", "goals"],
+  "useCases": ["personal", "business", "students"],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2024-12-15",
+  "lastUpdated": "2024-12-15"
+}
