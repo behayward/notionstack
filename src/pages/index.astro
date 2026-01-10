@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 
-// Get latest products
+// Get featured products (latest 8)
 const productsDir = join(process.cwd(), 'content/products');
 let products = [];
 
@@ -12,56 +12,54 @@ try {
   const files = await readdir(productsDir);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-  // Load up to 6 products for homepage
-  const latestFiles = jsonFiles.slice(0, 6);
+  // Load up to 8 products for homepage
+  const featuredFiles = jsonFiles.slice(0, 8);
 
-  for (const file of latestFiles) {
+  for (const file of featuredFiles) {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
     products.push(JSON.parse(content));
   }
 } catch (error) {
-  // No products yet
   products = [];
 }
 ---
 
 <BaseLayout
   title="Home"
-  description="Discover the best Notion templates, courses, tools, and AI prompts. Find products optimized for your workflow and boost your productivity."
+  description="Curated collection of the best Notion templates, courses, and tools. Hand-picked products to enhance your productivity and workflow."
 >
   <section class="hero">
-    <div class="container">
-      <h1>Discover the Best Notion Products</h1>
+    <div class="container-narrow">
+      <div class="badge">Curated Notion Products</div>
+      <h1>The Best Notion<br />Templates & Tools</h1>
       <p class="subtitle">
-        Find templates, courses, tools, and AI prompts to supercharge your Notion workspace.
+        Hand-picked templates, courses, and tools to supercharge your Notion workspace. Only the best products make it here.
       </p>
-      <div class="cta-buttons">
-        <a href="/products" class="btn btn-primary">Browse All Products</a>
-        <a href="/products/templates" class="btn btn-secondary">View Templates</a>
+      <div class="cta-group">
+        <a href="/products" class="btn btn-primary">Browse Products</a>
+        <a href="/blog" class="btn btn-secondary">Read Guides</a>
       </div>
     </div>
   </section>
 
   <section class="categories">
     <div class="container">
-      <h2>Browse by Category</h2>
       <div class="category-grid">
-        <a href="/products/templates" class="category-card">
+        <a href="/products?category=template" class="category-card">
+          <div class="category-icon">📋</div>
           <h3>Templates</h3>
-          <p>Pre-built Notion templates for various use cases</p>
+          <p>Pre-built solutions for productivity, planning, and project management</p>
         </a>
-        <a href="/products/courses" class="category-card">
+        <a href="/products?category=course" class="category-card">
+          <div class="category-icon">🎓</div>
           <h3>Courses</h3>
-          <p>Learn Notion with expert-led courses and tutorials</p>
+          <p>Expert-led training to master Notion and template creation</p>
         </a>
-        <a href="/products/tools" class="category-card">
+        <a href="/products?category=tool" class="category-card">
+          <div class="category-icon">🛠️</div>
           <h3>Tools</h3>
-          <p>Integrations and tools to extend Notion's capabilities</p>
-        </a>
-        <a href="/products/prompts" class="category-card">
-          <h3>AI Prompts</h3>
-          <p>Prompt libraries to maximize Notion AI</p>
+          <p>Integrations, widgets, and utilities to extend Notion</p>
         </a>
       </div>
     </div>
@@ -70,14 +68,14 @@ try {
   {products.length > 0 && (
     <section class="featured">
       <div class="container">
-        <h2>Latest Products</h2>
+        <div class="section-header">
+          <h2>Featured Products</h2>
+          <a href="/products" class="view-all-link">View all →</a>
+        </div>
         <div class="products-grid">
           {products.map(product => (
             <ProductCard product={product} />
           ))}
-        </div>
-        <div class="view-all">
-          <a href="/products" class="btn btn-secondary">View All Products →</a>
         </div>
       </div>
     </section>
@@ -86,112 +84,200 @@ try {
 
 <style>
   .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 4rem 0;
+    padding: 8rem 0 6rem;
     text-align: center;
+    background: linear-gradient(180deg, #fafafa 0%, #ffffff 100%);
+  }
+
+  .container-narrow {
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 0 var(--spacing-lg);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.375rem 0.875rem;
+    background: #f3f4f6;
+    border-radius: 999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.01em;
   }
 
   .hero h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
+    font-size: 3.75rem;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.04em;
+    margin-bottom: 1.5rem;
+    color: #111827;
   }
 
   .subtitle {
     font-size: 1.25rem;
-    margin-bottom: 2rem;
-    opacity: 0.95;
+    line-height: 1.6;
+    color: #6b7280;
+    margin-bottom: 2.5rem;
+    max-width: 42rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .cta-buttons {
+  .cta-group {
     display: flex;
     gap: 1rem;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
   }
 
   .btn {
-    padding: 0.75rem 2rem;
-    border-radius: 6px;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.875rem 1.75rem;
+    border-radius: 0.5rem;
     text-decoration: none;
     font-weight: 600;
-    transition: transform 0.2s, opacity 0.2s;
-  }
-
-  .btn:hover {
-    transform: translateY(-2px);
-    opacity: 0.9;
+    font-size: 0.9375rem;
+    transition: all 0.2s ease;
+    letter-spacing: -0.01em;
   }
 
   .btn-primary {
-    background: white;
-    color: #667eea;
+    background: #111827;
+    color: white;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  }
+
+  .btn-primary:hover {
+    background: #1f2937;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
   }
 
   .btn-secondary {
-    background: rgba(255, 255, 255, 0.2);
-    color: white;
-    border: 2px solid white;
+    background: white;
+    color: #111827;
+    border: 1px solid #e5e7eb;
+  }
+
+  .btn-secondary:hover {
+    background: #f9fafb;
+    border-color: #d1d5db;
   }
 
   .categories {
-    padding: 4rem 0;
-  }
-
-  .categories h2 {
-    text-align: center;
-    font-size: 2rem;
-    margin-bottom: 2rem;
+    padding: 5rem 0;
   }
 
   .category-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    max-width: 64rem;
+    margin: 0 auto;
   }
 
   .category-card {
-    border: 2px solid var(--color-border);
-    border-radius: 8px;
-    padding: 2rem;
+    display: block;
+    padding: 2.5rem 2rem;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.75rem;
     text-decoration: none;
-    color: var(--color-text);
-    transition: border-color 0.2s, transform 0.2s;
+    transition: all 0.2s ease;
   }
 
   .category-card:hover {
-    border-color: #667eea;
-    transform: translateY(-4px);
+    border-color: #d1d5db;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    transform: translateY(-2px);
+  }
+
+  .category-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
   }
 
   .category-card h3 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
     margin-bottom: 0.5rem;
+    color: #111827;
+    letter-spacing: -0.02em;
   }
 
   .category-card p {
-    color: #666;
+    font-size: 0.9375rem;
+    color: #6b7280;
+    line-height: 1.6;
   }
 
   .featured {
-    padding: 4rem 0;
-    background: #f9f9f9;
+    padding: 5rem 0 6rem;
+    background: #fafafa;
   }
 
-  .featured h2 {
-    text-align: center;
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+
+  .section-header h2 {
     font-size: 2rem;
-    margin-bottom: 2rem;
+    font-weight: 700;
+    color: #111827;
+    letter-spacing: -0.03em;
+  }
+
+  .view-all-link {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: #6b7280;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .view-all-link:hover {
+    color: #111827;
   }
 
   .products-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-    margin-bottom: 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.75rem;
   }
 
-  .view-all {
-    text-align: center;
+  @media (max-width: 768px) {
+    .hero {
+      padding: 5rem 0 4rem;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+    }
+
+    .subtitle {
+      font-size: 1.125rem;
+    }
+
+    .category-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .products-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .section-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+    }
   }
 </style>
