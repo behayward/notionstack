@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 
-// Get featured products (latest 8)
+// Get featured products (latest 12)
 const productsDir = join(process.cwd(), 'content/products');
 let products = [];
 
@@ -12,8 +12,8 @@ try {
   const files = await readdir(productsDir);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-  // Load up to 8 products for homepage
-  const featuredFiles = jsonFiles.slice(0, 8);
+  // Load up to 12 products for homepage
+  const featuredFiles = jsonFiles.slice(0, 12);
 
   for (const file of featuredFiles) {
     const filePath = join(productsDir, file);
@@ -30,52 +30,30 @@ try {
   description="Curated collection of the best Notion templates, courses, and tools. Hand-picked products to enhance your productivity and workflow."
 >
   <section class="hero">
-    <div class="container-narrow">
-      <div class="badge">Curated Notion Products</div>
-      <h1>The Best Notion<br />Templates & Tools</h1>
-      <p class="subtitle">
-        Hand-picked templates, courses, and tools to supercharge your Notion workspace. Only the best products make it here.
-      </p>
-      <div class="cta-group">
-        <a href="/products" class="btn btn-primary">Browse Products</a>
-        <a href="/blog" class="btn btn-secondary">Read Guides</a>
-      </div>
-    </div>
-  </section>
-
-  <section class="categories">
     <div class="container">
-      <div class="category-grid">
-        <a href="/products?category=template" class="category-card">
-          <div class="category-icon">📋</div>
-          <h3>Templates</h3>
-          <p>Pre-built solutions for productivity, planning, and project management</p>
-        </a>
-        <a href="/products?category=course" class="category-card">
-          <div class="category-icon">🎓</div>
-          <h3>Courses</h3>
-          <p>Expert-led training to master Notion and template creation</p>
-        </a>
-        <a href="/products?category=tool" class="category-card">
-          <div class="category-icon">🛠️</div>
-          <h3>Tools</h3>
-          <p>Integrations, widgets, and utilities to extend Notion</p>
-        </a>
+      <div class="hero-content">
+        <h1>Curated Notion Templates & Tools</h1>
+        <p class="subtitle">Only the best products. Hand-picked for quality.</p>
+      </div>
+      <div class="filters">
+        <a href="/products" class="filter-link">All</a>
+        <a href="/products?category=template" class="filter-link">Templates</a>
+        <a href="/products?category=course" class="filter-link">Courses</a>
+        <a href="/products?category=tool" class="filter-link">Tools</a>
       </div>
     </div>
   </section>
 
   {products.length > 0 && (
-    <section class="featured">
+    <section class="products">
       <div class="container">
-        <div class="section-header">
-          <h2>Featured Products</h2>
-          <a href="/products" class="view-all-link">View all →</a>
-        </div>
         <div class="products-grid">
           {products.map(product => (
             <ProductCard product={product} />
           ))}
+        </div>
+        <div class="view-more">
+          <a href="/products" class="btn-view-all">View all products →</a>
         </div>
       </div>
     </section>
@@ -84,200 +62,113 @@ try {
 
 <style>
   .hero {
-    padding: 8rem 0 6rem;
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .hero-content {
     text-align: center;
-    background: linear-gradient(180deg, #fafafa 0%, #ffffff 100%);
-  }
-
-  .container-narrow {
-    max-width: 48rem;
-    margin: 0 auto;
-    padding: 0 var(--spacing-lg);
-  }
-
-  .badge {
-    display: inline-block;
-    padding: 0.375rem 0.875rem;
-    background: #f3f4f6;
-    border-radius: 999px;
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: #6b7280;
-    margin-bottom: 1.5rem;
-    letter-spacing: -0.01em;
+    margin-bottom: 2rem;
   }
 
   .hero h1 {
-    font-size: 3.75rem;
+    font-size: 2.25rem;
     font-weight: 700;
-    line-height: 1.1;
-    letter-spacing: -0.04em;
-    margin-bottom: 1.5rem;
-    color: #111827;
+    line-height: 1.2;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+    color: var(--color-primary);
   }
 
   .subtitle {
-    font-size: 1.25rem;
-    line-height: 1.6;
-    color: #6b7280;
-    margin-bottom: 2.5rem;
-    max-width: 42rem;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 1rem;
+    color: var(--color-secondary);
   }
 
-  .cta-group {
+  .filters {
     display: flex;
-    gap: 1rem;
     justify-content: center;
-    align-items: center;
+    gap: 0.5rem;
     flex-wrap: wrap;
   }
 
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.875rem 1.75rem;
+  .filter-link {
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid var(--color-border);
     border-radius: 0.5rem;
     text-decoration: none;
-    font-weight: 600;
-    font-size: 0.9375rem;
-    transition: all 0.2s ease;
-    letter-spacing: -0.01em;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-secondary);
+    transition: all 0.15s ease;
   }
 
-  .btn-primary {
-    background: #111827;
-    color: white;
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
-  }
-
-  .btn-primary:hover {
-    background: #1f2937;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transform: translateY(-1px);
-  }
-
-  .btn-secondary {
-    background: white;
-    color: #111827;
-    border: 1px solid #e5e7eb;
-  }
-
-  .btn-secondary:hover {
-    background: #f9fafb;
+  .filter-link:hover {
+    background: var(--color-surface);
+    color: var(--color-primary);
     border-color: #d1d5db;
   }
 
-  .categories {
-    padding: 5rem 0;
-  }
-
-  .category-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    max-width: 64rem;
-    margin: 0 auto;
-  }
-
-  .category-card {
-    display: block;
-    padding: 2.5rem 2rem;
-    background: white;
-    border: 1px solid #e5e7eb;
-    border-radius: 0.75rem;
-    text-decoration: none;
-    transition: all 0.2s ease;
-  }
-
-  .category-card:hover {
-    border-color: #d1d5db;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
-    transform: translateY(-2px);
-  }
-
-  .category-icon {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-  }
-
-  .category-card h3 {
-    font-size: 1.25rem;
-    font-weight: 600;
-    margin-bottom: 0.5rem;
-    color: #111827;
-    letter-spacing: -0.02em;
-  }
-
-  .category-card p {
-    font-size: 0.9375rem;
-    color: #6b7280;
-    line-height: 1.6;
-  }
-
-  .featured {
-    padding: 5rem 0 6rem;
-    background: #fafafa;
-  }
-
-  .section-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 3rem;
-  }
-
-  .section-header h2 {
-    font-size: 2rem;
-    font-weight: 700;
-    color: #111827;
-    letter-spacing: -0.03em;
-  }
-
-  .view-all-link {
-    font-size: 0.9375rem;
-    font-weight: 600;
-    color: #6b7280;
-    text-decoration: none;
-    transition: color 0.2s;
-  }
-
-  .view-all-link:hover {
-    color: #111827;
+  .products {
+    padding: 2.5rem 0 4rem;
   }
 
   .products-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.75rem;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .view-more {
+    text-align: center;
+  }
+
+  .btn-view-all {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    transition: all 0.15s ease;
+  }
+
+  .btn-view-all:hover {
+    background: var(--color-surface);
+    border-color: #d1d5db;
   }
 
   @media (max-width: 768px) {
     .hero {
-      padding: 5rem 0 4rem;
+      padding: 2rem 0 1.5rem;
     }
 
     .hero h1 {
-      font-size: 2.5rem;
+      font-size: 1.75rem;
     }
 
-    .subtitle {
-      font-size: 1.125rem;
+    .filters {
+      gap: 0.375rem;
     }
 
-    .category-grid {
-      grid-template-columns: 1fr;
+    .filter-link {
+      padding: 0.375rem 0.75rem;
+      font-size: 0.8125rem;
+    }
+
+    .products {
+      padding: 2rem 0 3rem;
     }
 
     .products-grid {
       grid-template-columns: 1fr;
-    }
-
-    .section-header {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 1rem;
+      gap: 1.25rem;
     }
   }
 </style>
