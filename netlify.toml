@@ -11,16 +11,8 @@
   [build.environment]
     NODE_VERSION = "20"
 
-# Redirect and rewrite rules (also in public/_redirects)
-# Netlify will use both files, _redirects takes precedence for simple redirects
-
-# SPA fallback (not needed for static site, but good to have)
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  force = false
-  conditions = {Role = ["admin"]}
+# Redirect and rewrite rules
+# All redirects are handled by public/_redirects file
 
 # Security headers
 [[headers]]
