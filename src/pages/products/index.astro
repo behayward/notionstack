@@ -1,0 +1,172 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+
+// Get all products
+const productsDir = join(process.cwd(), 'content/products');
+let allProducts = [];
+
+try {
+  const files = await readdir(productsDir);
+  const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+  for (const file of jsonFiles) {
+    const filePath = join(productsDir, file);
+    const content = await readFile(filePath, 'utf-8');
+    allProducts.push(JSON.parse(content));
+  }
+} catch (error) {
+  allProducts = [];
+}
+
+// Get filter from URL
+const category = Astro.url.searchParams.get('category');
+
+// Filter products if category specified
+let products = category
+  ? allProducts.filter(p => p.category === category)
+  : allProducts;
+
+// Sort by name
+products.sort((a, b) => a.name.localeCompare(b.name));
+
+const pageTitle = category
+  ? `${category.charAt(0).toUpperCase() + category.slice(1)}s`
+  : 'All Products';
+
+const pageDescription = category
+  ? `Browse ${products.length} ${category}s for Notion`
+  : `Browse ${products.length} Notion products including templates, courses, and tools`;
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+>
+  <div class="products-page">
+    <div class="container">
+      <header class="page-header">
+        <h1>{pageTitle}</h1>
+        <p>{products.length} product{products.length !== 1 ? 's' : ''} found</p>
+      </header>
+
+      <div class="filters">
+        <a href="/products" class={!category ? 'active' : ''}>All</a>
+        <a href="/products?category=template" class={category === 'template' ? 'active' : ''}>Templates</a>
+        <a href="/products?category=course" class={category === 'course' ? 'active' : ''}>Courses</a>
+        <a href="/products?category=tool" class={category === 'tool' ? 'active' : ''}>Tools</a>
+      </div>
+
+      <div class="products-grid">
+        {products.map(product => (
+          <ProductCard product={product} />
+        ))}
+      </div>
+
+      {products.length === 0 && (
+        <div class="no-results">
+          <p>No products found in this category.</p>
+          <a href="/products" class="btn">View All Products</a>
+        </div>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .products-page {
+    padding: 3rem 0;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .page-header p {
+    color: #666;
+    font-size: 1.1rem;
+  }
+
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 3rem;
+    flex-wrap: wrap;
+  }
+
+  .filters a {
+    padding: 0.5rem 1.5rem;
+    border: 2px solid #e5e5e5;
+    border-radius: 24px;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  .filters a:hover {
+    border-color: #667eea;
+    color: #667eea;
+  }
+
+  .filters a.active {
+    background: #667eea;
+    color: white;
+    border-color: #667eea;
+  }
+
+  .products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+
+  .no-results p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+  }
+
+  .btn {
+    display: inline-block;
+    background: #667eea;
+    color: white;
+    padding: 0.75rem 2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .btn:hover {
+    opacity: 0.9;
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: 2rem;
+    }
+
+    .products-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
