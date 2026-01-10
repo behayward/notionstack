@@ -1,0 +1,31 @@
+{
+  "id": "seo-compass-027",
+  "name": "SEO Compass: Notion-Assisted SEO Content Optimization",
+  "slug": "seo-compass",
+  "description": "SEO feedback while you write in Notion",
+  "price": 29,
+  "currency": "USD",
+  "creator": {
+    "name": "Philipp Stelzel",
+    "url": "http://philippstelzel.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/922897235/GMgFe",
+  "affiliateUrl": "https://gumroad.com/a/922897235/GMgFe",
+  "category": "template",
+  "subcategory": "seo",
+  "tags": [
+    "SEO",
+    "Content"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

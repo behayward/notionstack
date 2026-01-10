@@ -1,0 +1,32 @@
+{
+  "id": "notaku-025",
+  "name": "Notaku: Build Stunning Notion Websites Without No-Code",
+  "slug": "notaku",
+  "description": "",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Notaku: Build Stunning Notion Websites Without No-Code",
+    "url": ""
+  },
+  "platform": "tool",
+  "productUrl": "",
+  "affiliateUrl": "https://notaku.so?via=notionstack",
+  "category": "tool",
+  "subcategory": "website",
+  "tags": [
+    "Website",
+    "Blog",
+    "Documentation",
+    "Help Center"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

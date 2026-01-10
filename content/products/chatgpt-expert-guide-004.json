@@ -1,0 +1,30 @@
+{
+  "id": "chatgpt-expert-guide-004",
+  "name": "ChatGPT Expert Guide",
+  "slug": "chatgpt-expert-guide",
+  "description": "Learn how to be a ChatGPT Expert",
+  "price": 25,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/39386835/qbqpq",
+  "affiliateUrl": "https://gumroad.com/a/39386835/qbqpq",
+  "category": "template",
+  "subcategory": "chatgpt",
+  "tags": [
+    "ChatGPT"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

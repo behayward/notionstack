@@ -1,0 +1,31 @@
+{
+  "id": "professional-habit-tracker-notion-100",
+  "name": "Professional Habit Tracker: Capture and Measure Habits",
+  "slug": "professional-habit-tracker-notion",
+  "description": "Easily track and measure your habits inside Notion",
+  "price": 24,
+  "currency": "USD",
+  "creator": {
+    "name": "Daniel Canosa",
+    "url": "http://dcanosa.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/262294355/LiuEv",
+  "affiliateUrl": "https://gumroad.com/a/262294355/LiuEv",
+  "category": "template",
+  "subcategory": "habits",
+  "tags": [
+    "Habits",
+    "Goals"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

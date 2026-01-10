@@ -1,0 +1,31 @@
+{
+  "id": "notion-product-marketing-career-framework-103",
+  "name": "Product Marketing Career Framework: Build Your Own Career Ladder in Notion",
+  "slug": "notion-product-marketing-career-framework",
+  "description": "Build your own product marketing career ladder",
+  "price": 9,
+  "currency": "USD",
+  "creator": {
+    "name": "Stefanos",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/90449619/cyogn",
+  "affiliateUrl": "https://gumroad.com/a/90449619/cyogn",
+  "category": "template",
+  "subcategory": "product marketing",
+  "tags": [
+    "Product Marketing",
+    "Career"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

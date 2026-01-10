@@ -1,0 +1,29 @@
+{
+  "id": "fillout-create-embed-sync-notion-forms-with-ease-012",
+  "name": "Fillout: Create, Embed & Sync Notion Forms with Ease",
+  "slug": "fillout-create-embed-sync-notion-forms-with-ease",
+  "description": "",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Fillout: Create, Embed & Sync Notion Forms with Ease",
+    "url": ""
+  },
+  "platform": "tool",
+  "productUrl": "",
+  "affiliateUrl": "https://www.fillout.com/?ref=notionstack",
+  "category": "tool",
+  "subcategory": "forms",
+  "tags": [
+    "Forms"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

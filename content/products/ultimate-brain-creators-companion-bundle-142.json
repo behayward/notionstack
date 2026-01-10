@@ -1,0 +1,33 @@
+{
+  "id": "ultimate-brain-creators-companion-bundle-142",
+  "name": "Ultimate Brain + Creator's Companion Notion Bundle",
+  "slug": "ultimate-brain-creators-companion-bundle",
+  "description": "A full second brain and world-class content-planning system in Notion. Together, they create the ultimate Notion template for content creators.",
+  "price": 179,
+  "currency": "USD",
+  "creator": {
+    "name": "Thomas Frank",
+    "url": "https://thomasfrank.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://thomasfrank.gumroad.com/l/ubcc-bundle",
+  "affiliateUrl": "https://thomasfrank.gumroad.com/l/ubcc-bundle",
+  "category": "template",
+  "subcategory": "second brain",
+  "tags": [
+    "Second Brain",
+    "Content",
+    "Bundle",
+    "Tasks"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

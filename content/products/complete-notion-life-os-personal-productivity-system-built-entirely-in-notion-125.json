@@ -1,0 +1,37 @@
+{
+  "id": "complete-notion-life-os-personal-productivity-system-built-entirely-in-notion-125",
+  "name": "Complete Notion - Life OS: P",
+  "slug": "complete-notion-life-os-personal-productivity-system-built-entirely-in-notion",
+  "description": "A complete personal productivity system built entirely in Notion. ",
+  "price": 109.5,
+  "currency": "USD",
+  "creator": {
+    "name": "Better Creating",
+    "url": "http://bettercreating.gumroad.com/"
+  },
+  "platform": "lemonsqueezy",
+  "productUrl": "https://bettercreating.lemonsqueezy.com/checkout/buy/8b675bf1-53b3-4f94-8fec-51f39bcc9f21?aff=MOqE9&checkout[discount_code]=LIFEOSLAUNCH",
+  "affiliateUrl": "https://bettercreating.lemonsqueezy.com/checkout/buy/8b675bf1-53b3-4f94-8fec-51f39bcc9f21?aff=MOqE9&checkout[discount_code]=LIFEOSLAUNCH",
+  "category": "template",
+  "subcategory": "second brain",
+  "tags": [
+    "Second Brain",
+    "Tasks",
+    "Goals",
+    "Journal",
+    "Dashboard",
+    "GTD",
+    "PARA",
+    "Bundle"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

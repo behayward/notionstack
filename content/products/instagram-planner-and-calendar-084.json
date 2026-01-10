@@ -1,0 +1,32 @@
+{
+  "id": "instagram-planner-and-calendar-084",
+  "name": "Instagram Planner: Manage and Organize Posts in Notion",
+  "slug": "instagram-planner-and-calendar",
+  "description": "Perfect for anyone who wants to plan and track their Instagram posts.",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Molly @ Notionology",
+    "url": "http://mollyjones.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://mollyjones.gumroad.com/l/nPcWs",
+  "affiliateUrl": "https://mollyjones.gumroad.com/l/nPcWs",
+  "category": "template",
+  "subcategory": "instagram",
+  "tags": [
+    "Instagram",
+    "Calendar",
+    "Social"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

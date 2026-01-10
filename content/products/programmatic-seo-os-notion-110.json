@@ -1,0 +1,33 @@
+{
+  "id": "programmatic-seo-os-notion-110",
+  "name": "Programmatic SEO Notion OS: Boost Your Organic Traffic",
+  "slug": "programmatic-seo-os-notion",
+  "description": "Programmatic programmatic SEO course + information library",
+  "price": 197,
+  "currency": "USD",
+  "creator": {
+    "name": "Deepak Ness",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://practicalprogrammatic.lemonsqueezy.com/checkout/buy/6a5a86b3-4988-47f3-8ce7-d2dcc2d75a4a?aff=MOqE9",
+  "affiliateUrl": "https://practicalprogrammatic.lemonsqueezy.com/checkout/buy/6a5a86b3-4988-47f3-8ce7-d2dcc2d75a4a?aff=MOqE9",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "AI",
+    "Content",
+    "SEO"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

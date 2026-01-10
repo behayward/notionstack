@@ -1,0 +1,31 @@
+{
+  "id": "the-ultimate-travel-planner-119",
+  "name": "Ultimate Travel Planner Notion Template: Plan Your Trip Today! ",
+  "slug": "the-ultimate-travel-planner",
+  "description": "Plan your next trip and stay organized with this template.",
+  "price": 10,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://mollyjones.gumroad.com/l/ultimatetravelplanner",
+  "affiliateUrl": "https://mollyjones.gumroad.com/l/ultimatetravelplanner",
+  "category": "template",
+  "subcategory": "planner",
+  "tags": [
+    "Planner",
+    "Calendar"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

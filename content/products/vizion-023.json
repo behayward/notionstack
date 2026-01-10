@@ -1,0 +1,29 @@
+{
+  "id": "vizion-023",
+  "name": "Vizion",
+  "slug": "vizion",
+  "description": "Create and share custom Notion database views",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Vizion",
+    "url": "https://vizion.so/"
+  },
+  "platform": "tool",
+  "productUrl": "https://vizion.so/",
+  "affiliateUrl": "https://vizion.so/",
+  "category": "tool",
+  "subcategory": "publish",
+  "tags": [
+    "Publish"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": false,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "notion-goal-tracker-050",
+  "name": "Goal Tracker: Capture, track and achieve your goals",
+  "slug": "notion-goal-tracker",
+  "description": "A Notion dashboard to track your goals, actions, and progress.",
+  "price": 9,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/negwr",
+  "affiliateUrl": "https://easlo.gumroad.com/l/negwr",
+  "category": "template",
+  "subcategory": "goals",
+  "tags": [
+    "Goals",
+    "Dashboard"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

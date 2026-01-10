@@ -1,0 +1,30 @@
+{
+  "id": "notion-resolution-board-063",
+  "name": "Notion Resolution Board: Notion Dashboard to Achieve Your Goals",
+  "slug": "notion-resolution-board",
+  "description": "Manage your Goals and Resolutions",
+  "price": 38,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/1071869139/YkJkr",
+  "affiliateUrl": "https://gumroad.com/a/1071869139/YkJkr",
+  "category": "template",
+  "subcategory": "goals",
+  "tags": [
+    "Goals"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "product-marketing-beta-launch-notion-template-139",
+  "name": "Product Marketing Beta Launch Notion Template",
+  "slug": "product-marketing-beta-launch-notion-template",
+  "description": "Run a Successful Product Beta Use this template to plan and execute every part of running a structured product beta with your team, on one, centralized page. Our template helps Product teams collaborate deeply with their Product Marketing team. Plus, with the flexibility of Notion, you can customize",
+  "price": 9,
+  "currency": "USD",
+  "creator": {
+    "name": "Stefanos",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/285064915/fsfqx",
+  "affiliateUrl": "https://gumroad.com/a/285064915/fsfqx",
+  "category": "template",
+  "subcategory": "product marketing",
+  "tags": [
+    "Product Marketing"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

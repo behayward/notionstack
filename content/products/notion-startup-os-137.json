@@ -1,0 +1,33 @@
+{
+  "id": "notion-startup-os-137",
+  "name": "Notion Startup OS: Plan, launch and grow your startup with this template",
+  "slug": "notion-startup-os",
+  "description": "Plan, launch, and grow your startup all in one place!",
+  "price": 79,
+  "currency": "USD",
+  "creator": {
+    "name": "Notion Startup",
+    "url": "https://alirashidy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/517180627/haiuw",
+  "affiliateUrl": "https://gumroad.com/a/517180627/haiuw",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Finances",
+    "Canvas",
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

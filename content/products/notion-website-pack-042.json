@@ -1,0 +1,32 @@
+{
+  "id": "notion-website-pack-042",
+  "name": "Notion Website Pack: Everything you need to build your Notion website",
+  "slug": "notion-website-pack",
+  "description": "Build your website in minutes with these templates",
+  "price": 9,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/wsviv",
+  "affiliateUrl": "https://easlo.gumroad.com/l/wsviv",
+  "category": "template",
+  "subcategory": "website",
+  "tags": [
+    "Website",
+    "Blog",
+    "Components"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

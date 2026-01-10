@@ -1,0 +1,34 @@
+{
+  "id": "remote-os-090",
+  "name": "Remote OS:  Manage Your Remote Business in Notion",
+  "slug": "remote-os",
+  "description": "Truly the simplest system for businesses in Notion.",
+  "price": 97,
+  "currency": "USD",
+  "creator": {
+    "name": "Daniel Canosa",
+    "url": "http://dcanosa.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/866274131/mnvwy",
+  "affiliateUrl": "https://gumroad.com/a/866274131/mnvwy",
+  "category": "template",
+  "subcategory": "remote",
+  "tags": [
+    "Remote",
+    "Dashboard",
+    "Sales",
+    "Budgeting",
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

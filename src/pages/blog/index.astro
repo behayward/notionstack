@@ -1,0 +1,187 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+
+// Get all blog posts
+const blogDir = join(process.cwd(), 'content/blog');
+let posts = [];
+
+try {
+  const files = await readdir(blogDir);
+  const mdFiles = files.filter(file => file.endsWith('.md'));
+
+  for (const file of mdFiles) {
+    const filePath = join(blogDir, file);
+    const content = await readFile(filePath, 'utf-8');
+
+    // Extract frontmatter
+    const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+    if (frontmatterMatch) {
+      const frontmatter = frontmatterMatch[1];
+      const title = frontmatter.match(/title:\s*"(.+)"/)?.[1] || '';
+      const description = frontmatter.match(/description:\s*"(.+)"/)?.[1] || '';
+      const publishedDate = frontmatter.match(/publishedDate:\s*(.+)/)?.[1] || '';
+      const tagsMatch = frontmatter.match(/tags:\s*\[(.*?)\]/)?.[1] || '';
+      const tags = tagsMatch ? tagsMatch.split(',').map(t => t.trim().replace(/"/g, '')) : [];
+
+      const slug = file.replace('.md', '');
+
+      posts.push({
+        slug,
+        title,
+        description,
+        publishedDate,
+        tags
+      });
+    }
+  }
+
+  // Sort by date, newest first
+  posts.sort((a, b) => new Date(b.publishedDate) - new Date(a.publishedDate));
+
+} catch (error) {
+  posts = [];
+}
+---
+
+<BaseLayout
+  title="Blog"
+  description="Guides, tutorials, and insights about Notion templates, productivity, and tools."
+>
+  <div class="blog-page">
+    <div class="container">
+      <header class="page-header">
+        <h1>NotionStack Blog</h1>
+        <p>Guides, tutorials, and insights to help you get the most out of Notion.</p>
+      </header>
+
+      <div class="blog-grid">
+        {posts.map(post => (
+          <article class="blog-card">
+            <a href={`/blog/${post.slug}`} class="blog-link">
+              <div class="blog-content">
+                {post.publishedDate && (
+                  <time class="blog-date">
+                    {new Date(post.publishedDate).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric'
+                    })}
+                  </time>
+                )}
+                <h2>{post.title}</h2>
+                <p class="blog-description">{post.description}</p>
+                {post.tags && post.tags.length > 0 && (
+                  <div class="blog-tags">
+                    {post.tags.slice(0, 3).map(tag => (
+                      <span class="tag">{tag}</span>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .blog-page {
+    padding: 3rem 0;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .page-header h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .page-header p {
+    font-size: 1.25rem;
+    color: #666;
+  }
+
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+  }
+
+  .blog-card {
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .blog-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+
+  .blog-content {
+    padding: 2rem;
+  }
+
+  .blog-date {
+    display: block;
+    font-size: 0.9rem;
+    color: #999;
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .blog-description {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .blog-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .tag {
+    background: #f0f0f0;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    color: #666;
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 {
+      font-size: 2rem;
+    }
+
+    .blog-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

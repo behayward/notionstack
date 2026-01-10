@@ -1,0 +1,32 @@
+{
+  "id": "imanage-all-in-one-property-management-notion-template-082",
+  "name": "iManage: All-in-One Property Management Notion Template",
+  "slug": "imanage-all-in-one-property-management-notion-template",
+  "description": "Landlord software that easily integrates right into your personal or business Notion workspace.",
+  "price": 899,
+  "currency": "USD",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "http://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/527584083/zltma",
+  "affiliateUrl": "https://gumroad.com/a/527584083/zltma",
+  "category": "template",
+  "subcategory": "property",
+  "tags": [
+    "Property",
+    "Dashboard",
+    "Bundle"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

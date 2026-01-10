@@ -1,0 +1,34 @@
+{
+  "id": "ultimate-brain-for-notion-070",
+  "name": "Ultimate Brain: Best Selling Notion Productivity and Second Brain Template",
+  "slug": "ultimate-brain-for-notion",
+  "description": "Seamlessly combines tasks, projects, notes, and goals - turning Notion into your all-in-one task manager, note-taker, and planner",
+  "price": 79,
+  "currency": "USD",
+  "creator": {
+    "name": "Thomas Frank",
+    "url": "https://thomasfrank.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://thomasfrank.gumroad.com/l/ultimatebrain",
+  "affiliateUrl": "https://thomasfrank.gumroad.com/l/ultimatebrain",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Goals",
+    "Projects",
+    "Notes",
+    "Second Brain"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

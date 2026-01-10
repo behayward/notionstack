@@ -1,0 +1,32 @@
+{
+  "id": "mag-for-super-001",
+  "name": "Mag for Super: Transform Your Notion Pages into a Publishing System",
+  "slug": "mag-for-super",
+  "description": "Transform Notion pages into a stunning publishing platform.",
+  "price": 15,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://stfn.lemonsqueezy.com/checkout/buy/78f434bc-bd6b-4b28-b1ea-0ba809d9f9d7",
+  "affiliateUrl": "https://stfn.lemonsqueezy.com/checkout/buy/78f434bc-bd6b-4b28-b1ea-0ba809d9f9d7?aff=MOqE9",
+  "category": "template",
+  "subcategory": "website",
+  "tags": [
+    "Website",
+    "Super",
+    "Blog"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

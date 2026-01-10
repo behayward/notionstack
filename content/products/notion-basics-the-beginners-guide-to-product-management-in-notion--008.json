@@ -1,0 +1,30 @@
+{
+  "id": "notion-basics-the-beginners-guide-to-product-management-in-notion--008",
+  "name": "Notion Basics: The Beginner's Guide to Product Management in Notion ",
+  "slug": "notion-basics-the-beginners-guide-to-product-management-in-notion-",
+  "description": "Overview of using Notion as a project management tool",
+  "price": 5,
+  "currency": "USD",
+  "creator": {
+    "name": "Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://thesaraloretta.gumroad.com/l/notionbasics",
+  "affiliateUrl": "https://thesaraloretta.gumroad.com/l/notionbasics",
+  "category": "course",
+  "subcategory": "project management",
+  "tags": [
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

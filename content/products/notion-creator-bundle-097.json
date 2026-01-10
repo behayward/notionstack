@@ -1,0 +1,32 @@
+{
+  "id": "notion-creator-bundle-097",
+  "name": "Notion Creator Bundle: Build and Sell Notion Templates",
+  "slug": "notion-creator-bundle",
+  "description": "A bundle of tools to help you build, launch, and sell more Notion templates",
+  "price": 79,
+  "currency": "USD",
+  "creator": {
+    "name": "Pascio",
+    "url": "http://pascio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://pascio.gumroad.com/l/creatormanual",
+  "affiliateUrl": "https://pascio.gumroad.com/l/creatormanual",
+  "category": "template",
+  "subcategory": "bundle",
+  "tags": [
+    "Bundle",
+    "Dashboard",
+    "Checklist"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

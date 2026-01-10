@@ -1,0 +1,30 @@
+{
+  "id": "notion-website-suite-087",
+  "name": "Notion Website Suite - Start Building Your Website Today",
+  "slug": "notion-website-suite",
+  "description": "Launch your Notion website in minutes",
+  "price": 15,
+  "currency": "USD",
+  "creator": {
+    "name": "Deepak yadav",
+    "url": "http://parallelconnect.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/899319507/nsssyb",
+  "affiliateUrl": "https://gumroad.com/a/899319507/nsssyb",
+  "category": "template",
+  "subcategory": "website",
+  "tags": [
+    "Website"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "notion-cloud-127",
+  "name": "Notion Cloud",
+  "slug": "notion-cloud",
+  "description": "Backup your files",
+  "price": 10,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://inotion.gumroad.com/l/cloud",
+  "affiliateUrl": "https://inotion.gumroad.com/l/cloud",
+  "category": "template",
+  "subcategory": "files",
+  "tags": [
+    "Files"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "reading-journal-track-your-book-reading-goals-and-easily-capture-your-insights-129",
+  "name": "Reading Journal: Track your book reading goals and easily capture your insights",
+  "slug": "reading-journal-track-your-book-reading-goals-and-easily-capture-your-insights",
+  "description": "Track your reading progress and goals.",
+  "price": 19,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/myudm",
+  "affiliateUrl": "https://easlo.gumroad.com/l/myudm",
+  "category": "template",
+  "subcategory": "books",
+  "tags": [
+    "Books",
+    "Goals",
+    "Journal"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

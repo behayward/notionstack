@@ -1,0 +1,32 @@
+{
+  "id": "pmm-productivity-hub-123",
+  "name": "PMM Productivity Hub: Product Marketing System & Notion Templates",
+  "slug": "pmm-productivity-hub",
+  "description": "Product Marketing made easy in Notion",
+  "price": 199,
+  "currency": "USD",
+  "creator": {
+    "name": "Jason Oakley",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/150611667/ykjdb",
+  "affiliateUrl": "https://gumroad.com/a/150611667/ykjdb",
+  "category": "template",
+  "subcategory": "plan",
+  "tags": [
+    "Plan",
+    "Tasks",
+    "Product Marketing"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

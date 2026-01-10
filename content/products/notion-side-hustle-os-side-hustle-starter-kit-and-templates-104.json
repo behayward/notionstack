@@ -1,0 +1,34 @@
+{
+  "id": "notion-side-hustle-os-side-hustle-starter-kit-and-templates-104",
+  "name": "Notion Side Hustle OS - Side Hustle Starter Kit and Templates",
+  "slug": "notion-side-hustle-os-side-hustle-starter-kit-and-templates",
+  "description": "Your ultimate guide and management tool to help you start and manage your side hustle.",
+  "price": 59,
+  "currency": "USD",
+  "creator": {
+    "name": "Notionway",
+    "url": "http://notionway.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/356200659/dklvc",
+  "affiliateUrl": "https://gumroad.com/a/356200659/dklvc",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Journal",
+    "Goals",
+    "Finances",
+    "Plan"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

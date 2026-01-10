@@ -1,0 +1,1265 @@
+---
+title: "100 Most Popular Free Notion Templates "
+description: "Discover the most popular free Notion templates based on our April 2023 rankings. "
+publishedDate: 2023-04-18
+lastUpdated: 2023-04-18
+tags: ["Free"]
+---
+
+<details>
+<summary>**Table of Contents**</summary>
+
+</details>
+
+
+Inspired by the Billboard Hot 100 rankings of the most popular songs, we are excited to share the industry’s first rankings of the most popular free Notion Templates. The rankings are based on total downloads (or sales), total reviews, aggregate ratings, creator-shared metrics, and internal and external data. Our mission is to shine a brighter light on Notion creators and their incredible contributions to the Notion community, so we hope you find this helpful. Be sure to check out all of our [handpicked Notion templates](/86f5352f0a834816a04e6d9d5a00be48).
+
+
+## Top 100 Free Notion Templates 
+
+
+### Notion Starter Pack
+
+
+**Ranking: 1**
+
+
+![Notion Starter Pack Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/c5fe285a-56ce-415f-9d61-7d017e093b28/pika-1681358053402-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=4654d459d56f4a11a404eee16c5737fb41ff4fa5a5a42d45db38d93dfe15f02d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Starter Pack](/768e9e61f2f54758a982fd5204bc3891)
+
+
+### Second Brain Notion Template
+
+
+**Ranking: 2**
+
+
+![Second Brain Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e0cf1017-668b-4cb5-9ff7-6bfd0f6561ae/Second_Brain_Notion_Template.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=6a6b32a2e3de9d4e201c6f1663d415a1c6aed3a2f70aaad81792e33506eb4915&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Second Brain Notion Template](/3bda3a4d4b294ac89dd6f0eb8c741b37)
+
+
+### **Get Things Done Notion Template**
+
+
+**Ranking: 3**
+
+
+![Get Things Done Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/96d973ea-5f24-4e9d-8880-b4710b3d93c1/pika-1681675719974-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=468780edd3fb43513a7c5ebca6be8a9e19e8aeb408d89e7c807ef175d4d72bc7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Things Done Notion Template](https://ramblingsofa20.gumroad.com/l/zjynh?a=962870099)
+
+
+### A Productive Notion Daily Planner (2023 Version)
+
+
+**Ranking: 4**
+
+
+![Productive Notion Daily Planner Dashboard View](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/6ff89d70-d9a7-42e8-8af9-a0ce926073ea/pika-1681425708480-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=81ed49a5c1dbb0eab40afbb4db22fc32ce3f09e49f822c70549c26dd4f35792c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Productive Notion Daily Planner](https://jeffsu.gumroad.com/l/notion-daily-planner-2023?a=962870099)
+
+
+### Notion Task Manager
+
+
+**Ranking: 5**
+
+
+![Notion Task Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/2516b10d-5941-4610-be46-8f3ba1653f92/notion_task_manager.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=4848ebdcc70ffd91036cca871b0b82e8634c08621029b0aaaa0d304b4568dbe2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Task Manager](/5d89b6fc17224912b2d05eca1f0bfbd3)
+
+
+### **Notion Second Brain**
+
+
+**Ranking: 6**
+
+
+![Notion Second Brain Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bb6f8d21-5e48-435e-a57b-db51e66aeba5/pika-1681426520797-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=8b1fe1a0dcccec669765f40a836437dbb5712bb7f345afc79c58a1ad7650436e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Second Brain](https://gumroad.com/a/376061651/ylqkn)
+
+
+### The Ultimate "That Girl" Personal Growth Planner
+
+
+**Ranking: 7**
+
+
+![Personal Growth Planner Dashboard Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bbd7472e-1d2a-4bea-b9a7-69062061349d/pika-1681426697856-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=a901c0cfb82edea21cf3bb459ae9598182c210ae167d719ba6aa2b45d5f640e4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get "That Girl" Personal Growth Planner](https://mariawhitsett.gumroad.com/l/vlvnx?a=962870099)
+
+
+### Minimalist Notion Habit Tracker
+
+
+**Ranking: 8**
+
+
+![Minimalist Notion Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/7040651f-024e-4a6e-b516-ffe7adcb6cf6/Minimalist_Notion_Habit_Tracker.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=c53d289b95acbf21c30e127890dfb47f3cf2103935357d67f3ed873bd6789146&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Minimalist Notion Habit Tracker](/5107266db9c84232b82981aefd9319ea)
+
+
+### **Daily, Weekly, Monthly Planners**
+
+
+**Ranking: 9**
+
+
+![Daily, Weekly, Monthly Planners Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bcce9d02-7780-47db-bf50-4828211d5bf4/pika-1681360186688-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=fb4ffeab91f748c277a636cfa0ad2967644101982b5125561e293279b9b60d2f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Daily, Weekly, Monthly Planners](/150e030c8d2c48baa0d4747dc22f6188)
+
+
+### Notion Smart Goals Tracker
+
+
+**Ranking: 10**
+
+
+![Smart Goals Tracker Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/078586a0-98e0-4415-9917-43e64541148e/pika-1681427097052-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=bc24112d49a6a64e2b00df6c96691badb94ef9dd247c6e70848bacb453928fdd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Smart Goals Tracker](/0af627576a7e438e8c272005ff538d66)
+
+
+### Notion Beginner Bundle
+
+
+**Ranking: 11**
+
+
+![Notion Beginner Bundle: Seven Notion Templates](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/d56e546d-c96c-43f8-a740-d49180d822aa/pika-1681403398660-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=28d412f18923e6626e5baad741126c6a2a820d43dad0b7b8149831c0d4e27a6a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Beginner Bundle](/edcefaa64d4042568b71c7cea36365a3)
+
+
+### **Notion Finance Tracker**
+
+
+**Ranking: 12**
+
+
+![Notion Finance Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/d7c4f45b-2004-463c-a5a4-aff518f02f34/notion_finance_tracker_template.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=cd7ddcc035cd45c2c5850be069cb6c7eb78193eae612161cea8530686be50747&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Finance Tracker](/fdd77995399f4adab6570599b73ff462)
+
+
+### Notion Fitness Planner
+
+
+**Ranking: 13**
+
+
+![Notion Fitness Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/d5599707-3808-4e08-80d9-68ed07876d78/notion_fitness_planner.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=8484b97f2a51d94093d67f552f8fb98884276b0eedb06f9b653b884e50351d1b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Fitness Planner](/fc228c46ab194374ae736cd85cfa374a)
+
+
+### Weekly Agenda Template
+
+
+**Ranking: 14**
+
+
+![Weekly Agenda Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/59ce9a2a-7474-4cf7-8591-e68534d3737e/pika-1681432707954-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=7e76e32ac590939a511fbe291730a6aca1ff3d1ebf2af2954edf7fa1b05fba83&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Weekly Agenda Template](https://gumroad.com/a/962870099/yxaph)
+
+
+### Shopping Wishlist
+
+
+**Ranking: 15**
+
+
+![Shopping Wishlist Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/815419ea-bf31-45a5-b473-87a7f64c0add/pika-1681411493202-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=ecb044348d197e125c3aed2058a3424dfb665453b0d5fe056b3e06b6b9d505d7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Shopping Wishlist](https://gumroad.com/a/962870099/tqjiq)
+
+
+### **Notion Student Dashboard**
+
+
+**Ranking: 16**
+
+
+![Notion Student Dashboard Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/121a9d91-c3a7-4c24-a2fa-6f82c155dcb2/pika-1681358320333-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=c80fef83ba12a44d3ac8f58c909a98270bbc76d7ae0a7bf5731e48677001b3ff&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Student Dashboard](/5edadae035d747188fe1029f4a3bbd47)
+
+
+### **Notion Recipe Manager Template**
+
+
+**Ranking: 17**
+
+
+![Notion Recipe Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e87a07e5-f669-4ce7-aa20-ab0939544166/pika-1681433394205-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=966abc9e17ed7bd6a4cd61470d7f96a703907b0f4dfa9efaf466ad3d862e8144&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Recipe Manager Template](https://shorouk.gumroad.com/l/notion-Recipe-template?a=962870099)
+
+
+### Notion Life Dashboard 2.0
+
+
+**Ranking: 18**
+
+
+![Notion Life Dashboard 2.0 Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/38fe6dff-b734-4b33-a991-4d99476c436f/pika-1681433635062-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=d78a979a7871313fd04736163a4b8c379daa37b0d46b653ee78b1d3a4742dff5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Life Dashboard 2.0](/00637ad5bb9a4880bea9e67f8632790b)
+
+
+### The 2-Minute Journalling Template
+
+
+**Ranking: 19**
+
+
+![pika-1681433768409-1x.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/6f889adf-5814-4e3a-ade4-f43ba786cfa2/pika-1681433768409-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=d4dc0c5749564e6a34ccb2b6375387ef464d601d30b350076d66c8bd74597236&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get 2-Minute Journalling Template](https://manximize.gumroad.com/l/bullet-journaling-template?a=962870099)
+
+
+### Dynamic Habit Tracker
+
+
+**Ranking: 20**
+
+
+![Dynamic Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bac19dd2-16f6-44f7-a9ff-1b8a2ac43671/dynamic_habit_tracker_template.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=b0cbd4a8244fbb372b5ae82bfe4cc7549cd5905ca5823d01c9dbdcdcf73b0efa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Dynamic Habit Tracker](/1a7a6473e4df41ceb3f93b074a3a0c77)
+
+
+### **Notion Bullet Journal**
+
+
+**Ranking: 21**
+
+
+![Notion Bullet Journal Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/aa54fb0e-972e-4550-9c34-11e7b276d99b/pika-1681433908805-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=b5a69f180f8c2b300082730e0529e58e55ba56b188b64a86abd3102d5dbaaa52&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Bullet Journal](https://gumroad.com/a/376061651/dshyx)
+
+
+### **Notion Expense Tracker**
+
+
+**Ranking: 22**
+
+
+![Notion Expense Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/828a7122-f414-4eca-a296-34cd2d391e35/pika-1681358189240-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=c4837607b7d19971b7f026e565612c1489b931074b5a9209de6957f02055fdaf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Expense Tracker](/11e2bb87b1a4448d9bea552803d24981)
+
+
+### OKR Goal Tracker
+
+
+**Ranking: 23**
+
+
+![OKR Goal Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/52c4ddba-1f44-4578-8867-5bbec1c997f7/pika-1681434097441-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=879d2aaf071ef22d952ee7efa3de8559b45e8293432364a1463ff6b72f1092a0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get OKR Goal Tracker](https://gumroad.com/a/376061651/eeevz)
+
+
+### Character Profile | Notion Worksheet
+
+
+**Ranking: 24**
+
+
+![Character Profile Worksheet](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/0f042f25-9a30-4d2c-bd22-fff1c3f8a9df/pika-1681434222599-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DEO3VWR%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053103Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIDGpbpEyZn4XsnVzwsyNggCPyBaRLyFxHTABdtTBPyqWAiAt1xSBX6U4Z9zrnDNxckj0tzSbco050410LA0P8ib0oyqIBAi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMt%2FF0d0hGGxmDdzpqKtwDs4RSMlunOXOj01DgkX%2Bs12Rfo4VhixkYrjM8ZigJhqBsGozD8xoRRoTWpBAzDb%2FE3MKH%2F1pBhNqWrToMaaVlPatVzyuIPXMFj4baYganbc5QlXBZmDvStcFr1KglKoM%2FNsPUqkGWMtq1bWPAz1MCo1B6NEykMl%2BDKebtrLq0yx%2BZNLlhZwzkM8zqwWDeelzTYUoBvTPsEdbO%2BDewG6bctHw26DjR7glD9NwHnb%2FC8ix4KWKsgIzOh29eR5he%2FxcZgYz%2BzG9Q42s5ZXEWUNDRqqgO0h9EPCeCiE6fLQPOubrPq8F4rqi4xTUCgQD%2FUVcmRnXvidWZ2TyFq8XC%2BigzxHTxVJirBTAoHk26XxHE7ZaU8hBwt%2F3cIo9KnNqPgK2m2tjBymYZOlTC3cQjSg1B%2BbJNAqUmkoxPl9tidBHnKPGpBQW%2F2ltLTlRpSAddkPOV2lQYtCY40ERagQ9JUQydVfcADYELTb2J5Ko%2FKiV0HYHD2%2BzBah2%2Ft2czBuvOoeNjQKjtx7%2FcGCYT8y0v7zAYBB%2BWhZK9%2FWjOXMQQBuM%2FBQObijJV65Cdk%2Ft2cX28yQ8O36ro%2BVoNHshGYhWL3xSVNDPl88V2j%2BwZPM5vy8IKH2QyKMTxs%2F0LeE28ySIwwq6HywY6pgFhGOJ48eqILbesKNkqx3rBaiGopC0KF5bJFwguEVvQgGhzQfrxAmhIA4p600iO1zfgvi30zyrI5nxx2mvgZJcR3OzTXo7PeQIagPnO79SHvFu3P6IbfKJCbL0EX%2FNhWaemd5vhEa%2Btleo8GoYeBr%2FNOsElYQM9036UDJvVjthSAc0P1dxBWqpBqKObtkz7tHhOXvhLZ4VC0jv7Vje25kv75oYw9PyX&X-Amz-Signature=4c4dac81d61aa8fe4f657673499ccd8ff274020612d2a77cb9c32603a7890325&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Character Profile](https://storyflint.gumroad.com/l/character-builder?a=962870099)
+
+
+### Notion Note-Taking Template
+
+
+**Ranking: 25**
+
+
+![Notion Note-Taking Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/4d8cd669-ac20-4952-98d2-9941e20389c9/pika-1681434319115-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=f0c055b6e8f02c132950e1dc6bd109c9ea6a43815e25d167019040be3ad8d3db&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Note-Taking Template](https://gumroad.com/a/962870099/ihuvv)
+
+
+### 2023 Notion Gratitude Journal
+
+
+**Ranking: 26**
+
+
+![2023 Notion Gratitude Journal](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/f55e76b8-ae70-4f45-a889-484f833f338a/pika-1681434568369-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=f28ac6b083ad18a0fc1a25e796349f027d609ec1076889791632edb917beaedb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get 2023 Notion Gratitude Journal](https://gumroad.com/a/36392147/smzkv)
+
+
+### Notion Progress Tracker
+
+
+**Ranking: 27**
+
+
+![Notion Progress Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/41b7362c-3fe0-4cbe-927c-be17271d0dbb/pika-1681434693218-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=65d1268d2ebadf62d627ec1c39cd7396cc4be449b6edeb6e583e3f035d8c8f3e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Notion Progress Tracker](https://gumroad.com/a/376061651/xnqns)
+
+
+### Superior Second Brain in Notion
+
+
+**Ranking: 28**
+
+
+![Superior Second Brain OS Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/2b0b4a12-3133-4021-9f6e-f819c4a07341/pika-1681434889730-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=a283629290144df7970425872a44fa219ff28619a9b5488fd46ae73415eb0fa2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Superior Second Brain in Notion](https://gumroad.com/a/962870099/bmqob)
+
+
+### Weekly Habit Tracker (Automated Notion Template)
+
+
+**Ranking: 29**
+
+
+![Weekly Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/94bf94a2-a183-4539-a5c3-cbf921fa4a18/pika-1681435022893-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=686cbc94f943c721041e4ef5d5e3c6586d036397bbbb5baed2a1af560fa63aa4&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Weekly Habit Tracker](https://gumroad.com/a/480650963/sbsic)
+
+
+### Notion Visualize Value Daily Manifest
+
+
+**Ranking: 30**
+
+
+![Notion Visualize Value Daily Manifest Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/b09279c3-5a94-4c87-8b55-804b81c6fc72/pika-1681435112140-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053108Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=49afc10ab4ed6971847aa58921557e75a8ecc0777ca52188c7b7ebf4036f34f1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Visualize Value Daily Manifest](https://gumroad.com/a/376061651/wmrba)
+
+
+### Notion Habit Tracker
+
+
+**Ranking: 31**
+
+
+![Notion Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/1bbe1f5b-29ea-4ef5-a6bf-de096e9ceddd/pika-1681435337325-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=dc15f1bea787461f8f2125a7bd3804af5cc5ae4550345fc125d315719ea24bba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Habit Tracker](/54575d3d63f24ff7bf49e95de1ac1524)
+
+
+### Notion Social Media Planner
+
+
+**Ranking: 32**
+
+
+![Notion Social Media Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/fb7e7af3-0799-4fa1-93ad-19a4ab71dfc2/pika-1681435491229-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=729bd71b4044dffc9bf6ff92ab13c1e3059c0445e5fb42fbd671223b78446578&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Social Media Planner](https://gumroad.com/a/962870099/uasff)
+
+
+### Simple Notion CRM
+
+
+**Ranking: 33**
+
+
+![Simple Notion CRM Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bb964efc-2d95-4d05-8bcb-fd1a678b2a15/pika-1681435683787-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=b9059a3274eb25a6579920a1a2b4fd18be34502f244c0b30a6ccf0e927660726&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Simple Notion CRM](https://gumroad.com/a/376061651/bsedx)
+
+
+### Recipe Book & Meal Planning Notion Template
+
+
+**Ranking: 34**
+
+
+![Recipe Book & Meal Planning Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/2dc95f14-4b2b-4029-9836-e83eac6b7812/pika-1681436005672-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=09d180b4a59ed0ae2acb903574cbdce51ad87afbd050cd66c026190c0f7c5822&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Recipe Book & Meal Planning Notion Template](https://gumroad.com/a/962870099/yivtu)
+
+
+### Getting Things Done for Notion
+
+
+**Ranking: 35**
+
+
+![GTD Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/f2251112-a7f8-4ce3-aca6-4b7a43c94487/pika-1681436116279-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=8cd968918a4753b96011ac93b6211ceb74dfcadfc6b2223b198c0e1a1e62ce06&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Getting Things Done for Notion](https://gumroad.com/a/470970579/lwvpc)
+
+
+### Notion Study Scheduler - Basic
+
+
+**Ranking: 36**
+
+
+![Notion Study Workstation Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/3d58a826-e580-444d-b33d-16f06dc208f6/pika-1681439420434-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=0436f4953ce4327ff6bfcffaeafa307a57d663af75738fe61990b685765d5f52&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Study Scheduler](https://cajunkoi.gumroad.com/l/notionstudyschedulerbasic?a=962870099)
+
+
+### Endless Tweet Generator
+
+
+**Ranking: 37**
+
+
+![Generate Tweet Ideas in Notion](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/d7c5d7d3-cc47-468f-aa89-c599147bdc75/pika-1681439595962-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=df1bce78d5061df6dcf31b021dcad112ac680ba771527f12389c55a81d1a24e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Endless Tweet Generator](https://evielync.gumroad.com/l/ophbxk?a=962870099)
+
+
+### Notion Resume Template
+
+
+**Ranking: 38**
+
+
+![Notion Resume Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/95025d47-db4a-4714-9cf3-991eadbeb402/pika-1681439818804-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=d81f1353097f2a79a29ec84cccbcebdc1f0c86abf22327f097e7fe5b27c20aad&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Resume Template](/a0596f2ecee24ddf8791679ff674903a)
+
+
+### Reflection Journals (Daily, Weekly and Monthly)
+
+
+**Ranking: 39**
+
+
+![Daily, Weekly and Monthly Journal Templates](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/2c7b53ec-8340-4ccb-bfe3-1a417364bded/pika-1681439942412-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=176e1f0ce3588f8cae4e791e70ebd578cf486d569112c94f0e9f906b83714cbf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Reflection Journals ](/57b74220f04b4496b84df2aebb300390)
+
+
+### Notion Student Pack
+
+
+**Ranking: 40**
+
+
+![Notion Student Pack Template Bundle](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/227bfff7-ab7a-4a3e-9ddb-19e6bd9d7bd4/pika-1681440028020-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=46e7addb0f5c46ab4faad476e22cc3e15fd0f45f7328e4eddc96fe78f2b0c82e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Student Pack](/f4034d1e839c4c7db0be77aea4e93d85)
+
+
+### Travel Planner
+
+
+**Ranking: 41**
+
+
+![Travel Planner Template: Places & Itinerary](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/7a66b40c-ea61-4db7-8766-0629055dbc81/pika-1681440139366-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=385cd3edb219222c3fb297b4d726e8887e1d0a633613410a1c0234d976f84273&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Travel Planner](/4d5340099c0043aeae16191a01f3ecb2)
+
+
+### Notion Finances Tracker
+
+
+**Ranking: 42**
+
+
+![Notion Finances Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bb4fb1ef-49be-4589-bf5d-5452dc046a11/pika-1681440384939-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=0de6c74f5cde0d58f782639d5f7c18571978309d1db0399fe488ea45d3366ba8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Finances Tracker](https://gumroad.com/a/962870099/ymvhk)
+
+
+### Notion Book Tracker/ Reading List
+
+
+**Ranking: 43**
+
+
+![Notion Book Tracker and Quotes](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/8a9489da-1974-41ef-9a77-2c5da618cd37/pika-1681440547268-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=068cfff26132de23108ca1407f4ca79aee174ac71b2ddfd583127866cc1f6734&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Book Tracker & Reading List](/7cc155f6c648450cb943f0d4245981c3)
+
+
+### Professional Resume
+
+
+**Ranking: 44**
+
+
+![Professional Resume Notion](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/f8b1798d-c301-40c0-8ab0-a86fc8f013d3/pika-1681440741228-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=f36b1f087b36ffc4204d9ef952bb1c7bd411dce03b72a0a7c4a6115c4d89bbae&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Professional Resume](https://heyeaslo.gumroad.com/l/mckym?a=962870099)
+
+
+### Book Tracker Notion Template
+
+
+**Ranking: 45**
+
+
+![Book Tracker Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/af442ce8-dde2-4407-9b02-f5f3c1f84589/pika-1681440831891-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=b7fc9d4b8882bb18f24ba453f4e4b56e0aa5e3f12801cadc4e76f5185e17b073&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Book Tracker Notion Template](https://gumroad.com/a/536495827/xbpjv)
+
+
+### One Page Project Manager
+
+
+**Ranking: 46**
+
+
+![One Page Project Manager for Notion](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/83fbcda1-4afc-4345-9fcd-4f933e64f627/pika-1681440905194-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=a0ebb50341b3d6bee758ddaa363ab5fbc3469364170f14a010c2d81becd7ab78&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get One Page Project Manager](https://pascio.gumroad.com/l/1pageprojectmanager?a=962870099)
+
+
+### Notion CRM Tracker
+
+
+**Ranking: 47**
+
+
+![Notion CRM Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/61941f55-a23b-4888-aaf2-a3950de433e7/pika-1681441028188-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=2220dae967c06bd559a9bd5c73538ed032d35203846d43b1c2852e4c4e9f71f7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion CRM Tracker](https://gumroad.com/a/962870099/bpvho)
+
+
+### Notion Roadmap
+
+
+**Ranking: 48**
+
+
+![Notion Roadmap Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/dc35df73-c60a-4577-a35c-97cffcf0f679/pika-1681441112478-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=7a67b951e0da5bb97607cc578349679366f4c03bbb53b02eb9d55fdaf60acec2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Roadmap Template](https://www.prototion.com/notion-template/roadmap?ref=notionstack.so)
+
+
+### Notion Subscription Tracker
+
+
+**Ranking: 49**
+
+
+![Notion Subscription Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/efb3b0d9-ee2a-4dab-9416-0ee0985d9651/pika-1681441206107-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QZYVTAVS%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053109Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDxj9jJ4Wp9wtlcqqCAzz2TQ884c1nhJQiiUV2XmZLBGQIhANzF46pQoJMqc%2BxroQ%2FmbMFYBxwwgA54n3E5NltEnT%2B9KogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxkaGI1du%2BEhb%2Fy6hsq3AOyYG63MAGqwLPAm8WrIu8knjvmgWqWWjxI3X0PO9PvI8xTpkN9u2eCe41B2gAiLrUPiM4E0cwuM7skXJA1uigbuPedQ50nwrxdZxGZDodWs59ZxSGvGm6yM2AY4dZaOQruhKcdOAc4UNb8bO4QbpLQnE5fXlEnzAcDX2Ke2MDU4YxH7RCO3%2BtARoLP5LyNL1Tst13zz%2BV2nj5UEJi06Ff8nUEPJ8hce8Hx6%2FofrLo5yPTyC%2FKJKv66Qzt6uk7jXluDmJcohpNX%2FKr2KSzieOn63ZNPbgBp9dPIbuYjcNANWoFtWuW6k3ZurK%2BGkBvrC3fFKXSukp2HVgPUeMqIBo%2BIXFSFPTFUtbo3BiDcZtab78T9ePDf%2FYXTbQt%2BOqAw9qj94qtG7pTHa3zKD223tVe73N4vH4q1rRuw4XJC9yl%2B0PYcmsc6%2FXsRetniODNk3vt5fruV0wn4WDvdZ%2FbW0C35pKEsSfIc5ZjIAuam6tsNfQs4GzEmg8AypJKL6ytSn9VU6smeFEOCTOSWL%2F9sHGQ107mywClEFBhS8xLrhTTjbiGRHMwATzTpWSl9Noc566VqqCjdlG7Ljv7X8igN80KOduOqi0J4hxFJRGiIThMVjBetkoye1sUoBEsFiDC9rYfLBjqkAcNe2Z0CTRyFv4GwWhvvyZyZSS%2BjFzkDsyZEjmFPenOkmyyxnriIvlbK%2BlVC%2BHoL4DCC3LN%2FDpfy24Q3qpdecgJc5Wy8SC5AR6U%2FaZhzIivZ97%2FwlmJ21HGjbjVGvCPoXrRcp3coXngqNgHc4Oh3oxoFJAYbEdT7nrZM%2FrvKVF54e2WlSjlLmi92dsXPqfVA9qGH7Hw24rVqEk2fAqBwSEDmyCg6&X-Amz-Signature=9c80ca77986efdf98e194ab291e774050c723857d79504d8f545710d7e1ed00d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Subscription Tracker](https://www.notion.so/templates/subscription-tracker-4)
+
+
+### Knowledge Database (used with Save to Notion)
+
+
+**Ranking: 50**
+
+
+![Knowledge Database Table](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/6fdc8950-ab36-4001-b7d4-2aec0ad3f2b8/pika-1681441428600-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=462a89fec99dd921e281b4148d11e7960581d7064353bd52b02ee67f3e9e5b9e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Knowledge Database](https://gumroad.com/a/962870099/zgyyc)
+
+
+### Green, Anime & Matcha University Dashboard
+
+
+**Ranking: 51**
+
+
+![Green, Anime & Matcha University Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/dcd5b68c-d549-41fd-b057-dcbf77fa739a/pika-1681441535802-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=3a60a017543a839f24acfedba30e16a9e05e1329a6989d0dcc49c3a47bc20918&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Green, Anime & Matcha University Dashboard](https://thematchavibe.gumroad.com/l/utccip?a=962870099)
+
+
+### Green, Anime & Matcha Personal Home Dashboard
+
+
+**Ranking: 52**
+
+
+![Green, Anime & Matcha Personal Home Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/1a16579b-9283-49b0-b9f1-09565a284ffa/pika-1681441609472-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=eca89c3874c77d907a80e97bb042982116830cc668d54c98340174cae5982c09&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Green, Anime & Matcha Personal Home Dashboard](https://thematchavibe.gumroad.com/l/utccip?a=962870099)
+
+
+### Concert Wishlist
+
+
+**Ranking: 53**
+
+
+![Concert Wishlist Notion Bar Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e0dd9da3-6886-414b-8be9-723999248011/pika-1681679632478-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=8d76018532aebe0b95c1bcd76c2d5db391ffa638d70a1aa5f68156b8466cb0ba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Concert Wishlist](https://gumroad.com/a/489376979/guYzd)
+
+
+### **Notion Invoice Template**
+
+
+**Ranking: 54**
+
+
+With this Notion template, you can create a professional invoice that meets all your needs with ease. The process is made even faster by the ability to pre-fill your information and share direct invoice links with your clients. 
+
+
+![Notion Invoice Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/8b11f1f0-926e-41e5-96f3-eeb8035d41b8/notion_invoice_template.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=ba5a5dc8750072a105ec206e92a171c9b94308f76ede54ef985b9b8804171ae5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Invoice Template](/aded4d3d5a70425e8f13bb1ad227d945)
+
+
+### Invoice Manager (Notion Template)
+
+
+**Ranking: 55**
+
+
+![Invoice Manager Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e975e4c7-af76-480c-b433-1a665a73be54/pika-1681441852722-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=0e3730a3538e6c9ebc13f5b02e8708902dbdb4c3aeedd9a5b36267e61669ae35&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Invoice Manager](https://gumroad.com/a/178661075/thwdy)
+
+
+### Botanical Academia | Notion Template for Students
+
+
+**Ranking: 56**
+
+
+![Botanical Academia | Notion Template for Students](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/fb7a7d5a-febd-4083-b789-d4fd557d4819/pika-1681441963264-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=f4b07be158782dad884ef7fc8f34d1b14a0fa71ec0d8e29b9dd4f96b6c3ea466&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Botanical Academia | Notion Template for Students](https://nicoledemarchi.gumroad.com/l/lvtfu?a=962870099)
+
+
+### Notion Book Notes Template
+
+
+**Ranking: 57**
+
+
+![Notion Book Notes Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/3852f903-5a1a-4b72-b152-facf7a081026/pika-1681442158083-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=ba2e95f770d545fd28b320c0ffa76d0f3ddfb78015d187228d3f1352b36831f2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Book Notes Template](https://jeffsu.gumroad.com/l/notion-book-notes-template?a=962870099)
+
+
+### Business Card (Notion Template)
+
+
+**Ranking: 58**
+
+
+![Business Card Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/48e95aa3-cff5-445f-ba5d-38da270db767/pika-1681442259983-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=0e3688e207007f6fffdb4e7f54c2d50e279bc7642329b23af558f0da9dc5f1d0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Business Card Template](https://gumroad.com/a/379987667/unkyil)
+
+
+### StudentHub+
+
+
+**Ranking: 59**
+
+
+![StudentHub+ Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/49ae65d4-9338-4a8f-aedf-e4936592798c/pika-1681442366726-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=d541218c1caf6c31638280c2b30fefa01bb72ab5e68a790fb6ad814e43c713ad&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get StudentHub+](https://danatplus.gumroad.com/l/studenthub?a=962870099)
+
+
+### Meal Planner, Recipe Tracker & Grocery List
+
+
+**Ranking: 60**
+
+
+![Meal Planner, Recipe Tracker & Grocery List Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bb5ff4dd-bffe-48c3-9721-3f557191ce20/pika-1681442576130-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=1c34b370e579188697771b7ef19257a572a812f22b8bd0ef9e391e24a112069d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Meal Planner, Recipe Tracker & Grocery List](https://gumroad.com/a/962870099/dDBhs)
+
+
+### Notion Projects
+
+
+**Ranking: 61**
+
+
+![Notion Projects Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e695768e-f5e6-48f2-a792-dba206cfe172/pika-1681442652122-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=78135b45dbe4bd448d2f5a4958feff281da42263142a88d2d47cb7aa72b2d897&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Projects](https://gumroad.com/a/402026707/dwfcb)
+
+
+### Notion Personal Website Template
+
+
+**Ranking: 62**
+
+
+![Notion Personal Website Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/67c6d17f-61f9-4519-8e44-fc18e4b65f23/pika-1681442769228-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=0c18458630e36aacbd91b2379ad93d81e33e0a3ce75e715f0aad94bc656ba259&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Personal Website Template](https://gumroad.com/a/962870099/gflwg)
+
+
+### Notion Book Tracker
+
+
+**Ranking: 63**
+
+
+![Notion Book Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/1b54aa2a-3e15-4f1e-8938-770ba3664acc/pika-1681442859941-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=b84595bb961289a9328778e6b06d6303da55293d23f4306cdd42b649087dd591&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Book Tracker](https://gumroad.com/a/962870099/akftw)
+
+
+### HabitOS
+
+
+**Ranking: 64**
+
+
+![HabitOS Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/01361014-8f64-4e1d-8052-6220d198ef8f/pika-1681443070198-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=50382c83465a7773f3b2ec33d42531e07f9cb2a5c6d140792442d3b239d79d17&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get HabitOS](https://origindotstory.gumroad.com/l/habitos?a=962870099)
+
+
+### Habit Box Tracker
+
+
+**Ranking: 65**
+
+
+![Habit Box Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/6538decb-d4db-4f6b-a883-b716418e74c6/pika-1681443148113-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=e4a8e349271573173f4d9f93daaf69c5400b5a2269ac2db7b81152e2f05fdf10&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Habit Box Tracker](https://gumroad.com/a/562032851/uauts)
+
+
+### Notion Travel Planner
+
+
+**Ranking: 66**
+
+
+![Notion Travel Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/d4865e6d-2f6a-4dd6-ad49-2a2b0d85793e/pika-1681443244070-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=59d2b86b0580843993140fd899bf8608810b5710e8cd19051c065dce2c4ef3c2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Travel Planner](https://gumroad.com/a/962870099/qwpne)
+
+
+### Content Planner & Calendar - Notion template
+
+
+**Ranking: 67**
+
+
+![Content Planner & Calendar - Notion template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/e0a5557f-79db-468b-bd8c-6da4bc510ad8/pika-1681443667715-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=7d760a089adaf2b62a8815cba7abc5c8f786f8e846f0b87ff3c5fb2e7c5389ab&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Content Planner & Calendar](https://gumroad.com/a/962870099/mrlcz)
+
+
+### Student Workspace
+
+
+**Ranking: 68**
+
+
+![Student Workspace Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/b54b9f32-3bef-4a1f-b5f8-5d222454675a/pika-1681443779996-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=c67dd09f3728039850002c196630d975de8c3a0fd83637703e7e3430c3ef0e3e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Student Workspace](https://gumroad.com/a/696250579/lkAWX)
+
+
+### Notion Subscription Tracker Template
+
+
+**Ranking: 69**
+
+
+![Notion Subscription Tracker Template Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bd86200a-c064-4f78-860b-90390be3eb8c/pika-1681443857565-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=001f68921f1afc47ad1cf562ac02e429d0dae3c7c2a2d7e5bf9d4422ef7b92fa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Subscription Tracker Template](https://tonydavid.gumroad.com/l/subscription-tracker-notion-template?a=962870099)
+
+
+### Notion Mood Tracker
+
+
+**Ranking: 70**
+
+
+![Notion Mood Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/36cb7967-ab60-40d4-a137-a4556e81d899/pika-1681443928423-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=9c9d767eea3758ff8f74c8f06d8f9a7cbd4cf3fcfe03561a9f5cc04b93c65b4d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Mood Tracker](https://www.notion.so/templates/mood-tracker)
+
+
+### LifeOS
+
+
+**Ranking: 71**
+
+
+![LifeOS Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/7177c942-95e8-4cdf-90a9-ab87970cc178/pika-1681444111661-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=f81465bfbb4e4e28e9f1244de89604d9dd33c5a214f3d68f3192b8603fa8aa3c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get LifeOS](https://origindotstory.gumroad.com/l/lifeos?a=962870099)
+
+
+> 📌 The price is now $19 for this template. 
+
+
+### Notion Beginner Bundle
+
+
+**Ranking: 72**
+
+
+![Notion Beginner Bundle Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/070b464b-4806-4d7f-b46f-54c36411bc59/pika-1681444211867-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=34d6e06c91405a90a61b9d04ac668432f998848f8227f3006f8af2e100e0009e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Beginner Bundle](https://gumroad.com/a/962870099/byxrl)
+
+
+### 2023 Notion Vision board + home page template
+
+
+**Ranking: 73**
+
+
+![2023 Notion vision board + home page template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/f85b4628-4738-4d0e-b104-017051ddf7de/pika-1681444423749-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=a4eafae345fafa92008eb33f1c280065aee755e163803ff96d69ce68655c499c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get 2023 Notion vision board](https://mmgraham.gumroad.com/l/dbdgm?a=962870099)
+
+
+### Notebook OS
+
+
+**Ranking: 74**
+
+
+![Notebook OS Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/045c6740-4c37-4c07-8683-cf2703c0e3cd/pika-1681444619770-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TE5YGPN7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053110Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGHvD4bWdEgzBFXZs27BwRAgfTKGwWhJsf6%2F4QN%2FdShQAiEAhCm1uLc96PlAVQkwAhGwfY1FXrEgqArf7nrkwgTmEm4qiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFvntTEtKs9cXRjpDircA9BrP22IceYh0bRR2ywBzYteTgp67WPZNx0J8qQgalO3obzNQfIkg%2FSzyZt2Y8tB%2FC4gXaZxCBfpMAFsN4PzWauGJWfLCmRC1D74RKoYU5nZAHnyAwHFCBVVZXBbSdDghCy6jQJew1kiHeFo%2Bym2b6uSHd3ZaC4xnCRTmh6i6QmSGZNNVfAv10EG%2FKnGMx6iRTSXedcCf%2BcInw4uJQizj7ez79KnP90UmFd4HoM5eLrgIQfXZZfkjQ6pKtnZEvmPqj%2BtlKSeOxv%2FnGypUpnpB5A4RmBo9Rt8xaiUfP%2FATJXmA%2F5JrSmvq%2FLVt%2Blr5tP2efwY6CXx2izJW2vfFNdj8VNEQ0iYIcPFDwd9QjP4IUGcXvmn16K0KMmO5h94fh6kWMnsJk6SB3NKQxE5coVq7186ae29SbNw9vpS70ldkZG%2Fa70WNtzcOelhliN2GEaJd7d2UUAT1Y4Dfuf375C16PgG%2FFkUBxQh32DOiFsEcodwh5oAzWz1Z1wmwlX78GLnM%2FB9gUxdV2%2BeX7ZqKT1QnKh1PZdvTMuzQiW6CClgW5ddQOUHUmWZHeVyleglJUI1OvSCIP378AH%2FBc%2BKXL6%2FBDoikx2MP6mqAz3X3ti5MgHJyNN5w7jQqBubRsvlMNuth8sGOqUBbEMmSoWYfFaLTB9gHe4mKsMPaPO8CYikuM8RvY5Z%2BPZD2amJ12qKERsIm2chu8Tncf1YrR6iIZyrtBUEufMJUfituHzXbDSom0DeO34MZHg5qs4epgxbzwubb%2BlXj%2FoojCi8KnweKJ9Z6kb5se0jPC0OPy1sFC6n9Q3iKAlQunsIzsvhap8mi7%2Fc6Oy8DCcLCpODo2IaXnuWbAeIRDlevQCuvOra&X-Amz-Signature=59ec626962181f2b12271ae65c8b1a650f99984359c19023c354738749a8340d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notebook OS](https://gumroad.com/a/716484819/vzbdpb)
+
+
+### Notion Habit Tracker (30-day challenge)
+
+
+**Ranking: 75**
+
+
+![Notion Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/bd33965d-08d7-45f3-b070-ed8bf4b88fba/pika-1681445009127-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=7a077fbfe57ca660a861e63c92a94de2551a7c21950e1df9646366a5e5784576&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Habit Tracker (30-day challenge)](https://notionway.gumroad.com/l/notion-habit-tracker-30-day-challenge?a=962870099)
+
+
+### Notion Bookmark Manager
+
+
+**Ranking: 76**
+
+
+![Notion Bookmark Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/3a5aab49-3057-45d4-9054-8859f5a5d37a/pika-1681445557458-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=b2430bb71edf492f4bdb51269e3b5d3981e4155ac8024497aaa2ad5a2bc22b4b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Bookmark Manager](https://notionway.gumroad.com/l/notion-bookmark-manager?a=962870099)
+
+
+### Notion Wednesday Planner
+
+
+**Ranking: 77**
+
+
+![Notion Wednesday Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/350af695-3048-4ab7-ba3e-7a4f6aa66d5e/pika-1681673538251-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=66709bdfce3fb46425baf85f95f84ada3de6ff8e4f10f94f2f4beb22677bc937&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Wednesday Planner](https://heyeaslo.gumroad.com/l/fynkyh?a=962870099)
+
+
+### Notion Budget Tracker
+
+
+**Ranking: 78**
+
+
+![Notion Budget Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/29eded88-357b-4cda-94dd-e897adb9835d/pika-1681447354645-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=9e6b06324c67a08baedc1a2199c87d2b58ed9cef67dcdf203aa748eac2b2234a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Budget Tracker](https://gumroad.com/a/962870099/iqnbc)
+
+
+### 12 Week Year Planner Notion Template
+
+
+**Ranking: 79**
+
+
+![12 Week Year Planner Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/98002b47-86f9-4a62-af2b-3ff26f0dea7f/pika-1681447475509-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=b25393d5c5b64a1396fe4cde8ae5bf0e2f38e64becfd915fbd40125b337d289b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get 12 Week Year Planner Notion Template](https://gumroad.com/a/962870099/lwspgj)
+
+
+### Notion Habit Tracker Template
+
+
+**Ranking: 80**
+
+
+![Notion Habit Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/391134fd-ff2d-4ae5-b63f-9484b37a45a0/pika-1681447587673-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=d8da7b6cd46f80a142cb45e4a8c908d3c3a9a4568c4fc8b2bda7e479a4feb405&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Habit Tracker](https://www.notion.so/templates/notion-habit-tracker-2)
+
+
+### Printable & Digital Planners
+
+
+**Ranking: 81**
+
+
+![Printable & Digital Planners Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/60398ea8-3c39-46f2-9310-5839547ab3f4/pika-1681447741015-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=86df923aa2d248d17ad186a20c0206285ce7bf3ea44b051d755bc65e3340c4e0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Printable & Digital Planners](https://gumroad.com/a/45396179/ordwr)
+
+
+### Sales OS
+
+
+**Ranking: 82**
+
+
+![Sales OS Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/393bdfad-0a4d-49d7-8b26-3db4cccb0199/pika-1681447924578-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=8d9325bfa919fa87be74c0cd17d07ccd4ccb5b6614abf698fd5ef7b158071bdc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Sales OS](https://gumroad.com/a/179613907/ktwgp)
+
+
+### Notion Task Manager Template
+
+
+**Ranking: 83**
+
+
+![Notion Task Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/a181a915-0427-4bc3-a5d7-f4ec35eff009/pika-1681448276359-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=a0e3e06b8794108087c4708f41c4f87d57ab37f83000107eb43451ee0caed041&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Task Manager](https://gumroad.com/a/962870099/byuuk)
+
+
+### Notion Notebook Manager
+
+
+**Ranking: 84**
+
+
+![Notion Notebook Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/8cd9b46c-1363-4333-bee3-45b0b45dc7e2/pika-1681448389177-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=c74f840d7efba07c9f35084a451fa62dfa2a8c213670144dd8987d4e831a9988&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Notion Notebook Manager](https://www.notion.so/templates/notion-notebook-manager)
+
+
+### **Notion Book Club**
+
+
+**Ranking: 85**
+
+
+![Notion Book Club Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/8af34b97-13f1-4f6e-9daa-a786c834ee67/pika-1681451421908-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=d6ebdcf460313378e753c02b0efd0230a1bf8016216a83bb8a36c3607ef51623&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Notion Book Club](https://gumroad.com/a/427969363/YDsSx)
+
+
+### Simple Project Management
+
+
+**Ranking: 86**
+
+
+![Simple Project Management Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/b2c38215-e541-4a10-a9f0-85de9d9dbdad/pika-1681451521161-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053111Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=906d96f2bba66dd20c294c7e7172cceb16f40b11dcf8e2d82047905a28b06525&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Simple Project Management](https://gumroad.com/a/962870099/jaees)
+
+
+### Notion Travel Manager
+
+
+**Ranking: 87**
+
+
+![Notion Travel Manager Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/9057e99f-047a-46ce-9f7f-b4398552060a/pika-1681451675030-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=47e3a1ec439af00f8a68510686c2dc6ff0fa57968be84e2f7c8978cd774cf42b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Travel Manager](https://gumroad.com/a/962870099/stdxzr)
+
+
+### Book Tracker
+
+
+**Ranking: 88**
+
+
+![Book Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/781a3f03-7f3a-4cb7-b78b-5e1bb49b743b/pika-1681451831098-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=ab1898ac0d7cb1d23da6b93c80ec23630fc302beceaa0d67ba5a0a435b1f0ce3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Book Tracker](https://gumroad.com/a/763359443/yFEtt)
+
+
+### P.A.R.A: The Second Brain (Life Manager)
+
+
+**Ranking: 89**
+
+
+![The Second Brain (Life Manager)](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/9357b336-e8a5-4442-b467-1db642a73ae7/pika-1681452106414-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=01e768a91150d2612418344f195da24efd678f3b274e703cf4ac349f49decbc5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[P.A.R.A: The second Brain (Life Manager)](https://notionhub47.gumroad.com/l/ywsqo?a=962870099)
+
+
+### Notion Social Media Planner
+
+
+**Ranking: 90**
+
+
+![Social Media Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/9aebe09c-ca15-4d75-82ff-13941cae78ef/pika-1681451947462-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=27ca4c90d115006191c2277aee5f62af5b3d8f16dcca6e61035b012812e01555&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Social Media Planner](https://www.notion.so/templates/notion-social-media-planner)
+
+
+### Portfolio Website Template
+
+
+**Ranking: 91**
+
+
+![Portfolio Website Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/2aa366ea-a2d3-4c6d-9c8c-1e79a7b09297/pika-1681452324355-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=b2201f90defc0c4a86245367e5f5dc7ae421655d4b67157fd2afbed4c4db8fd0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Portfolio Website Template](https://easlo.gumroad.com/l/ncigv?a=962870099)
+
+
+### Bookmark Manager OS
+
+
+**Ranking: 92**
+
+
+![Bookmark Manager OS Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/4d0f49b6-7061-49a7-9492-eb4c4db6c941/pika-1681773373414-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053112Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=e5c45aefc10d88f6d67ecbd799dba10693c4cd899080e70e0a76150272a65a06&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Bookmark Manager OS](https://gumroad.com/a/582267091/uaeky)
+
+
+### Ultimate Notion Workout Tracker
+
+
+**Ranking: 93**
+
+
+![Ultimate Notion Workout Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/1e95857e-61e4-473e-b3db-0c493d39abc1/pika-1681773479205-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=f7bca262c4f1c0de38b25cdd115c81440b8c7647a2f53b52955dcae2717953f3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Ultimate Notion Workout Tracker](https://gumroad.com/a/962870099/oywgrk)
+
+
+### Notion Period Tracker
+
+
+**Ranking: 94**
+
+
+![Notion Period Tracker Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/53dd225d-748c-4c91-8a6d-690669ac7aba/pika-1681773676831-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=be5a3e0025cf8b39fb1f00765ab5e6985be0567d5f0c441264b2849ee14afe9e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Period Tracker](https://nellienotions.gumroad.com/l/periodtracker?a=962870099)
+
+
+### Gamification OS
+
+
+**Ranking: 95**
+
+
+![Gamification OS Notion Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/804b58d6-b86a-4952-891f-f0e4e2ae68c1/pika-1681773729555-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=c913ab276c833fecacd9b09fb082097b8c9445078cabd007c99d01894bd15b53&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Gamification OS](https://gumroad.com/a/962870099/avqbm)
+
+
+### Notion Forecast Template
+
+
+**Ranking: 96**
+
+
+![Notion Forecast Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/6202e037-faf2-4601-af73-70ccaa924399/pika-1681773977600-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=ad0d094247fb842578932ef34ae83e1a1e65f001946e2d2a0da0816f2ae0ed93&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Forecast Template](https://albs.gumroad.com/l/hpfry?a=962870099)
+
+
+### Social Media Planner
+
+
+**Ranking: 97**
+
+
+![Social Media Planner Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/ab33f866-9f94-4b53-bd75-2f60ca7a8ceb/pika-1681774076800-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=e6ffaae47bd8021ab754c02b2eef64af0e0c4ce641ccb4b26ed7105bf1e3e878&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Social Media Planner](https://gumroad.com/a/962870099/wxtvs)
+
+
+### Notion HQ Dashboard
+
+
+**Ranking: 98**
+
+
+![Notion HQ Dashboard](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/4a031b75-e3b9-42db-ba0b-e2e583f69352/pika-1681774140464-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=8358d6179ad52770c8cd05fe9c1fe2a9665b6b2291c6955e27b5d06b592814d6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion HQ Dashboard](https://gumroad.com/a/376061651/ttcLRe)
+
+
+### The Ultimate Notion Habit Tracker
+
+
+**Ranking: 99**
+
+
+![The Ultimate Notion Habit Tracker](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/59e8d6d7-130f-411d-88d9-787d316b499f/pika-1681774282562-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466W34J7FDY%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIH%2BC%2BuaBHDzGGYyqzn6wxPfJhCKxBakoWRcWx0wSpfTbAiEAmhBRDNDeSgn1AGOI7Cnzq7oCLq4LL7ZOhgldVGaYY9UqiAQItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDChZHRm%2FHfH1Op3uFyrcA%2Bofvkp3%2Fp41%2F3R0jT4Qn3uhtrFM0HzE0eqOzN6I0MilWZBTcovJueWVrl1lEs4QNuRxyFr%2Bn5cdKE4ejv9enRVPp1%2FA9zTt6J0gXHaceZC4ovsQQ0bG5mA3%2FXUHZkV%2BhvF1gbELddgtuqHUhZ3ie9ar5Si8euq2GtiXFjwKCtTGMprtUNLf8xxjwtcehCSSlGsnyxdNbuR%2FxBgA2uNkMavBCMyAVqx%2FyKfEyIiMKkQW2nhGHfV7QD51fD3Zy5BqNRtRwxYgQZ2Z13SYxEx254NP7q4nRMrvXmpUKvQOYqcIR7B%2FyJsC4P5JtwHeJFyptDuSzm939PUzBi0vgZ%2FffmMf70prg7wVPc87mwKryB%2F4jed0lVmgfkHM7DieRfxA%2F8zX4uu8lkNChtv4ghjQNybzy2TvhjUWdhWeFxEfhoCwNfbo7Mt3F%2BK0V%2FGsT9PMg59HSXvZhgAUTOXXyE6LUUZbHrIuw6ecjrHYbne2OT1YmfaHXGr%2BgucrJz27wwG1kdW5a2Nap14Bn%2F%2Bue0exnB2s50RNydHoSTBxFxRGyQbzcqbxD3QucXW6%2BfuxqwiqBoBFdYw4bYGRq7v%2F%2FeK%2FhzRK1hB6JYW6EUPcuV7Pji7czgqhLbyL3wAY4CvWMMKth8sGOqUBg4gjMWHkmc%2F84DU%2F%2BmedSDxw2DcpgpZCoRAAmd4StAzysV6%2BOTwe7nRxbJ1Bi8L99qKwmeqbmBEGqgRHP8w%2BcxNNub0%2Bpa5h8c6kPXlQbyzMNlnPPcclFsmPyDcY6JmdDg1PLb3xkWqOgqFFocG9BG%2B0rH1pZH6MtLQoOe0Dmt%2Fzq6z1nazdPzgn0%2BGneBjKUNOwIrRoCnfLXE6vPKeBQQnsQ3Vt&X-Amz-Signature=2e06ab39612dc5d88ee45f44ac53860a27f242fd564f9b00518b9b3618ee87b8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get The Ultimate Notion Habit Tracker](https://hasantoxr.gumroad.com/l/habit?a=962870099)
+
+
+### Notion Startup Bundle
+
+
+**Ranking: 100**
+
+
+![Notion Startup Bundle Template](https://prod-files-secure.s3.us-west-2.amazonaws.com/d1b16516-b4a7-49b6-b598-e47eedcbb360/9dffeb92-1821-40ed-9782-344a542090da/pika-1681774480576-1x.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665R3U6UY7%2F20260110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260110T053113Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC0qBWA5ea1wIpruX0PFHWARmmIFcQPSKqFPKH%2BrzDJnwIhAIh7Dky6kWCmaZgfpZthTBv5PDouqcCnMqAez9z7h9X%2BKogECLb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxqwLSDV1y1M7JoHhYq3AMd2MDaz20%2FJEmOTnrFBvPUGKooqnR0%2BOxVZ7B99COCpy7KRMQxoVLb%2BAEX27Uxl6ikR3HjW%2BaaFl94YNSD9TZTCuCcH0xazror6kjlyfllZEpHbulciZQtxouGzyJRn0liyQz7f4a9j07lg0IUrew4CsqR%2FmvhFypYAReU9EFBuIEHyrun35RSWoId%2FFz7zoG9POqrRogeLRKSWMXHRrpKhW9yN0FFpbVw9NfYT2E58OSMHAsvQSFOMT945B8el5upGPkWs5EeH4W7XLvw7S9a4KZYTgqX5PwDNGvjrLgHEMdvVIjpzJM4faucbm09GLJW7t2cCVMQhEuhQJ4juEPi3iMMeG%2B506I5Ouq%2Bp4Ul%2BhKqNxXWi7%2FlF4yZtq1O8h1KCUnCO4awnd3nmLgqJQkNoftVSsLxA09FCRG%2FtzI0yA5719%2Bw56EE4XVWZONjx8b%2FLOO4igOxsCLufc2eUTOW4DoxvvRRofyj0Pc2Qgye5kptp%2FBpJ640LC%2FpkV2bcMsBvJsh9MbraPn8OJo8F2LnYacr42RbeMp092%2FCbE9PJU3DctAHVqIglqYowwOabsardNlOsCvAz3H%2BHInzdcDRYGOZpSRct0ZQnTo8ytfVWmhJS0UGhIMTstep4TC1rYfLBjqkATs9GUszSPNFCET%2BFFSqviT6lrQyeoEdNj61nfBxwqEnJp7YYOJgnx17hJJyW%2B3%2Bx0jTG1to%2FLFzrMmu%2BzGMOQtBBVDZNiFwtXoXhSTQGFvBARJas2k8OEdpAmPRgH4lWHn8RgfgJiD5eKWyIkfQJvaQ4zC7iK4P4LhoSooFbjbu%2FMXl9AaJ9Euvymj187FMMhPrdMshJ%2F7zcgsolViAFAanBISV&X-Amz-Signature=35096564f5fd7d62bc021eae653b8abd7c8eb374191199e0f7c1970ebbc06d7d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+
+[Get Notion Startup Bundle](https://heyeaslo.gumroad.com/l/bjplvj?a=962870099)
+
+
+## About the NotionStack Free 100 Criteria and Rankings
+
+
+First, the rankings are our initial attempt to uncover and rank the best free Notion templates, so we recognize they could be better. The initial filter was free, sometimes meaning "name your price" because the creator is willing to accept a $0 payment for the template. We excluded Notion templates that are "lists," "resources," and "checklists" from the list and focused on Notion templates that will improve your Notion workspace. We may do a similar ranking of lists in the future.
+
+
+For the rankings, we were inspired by the [Billboard Hot 100](https://www.billboard.com/charts/hot-100/), which ranks the best songs based on streams, sales, etc.; we used multiple inputs (e.g., downloads, reviews) and sources to help determine the ranking of the templates. In the future, we will explore new data sources to improve our rankings. We will continue to update our rankings to help you discover the most popular Notion templates available. Please let us know how we can improve the go rankings go forward by contacting us at [team@notionstack.so](mailto:team@notionstack.so)
+
+
+## FAQ
+
+
+    ### Why are some Notion templates free?
+
+
+    Many creators offer free templates in exchange for signing up for future emails or hoping you purchase a paid version with more functionality or support.
+
+
+    ### What does "name a fair price" meaning?
+
+
+    On Gumroad, it means you can set your price and that the creator is willing to provide access for free. If you want the template for free, enter "0" as the price amount and click "I Want This."
+
+
+    ### Do I need to pay for Notion to use templates?
+
+
+    No. You can use the free version.
+
+
+## Similar Articles
+
+
+Untitled
+
+
+---
+
+

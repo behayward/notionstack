@@ -1,0 +1,30 @@
+{
+  "id": "product-personas-template-019",
+  "name": "Product Personas and Empathy Maps Notion Template",
+  "slug": "product-personas-template",
+  "description": "Gain Greater User Insights",
+  "price": 9,
+  "currency": "USD",
+  "creator": {
+    "name": "https://gumroad.com/a/955963603/fxnxd",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/955963603/fxnxd",
+  "affiliateUrl": "https://gumroad.com/a/955963603/fxnxd",
+  "category": "template",
+  "subcategory": "product management",
+  "tags": [
+    "Product Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

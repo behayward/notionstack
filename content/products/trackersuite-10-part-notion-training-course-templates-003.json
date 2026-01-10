@@ -1,0 +1,31 @@
+{
+  "id": "trackersuite-10-part-notion-training-course-templates-003",
+  "name": "TrackerSuite: 10-Part Notion Training Course + Templates",
+  "slug": "trackersuite-10-part-notion-training-course-templates",
+  "description": "The digital system to plan, track, hit, review, prioritize, manage, and organize your personal and work productivity",
+  "price": 47,
+  "currency": "USD",
+  "creator": {
+    "name": "Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://whizzoe.gumroad.com/l/GmEyB",
+  "affiliateUrl": "https://notiontrackersuite.com/",
+  "category": "course",
+  "subcategory": "goals",
+  "tags": [
+    "Goals",
+    "Bundle"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fruition-030",
+  "name": "Fruition",
+  "slug": "fruition",
+  "description": "Free, Open Source Toolkit for Building Websites with Notion",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Fruition",
+    "url": "https://fruitionsite.com/"
+  },
+  "platform": "tool",
+  "productUrl": "https://fruitionsite.com/",
+  "affiliateUrl": "https://fruitionsite.com/",
+  "category": "tool",
+  "subcategory": "publish",
+  "tags": [
+    "Publish"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": false,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

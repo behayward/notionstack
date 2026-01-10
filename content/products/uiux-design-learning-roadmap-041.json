@@ -1,0 +1,30 @@
+{
+  "id": "uiux-design-learning-roadmap-041",
+  "name": "UI/UX Design Learning Roadmap",
+  "slug": "uiux-design-learning-roadmap",
+  "description": "Up-level your design career",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Rachel How ✦",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://rachelhow.gumroad.com/l/uxroadmap",
+  "affiliateUrl": "https://rachelhow.gumroad.com/l/uxroadmap",
+  "category": "template",
+  "subcategory": "career",
+  "tags": [
+    "Career"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "airbnb-property-manager-055",
+  "name": "Airbnb Property Manager: Streamline Your Airbnb Business with Notion",
+  "slug": "airbnb-property-manager",
+  "description": "All-in-one Notion template for managing Airbnb properties, bookings, and finances.",
+  "price": 49,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/721997011/onpub",
+  "affiliateUrl": "https://gumroad.com/a/721997011/onpub",
+  "category": "template",
+  "subcategory": "airbnb",
+  "tags": [
+    "Airbnb",
+    "Property",
+    "Planner",
+    "Tasks",
+    "Finances"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

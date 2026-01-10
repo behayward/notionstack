@@ -1,0 +1,27 @@
+{
+  "id": "indify-014",
+  "name": "Indify",
+  "slug": "indify",
+  "description": "Level up your Notion docs with widgets",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Indify",
+    "url": "https://indify.co/"
+  },
+  "platform": "tool",
+  "productUrl": "https://indify.co/",
+  "affiliateUrl": "https://indify.co/",
+  "category": "tool",
+  "subcategory": "integration",
+  "tags": [],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": false,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "smart-goals-tracker-008",
+  "name": "SMART Goals Tracker: Capture Measure and Achieve Your Goals",
+  "slug": "smart-goals-tracker",
+  "description": "Goal tracking using the S.M.A.R.T methodology",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Atul Anand",
+    "url": "http://atulacleaver.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/159533907/ZUTkr",
+  "affiliateUrl": "https://gumroad.com/a/159533907/ZUTkr",
+  "category": "template",
+  "subcategory": "goals",
+  "tags": [
+    "Goals",
+    "Habits"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

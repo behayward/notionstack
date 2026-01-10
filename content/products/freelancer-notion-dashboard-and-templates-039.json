@@ -1,0 +1,35 @@
+{
+  "id": "freelancer-notion-dashboard-and-templates-039",
+  "name": "Freelance Dashboard and 25+ Notion Templates",
+  "slug": "freelancer-notion-dashboard-and-templates",
+  "description": "Optimize Your Freelance Business",
+  "price": 79,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/956878035/oqzoo",
+  "affiliateUrl": "https://gumroad.com/a/956878035/oqzoo",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Bundle",
+    "Tasks",
+    "Finances",
+    "Clients",
+    "Calendar"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

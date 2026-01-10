@@ -1,0 +1,30 @@
+{
+  "id": "notion-book-tracker-reading-list-template-078",
+  "name": "Notion Book Tracker & Reading List Template",
+  "slug": "notion-book-tracker-reading-list-template",
+  "description": "Keep track of your reading progress and lessons learned",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/mzizp",
+  "affiliateUrl": "https://easlo.gumroad.com/l/mzizp",
+  "category": "template",
+  "subcategory": "books",
+  "tags": [
+    "Books"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

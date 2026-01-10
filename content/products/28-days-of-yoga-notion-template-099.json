@@ -1,0 +1,30 @@
+{
+  "id": "28-days-of-yoga-notion-template-099",
+  "name": "28 Days of Yoga Notion Template",
+  "slug": "28-days-of-yoga-notion-template",
+  "description": "28 hand-picked free yoga classes",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://mollyjones.gumroad.com/l/OTNpw",
+  "affiliateUrl": "https://mollyjones.gumroad.com/l/OTNpw",
+  "category": "template",
+  "subcategory": "yoga",
+  "tags": [
+    "Yoga"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

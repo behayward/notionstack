@@ -1,0 +1,30 @@
+{
+  "id": "notion-expense-tracker-012",
+  "name": "Notion Expense Tracker: Capture and Monitor Your Spending",
+  "slug": "notion-expense-tracker",
+  "description": "Keep track of your expenses and spending",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ifrdj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ifrdj",
+  "category": "template",
+  "subcategory": "expenses",
+  "tags": [
+    "Expenses"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 10,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "real-estate-investors-dashboard-051",
+  "name": "Real Estate Investor Dashboard: Track and Monitor Your Properties in Notion",
+  "slug": "real-estate-investors-dashboard",
+  "description": "Ultimate Real Estate Investor's Dashboard is a powerful, easy-to-use Notion tool that gives you a complete overview of your real estate investment portfolio and the business. With this dashboard, you can track everything from finances and properties to leads and contractors.",
+  "price": 125,
+  "currency": "USD",
+  "creator": {
+    "name": "ExtyCreate",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/696404819/dBNAwL",
+  "affiliateUrl": "https://gumroad.com/a/696404819/dBNAwL",
+  "category": "template",
+  "subcategory": "property",
+  "tags": [
+    "Property",
+    "Dashboard"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

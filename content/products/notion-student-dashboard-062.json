@@ -1,0 +1,30 @@
+{
+  "id": "notion-student-dashboard-062",
+  "name": "Notion Student Dashboard: Easily Manage Your Class Notes, Deadlines & Tasks",
+  "slug": "notion-student-dashboard",
+  "description": "Stay on top of your coursework and never miss a deadline again.",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://heyeaslo.gumroad.com/l/tkfmcx",
+  "affiliateUrl": "https://heyeaslo.gumroad.com/l/tkfmcx",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

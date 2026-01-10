@@ -1,0 +1,32 @@
+{
+  "id": "notion-life-dashboard-20-003",
+  "name": "PARA Life OS",
+  "slug": "notion-life-dashboard-20",
+  "description": "Manages your Life Goals, Tasks & Habits",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Atul Anand",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/293751635/BYnrF",
+  "affiliateUrl": "https://gumroad.com/a/293751635/BYnrF",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Goals",
+    "Habits"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 25,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

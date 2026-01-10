@@ -1,0 +1,31 @@
+{
+  "id": "health-hub-os-streamlined--083",
+  "name": "Health Hub OS: Streamlined ",
+  "slug": "health-hub-os-streamlined-",
+  "description": "Managing your health can be a real hassle unless you've got a system for it.",
+  "price": 25,
+  "currency": "USD",
+  "creator": {
+    "name": "Pascio",
+    "url": "https://pascio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/919154899/NLTuC",
+  "affiliateUrl": "https://gumroad.com/a/919154899/NLTuC",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Journal"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

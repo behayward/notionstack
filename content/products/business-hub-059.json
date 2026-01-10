@@ -1,0 +1,35 @@
+{
+  "id": "business-hub-059",
+  "name": "Business Hub Notion Template: Streamline and Grow Your Business",
+  "slug": "business-hub",
+  "description": "Streamline your business operations and achieve success",
+  "price": 99,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/274189523/emlxwe",
+  "affiliateUrl": "https://gumroad.com/a/274189523/emlxwe",
+  "category": "template",
+  "subcategory": "plan",
+  "tags": [
+    "Plan",
+    "Goals",
+    "Product Management",
+    "Marketing",
+    "Branding",
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

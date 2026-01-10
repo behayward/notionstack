@@ -1,0 +1,36 @@
+{
+  "id": "smart-studio-091",
+  "name": "Smart Studio: Complete Notion OS for Design & Creative Studios",
+  "slug": "smart-studio",
+  "description": "Notion System for Designers and Creative Studios",
+  "price": 1000,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://thesmartstudiosolution.com/",
+  "affiliateUrl": "https://notionstack--notionology.thrivecart.com/buy-now/",
+  "category": "template",
+  "subcategory": "clients",
+  "tags": [
+    "Clients",
+    "Strategy",
+    "Dashboard",
+    "Tasks",
+    "Remote",
+    "Projects",
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

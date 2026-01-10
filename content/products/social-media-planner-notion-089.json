@@ -1,0 +1,33 @@
+{
+  "id": "social-media-planner-notion-089",
+  "name": "Social Media Planner: Notion Content Planner Template",
+  "slug": "social-media-planner-notion",
+  "description": "Schedule posts across Facebook, Twitter, LinkedIn and Instagram in seconds.",
+  "price": 59,
+  "currency": "USD",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "http://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://extycreate.gumroad.com/l/bright-smm",
+  "affiliateUrl": "https://extycreate.gumroad.com/l/bright-smm",
+  "category": "template",
+  "subcategory": "social",
+  "tags": [
+    "Social",
+    "Goals",
+    "Tasks",
+    "Calendar"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

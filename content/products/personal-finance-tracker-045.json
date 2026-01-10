@@ -1,0 +1,32 @@
+{
+  "id": "personal-finance-tracker-045",
+  "name": "Personal Finance Tracker: Track Income and Expenses in Notion",
+  "slug": "personal-finance-tracker",
+  "description": "Minimal template to track your finances in one place.",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Go Limitless",
+    "url": "http://sonaal.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/738529491/NZBNLm",
+  "affiliateUrl": "https://gumroad.com/a/738529491/NZBNLm",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Budgeting",
+    "Finances"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

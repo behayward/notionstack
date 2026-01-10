@@ -1,0 +1,30 @@
+{
+  "id": "blocs-019",
+  "name": "blocs",
+  "slug": "blocs",
+  "description": "Blocs notion widgets help you build habits with amazing insights to understand yourself better. Track all your habits in one place !",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "blocs",
+    "url": "https://www.blocs.me/"
+  },
+  "platform": "tool",
+  "productUrl": "https://www.blocs.me/",
+  "affiliateUrl": "https://www.blocs.me/",
+  "category": "tool",
+  "subcategory": "habits",
+  "tags": [
+    "Habits",
+    "Charts"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": false,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

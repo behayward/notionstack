@@ -1,0 +1,30 @@
+{
+  "id": "dynamic-habit-tracker-016",
+  "name": "Dynamic Habit Tracker: Tracker Your Habits in Notion",
+  "slug": "dynamic-habit-tracker",
+  "description": "Track your habit progress",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Chris",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/hsedo",
+  "affiliateUrl": "https://gumroad.com/a/376061651/hsedo",
+  "category": "template",
+  "subcategory": "habits",
+  "tags": [
+    "Habits"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

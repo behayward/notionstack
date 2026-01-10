@@ -1,0 +1,32 @@
+{
+  "id": "notion-mastery-learn-how-to-unlock-the-power-of-notion-to-streamline-your-life-and-work-001",
+  "name": "Notion Mastery: Learn how to unlock the power of Notion to streamline your life and work",
+  "slug": "notion-mastery-learn-how-to-unlock-the-power-of-notion-to-streamline-your-life-and-work",
+  "description": "Master your life and business workflows with Notion",
+  "price": 799,
+  "currency": "USD",
+  "creator": {
+    "name": "Creator",
+    "url": ""
+  },
+  "platform": "thrivecart",
+  "productUrl": "https://notionstack--mariepoulin.thrivecart.com/notion-mastery-solo/",
+  "affiliateUrl": "https://notionstack--mariepoulin.thrivecart.com/notion-mastery-solo/606cce1440f91/",
+  "category": "course",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Planner",
+    "Goals"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

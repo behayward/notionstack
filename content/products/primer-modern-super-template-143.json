@@ -1,0 +1,31 @@
+{
+  "id": "primer-modern-super-template-143",
+  "name": "Primer: Modern Template for Super-powered Notion Websites",
+  "slug": "primer-modern-super-template",
+  "description": "Modern template for Super + Notion websites",
+  "price": 15,
+  "currency": "USD",
+  "creator": {
+    "name": "Matt Downey",
+    "url": "http://app.gumroad.com/mattdowney"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/538875091/QLCvJ",
+  "affiliateUrl": "https://gumroad.com/a/538875091/QLCvJ",
+  "category": "template",
+  "subcategory": "super",
+  "tags": [
+    "Super",
+    "Website"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "online-meeting-scheduler-044",
+  "name": "Online Meeting Scheduler: Schedule meetings in Notion",
+  "slug": "online-meeting-scheduler",
+  "description": "Avoid sending emails back and forth while trying to find a time when everyone is free using this template.",
+  "price": 10,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "stripe",
+  "productUrl": "https://www.anotioneer.com/product/online-meeting-scheduler-notion-template",
+  "affiliateUrl": "https://buy.stripe.com/4gw5l33HOe9031CdRD",
+  "category": "template",
+  "subcategory": "calendar",
+  "tags": [
+    "Calendar"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

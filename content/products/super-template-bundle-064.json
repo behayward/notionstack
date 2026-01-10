@@ -1,0 +1,32 @@
+{
+  "id": "super-template-bundle-064",
+  "name": "Super Template Bundle: Five Amazing Notion Templates for 60% Off",
+  "slug": "super-template-bundle",
+  "description": "5 templates to enhance your Notion pages. Save time, stand out, and get more done!",
+  "price": 38,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://lift.super.site/",
+  "affiliateUrl": "https://stfn.lemonsqueezy.com/checkout/buy/00cf2e74-2207-4185-bda9-6940647a625b?aff=MOqE9",
+  "category": "template",
+  "subcategory": "website",
+  "tags": [
+    "Website",
+    "Super",
+    "Blog"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

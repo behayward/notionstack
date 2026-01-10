@@ -1,0 +1,30 @@
+{
+  "id": "notion-resume-template-098",
+  "name": "Notion Resume Template: Land Your Dream Job With This Template",
+  "slug": "notion-resume-template",
+  "description": "Create a professional resume in Notion",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/zzkXrq",
+  "affiliateUrl": "https://easlo.gumroad.com/l/zzkXrq",
+  "category": "template",
+  "subcategory": "resume",
+  "tags": [
+    "Resume"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

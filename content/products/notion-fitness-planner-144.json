@@ -1,0 +1,30 @@
+{
+  "id": "notion-fitness-planner-144",
+  "name": "Notion Fitness Planner: Achieve Your Fitness Goals",
+  "slug": "notion-fitness-planner",
+  "description": "Workout Planner & Meal Planner",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Chris",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/bnvsl",
+  "affiliateUrl": "https://gumroad.com/a/376061651/bnvsl",
+  "category": "template",
+  "subcategory": "workout",
+  "tags": [
+    "Workout"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

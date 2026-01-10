@@ -1,0 +1,33 @@
+{
+  "id": "notion-beginner-bundle-134",
+  "name": "Notion Beginner Bundle: 7 Free Notion Templates to Upgrade Workspace",
+  "slug": "notion-beginner-bundle",
+  "description": "Notion Beginner Bundle is a bundle of 7 starter templates for Notion designed to help anyone get started building their own workspace.",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Pascio",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://pascio.gumroad.com/l/nnbfn",
+  "affiliateUrl": "https://pascio.gumroad.com/l/nnbfn",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Goals",
+    "Books",
+    "Journal"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

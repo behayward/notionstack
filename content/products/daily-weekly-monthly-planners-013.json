@@ -1,0 +1,30 @@
+{
+  "id": "daily-weekly-monthly-planners-013",
+  "name": "Daily, Weekly & Monthly Notion Planner Templates",
+  "slug": "daily-weekly-monthly-planners",
+  "description": "Plan your day, week, and month in Notion",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Easlo",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ulfur",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ulfur",
+  "category": "template",
+  "subcategory": "plan",
+  "tags": [
+    "Plan"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

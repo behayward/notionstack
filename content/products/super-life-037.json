@@ -1,0 +1,35 @@
+{
+  "id": "super-life-037",
+  "name": "Super Life: The Ultimate Life Planner for Notion",
+  "slug": "super-life",
+  "description": "Comprehensive life planner in Notion",
+  "price": 49,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://pugo.studio/life-planner/",
+  "affiliateUrl": "https://gumroad.com/a/542624979/rnwcve",
+  "category": "template",
+  "subcategory": "planner",
+  "tags": [
+    "Planner",
+    "Dashboard",
+    "Habits",
+    "Goals",
+    "Finances",
+    "Books"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

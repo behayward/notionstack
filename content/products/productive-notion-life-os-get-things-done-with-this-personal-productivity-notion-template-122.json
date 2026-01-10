@@ -1,0 +1,36 @@
+{
+  "id": "productive-notion-life-os-get-things-done-with-this-personal-productivity-notion-template-122",
+  "name": "Productive Notion - Life OS: Get Things Done with this Personal Productivity Notion Template",
+  "slug": "productive-notion-life-os-get-things-done-with-this-personal-productivity-notion-template",
+  "description": "An all-in-one personal productivity tool & life operating system built entirely in Notion.",
+  "price": 35,
+  "currency": "USD",
+  "creator": {
+    "name": "Better Creating",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://bettercreating.gumroad.com/l/AProductiveNotion2022",
+  "affiliateUrl": "https://bettercreating.gumroad.com/l/AProductiveNotion2022",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Journal",
+    "Finances",
+    "Contacts",
+    "Goals",
+    "GTD",
+    "Dashboard"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

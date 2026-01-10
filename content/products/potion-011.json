@@ -1,0 +1,29 @@
+{
+  "id": "potion-011",
+  "name": "Potion: Build Notion Websites With NoCode",
+  "slug": "potion",
+  "description": "",
+  "price": 29,
+  "currency": "USD",
+  "creator": {
+    "name": "Potion: Build Notion Websites With NoCode",
+    "url": ""
+  },
+  "platform": "tool",
+  "productUrl": "",
+  "affiliateUrl": "https://potion.so/?via=notionstack",
+  "category": "tool",
+  "subcategory": "website",
+  "tags": [
+    "Website"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

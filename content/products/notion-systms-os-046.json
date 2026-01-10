@@ -1,0 +1,34 @@
+{
+  "id": "notion-systms-os-046",
+  "name": "SYSTMS OS: The Notion Template Bundle to Get Your Business Organized!",
+  "slug": "notion-systms-os",
+  "description": "Streamline Your Workflow with SYSTMS OS Notion Templates",
+  "price": 197,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "circle",
+  "productUrl": "https://systms.club/systms-os-x-notion",
+  "affiliateUrl": "https://systms.club/systms-os-x-notion",
+  "category": "template",
+  "subcategory": "bundle",
+  "tags": [
+    "Bundle",
+    "Clients",
+    "Dashboard",
+    "Tasks",
+    "Project Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": false,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "notion-digital-business-kit-121",
+  "name": "Notion Digital Business Kit",
+  "slug": "notion-digital-business-kit",
+  "description": "Looking to start or manage your digital business? The Notion Digital Business Kit has everything you need to succeed, from templates to tips and resources.",
+  "price": 25,
+  "currency": "USD",
+  "creator": {
+    "name": "iNotion",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/777584339/dazef",
+  "affiliateUrl": "https://gumroad.com/a/777584339/dazef",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Finances",
+    "Marketing"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

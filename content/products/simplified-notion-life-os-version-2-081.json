@@ -1,0 +1,36 @@
+{
+  "id": "simplified-notion-life-os-version-2-081",
+  "name": "Simplified Notion - Life OS: Organize Your Life In Notion",
+  "slug": "simplified-notion-life-os-version-2",
+  "description": "Notion Productivity Simplified with this easy-to-use template and guide",
+  "price": 65,
+  "currency": "USD",
+  "creator": {
+    "name": "Better Creating",
+    "url": "http://bettercreating.gumroad.com/"
+  },
+  "platform": "lemonsqueezy",
+  "productUrl": "https://bettercreating.lemonsqueezy.com/checkout/buy/4bfd2612-0c85-4857-8533-32eee9822b99?aff=MOqE9&checkout[discount_code]=LIFEOSLAUNCH",
+  "affiliateUrl": "https://bettercreating.lemonsqueezy.com/checkout/buy/4bfd2612-0c85-4857-8533-32eee9822b99?aff=MOqE9&checkout[discount_code]=LIFEOSLAUNCH",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Journal",
+    "Habits",
+    "Tasks",
+    "Second Brain",
+    "Stoic",
+    "Planner"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tally-the-best-notion-form-builder-009",
+  "name": "Tally: The Best Notion Form Builder",
+  "slug": "tally-the-best-notion-form-builder",
+  "description": "",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Tally: The Best Notion Form Builder",
+    "url": ""
+  },
+  "platform": "tool",
+  "productUrl": "",
+  "affiliateUrl": "https://tally.so?ref=notionstack",
+  "category": "tool",
+  "subcategory": "embed",
+  "tags": [
+    "Embed",
+    "Forms",
+    "Surveys"
+  ],
+  "useCases": [
+    "personal",
+    "business"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

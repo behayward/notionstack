@@ -1,0 +1,30 @@
+{
+  "id": "ai-image-generation-os-manage-test-and-refine-prompts-in-notion-086",
+  "name": "AI Image Generation OS: Manage, test and refine prompts in Notion",
+  "slug": "ai-image-generation-os-manage-test-and-refine-prompts-in-notion",
+  "description": "The goal of this tool is to help creators, authors, and content managers to properly manage, test and fine tune their AI text prompts.",
+  "price": 50,
+  "currency": "USD",
+  "creator": {
+    "name": "ExtyCreate",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/527584083/oxaqb",
+  "affiliateUrl": "https://gumroad.com/a/527584083/oxaqb",
+  "category": "template",
+  "subcategory": "prompts",
+  "tags": [
+    "Prompts"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

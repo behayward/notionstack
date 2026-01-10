@@ -1,0 +1,31 @@
+{
+  "id": "1-year-transformation-board-061",
+  "name": "1 Year Transformation Board: Track and Achieve Your Goals",
+  "slug": "1-year-transformation-board",
+  "description": "Achieve your goals in just one year",
+  "price": 15,
+  "currency": "USD",
+  "creator": {
+    "name": "Pascio",
+    "url": "http://pascio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/919154899/lfnoi",
+  "affiliateUrl": "https://gumroad.com/a/919154899/lfnoi",
+  "category": "template",
+  "subcategory": "dashboard",
+  "tags": [
+    "Dashboard",
+    "Goals"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

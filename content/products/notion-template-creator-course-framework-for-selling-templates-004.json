@@ -1,0 +1,31 @@
+{
+  "id": "notion-template-creator-course-framework-for-selling-templates-004",
+  "name": "Notion Template Creator Course: Framework for Selling Templates",
+  "slug": "notion-template-creator-course-framework-for-selling-templates",
+  "description": "The complete framework for creating and selling Notion templates",
+  "price": 150,
+  "currency": "USD",
+  "creator": {
+    "name": "Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://easlo.gumroad.com/l/unndvl",
+  "affiliateUrl": "https://www.easlo.co/notion-creator-course",
+  "category": "course",
+  "subcategory": "templates",
+  "tags": [
+    "Templates",
+    "Playbook"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

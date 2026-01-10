@@ -1,0 +1,31 @@
+{
+  "id": "makerbox-workbook-136",
+  "name": "MakerBox Workbook: 100 actionable marketing tasks managed in Notion",
+  "slug": "makerbox-workbook",
+  "description": "A collection of 100 marketing tasks with step-by-step instructions.",
+  "price": 49,
+  "currency": "USD",
+  "creator": {
+    "name": "MakerBox",
+    "url": "https://makerbox.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://makerbox.lemonsqueezy.com/checkout/buy/ecfff727-52d5-4b02-a502-3d7777b2ceb0?aff=MOqE9",
+  "affiliateUrl": "https://makerbox.lemonsqueezy.com/checkout/buy/ecfff727-52d5-4b02-a502-3d7777b2ceb0?aff=MOqE9",
+  "category": "template",
+  "subcategory": "entrepreneur",
+  "tags": [
+    "Entrepreneur",
+    "Tasks"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

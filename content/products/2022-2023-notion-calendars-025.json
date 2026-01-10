@@ -1,0 +1,32 @@
+{
+  "id": "2022-2023-notion-calendars-025",
+  "name": "2022-2023 Notion Calendars: Bundle of Calendar Views and Icons",
+  "slug": "2022-2023-notion-calendars",
+  "description": "Stay organized with the 2022-2023 Notion Calendars template",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Red Gregory",
+    "url": "http://redgregory.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://redgregory.gumroad.com/l/2022-2023-notion-calendars",
+  "affiliateUrl": "https://redgregory.gumroad.com/l/2022-2023-notion-calendars",
+  "category": "template",
+  "subcategory": "calendar",
+  "tags": [
+    "Calendar",
+    "Icons",
+    "Bundle"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

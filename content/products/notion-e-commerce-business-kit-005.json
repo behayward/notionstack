@@ -1,0 +1,31 @@
+{
+  "id": "notion-e-commerce-business-kit-005",
+  "name": "Notion E-Commerce Business Kit",
+  "slug": "notion-e-commerce-business-kit",
+  "description": "Comprehensive template includes everything you need to manage your online store.",
+  "price": 59,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/54210771/eNAeLc",
+  "affiliateUrl": "https://gumroad.com/a/54210771/eNAeLc",
+  "category": "template",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Dashboard"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nora-057",
+  "name": "Nora: Project Management templates and automations for Notion",
+  "slug": "nora",
+  "description": "Never rebuild project management in your Notion again",
+  "price": 29.5,
+  "currency": "USD",
+  "creator": {
+    "name": "Minh-Phuc Tran",
+    "url": "http://app.gumroad.com/phuctm97"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://www.getnora.page/",
+  "affiliateUrl": "https://phuctm97.gumroad.com/l/nora",
+  "category": "template",
+  "subcategory": "project management",
+  "tags": [
+    "Project Management",
+    "Plan",
+    "Tasks"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

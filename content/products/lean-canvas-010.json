@@ -1,0 +1,31 @@
+{
+  "id": "lean-canvas-010",
+  "name": "Lean Canvas Notion Template: Easily Validate Your Startup Idea",
+  "slug": "lean-canvas",
+  "description": "Validate your startup idea with ease.",
+  "price": 0,
+  "currency": "USD",
+  "creator": {
+    "name": "Unknown Creator",
+    "url": ""
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/955963603/xhzohs",
+  "affiliateUrl": "https://gumroad.com/a/955963603/xhzohs",
+  "category": "template",
+  "subcategory": "canvas",
+  "tags": [
+    "Canvas",
+    "Product Management"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

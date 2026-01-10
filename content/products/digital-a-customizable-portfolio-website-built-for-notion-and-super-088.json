@@ -1,0 +1,31 @@
+{
+  "id": "digital-a-customizable-portfolio-website-built-for-notion-and-super-088",
+  "name": "Digital: A Portfolio Template for a Super-Hosted Website",
+  "slug": "digital-a-customizable-portfolio-website-built-for-notion-and-super",
+  "description": "Showcase your work in a modern, customizable way with the Digital Super template for websites built in Notion.",
+  "price": 15,
+  "currency": "USD",
+  "creator": {
+    "name": "Matt Downey",
+    "url": "http://mattdowney.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/941528275/puthJh",
+  "affiliateUrl": "https://gumroad.com/a/941528275/puthJh",
+  "category": "template",
+  "subcategory": "website",
+  "tags": [
+    "Website",
+    "Super"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

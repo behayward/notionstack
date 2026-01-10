@@ -1,0 +1,31 @@
+{
+  "id": "notion-transformation-transform-your-life-and-work-with-notion-007",
+  "name": "Notion Transformation: Transform Your Life and Work With Notion",
+  "slug": "notion-transformation-transform-your-life-and-work-with-notion",
+  "description": "Helping you transform the way you live and work",
+  "price": 297,
+  "currency": "USD",
+  "creator": {
+    "name": "Creator",
+    "url": ""
+  },
+  "platform": "waveapps",
+  "productUrl": "https://next.waveapps.com/checkouts/9b4f0d8ff34f4eb080ed0df2942e442a",
+  "affiliateUrl": "https://transformationallearningexperiences.com/Course-03813030f07d4769a0aadb02238d2c8f",
+  "category": "course",
+  "subcategory": "tasks",
+  "tags": [
+    "Tasks",
+    "Coaching"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}

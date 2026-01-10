@@ -1,0 +1,30 @@
+{
+  "id": "ultimate-spiritual-journal-105",
+  "name": "Ultimate Spiritual Journal: E",
+  "slug": "ultimate-spiritual-journal",
+  "description": "A spiritual journal made to enhance your life and make you a better person",
+  "price": 35,
+  "currency": "USD",
+  "creator": {
+    "name": "Pascio",
+    "url": "http://app.gumroad.com/pascio"
+  },
+  "platform": "gumroad",
+  "productUrl": " https://gumroad.com/a/919154899/azlbdd",
+  "affiliateUrl": " https://gumroad.com/a/919154899/azlbdd",
+  "category": "template",
+  "subcategory": "journal",
+  "tags": [
+    "Journal"
+  ],
+  "useCases": [
+    "personal",
+    "business",
+    "students"
+  ],
+  "hasAffiliate": true,
+  "affiliateRate": 30,
+  "status": "active",
+  "dateAdded": "2026-01-10",
+  "lastUpdated": "2026-01-10"
+}
