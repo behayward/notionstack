@@ -66,7 +66,10 @@ Each product is stored as an individual JSON file in `/content/products/` follow
   "affiliateRate": 30,
   "status": "active",
   "dateAdded": "2024-12-15",
-  "lastUpdated": "2024-12-15"
+  "lastUpdated": "2024-12-15",
+  "rating": 4.9,
+  "ratingCount": 150,
+  "salesCount": 500
 }
 ```
 
@@ -76,7 +79,11 @@ Each product is stored as an individual JSON file in `/content/products/` follow
 - **affiliateUrl:** Tracked affiliate link (what CTAs point to)
 - **hasAffiliate:** Whether active affiliate relationship exists
 - **status:** `active`, `pending` (awaiting affiliate approval), or `inactive`
-- **category:** High-level type (template, course, tool, prompts)
+- **category:** High-level type (template, course, tool) - used for URL structure
+- **subcategory:** Category within type (productivity, finance, etc.) - used for filtering
+- **rating:** Average rating (0-5 scale)
+- **ratingCount:** Number of ratings/reviews
+- **salesCount:** Total number of sales
 - **useCases:** Target audience for filtering
 
 ## Content Guidelines
@@ -93,6 +100,75 @@ Each product is stored as an individual JSON file in `/content/products/` follow
 - All required fields must be present
 - Validate URLs are working before committing
 - Update `lastUpdated` field when modifying existing products
+
+## Quality Indicators & Discovery
+
+### Quality Badges
+Products display visual quality indicators based on performance metrics:
+
+**Highly Rated** 🌟
+- Criteria: Rating ≥ 4.9 AND ratingCount ≥ 5
+- Display: Star icon on product cards and detail pages
+- Purpose: Signal exceptional quality to users
+
+**Top Seller** 🔥
+- Criteria: salesCount ≥ 25
+- Display: Fire/trending icon on product cards and detail pages
+- Purpose: Social proof and popularity indicator
+
+**New** ✨ (Post-launch feature)
+- Criteria: dateAdded within last 30 days
+- Display: "New" badge on product cards
+- Purpose: Highlight fresh additions
+- Filter: Allow users to filter by "Recently Added"
+
+**Multiple Badges:** Products can have multiple quality indicators simultaneously (e.g., both Highly Rated AND Top Seller)
+
+### Product Sorting Priority
+
+Default sort order prioritizes revenue potential and quality:
+
+1. **Affiliate Revenue Potential**
+   - Products with `hasAffiliate: true` ranked higher
+   - Paid products (price > 0) ranked above free products
+   - Higher affiliate rates weighted favorably
+
+2. **Popularity Metrics**
+   - salesCount (higher = better)
+   - Our internal sales metrics when available
+
+3. **Quality Signals**
+   - Products with rating ≥ 4.0 prioritized
+   - Higher ratings weighted favorably
+   - Minimum 3 reviews required to consider rating
+
+**Sort Algorithm:**
+```
+score = (hasAffiliate ? 100 : 0) +
+        (price > 0 ? 50 : 0) +
+        (salesCount * 0.5) +
+        (rating >= 4.0 ? rating * 10 : 0)
+```
+
+Products are sorted by score (descending) within each category/type view.
+
+### URL Structure (SEO-Optimized)
+
+**Individual Products:**
+- `/templates/{slug}` - Template detail pages
+- `/courses/{slug}` - Course detail pages
+- `/tools/{slug}` - Tool detail pages
+
+**Listing Pages:**
+- `/templates` - All templates
+- `/templates?category={subcategory}` - Templates filtered by category
+- `/courses` - All courses
+- `/courses?category={subcategory}` - Courses filtered by category
+- `/tools` - All tools
+- `/tools?category={subcategory}` - Tools filtered by category
+
+**Legacy Support:**
+- `/products/{slug}` - Still works for backwards compatibility
 
 ## Git Workflow
 

@@ -32,8 +32,22 @@ let products = subcategory
   ? allProducts.filter(p => p.subcategory === subcategory)
   : allProducts;
 
-// Sort by name
-products.sort((a, b) => a.name.localeCompare(b.name));
+// Sort by priority score (revenue potential + quality)
+products.sort((a, b) => {
+  const scoreA =
+    (a.hasAffiliate ? 100 : 0) +
+    (a.price > 0 ? 50 : 0) +
+    (a.salesCount ? a.salesCount * 0.5 : 0) +
+    (a.rating && a.ratingCount >= 3 && a.rating >= 4.0 ? a.rating * 10 : 0);
+
+  const scoreB =
+    (b.hasAffiliate ? 100 : 0) +
+    (b.price > 0 ? 50 : 0) +
+    (b.salesCount ? b.salesCount * 0.5 : 0) +
+    (b.rating && b.ratingCount >= 3 && b.rating >= 4.0 ? b.rating * 10 : 0);
+
+  return scoreB - scoreA; // Descending order
+});
 
 // Get unique subcategories for filter
 const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boolean))].sort();
