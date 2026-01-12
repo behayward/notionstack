@@ -1,0 +1,30 @@
+{
+  "id": "Pack Startup Notion",
+  "name": "Pack Startup Notion",
+  "slug": "pack-startup-notion",
+  "description": "Organise toi (vraiment) avec 65% offObtiens tous mes templates startup premium pour le prix d'un seul.J'ai passé en tout des centaines d'heures à créer ces templates pour que tu n'aies pas à le faire - j'espère qu'ils te plairont !",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/vgatxo",
+  "affiliateUrl": "https://gumroad.com/a/822660307/vgatxo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.484Z",
+  "lastUpdated": "2026-01-12T20:47:13.484Z"
+}

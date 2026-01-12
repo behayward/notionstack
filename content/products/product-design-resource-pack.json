@@ -1,0 +1,30 @@
+{
+  "id": "Product Design Resource Pack",
+  "name": "Product Design Resource Pack",
+  "slug": "product-design-resource-pack",
+  "description": "Elevate your product design skills with this curated collection of over 400 resources, organized by design phase. Perfect for junior-midlevel UX designers at tech companies, agencies, and freelancers, it will help you level up your craft, deliver exceptional designs, and exceed expectations. Take control of your career today with this comprehensive resource pack.Built in Notion. Note: This is a light version of Product Design Resource Pack (Pro), a larger library of 700+ resources.",
+  "price": 3,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "reading",
+  "creator": {
+    "name": "UX DEPARTMENT",
+    "url": "https://uxdepartment.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/upygp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/upygp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 26,
+  "ratingCount": 26,
+  "salesCount": 413,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.649Z",
+  "lastUpdated": "2026-01-12T20:47:12.649Z"
+}

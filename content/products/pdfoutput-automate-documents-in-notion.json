@@ -1,0 +1,30 @@
+{
+  "id": "PDFOutput | Automate Documents in Notion",
+  "name": "PDFOutput | Automate Documents in Notion",
+  "slug": "pdfoutput-automate-documents-in-notion",
+  "description": "Document Automation Platform for NotionPDFOutput is a powerful PDF generator platform that automates the creation of repetitive documents such as invoices, agreements, contracts, certificates, reports, letters, and more.What is PDFOutput?PDFOutput is a powerful PDF generator platform that automates the creation of repetitive documents such as invoices, agreements, contracts, certificates, reports, letters, and more.It requires two components: Google Doc Template: A template file with placeholder",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/kulex",
+  "affiliateUrl": "https://gumroad.com/a/402782931/kulex",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Add Google Doc Template: Upload a Google Doc with placeholders like{{ClientName}}or{{InvoiceDate}}.; Connect Notion Database: Link your Notion database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Generate PDFs: Instantly create customized PDFs for each database row, ready to download or share.; Effortless Automation: Generate hundreds of customized documents in minutes using Notion data.; Seamless Notion Integration: Securely connect to your Notion database with a single click.; Placeholder Mapping: Easily map template placeholders to Notion database properties for precise document generation.; Versatile Document Types: Create contracts, invoices, proposals, letters, and more with one tool.; Time-Saving Scalability: Eliminate manual data entry and produce professional documents at scale.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.817Z",
+  "lastUpdated": "2026-01-12T20:47:13.817Z"
+}

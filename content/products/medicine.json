@@ -1,0 +1,30 @@
+{
+  "id": "| medicine |",
+  "name": "| medicine |",
+  "slug": "medicine",
+  "description": "New and Improved! This template combines all the areas of my school and work life that have been important to keep organized over the years in academic research and medicine. I thought I'd share the template here to support fellow learners and researchers! Check out this guide I put together for med students using Notion!",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "student",
+  "creator": {
+    "name": "| life & notion |",
+    "url": "https://lifeandnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zDrGn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zDrGn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 19,
+  "ratingCount": 19,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.616Z",
+  "lastUpdated": "2026-01-12T20:47:12.616Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Influencers: Online Course",
+  "name": "Notion for Influencers: Online Course",
+  "slug": "notion-for-influencers-online-course",
+  "description": "Transform Your Influencer Workflow with Notion for Influencers!Unlock the full potential of Notion and transform your influencer workflow! This practical course is designed for intermediate users eager to elevate their productivity and organization. Dive deep into advanced features, database management, and integration techniques that will empower you to create a tailored Notion workspace specifically for managing your influencer tasks. By the end of this course, youâll have a fully functional",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/atxwe",
+  "affiliateUrl": "https://gumroad.com/a/145902419/atxwe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Intermediate; Influencers looking to streamline their workflow; - Content creators seeking better organization; - Social media managers working with influencers; Basic knowledge of Notion; - Familiarity with databases; - Understanding of task management concepts; The Notion Ecosystem: A Deep Dive; 2. Building Your Influencer Dashboard; 3. Mastering Databases: Structure and Relations",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.356Z",
+  "lastUpdated": "2026-01-12T20:47:13.356Z"
+}

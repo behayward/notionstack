@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Project Managers: Online Course",
+  "name": "Notion for Project Managers: Online Course",
+  "slug": "notion-for-project-managers-online-course",
+  "description": "Unlock the Power of Notion for Project Managers!This course is designed for intermediate users who want to elevate their project management skills and streamline their workflow. Dive deep into advanced features, learn to set up intricate data structures, and create a personalized dashboard that transforms your project management experience. By the end of this course, you'll wield Notion like a pro, ready to tackle any project with efficiency and flair!Who is it ForThis course is tailored for int",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/poyhw",
+  "affiliateUrl": "https://gumroad.com/a/145902419/poyhw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate project managers; - Project Managers seeking to enhance productivity; - Team Members looking to streamline workflows; - Product Owners aiming to manage projects effectively; Requirements:; - Basic knowledge of project management principles; - Familiarity with Notion's interface and basic functionalities; - Understanding of databases and data organization",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.385Z",
+  "lastUpdated": "2026-01-12T20:47:13.385Z"
+}

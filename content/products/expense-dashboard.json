@@ -1,0 +1,30 @@
+{
+  "id": "Expense Dashboard",
+  "name": "Expense Dashboard",
+  "slug": "expense-dashboard",
+  "description": "Expense Dashboard Notion TemplateManaging your expenses is an important part of handling your finances. But staying consistent with tracking and calculating everything each month can be tough. With this template, all you need to do is list your expense types and log your spending — that’s it. You’ll get a clear and useful monthly summary of your expenses.Note: How to use the template and change the currency, those details are inside the template. Charts usage is limited with the free Notion acco",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Locominder",
+    "url": "https://locominder.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wazbs",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wazbs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.298Z",
+  "lastUpdated": "2026-01-12T20:47:13.298Z"
+}

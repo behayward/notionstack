@@ -1,0 +1,30 @@
+{
+  "id": "Notion Widget Links",
+  "name": "Notion Widget Links",
+  "slug": "notion-widget-links",
+  "description": "Here you can find the links to all my favorite widgets! You can get all these widgets for free. Add them easily to your notion by typing /embed and adding the link that you can find by clicking on the urls that I have added in this notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Theresa Dinh",
+    "url": "https://qquynh.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/pRUiz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/pRUiz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 26,
+  "ratingCount": 26,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.637Z",
+  "lastUpdated": "2026-01-12T20:47:12.637Z"
+}

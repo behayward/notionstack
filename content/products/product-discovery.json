@@ -1,0 +1,32 @@
+{
+  "id": "Product Discovery",
+  "name": "Product Discovery",
+  "slug": "product-discovery",
+  "description": "Discover Your Next Winning Product, Service or Feature Continuous Product Discovery is the practice of exploring and validating product ideas before implementing them.According to Marty Cagan“The first truth is that at least half of your ideas are just not going to work” - Inspired. Thus, implementing ideas without prior learning leads to wasted work.After a lot of trial and error, I created the Product Discovery Hub—an easy-to-use Notion template that helps you explore and validate your ideas b",
+  "price": 27,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Nino",
+    "url": "https://productkit.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/955963603/lbhct",
+  "affiliateUrl": "https://gumroad.com/a/955963603/lbhct",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 26,
+  "ratingCount": 26,
+  "salesCount": 148,
+  "tags": [
+    "Product Management"
+  ],
+  "useCases": [],
+  "features": "What is Notion?Notion is a workspace app that helps you manage your work in one place with exceptional customizability. You can download ithere.; Does this work on the FREE version of Notion?Yes it works with the Free version, but you might need to consider upgrading to collaborate with your team. Check out Notion PricingHERE.; Can I become an affiliate?Clickhereto sign up.; Do you offer Refund?No refunds—since it’s a digital product, there’s no way to return it. If you have any questions before purchasing, feel free to reach out!; Do you build custom Notion workspaces?Yes. Feel free to send me an email atnino.notion@gmail.comor shoot me DM on 🐦Twitter",
+  "assessmentScore": 90,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "June 19, 2023 9:15 AM",
+  "lastUpdated": "2026-01-12T20:47:12.520Z"
+}

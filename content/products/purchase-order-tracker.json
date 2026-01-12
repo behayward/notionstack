@@ -1,0 +1,30 @@
+{
+  "id": "Purchase Order Tracker",
+  "name": "Purchase Order Tracker",
+  "slug": "purchase-order-tracker",
+  "description": "In this template, businesses can keep track of their purchase orders with ease with the use of this simple Notion Template.Here's a quick walkthrough of the template...Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Go",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/csvbck",
+  "affiliateUrl": "https://gumroad.com/a/402782931/csvbck",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.765Z",
+  "lastUpdated": "2026-01-12T20:47:13.765Z"
+}

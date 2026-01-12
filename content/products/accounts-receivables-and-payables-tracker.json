@@ -1,0 +1,30 @@
+{
+  "id": "Accounts Receivables and Payables Tracker",
+  "name": "Accounts Receivables and Payables Tracker",
+  "slug": "accounts-receivables-and-payables-tracker",
+  "description": "This is an essential tool for businesses, it tracks money owed by customers and money owed to suppliers, helping maintain healthy cash flow and financial transparency.Do you feel overwhelmed managing your customer and vendor balances and feel lost which invoices are pending due for settlement?This Notion template is all you need to manage all your customer and vendor balances with a simple and easy to use interface setting accounts, opening balances, entering transactions and much more.Are you l",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/aolmpa",
+  "affiliateUrl": "https://gumroad.com/a/402782931/aolmpa",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.698Z",
+  "lastUpdated": "2026-01-12T20:47:13.698Z"
+}

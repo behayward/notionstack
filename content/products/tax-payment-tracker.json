@@ -1,0 +1,30 @@
+{
+  "id": "Tax Payment Tracker",
+  "name": "Tax Payment Tracker",
+  "slug": "tax-payment-tracker",
+  "description": "Only tool you need to track your tax payments quarterly, pay taxes on time and avoid late fees and penalties.Are you struggling to track tax payments every quarter and pay your dues in time?Look no further than this Tax Payment Tracker!Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technic",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/lrvkob",
+  "affiliateUrl": "https://gumroad.com/a/402782931/lrvkob",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Get an updated quarterly view of the tax liabilities in one glance.; Set up your own Revenue and Expense Sources in your business.; Add in your own tax rates to calculate Taxes Payable and Input Taxes for the year",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.697Z",
+  "lastUpdated": "2026-01-12T20:47:13.697Z"
+}

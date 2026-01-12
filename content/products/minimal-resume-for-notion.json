@@ -1,0 +1,30 @@
+{
+  "id": "Minimal Resume For Notion",
+  "name": "Minimal Resume For Notion",
+  "slug": "minimal-resume-for-notion",
+  "description": "Notion’s minimal page design is the perfect place to build your resume. Build resumes with different block styles from callouts to quote blocks to tables and more. This example uses several nested columns in Notion to showcase a narrow stream of professional experience and skill descriptions down the center of the page.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Red Gregory",
+    "url": "https://redgregory.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ssblu",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ssblu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.543Z",
+  "lastUpdated": "2026-01-12T20:47:12.543Z"
+}

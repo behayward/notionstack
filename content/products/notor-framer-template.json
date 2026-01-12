@@ -1,0 +1,30 @@
+{
+  "id": "Notor - Framer Template",
+  "name": "Notor - Framer Template",
+  "slug": "notor-framer-template",
+  "description": "Notor is a landing page template for Notion creators.Setup a custom landing page to promote and sell your Notion templates in minutes. Add your copy, images and integrate it with your Lemon Squeezy or Gumroad shop. Connect it to a domain to use as a website or add it as a page to your existing Framer website.Preview here -&gt;Features:- 1 page- Includes sections for: Features, Testimonials, About Me, FAQ and newsletter signup- Integration with both Lemon Squeezy and Gumroad stores.- No code nece",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "88 Pixels",
+    "url": "https://88pixels.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mfafph",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mfafph",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.958Z",
+  "lastUpdated": "2026-01-12T20:47:12.958Z"
+}

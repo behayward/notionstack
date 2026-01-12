@@ -1,0 +1,30 @@
+{
+  "id": "Tech Stack Planner",
+  "name": "Tech Stack Planner",
+  "slug": "tech-stack-planner",
+  "description": "Ideal for those who are looking to manage the tech of their business, this tracker helps you keep track of tech needs and its details such as technology basics, tech usage, tech support, performance and much more.Are you looking for a tracker to keep track of tech stack associated with your business operations and manage your finances effectively?This tracker is perfect to add tech stack basic details, add usage, seek for support, add security, check performance, set future plans and check for t",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/ynwtk",
+  "affiliateUrl": "https://gumroad.com/a/402782931/ynwtk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set up Technological Management of tech used such asTech Details,Add Usage,Seek SupportandCheck Securityetc.; Set up Performance and Planning Section which deals withTech Performance, Set Future Plansand AssessCustomer Reviews.; Get a complete detailed overview of all tech stack added, their performance and other metrics.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.751Z",
+  "lastUpdated": "2026-01-12T20:47:13.751Z"
+}

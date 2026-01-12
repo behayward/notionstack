@@ -1,0 +1,30 @@
+{
+  "id": "Small Company Organizer OS",
+  "name": "Small Company Organizer OS",
+  "slug": "small-company-organizer-os",
+  "description": "Welcome to the Small Company Notion Template, designed to help you manage all aspects of your business in one place. This template includes a variety of databases to help you organize and track your client leads, tasks, projects, finances, marketing efforts, design work, and personnel.DatabasesClient LeadsThis database is designed to help you keep track of your client leads and their information. You can customize this database to fit your specific needs and add fields such as contact informatio",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Barbarepublic",
+    "url": "https://barbarepublic.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/psjkx",
+  "affiliateUrl": "https://gumroad.com/a/962870099/psjkx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 8,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 58,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.589Z",
+  "lastUpdated": "2026-01-12T20:47:12.589Z"
+}

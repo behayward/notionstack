@@ -1,0 +1,30 @@
+{
+  "id": "Mortgage Payment Tracker",
+  "name": "Mortgage Payment Tracker",
+  "slug": "mortgage-payment-tracker",
+  "description": "Track your mortgage payment obligations with Notion Mortgage Tracker.Pay your Mortgages on time and Maintain your Credit Score.Are you struggling to keep track of your mortgage payments? Do you want to lead a debt-free life and use your funds wisely?Look no further than Notion's Mortgage Tracker!Our mortgage tracker is the ultimate tool for anyone who wants to pay off their mortgages in time and achieve a debt-free life.Are you looking to automate PDF generation for repetitive documents like inv",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/hoqzin",
+  "affiliateUrl": "https://gumroad.com/a/402782931/hoqzin",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 30,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Keeps track of your mortgage payment obligations in one central location.; Pay your monthly mortgage payments in time to maintain your credit score.; Get complete overview of mortgage payments, principal amount paid, interest amount paid, monthly payment amount and much more; Access your mortgage tracker from any device, anywhere; Easy addition of mortgage payment details.; Simple and intuitive interface for easy tracking.; Timely mortgage payments progress with total repayment (in %).; Detailed analysis to help you understand how you want to pay off your mortgages in time.",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.734Z",
+  "lastUpdated": "2026-01-12T20:47:13.734Z"
+}

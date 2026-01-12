@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Nannies: Online Course",
+  "name": "Notion for Nannies: Online Course",
+  "slug": "notion-for-nannies-online-course",
+  "description": "Transform Your Nannying Experience with Notion!Unlock the full potential of Notion with this practical course designed specifically for nannies. Dive deep into advanced features, learn to create a tailored dashboard, and streamline your daily operations like never before. By the end, you'll have a powerful system that not only organizes your tasks but enhances communication with parents and tracks children's activities effectively.Who is it ForThis course is perfect for intermediate nannies who ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/mrwjz",
+  "affiliateUrl": "https://gumroad.com/a/145902419/mrwjz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate Nannies eager to master Notion; -Audience: Nannies looking to enhance their organizational skills, Childcare professionals wanting to improve task management, Parents seeking better communication with their nannies.; Requirements:; - Basic familiarity with Notion; - Understanding of task management concepts; - Basic knowledge of formulas and databases; - Mastering the Notion Interface; - Building Your Database Foundations; - Crafting Elegant Data Systems",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.379Z",
+  "lastUpdated": "2026-01-12T20:47:13.379Z"
+}

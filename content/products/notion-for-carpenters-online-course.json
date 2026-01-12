@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Carpenters: Online Course",
+  "name": "Notion for Carpenters: Online Course",
+  "slug": "notion-for-carpenters-online-course",
+  "description": "Transform Your Carpentry Workflow with Notion!Unlock the full potential of Notion tailored specifically for carpenters! This course will take you on an exhilarating journey from a blank page to a fully functional workspace, empowering you to manage your carpentry tasks with unparalleled efficiency and organization. Dive deep into advanced features, integrations, and custom setups that will revolutionize the way you work. Get ready to transform your carpentry business into a streamlined powerhous",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/smzibx",
+  "affiliateUrl": "https://gumroad.com/a/145902419/smzibx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Carpenters looking to enhance productivity; - Project Managers seeking better organization; - Clients wanting streamlined communication; Basic understanding of Notion; - Familiarity with carpentry terminology; - Basic knowledge of project management; Foundations of Notion for Carpenters; 2. Crafting Your Carpentry Dashboard; 3. Advanced Database Management; 4. Mastering Notion Formulas",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.385Z",
+  "lastUpdated": "2026-01-12T20:47:13.385Z"
+}

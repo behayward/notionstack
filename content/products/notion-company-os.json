@@ -1,0 +1,30 @@
+{
+  "id": "Notion Company OS",
+  "name": "Notion Company OS",
+  "slug": "notion-company-os",
+  "description": "Manage your Company in one place, from the Lead through the Project and Task management to the Invoicing.Introducing the ultimate solution for your business needs - The Notion Company OS Template! This comprehensive template has everything you need to streamline your operations and take your business to the next level.Leads » Contacts » Clients » Projects » Tasks » Invoice » All Done with the Company OS More info on the websiteAll in one management tool to your Company✔ Project Management✔ CRM✔ ",
+  "price": 29,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Solt Wagner",
+    "url": "https://soltwagner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/883590867/foock",
+  "affiliateUrl": "https://gumroad.com/a/883590867/foock",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Generate your Lead; Manage your Contacts and Clients; Manage Projects, set Budget, Timing, Assign to a Team member; Manage the Tasks in the Projects, set hourly price and add working hours, assign to your Team member; Manage your Team members; Edit your Invoice details in the Settings and it will sync in your all invoices; Create easily Invoice from the Project's Tasks; Finance Income database automatic calculated from your created Invoices; In the Finance you can manage your Monthly Income and Expenses and the Balance",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.609Z",
+  "lastUpdated": "2026-01-12T20:47:13.609Z"
+}

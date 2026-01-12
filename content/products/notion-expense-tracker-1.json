@@ -1,0 +1,30 @@
+{
+  "id": "Notion Expense Tracker",
+  "name": "Notion Expense Tracker",
+  "slug": "notion-expense-tracker-1",
+  "description": "Keep track of your daily expenses and budgets.A Notion dashboard to effortlessly key and track your expenses and manage your budget.Features Includes: Auto refresh of monthly budget Glance at your budget utilization Keep track of monthly expenses Automatic recurring expenses Mobile friendly UI See how much budget you have left for each of your categoryIncluded with a guide on how to utilize the template.FAQsHow to download the template?Open the template link, then click \"Duplicate\" on the top ri",
+  "price": 5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Benny Kan",
+    "url": "https://bennykan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fggds",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fggds",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 46,
+  "ratingCount": 46,
+  "salesCount": 350,
+  "tags": [],
+  "useCases": [],
+  "features": "Auto refresh of monthly budget; Glance at your budget utilization; Keep track of monthly expenses; Automatic recurring expenses; Mobile friendly UI",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.554Z",
+  "lastUpdated": "2026-01-12T20:47:12.554Z"
+}

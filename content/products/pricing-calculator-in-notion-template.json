@@ -1,0 +1,30 @@
+{
+  "id": "Pricing Calculator in Notion Template",
+  "name": "Pricing Calculator in Notion Template",
+  "slug": "pricing-calculator-in-notion-template",
+  "description": "Not sure what to charge for your services? This pricing calculator has you covered.This template is a step-by-step guide broken down into 4 sections:Calculate ExpensesCalculate Pricing per hourCalculate Pricing per ServiceReview before implementationThe template itself includes 3 databases. By the end, you will have a clear pricing strategy that accounts for holidays, expenses and helps you avoid burnout.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "finance",
+  "creator": {
+    "name": "chloeforbesk",
+    "url": "https://chloeforbesk.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qyrjxx",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qyrjxx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Calculate Expenses; Calculate Pricing per hour; Calculate Pricing per Service; Review before implementation",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.708Z",
+  "lastUpdated": "2026-01-12T20:47:12.708Z"
+}

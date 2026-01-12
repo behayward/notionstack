@@ -1,0 +1,30 @@
+{
+  "id": "Getting Things Done",
+  "name": "Getting Things Done",
+  "slug": "getting-things-done-1",
+  "description": "Getting Things DoneTake control of your workflow with this template inspired by the Getting Things Done (GTD) productivity system by David Allen. Organize your thoughts, clear your mind, and tackle tasks more efficiently. It's time to stop just thinking and start doing.Do you know about Notion?Notion is a versatile productivity tool with real-time collaboration, customizable organization, cross-platform accessibility, and integration capabilities, making it an indispensable tool for personal and",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "The VA Project",
+    "url": "https://thevaproject.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gmnnlo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gmnnlo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": 57,
+  "tags": [],
+  "useCases": [],
+  "features": "Organise your tasks with the Tasks Manager; Keep your daily Agenda up to date; Plans your week with the Weekly Planner; Manage your projects with the project dashboard; Weekly Review Section to keep up to date and don't forget things; Reminders for on hold and pendant tasks; Priority sorting optimised",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.694Z",
+  "lastUpdated": "2026-01-12T20:47:12.694Z"
+}

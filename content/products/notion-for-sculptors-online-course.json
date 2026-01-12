@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Sculptors: Online Course",
+  "name": "Notion for Sculptors: Online Course",
+  "slug": "notion-for-sculptors-online-course",
+  "description": "Transform Your Sculpting Practice with Notion!Unlock the full potential of Notion specifically for your sculpting practice! This course is designed for sculptors who are ready to take their project management to the next level. Dive into advanced features, learn how to create a personalized dashboard, and streamline your workflows like never before. By the end of the course, you'll have a comprehensive Notion setup tailored to your sculpting needs, enhancing both your productivity and creativity",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/ewkbov",
+  "affiliateUrl": "https://gumroad.com/a/145902419/ewkbov",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Sculptors looking to streamline their workflows; - Creative professionals wanting to enhance productivity; - Students eager to master advanced Notion features; Basic knowledge of Notion's interface and functionalities.; - Familiarity with sculpting processes and project management.; - Understanding of how to work with databases and pages in Notion.; The Art of Notion: Advanced Features Unleashed; 2. Crafting Your Unique Dashboard: The Sculptor's Workspace; 3. Database Mastery: Organizing Your Sculpting Projects; 4. Formulas and Functions: Customizing Your Notion Experience",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.335Z",
+  "lastUpdated": "2026-01-12T20:47:13.335Z"
+}

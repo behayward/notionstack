@@ -1,0 +1,30 @@
+{
+  "id": "Notion Net Worth Tracker",
+  "name": "Notion Net Worth Tracker",
+  "slug": "notion-net-worth-tracker",
+  "description": "Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc Template: A template file with placeholders in {{...}} format (e.g., {{InvoiceNumber}}, {{ClientName}}). Notion Database: Acts as a database with matching head",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/squyk",
+  "affiliateUrl": "https://gumroad.com/a/402782931/squyk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": 130,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Template is available in36+ currenciesacross the globe; Instructions on How to change currency is added inside template; Available on all platforms and devices(MacOS, Windows, iOS, Android); Keep track of your financial situation in one central location.; Set your Net Worth Goal and assess your financial situation over time; Build assets and reduce liabilities to build net worth over time; Get an overview of assets and liabilities distribution at all times evaluating your Net Worth; Easy-to-use Interface:An intuitive and easy-to-use interface. It is simple to add your transactions to incomes, expenses, assets and liabilities that allows automatic updates to Net Worth.",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.686Z",
+  "lastUpdated": "2026-01-12T20:47:13.686Z"
+}

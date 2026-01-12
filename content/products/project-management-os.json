@@ -1,0 +1,30 @@
+{
+  "id": "Project Management OS",
+  "name": "Project Management OS",
+  "slug": "project-management-os",
+  "description": "A comprehensive and flexible tool that helps plan, execute, and monitor projects efficiently. It provides a centralized workspace where you can organize all project-related information and collaborate effectively with a team.Features:Simple and easy to navigateManage tasks for each projectProject timelineThis Notion Project Management template offers a robust and customizable framework to effectively plan, track, and collaborate on your projects, ultimately improving productivity and ensuring su",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "project-management",
+  "creator": {
+    "name": "Thesauros",
+    "url": "https://thesauros.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ublqwy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ublqwy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 13,
+  "ratingCount": 13,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Simple and easy to navigate; Manage tasks for each project; Project timeline",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.048Z",
+  "lastUpdated": "2026-01-12T20:47:13.048Z"
+}

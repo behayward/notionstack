@@ -1,0 +1,30 @@
+{
+  "id": "Travel planner",
+  "name": "Travel planner",
+  "slug": "travel-planner-3",
+  "description": "About the templateIntroducing the Travel Planner Template v3 - the ultimate tool for efficient and stress-free travel planning. This all-in-one tool is perfect for travelers looking to keep all their essential information organized and in one place.With this template, you can easily record your emergency contact details, travel insurance information, and important to-do lists before you depart. The itinerary planning feature allows you to keep track of places you want to visit and plan your trip",
+  "price": 15,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Carol Mayes",
+    "url": "https://carolmayes.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lvjje",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lvjje",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 13,
+  "ratingCount": 13,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "After purchasing the template, you will be redirected to Notion.; Click on the \"Duplicate\" button located in the top right corner. This will duplicate the template to your Notion workspace.; Congratulations! You can now start using the template and make all the adjusments needed to fit your needs.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.593Z",
+  "lastUpdated": "2026-01-12T20:47:12.593Z"
+}

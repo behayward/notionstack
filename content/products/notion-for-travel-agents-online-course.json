@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Travel Agents: Online Course",
+  "name": "Notion for Travel Agents: Online Course",
+  "slug": "notion-for-travel-agents-online-course",
+  "description": "Unlock the full potential of Notion tailored specifically for travel agents!This intensive course takes you from a basic understanding to mastering advanced features, enabling you to create a powerful, customized workspace that streamlines your operations and enhances your productivity. Dive deep into databases, formulas, and API integrations while designing a user-friendly interface that meets your unique needs as a travel professional.Who is it ForThis course is designed for intermediate trave",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/kobwr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/kobwr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic knowledge of Notion; - Understanding travel agency operations; - Familiarity with database concepts; Modules:6 engaging modules:; - Building the Foundation: Notion Basics Revisited; - Crafting Comprehensive Databases; - Formulas and Functions: Elevating Your Data Management; - Designing a User-Friendly Interface; - Integrating Notion with Other Platforms; - Mastering API Integration with Python",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.361Z",
+  "lastUpdated": "2026-01-12T20:47:13.361Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Free Time Tracker",
+  "name": "Free Time Tracker",
+  "slug": "free-time-tracker",
+  "description": "Track time with Notion with ease.A simple time tracker that allows you to monitor and calculate the amount of time you spent on each activity or task. Easy and intuitive to use.📑 STILL HAVE QUESTIONS?Drop a message at support@notionavenue.co📑 COMPATIBILITY: The template only works with Notion. It's optimized for use on laptops and desktops. It’s accessible with any device When accessed from smaller devices such as smartphones and tablets the template would appear different than the listing image",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kobuh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kobuh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.059Z",
+  "lastUpdated": "2026-01-12T20:47:13.059Z"
+}

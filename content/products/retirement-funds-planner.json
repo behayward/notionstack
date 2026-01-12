@@ -1,0 +1,30 @@
+{
+  "id": "Retirement Funds Planner",
+  "name": "Retirement Funds Planner",
+  "slug": "retirement-funds-planner",
+  "description": "This tracker helps individuals plan for their retirement by estimating future expenses, setting retirement savings goals, and tracking progress toward those goals.Are you looking for a comprehensive system to plan for your retirement?This Notion template is all you need to manage all your retirement funds, set target amount and date, assess savings, build cash flow with savings over time and much more.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/rekus",
+  "affiliateUrl": "https://gumroad.com/a/402782931/rekus",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set upRetirementSavings Funds, AddOpening Balances, SetTarget Goal AmountandGoal Datefor each fund.; Getmonthly,quarterlyand completeoverviewof all added funds along with the savings made till date in one glance.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.700Z",
+  "lastUpdated": "2026-01-12T20:47:13.700Z"
+}

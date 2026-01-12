@@ -1,0 +1,30 @@
+{
+  "id": "Resume Template",
+  "name": "Resume Template",
+  "slug": "resume-template",
+  "description": "Create a professional resume in NotionThis Notion template helps you get your resume ready in less than 5 minutes.Update your resume from any browser or deviceCreate a shareable URL in one click or invite others privatelyNo need to pay for an additional website or hosting.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zzkXrq",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zzkXrq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 842,
+  "ratingCount": 842,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Update your resume from any browser or device; Create a shareable URL in one click or invite others privately; No need to pay for an additional website or hosting.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.551Z",
+  "lastUpdated": "2026-01-12T20:47:12.551Z"
+}

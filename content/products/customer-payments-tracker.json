@@ -1,0 +1,30 @@
+{
+  "id": "Customer Payments Tracker",
+  "name": "Customer Payments Tracker",
+  "slug": "customer-payments-tracker",
+  "description": "Ideal for those who are looking to keep track of their customer payments due, this tracker helps you monitor total customer payments due, track payments received, and ensures efficient management of your financial records. 💼💸📊Are you looking for a tracker to keep track of customer payments?This tracker is designed to help you efficiently manage customer payments, it enables you to monitor due payments, track received payments, and make informed financial decisions.Stay organized and maximize you",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/twofhk",
+  "affiliateUrl": "https://gumroad.com/a/402782931/twofhk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.752Z",
+  "lastUpdated": "2026-01-12T20:47:13.752Z"
+}

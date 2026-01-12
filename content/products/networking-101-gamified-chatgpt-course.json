@@ -1,0 +1,30 @@
+{
+  "id": "Networking 101 - Gamified ChatGPT Course",
+  "name": "Networking 101 - Gamified ChatGPT Course",
+  "slug": "networking-101-gamified-chatgpt-course",
+  "description": "Supercharge your networking skills and unlock a world of professional opportunities with our comprehensive Networking 101 course.Not another generic course or set of prompts.Discover the secrets to successful networking and establish a powerful professional network that propels your career forward. Our Networking 101 course is a step-by-step guide that equips you with the skills and insights to build authentic relationships, expand your influence, and open doors to new opportunities.Are you tire",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gjwgfz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gjwgfz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 36,
+  "ratingCount": 36,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Lesson 1: Introduction to Networking (70 prompts); Lesson 2: Building a Personal Brand (70 prompts); Lesson 3: Online Networking (70 prompts); Lesson 4: Face-to-Face Networking(70 prompts); Lesson 5: Building and Maintaining Connections(70 prompts); Lesson 6: Networking Project and Reflection (70 prompts); 50+ Networking Definitions; Networking Roadmap; 50+ Networking Tips; Notion AI features",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.757Z",
+  "lastUpdated": "2026-01-12T20:47:12.757Z"
+}

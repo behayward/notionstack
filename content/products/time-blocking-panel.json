@@ -1,0 +1,30 @@
+{
+  "id": "Time Blocking Panel",
+  "name": "Time Blocking Panel",
+  "slug": "time-blocking-panel",
+  "description": "Use Notion For Time BlockingThis complete Time Blocking Panel will be your ultimate productivity system in Notion. Plan your schedule, optimize your time, and achieve your goals effortlessly.What's Included?Calendar ViewHistory of Your Time BlocksPomodoro TimerJournalTo-Do ListOverviewFAQWhat is Notion? Notion is an app that helps you organize your work and personal life in one place. You can use it to take notes, manage projects, create to-do lists, store important information, and much more.Do",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "ProductivityPeek",
+    "url": "https://productivitypeek.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/clfnf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/clfnf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Calendar View; History of Your Time Blocks; Pomodoro Timer",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.262Z",
+  "lastUpdated": "2026-01-12T20:47:13.262Z"
+}

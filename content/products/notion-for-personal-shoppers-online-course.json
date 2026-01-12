@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Personal Shoppers: Online Course",
+  "name": "Notion for Personal Shoppers: Online Course",
+  "slug": "notion-for-personal-shoppers-online-course",
+  "description": "Unlock the Power of Notion for Personal Shoppers!This course is designed to help personal shoppers enhance their productivity by leveraging Notion's capabilities. By the end, you'll have a fully functional Notion setup that streamlines your tasks and improves your efficiency.Who is it For?This course is ideal for personal shoppers who already have a basic understanding of Notion but want to elevate their skills to the next level. If you're looking to better manage your tasks and projects, this c",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/wnyfh",
+  "affiliateUrl": "https://gumroad.com/a/145902419/wnyfh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Personal shoppers seeking better organization; - Clients of personal shoppers looking for enhanced service; - Notion enthusiasts wanting to specialize in personal shopping workflows; Basic understanding of Notion's interface; - Familiarity with basic database concepts; - Knowledge of Python for API integration; Foundations of Notion: Beyond the Basics; 2. Crafting Your Personal Shopping Dashboard; 3. Mastering Notion Formulas; 4. Database Views and Filters: A Personal Shopper's Toolkit",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.374Z",
+  "lastUpdated": "2026-01-12T20:47:13.374Z"
+}

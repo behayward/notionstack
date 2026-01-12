@@ -1,0 +1,30 @@
+{
+  "id": "Gestionnaire de tâches",
+  "name": "Gestionnaire de tâches",
+  "slug": "gestionnaire-de-t-ches",
+  "description": "Voici un modèle pour gérer vos tâches et vos projets simplement avec Notion.L'objectif est de pouvoir créer, suivre et rattacher les tâches à vos projets pour une meilleure visualisation de votre emploi du temps. Les différentes vues vous permettront de suivre les tâches en cours et les éventuels retards.Ce modèle est également constitué de quelques formules pour alerter lorsque du retard a lieu sur l'activité et depuis combien de temps. Devenez efficace dans votre gestion de projet !FAQEst-ce q",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Julien Lesourd",
+    "url": "https://julienlesourd.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wvwfi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wvwfi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.582Z",
+  "lastUpdated": "2026-01-12T20:47:12.582Z"
+}

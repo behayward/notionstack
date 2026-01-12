@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Virtual Assistants: Online Course",
+  "name": "Notion for Virtual Assistants: Online Course",
+  "slug": "notion-for-virtual-assistants-online-course",
+  "description": "Transform Your Virtual Assistant Workflow with Notion!Unlock the full potential of Notion and transform your Virtual Assistant workflow! This course is meticulously designed for intermediate users who are ready to elevate their productivity and organization skills. Dive into advanced functionalities, create structured workspaces, and integrate Notion with other tools to maximize efficiency. By the end of this course, you'll have a robust Notion setup tailored just for you, empowering your task m",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/tqjqhs",
+  "affiliateUrl": "https://gumroad.com/a/145902419/tqjqhs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Virtual Assistants looking to improve productivity with Notion.; - Freelancers seeking efficient task management solutions.; - Small Business Owners wanting to streamline operations.; Basic familiarity with Notion; - Understanding of task management concepts; - Basic knowledge of Python for API integration; Foundations of a Powerful Workspace; - Crafting Your Notion Dashboard; - Mastering Data Organization; - Formulas and Automation in Notion",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.350Z",
+  "lastUpdated": "2026-01-12T20:47:13.350Z"
+}

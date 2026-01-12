@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Journalists: Online Course",
+  "name": "Notion for Journalists: Online Course",
+  "slug": "notion-for-journalists-online-course",
+  "description": "Transform Your Journalism with Notion!Unlock the full potential of Notion in your journalistic endeavors! This course is designed for intermediate users eager to elevate their productivity and organization. Dive deep into advanced features, learn to structure complex databases, and create a personalized Notion setup that streamlines your workflow. By the end, you'll have a robust Notion dashboard tailored specifically for your journalistic tasks, enhancing your efficiency and collaboration with ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/qxhqnc",
+  "affiliateUrl": "https://gumroad.com/a/145902419/qxhqnc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Journalists looking to enhance productivity; - Editors managing multiple projects; - Content Managers aiming for better organization; Basic understanding of Notion; - Familiarity with journalistic workflows; - Knowledge of data management concepts; - Willingness to learn advanced features; - Access to Notion for practical application; Laying the Foundation: Advanced Notion Features; 2. Building Complex Database Structures",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.344Z",
+  "lastUpdated": "2026-01-12T20:47:13.344Z"
+}

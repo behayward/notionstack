@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Scientists: Online Course",
+  "name": "Notion for Scientists: Online Course",
+  "slug": "notion-for-scientists-online-course",
+  "description": "Master Notion for Effective Scientific Project Management!Unlock the power of Notion and elevate your scientific project management skills with this intermediate course designed specifically for scientists. Learn to navigate advanced functionalities, create tailored databases, and implement integrations that streamline your research processes. By the end of this course, you'll have a fully functional Notion workspace tailored to your unique scientific needs!Who is it ForSkill LevelThis course is",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/yhrcr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/yhrcr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion functionalities.; - Familiarity with scientific project management concepts.; - Experience using databases and spreadsheets.; Navigating the Advanced Notion Landscape; 2. Building Your Scientific Database; 3. Mastering Notion Formulas; 4. Crafting User-Friendly Interfaces; 5. Integrating Notion with Other Tools; 6. Creating Your Own Notion for Scientists Dashboard; Develop a comprehensive Notion workspace tailored for scientific projects.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.349Z",
+  "lastUpdated": "2026-01-12T20:47:13.349Z"
+}

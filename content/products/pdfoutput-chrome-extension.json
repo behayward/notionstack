@@ -1,0 +1,30 @@
+{
+  "id": "PDFOutput Chrome Extension",
+  "name": "PDFOutput Chrome Extension",
+  "slug": "pdfoutput-chrome-extension",
+  "description": "Generate PDFs from Notion pages with easePDFOutput – Generate Professional PDFs from Notion Effortlessly!PDFOutput is a powerful Chrome extension that allows you to export Notion pages as high-quality PDF documents with ease.Whether you need a single-page export or bulk PDF generation, PDFOutput has got you covered.Key Features:✅ Two Export Modes:1. Single PDF:Instantly export any Notion page as a professional-looking PDF.2. Bulk PDF:Generate multiple PDFs by replacing placeholders in a Notion p",
+  "price": 49,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "hr",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/jbcmwk",
+  "affiliateUrl": "https://gumroad.com/a/402782931/jbcmwk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.871Z",
+  "lastUpdated": "2026-01-12T20:47:13.871Z"
+}

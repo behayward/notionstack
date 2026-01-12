@@ -1,0 +1,30 @@
+{
+  "id": "Expense Tracker, Notion Template",
+  "name": "Expense Tracker, Notion Template",
+  "slug": "expense-tracker-notion-template",
+  "description": "Keep track of your expensesOptimize your financial life with our Notion expense tracking template. Gain clarity on your spending habits, pinpoint areas for potential savings, and take control of your finances like never before.View expenses for all time, monthly, or current monthView expenses by category for both all time and the current monthEffortlessly manage your financesWhat is Notion? Notion is a free and easy-to-use, intuitive productivity app that helps you plan, take notes, create task ",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Planner 2 Success",
+    "url": "https://planner2success.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gmedl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gmedl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "View expenses for all time, monthly, or current month; View expenses by category for both all time and the current month; Effortlessly manage your finances",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.264Z",
+  "lastUpdated": "2026-01-12T20:47:13.264Z"
+}

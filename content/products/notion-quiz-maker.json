@@ -1,0 +1,30 @@
+{
+  "id": "Notion Quiz Maker",
+  "name": "Notion Quiz Maker",
+  "slug": "notion-quiz-maker",
+  "description": "Create quizzes in NotionAre you a student and want to quiz yourself for an upcoming exam?Or do you want to build a quick survey for team members, clients, or applicants?The Notion Quiz Maker is the most intuitive and straightforward way for building quizzes.And the best? No external tools are required! This tool allows you to build and use your quizzes inside of a Notion database.One-minute setupCustomizableNo code quizzes",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Philipp Stelzel",
+    "url": "https://philippstelzel.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/117590867/xnsec",
+  "affiliateUrl": "https://gumroad.com/a/117590867/xnsec",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Are you a student and want to quiz yourself for an upcoming exam?; Or do you want to build a quick survey for team members, clients, or applicants?; One-minute setup; Customizable; No code quizzes",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.402Z",
+  "lastUpdated": "2026-01-12T20:47:13.402Z"
+}

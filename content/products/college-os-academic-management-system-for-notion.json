@@ -1,0 +1,30 @@
+{
+  "id": "College OS - Academic Management System for Notion",
+  "name": "College OS - Academic Management System for Notion",
+  "slug": "college-os-academic-management-system-for-notion",
+  "description": "Capture and manage your courses in Notion.College OS is an unparalleled academic system engineered to help you efficiently manage your coursework, allowing you to balance your academic commitments and excel in your studies.Check out this website for a full preview of College OS:\"Education is the key to unlock the golden door of freedom and opportunity.\"— George Washington CarverLet's be honest: college life can be a chaotic juggling act.It starts innocently enough, with a few classes and study s",
+  "price": 30,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/661958867/nmsgg",
+  "affiliateUrl": "https://gumroad.com/a/661958867/nmsgg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 65,
+  "ratingCount": 65,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Main Dashboard; All-In-One Dashboard; Project & Task Manager; Class/Cornell Notes; Grade Calculator; 10+ Resources & Integrations; Dark-mode Optimized",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.516Z",
+  "lastUpdated": "2026-01-12T20:47:13.516Z"
+}

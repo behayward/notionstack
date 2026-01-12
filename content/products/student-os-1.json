@@ -1,0 +1,30 @@
+{
+  "id": "Student OS",
+  "name": "Student OS",
+  "slug": "student-os-1",
+  "description": "Introducing Student OS, the ultimate Notion template for students who want to take their academic life to the next level.Who’s this for?Student OS is perfect for students of all levels who are looking for a tool to help them stay organized, stay on top of their assignments, and streamline their studying process.BenefitsWith Student OS, you'll have everything you need to stay on top of your classes, including a dashboard to track your progress, a planner to keep track of assignments and due dates",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Alex",
+    "url": "https://krsta.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ltskv",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ltskv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 40,
+  "ratingCount": 40,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Assignments; Quick links; Pomodoro timer",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.575Z",
+  "lastUpdated": "2026-01-12T20:47:12.575Z"
+}

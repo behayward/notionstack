@@ -1,0 +1,30 @@
+{
+  "id": "Task Manager",
+  "name": "Task Manager",
+  "slug": "task-manager-2",
+  "description": "\"Manage all your tasks in one page\"The Task Manager Notion Template is a powerful organizational tool designed to streamline your task management process within Notion. With this template, you can efficiently manage all your to-do items, track in-progress tasks, mark completed ones, and stay on top of overdue assignments, all on a single, user-friendly page. Categorize your tasks with ease, ensuring that you have a comprehensive overview of your workload. This template simplifies task management",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "business",
+  "creator": {
+    "name": "Locominder",
+    "url": "https://locominder.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kkcfi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kkcfi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.127Z",
+  "lastUpdated": "2026-01-12T20:47:13.127Z"
+}

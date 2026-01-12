@@ -1,0 +1,30 @@
+{
+  "id": "Free Content Calendar Notion",
+  "name": "Free Content Calendar Notion",
+  "slug": "free-content-calendar-notion",
+  "description": "A simple and free content calendar for Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/cijxf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/cijxf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.906Z",
+  "lastUpdated": "2026-01-12T20:47:12.906Z"
+}

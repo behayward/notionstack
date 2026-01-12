@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Content Creators: Online Course",
+  "name": "Notion for Content Creators: Online Course",
+  "slug": "notion-for-content-creators-online-course",
+  "description": "Unlock the Secrets of Notion for Content Creators!Transform your content creation process with Notion! This course empowers intermediate users to master Notion's advanced features, enabling you to create a personalized and efficient content management system. Dive deep into the intricate functionalities of Notion, learn to integrate it with other platforms, and develop a powerful dashboard tailored to your specific needs. By the end of this course, you will possess the skills to streamline your ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/zydfa",
+  "affiliateUrl": "https://gumroad.com/a/145902419/zydfa",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Content creators looking to enhance their workflow.; - Freelancers needing a robust task management system.; - Social media managers wanting to streamline their content process.; - Bloggers aiming for better organization.; - Digital marketers seeking efficient content planning.; Basic understanding of Notion's interface and features.; - Familiarity with content creation processes.; - Basic knowledge of Python for API integration.; - Willingness to explore advanced features.; - An eagerness to implement integrations.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.362Z",
+  "lastUpdated": "2026-01-12T20:47:13.362Z"
+}

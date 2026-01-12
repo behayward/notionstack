@@ -1,0 +1,30 @@
+{
+  "id": "Basic Notion Homepage (Notion Template)",
+  "name": "Basic Notion Homepage (Notion Template)",
+  "slug": "basic-notion-homepage-notion-template",
+  "description": "This is a basic homepage in Notion to get you started! It's the most simple layout to get started with before created pages in their proper sections.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "personal",
+  "creator": {
+    "name": "Demetri Panici",
+    "url": "https://dpanici014.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/GKeWX",
+  "affiliateUrl": "https://gumroad.com/a/962870099/GKeWX",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.644Z",
+  "lastUpdated": "2026-01-12T20:47:12.644Z"
+}

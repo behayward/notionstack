@@ -1,0 +1,48 @@
+{
+  "totalProducts": 3553,
+  "filesGenerated": 3553,
+  "errors": 0,
+  "byCategory": {
+    "template": 1689,
+    "course": 602,
+    "tool": 1262
+  },
+  "bySubcategory": {
+    "bundle": 23,
+    "dashboard": 625,
+    "planner": 1198,
+    "crm": 304,
+    "productivity": 29,
+    "second-brain": 236,
+    "tracker": 280,
+    "content": 88,
+    "ai": 415,
+    "template": 80,
+    "finance": 21,
+    "student": 28,
+    "design": 83,
+    "resume": 1,
+    "personal": 5,
+    "ecommerce": 1,
+    "business": 24,
+    "reading": 28,
+    "goals": 30,
+    "project-management": 19,
+    "travel": 3,
+    "journal": 23,
+    "health": 3,
+    "hr": 5,
+    "freelance": 1
+  },
+  "byRecommendation": {
+    "RECOMMENDED": 1568,
+    "HIGHLY RECOMMENDED": 1985
+  },
+  "priceDistribution": {
+    "free": 2190,
+    "under10": 830,
+    "under50": 402,
+    "under100": 74,
+    "over100": 57
+  }
+}

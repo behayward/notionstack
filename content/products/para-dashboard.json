@@ -1,0 +1,30 @@
+{
+  "id": "PARA Dashboard",
+  "name": "PARA Dashboard",
+  "slug": "para-dashboard",
+  "description": "A Simple Way to Organize Your Life NotionAchieve digital organization and clarity with this simple dashboard inspired by Tiago Forte's PARA Method. Learn more about the PARA Method from Tiago at fortelabs.com/blog/para.How to Use This Template:Our Notion dashboard categorizes your life into four databases: Tasks, Projects, Areas, and Resources. You can move pages to the Archive view by checking the box in each database. Defining Areas of Life: Start by listing out the significant roles and respo",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vqvcuu",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vqvcuu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 588,
+  "ratingCount": 588,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Defining Areas of Life:Start by listing out the significant roles and responsibilities in your life in the Areas database.; Project Management:For every area in your life, plan and oversee related projects in the Projects database to level up your skills and achievements.; Task Management:For every project, break it down into actionable steps and list them in the Tasks database.; Resource Management:Capture and organize valuable references, such as articles and videos, in the Resources database. You can link these resources to related projects for easy access.; Easy Archiving:As things become less relevant or outdated, simply use the archive checkbox in any of the databases to move items to the Archive view.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.215Z",
+  "lastUpdated": "2026-01-12T20:47:13.215Z"
+}

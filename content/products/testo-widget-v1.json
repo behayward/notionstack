@@ -1,0 +1,30 @@
+{
+  "id": "Testo Widget V1",
+  "name": "Testo Widget V1",
+  "slug": "testo-widget-v1",
+  "description": "Minimalist Notion Template for Testo.Works with Android/iOS Notion widgets. Looks great on desktop too!Comes with 5 standard Testos. Change, remove, or add Testo as you need.Entries are auto-generated at the start (00:01) of Mondays and Thursdays.Can be customized for different Testo different days. Duplicate @Today, and modify repeat interval.Look for the \"Get Template Now\" button on the confirmation page.Duplicate Testo Widget to your Notion. Add a Notion widget (Page) on your phone. Select .T",
+  "price": 5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "micro horse",
+    "url": "https://microhorsepower.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/reelzo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/reelzo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 11,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Duplicate Testo Widget to your Notion.; Add a Notion widget (Page) on your phone.; Select .Testo as the widget database.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.610Z",
+  "lastUpdated": "2026-01-12T20:47:12.610Z"
+}

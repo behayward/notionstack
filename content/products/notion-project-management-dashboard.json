@@ -1,0 +1,30 @@
+{
+  "id": "Notion Project Management Dashboard",
+  "name": "Notion Project Management Dashboard",
+  "slug": "notion-project-management-dashboard",
+  "description": "The ultimate solution for managing all your client projects in one centralized location. This template uses five powerful tools to help you stay organized, streamline your workflow, and reduce stress.Say goodbye to scattered documents, endless email threads, and missed deadlines. I’ve designed this template to work seamlessly with asynchronous communication methods, allowing you to collaborate with your team and clients without being tied to your inbox.Here is what you get inside: Message Board:",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Luke Netti",
+    "url": "https://lukenetti.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gixdss",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gixdss",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Message Board: Central hub for project-related messages and updates; To-dos: Create and assign tasks, set due dates, and track progress; Docs & Files: Centralized repository for project-related documents and files; Schedule: View and manage project deadlines, milestones, and meetings in one place; Phases: Break down your project into distinct phases and monitor progress in real-time.",
+  "assessmentScore": 72,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.774Z",
+  "lastUpdated": "2026-01-12T20:47:12.774Z"
+}

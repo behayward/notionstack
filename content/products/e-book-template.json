@@ -1,0 +1,30 @@
+{
+  "id": "E-book Template",
+  "name": "E-book Template",
+  "slug": "e-book-template",
+  "description": "Note: This is an example Notion template to help you create your own ebook for your audience.Say no more to starting from a blank canvas. You can easily plug in your content and launch your info product instantly.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "content",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nrszg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nrszg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 127,
+  "ratingCount": 127,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.589Z",
+  "lastUpdated": "2026-01-12T20:47:12.589Z"
+}

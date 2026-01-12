@@ -1,0 +1,30 @@
+{
+  "id": "Newsletter Subscriber Export",
+  "name": "Newsletter Subscriber Export",
+  "slug": "newsletter-subscriber-export",
+  "description": "Gather subscribers from multiple platforms in one place. Automatically!I've switched newsletter platforms a few times in the past. This meant exporting all subscriber data and importing it into a new tool. Sounds familiar?This Notion template is a nifty automation tool to do exactly that, and more. You can filter your subscribers or collect subscribers from different sources. Maybe you have multiple email lists with different providers? Gather them all in one place with this template and the hel",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Burk",
+    "url": "https://burk.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/akxrva",
+  "affiliateUrl": "https://gumroad.com/a/962870099/akxrva",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.560Z",
+  "lastUpdated": "2026-01-12T20:47:12.560Z"
+}

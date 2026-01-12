@@ -1,0 +1,30 @@
+{
+  "id": "Notion Template: Learn C++ in 15 steps",
+  "name": "Notion Template: Learn C++ in 15 steps",
+  "slug": "notion-template-learn-c-in-15-steps",
+  "description": "This template contains information and tutorials for learning C++ programming language. Notion is a popular platform for organizing and sharing information, and it offers a variety of tools for creating and sharing content. If you're interested in learning C++, this might be a great place to start.Features: Code examples Exercises Projects Quizzes Resources",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "NellieNotion Templates Creator",
+    "url": "https://nellienotions.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zitrga",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zitrga",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 30,
+  "ratingCount": 30,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Code examples",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.593Z",
+  "lastUpdated": "2026-01-12T20:47:12.593Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Personal Bundle",
+  "name": "Notion Personal Bundle",
+  "slug": "notion-personal-bundle-2",
+  "description": "Available on Gumroad",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Solt Wagner",
+    "url": "https://soltwagner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/883590867/nhadj",
+  "affiliateUrl": "https://gumroad.com/a/883590867/nhadj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": 11,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.639Z",
+  "lastUpdated": "2026-01-12T20:47:13.639Z"
+}

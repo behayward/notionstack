@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Students: Online Course",
+  "name": "Notion for Students: Online Course",
+  "slug": "notion-for-students-online-course",
+  "description": "Unlock the Power of Notion for Students!Dive into the world of Notion and elevate your academic experience! This course is designed for intermediate students who want to master advanced functionalities of Notion. By the end of this journey, you'll have a customized dashboard that enhances your productivity and organization, making your academic life a breeze!Who is it for?This course is tailored for students who already have a basic understanding of Notion and are eager to deepen their knowledge",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/ppxnm",
+  "affiliateUrl": "https://gumroad.com/a/145902419/ppxnm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Students seeking better organization; Educators looking for effective tools; Academic advisors wanting to enhance student productivity; 🌟 Basic understanding of Notion functionalities; 🔍 Familiarity with database concepts; 🐍 Basic knowledge of Python for API integrations; From Zero to Hero: Setting Up Your Notion Workspace; Mastering Databases: The Heart of Your Notion Setup; Crafting Your Dashboard: A Command Center for Success; Advanced Formulas: Power Up Your Data Management",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.387Z",
+  "lastUpdated": "2026-01-12T20:47:13.387Z"
+}

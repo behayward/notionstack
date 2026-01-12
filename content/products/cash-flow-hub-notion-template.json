@@ -1,0 +1,30 @@
+{
+  "id": "Cash Flow Hub Notion Template",
+  "name": "Cash Flow Hub Notion Template",
+  "slug": "cash-flow-hub-notion-template",
+  "description": "Cash Flow HubCash Flow Hub Notion template is track your income and expenses.Here's a summary of the key features and components of the template:Income Tracking:You can record various sources of income such as salary, freelance work, rental income, etc.Each income entry includes details like the amount, date received, and a brief description.Income categories can be defined, such as \"Wages,\" \"Investments,\" or \"Other,\" to organize and analyze your earnings.Expense Tracking:Expenses can be logged ",
+  "price": 19,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Nagaraj",
+    "url": "https://inagaraj.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ivlcn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ivlcn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 16,
+  "ratingCount": 16,
+  "salesCount": 327,
+  "tags": [],
+  "useCases": [],
+  "features": "You can record various sources of income such as salary, freelance work, rental income, etc.; Each income entry includes details like the amount, date received, and a brief description.; Income categories can be defined, such as \"Wages,\" \"Investments,\" or \"Other,\" to organize and analyze your earnings.; Expenses can be logged for different categories like housing, transportation, utilities, entertainment, etc.; Each expense entry includes information such as the amount, date incurred, payment method, and a brief description.; You can create subcategories within each expense category to have a more granular view of your spending patterns.",
+  "assessmentScore": 105,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.633Z",
+  "lastUpdated": "2026-01-12T20:47:12.633Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Custom GPT Architect",
+  "name": "Custom GPT Architect",
+  "slug": "custom-gpt-architect",
+  "description": "The \"Custom GPT Architect\" Notion template is a practical resource for anyone looking to learn about and effectively utilize custom GPTs. This template provides a structured approach to understanding what custom GPTs are, how to set them up, and how to apply them across various scenarios. Whether you’re new to AI or seeking to deepen your knowledge, this guide offers clear, actionable insights to help you leverage custom GPTs in your work or personal projects.What’s Included: Introduction to Cus",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Tyler Pham",
+    "url": "https://tylerworkflow.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hkmcne",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hkmcne",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Introduction to Custom GPTs: A clear overview of what custom GPTs are, their capabilities, and how they differ from standard models.; Setup Guide: Step-by-step instructions on how to configure and use your own custom GPT.; Use Cases: A variety of examples showcasing how custom GPTs can be applied in different contexts, from content creation to data analysis.; Best Practices: Tips and strategies to optimize your use of custom GPTs for better results.; Additional Resources: Links to further reading and communities for continued learning and support.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.287Z",
+  "lastUpdated": "2026-01-12T20:47:13.287Z"
+}

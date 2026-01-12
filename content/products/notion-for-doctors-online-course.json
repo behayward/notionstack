@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Doctors: Online Course",
+  "name": "Notion for Doctors: Online Course",
+  "slug": "notion-for-doctors-online-course",
+  "description": "Unlock the Power of Notion for Doctors!This practical course is designed specifically for doctors looking to enhance their workflow and efficiency. By the end of this course, you will have a fully functional Notion setup tailored to your unique needs, transforming how you manage tasks, patient information, and schedules. Dive into advanced features, integrations, and data organization techniques that will elevate your practice to new heights!Who is it ForThis course is tailored for doctors who a",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/lyaep",
+  "affiliateUrl": "https://gumroad.com/a/145902419/lyaep",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion; - Familiarity with digital task management tools; - Basic knowledge of databases and data organization; The Notion Landscape: Advanced Features Unleashed; 2. Crafting Your Medical Dashboard: Design and Structure; 3. Data Flows and Integration: Streamlining Your Processes; 4. Formulas and Functions: Unlocking Notion's Potential; 5. User Experience: Creating a Friendly Interface; 6. Finalizing Your Notion Setup: Review and Optimize; Create a personalized Notion dashboard for medical practice management.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.340Z",
+  "lastUpdated": "2026-01-12T20:47:13.340Z"
+}

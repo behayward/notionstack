@@ -1,0 +1,30 @@
+{
+  "id": "Budget Tracker",
+  "name": "Budget Tracker",
+  "slug": "budget-tracker",
+  "description": "The Best Notion Template for Personal Budget ManagementThis Notion template simplifies budgeting by allowing you to set a monthly budget for each category and log your daily expenses. Stay informed about where your money is going, make adjustments on the go, and avoid overspending.Set, track, and review your monthly budget today!",
+  "price": 5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/iqnbc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/iqnbc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.550Z",
+  "lastUpdated": "2026-01-12T20:47:12.550Z"
+}

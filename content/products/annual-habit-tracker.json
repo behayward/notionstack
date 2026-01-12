@@ -1,0 +1,30 @@
+{
+  "id": "Annual Habit tracker",
+  "name": "Annual Habit tracker",
+  "slug": "annual-habit-tracker",
+  "description": "Habit Tracker is a powerful tool built in Notion &amp; designed to help you build and track positive habits for a more productive and life. With its intuitive and customizable interface, you can effortlessly monitor your daily routines, establish new habits, and stay motivated on your growth journey.Stay organized Habit Tracker allows you to create a personalized habit dashboard, where you can set up and track your habits effortlessly. Whether it’s fitness goals, reading habits, mindfulness prac",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Amna S.",
+    "url": "https://heyamna1.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bixgro",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bixgro",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.651Z",
+  "lastUpdated": "2026-01-12T20:47:12.651Z"
+}

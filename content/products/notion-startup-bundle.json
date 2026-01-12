@@ -1,0 +1,30 @@
+{
+  "id": "Notion Startup Bundle",
+  "name": "Notion Startup Bundle",
+  "slug": "notion-startup-bundle",
+  "description": "Setup your Company/Startup Notion workspace in minutes.Company HomeProject ManagementObjectives (OKRs)Client Management (CRM)If you’re looking to setup a custom Notion workspace for your team, get in touch with heyeaslo@gmail.com",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Easlo Academy",
+    "url": "https://easloacademy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bjplvj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bjplvj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 61,
+  "ratingCount": 61,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Company Home; Project Management; Objectives (OKRs); Client Management (CRM)",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.568Z",
+  "lastUpdated": "2026-01-12T20:47:12.568Z"
+}

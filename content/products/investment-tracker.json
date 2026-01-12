@@ -1,0 +1,30 @@
+{
+  "id": "Investment Tracker",
+  "name": "Investment Tracker",
+  "slug": "investment-tracker",
+  "description": "A Notion template to keep track of all your investments in one place.Our Notion dashboard simplifies tracking your investments and holdings across multiple accounts – from brokerage to crypto wallets.What's included?Get a clear view of your assets to make informed investment decisions. Achieve a balanced portfolio for better outcomes.Easily view your transaction history and improve your investing habits effortlessly.Embrace simplicity and manually enter your information to gain clarity and take ",
+  "price": 9,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fuTxv",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fuTxv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Get a clear view of your assets to make informed investment decisions. Achieve a balanced portfolio for better outcomes.; Easily view your transaction history and improve your investing habits effortlessly.; Embrace simplicity and manually enter your information to gain clarity and take charge of your financial information.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.548Z",
+  "lastUpdated": "2026-01-12T20:47:12.548Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Zettelkasten Box",
+  "name": "Notion Zettelkasten Box",
+  "slug": "notion-zettelkasten-box",
+  "description": "Introducing the Zettelkasten Method template for Notion: the ultimate organizational tool for writers, thinkers, and creatives everywhere. With this powerful template, you'll have everything you need to manage your notes, ideas, and random thoughts like never before. With a streamlined dashboard that displays all your cards at a glance, you'll stay on top of your notes with ease. The floating card feature lets you easily access cards that are not yet in their proper location. In addition, the se",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ali's Store",
+    "url": "https://alisstore.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fowhi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fowhi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 72,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.742Z",
+  "lastUpdated": "2026-01-12T20:47:12.742Z"
+}

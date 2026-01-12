@@ -1,0 +1,30 @@
+{
+  "id": "Client Portal",
+  "name": "Client Portal",
+  "slug": "client-portal-1",
+  "description": "Streamline your Client Communication and Sharing of Digital FilesClient Portal is a Notion template that provides an efficient and centralized platform for managing project details, gathering feedback, and seamlessly sharing information.Configure it for an unlimited number of clients.No more chasing scattered documents.Embed and preview documents like Figma files.Send a direct email invitation or create a shareable link.No monthly fees or complex setups.Ready to take your client communication to",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ipxfqp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ipxfqp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 90,
+  "ratingCount": 90,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Configure it for an unlimited number of clients.; No more chasing scattered documents.; Embed and preview documents like Figma files.; Send a direct email invitation or create a shareable link.; No monthly fees or complex setups.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.645Z",
+  "lastUpdated": "2026-01-12T20:47:12.645Z"
+}

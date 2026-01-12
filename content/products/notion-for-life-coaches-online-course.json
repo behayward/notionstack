@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Life Coaches: Online Course",
+  "name": "Notion for Life Coaches: Online Course",
+  "slug": "notion-for-life-coaches-online-course",
+  "description": "Unlock Your Coaching Potential with Notion for Life Coaches!Transform your coaching practice with Notion! This hands-on course equips life coaches with the tools and techniques to create a customized Notion dashboard that enhances workflow and client management. Dive deep into advanced features, integrations, and database structures, ensuring you leave with a fully functional system tailored to your coaching needs.Who is it For?This course is designed for intermediate life coaches looking to enh",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/kbmgs",
+  "affiliateUrl": "https://gumroad.com/a/145902419/kbmgs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "- Unlocking the Power of Notion; - Crafting Your Coaching Dashboard; - Building Complex Databases; - Formulas and Advanced Functionality; - Integrating Notion with Other Tools; - Optimizing Your Notion Experience; -Quizzes:Thought-provoking questions to test your knowledge.; -Assignments:Create your own Notion dashboard, build a client tracking database, implement Notion formulas, and integrate Notion with other tools.; -Practical Project:Design a fully functional Notion dashboard tailored to your coaching needs.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.380Z",
+  "lastUpdated": "2026-01-12T20:47:13.380Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "UXDesign OS",
+  "name": "UXDesign OS",
+  "slug": "uxdesign-os",
+  "description": "Freelancer's Ultimate UX Design Workflow Notion TemplateVisit Official WebsiteUnlock a streamlined workflow with our meticulously crafted Notion template tailored for solo UX designers. Whether you're just starting your freelance journey or you're a seasoned pro, our template is designed to bring clarity, structure, and efficiency to your projects, ensuring you never miss a beat.Features: Projects Dashboard: At a glance, view your project's name, current UX stage, status, deadlines, and budget. ",
+  "price": 7,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Heyismail",
+    "url": "https://heyismail.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fkprtm",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fkprtm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 18,
+  "ratingCount": 18,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "UX Stages: Track the progression of each project through stages like Discovery, Prototyping, User Testing, and more. Know precisely where you stand in the UX journey.; Integrated Projects View:Instantly see which projects are linked to each client.; Tasks Management:Break down every project into tasks. Assign deadlines, set priorities, and log hours. Every detail is a step closer to project completion.; Intuitive Relations:Our template uses Notion's relational properties to perfection. Link tasks to projects, projects to clients, and have all the data you need interconnected.; Feedback & File System:Upload essential files, jot down client feedback, and keep everything related to a project neatly organized in its respective space.; Maximized Productivity:No more juggling between scattered documents. Every piece of information you need is systematically organized and just a click away.; Clarity and Focus:With clearly defined UX stages, always know what needs your attention next.; Professional Approach:Impress clients with your systematic approach. Stay on top of feedback, revisions, and deliverables.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.913Z",
+  "lastUpdated": "2026-01-12T20:47:12.913Z"
+}

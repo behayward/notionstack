@@ -1,0 +1,30 @@
+{
+  "id": "Notion setup 2024",
+  "name": "Notion setup 2024",
+  "slug": "notion-setup-2024",
+  "description": "Esta es la plantilla del setup de Notion que estoy utilizando en 2024.En el siguiente vídeo explico cómo está estructurada la plantilla: https://youtu.be/I5FT-iI4p-8",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Maria Soriano",
+    "url": "https://mariasoriano.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wcfhwk",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wcfhwk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 20247,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.025Z",
+  "lastUpdated": "2026-01-12T20:47:13.025Z"
+}

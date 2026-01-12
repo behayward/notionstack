@@ -1,0 +1,30 @@
+{
+  "id": "The Notion Subscription Manager",
+  "name": "The Notion Subscription Manager",
+  "slug": "the-notion-subscription-manager",
+  "description": "Introducing the Notion Subscription Manager, a powerful tool built in Notion to help you manage all your subscriptions in one place.Check out the official product page here! 🚀Are you tired of losing track of your monthly or yearly subscriptions?With the Notion Subscription Manager, you can easily keep track of all your subscriptions, including the subscription type, amount, and renewal date. You can also set reminders for upcoming renewals, so you never miss a payment again.\"I was able to reduce",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Ops & Insights",
+    "url": "https://opsandinsights.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/arwwfd",
+  "affiliateUrl": "https://gumroad.com/a/962870099/arwwfd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 42,
+  "ratingCount": 42,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.704Z",
+  "lastUpdated": "2026-01-12T20:47:12.704Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Invoice Manager",
+  "name": "Invoice Manager",
+  "slug": "invoice-manager",
+  "description": "\"Simplify Your Billing, Maximize Your Efficiency!\"Effortlessly Manage Invoices and Proposals with our Notion TemplateWe are introducing our cutting-edge Invoice Manager 2.0, designed to streamline your invoicing process and boost your business efficiency. Whether you're a small business owner or managing a large enterprise, our Invoice Manager simplifies billing, ensures timely payments, and provides comprehensive financial oversight.What's Inside?Invoice TrackerInvoice TemplateClient PortfolioI",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Hansel Sapkota",
+    "url": "https://hanselsapkota.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nnavqj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nnavqj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": 214,
+  "tags": [],
+  "useCases": [],
+  "features": "Invoice Tracker; Invoice Template; Client Portfolio; Invoice manager; Invoice Table; Monthly Report; Project Status; Product Detail; Analog Clock; Automated Invoicing:Create and send professional invoices automatically, reducing manual work and eliminating errors.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.143Z",
+  "lastUpdated": "2026-01-12T20:47:13.143Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "OptiOpp CRM",
+  "name": "OptiOpp CRM",
+  "slug": "optiopp-crm",
+  "description": "The OptiOpp CRM (Customer Relationship Management) system implemented within Notion takes inspiration from the data model of Salesforce, a widely-used CRM platform. By leveraging the flexibility and customizability of Notion, this CRM aims to provide a comprehensive solution for managing customer interactions and improving sales processes.Professional CRM Ad-OnsInvoicingSharing invoices through Notion provides a user-friendly and collaborative platform, enhancing client communication and transpa",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Benjamin Taylor",
+    "url": "https://bentayloroptiopp.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sikby",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sikby",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 198,
+  "ratingCount": 198,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Video walkthroughs of how to use the features above; 15+ new views to help you analyze your data; More database and button automations; Insights database for improved Account & Opportunity Analytics; Introduction of Projects & Files databases; Improved navigation",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.974Z",
+  "lastUpdated": "2026-01-12T20:47:12.974Z"
+}

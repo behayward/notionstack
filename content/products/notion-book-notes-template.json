@@ -1,0 +1,30 @@
+{
+  "id": "Notion Book Notes Template",
+  "name": "Notion Book Notes Template",
+  "slug": "notion-book-notes-template",
+  "description": "Any type of reading is better than no consumption at all, so to give myself \"permission\" to read without having to worry about taking comprehensive notes, I came up with a book notes system that allowed me to dial up or down my commitment to the book.This let me worry less about the notes I felt like I had to take and just start reading!Check out my full Notion course: Build Your Command Center in Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Jeff Su",
+    "url": "https://jeffsu.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ybxxui",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ybxxui",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 17,
+  "ratingCount": 17,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.758Z",
+  "lastUpdated": "2026-01-12T20:47:12.758Z"
+}

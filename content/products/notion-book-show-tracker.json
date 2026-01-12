@@ -1,0 +1,30 @@
+{
+  "id": "Notion Book & Show Tracker",
+  "name": "Notion Book & Show Tracker",
+  "slug": "notion-book-show-tracker",
+  "description": "An easy-to-use minimal template to track the books you read and the shows you watch.A combined system to track and filter your favorite books and shows.With the template you get 3 trackers at once:Book TrackerSeries TrackerA Combined Tracker to see everything you need all at onceA minimal and aesthetic template to keep track of your progress in the books you are reading and the shows you are watching.Categorize your readings by:AuthorGenreReading StatusFavoritesCategorize your series by:Platform",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Fiction",
+    "url": "https://fictionio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hqkah",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hqkah",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 13,
+  "ratingCount": 13,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Book Tracker; Series Tracker; A Combined Tracker to see everything you need all at once; Reading Status; Release Date",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.764Z",
+  "lastUpdated": "2026-01-12T20:47:12.764Z"
+}

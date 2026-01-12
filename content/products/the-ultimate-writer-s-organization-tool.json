@@ -1,0 +1,30 @@
+{
+  "id": "The Ultimate Writer's Organization Tool",
+  "name": "The Ultimate Writer's Organization Tool",
+  "slug": "the-ultimate-writer-s-organization-tool",
+  "description": "This is a template version of the Notion spreadsheet I use to plan, draft, write, and store all of my content. This template is helpful forAll kinds of stats analysisGetting a visual view of your content spread across topics and datesOrganizing a story idea from conception all the way until publishedStoring backup copies of all your published content in one place.Please read the information post for a How-To guide. For further learning, please read my post about how I personally use this tool.To",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "student",
+  "creator": {
+    "name": "Charlie",
+    "url": "https://happinesswithcharlie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wkvbz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wkvbz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "All kinds of stats analysis; Getting a visual view of your content spread across topics and dates; Organizing a story idea from conception all the way until published; Storing backup copies of all your published content in one place.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.036Z",
+  "lastUpdated": "2026-01-12T20:47:13.036Z"
+}

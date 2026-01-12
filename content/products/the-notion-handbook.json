@@ -1,0 +1,30 @@
+{
+  "id": "The Notion Handbook",
+  "name": "The Notion Handbook",
+  "slug": "the-notion-handbook",
+  "description": "A Wide Collection of Notion Resources at Your Fingertips.Getting the hang of Notion can be confusing and overwhelming. When I first started, I had no idea what to do on top of having no idea what I could do inside Notion. \"Wait, I can use chrome extensions?\"\"Wait, I can upload custom icons??\"\"Wait, I can embed cool widgets???\"Obviously, there was a lot for me to figure out. And that's exactly why I made The Notion Handbook.This is the exact template I wish I had when I first started using Notion",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Bri",
+    "url": "https://bridoesthings.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/prhkp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/prhkp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Tools & widgets; Chrome extensions; Template inspiration; Website Builders; Communities; Marketplace",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.849Z",
+  "lastUpdated": "2026-01-12T20:47:12.849Z"
+}

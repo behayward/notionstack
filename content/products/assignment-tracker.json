@@ -1,0 +1,30 @@
+{
+  "id": "Assignment Tracker",
+  "name": "Assignment Tracker",
+  "slug": "assignment-tracker",
+  "description": "Assignment Tracker — Never Miss an Assignment Again. The Assignment Tracker is a simple but powerful Notion Featured academic task manager. Designed for straightforward, efficient students looking to save time and ace their grades.Featuring a robust task management system with a dynamic \"Days Left\" function, priority status, assignment types ranging from exams, quizzes, activities, homework, to group presentations, and course details, you will never forget a task ever again.Features Task Tracker",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Kevechino",
+    "url": "https://kevechino.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lgtag",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lgtag",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 40,
+  "ratingCount": 40,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Task Tracker:A comprehensive database with priority, assignment type, course, and a dynamic \"Days Left\" function.; Calendar:A simplistic yet informative calendar designed to show critical information at a glance.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.045Z",
+  "lastUpdated": "2026-01-12T20:47:13.045Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Student OS (Dashboard)",
+  "name": "Student OS (Dashboard)",
+  "slug": "student-os-dashboard",
+  "description": "Student O.SElevate your student experience with the Student OS Dashboard – your ultimate academic companion tailored for success. This meticulously designed Notion template empowers you to excel in your studies while efficiently managing your endeavors.Features that redefine your academic journey:1. Class Manager: Seamlessly navigate your courses and stay on top of your academic commitments effortlessly.2. Assignment Organizer: Experience a new level of assignment management. Receive reminders f",
+  "price": 9.99,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "System Flow Lab",
+    "url": "https://systemflowlab.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/euxks",
+  "affiliateUrl": "https://gumroad.com/a/962870099/euxks",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": 81,
+  "tags": [],
+  "useCases": [],
+  "features": "Advanced Importing Method:Effortlessly bring in your academic data with an advanced importing method, ensuring a smooth transition of information into your Student OS 2.0.; Enhanced Automatic Grade Calculator:Gain a deeper understanding of your academic performance with an improved grade calculator.; Cleaner Interface:Experience a sleek and organized interface that enhances clarity, making it easier than ever to manage your academic and personal tasks in one centralized location.; Advanced Filter:Navigate through your courses and assignments with precision using an advanced filtering system, allowing you to focus on specific tasks; Quick Access Buttons:Accelerate your efficiency with quick access buttons, providing instant entry to essential features and tools, saving you valuable time.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.166Z",
+  "lastUpdated": "2026-01-12T20:47:13.166Z"
+}

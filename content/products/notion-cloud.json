@@ -1,0 +1,30 @@
+{
+  "id": "Notion Cloud",
+  "name": "Notion Cloud",
+  "slug": "notion-cloud",
+  "description": "The Simplest Way To Backup Your Digital Life!Do You Backup Your Digital Files?How would you feel if you would lose all of your personal files, documents, school and work papers, passwords, diaries, website login details, digital photographs and videos, financial statements and receipts? That would be quite tragic, right?Save Your Photos And Files To Notion Cloud And Access Them From Any Device, Anywhere.Enjoy the freedom to access, edit, and share your files on all your devices, wherever you are",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "iNotion",
+    "url": "https://inotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/39386835/foqru",
+  "affiliateUrl": "https://gumroad.com/a/39386835/foqru",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Notion Cloud Dashboard: All Files, All Folders, File Types, Starred, Documents, Images, Videos, Audios (get easy and secure access to your files); File Formats: Images, Documents, Videos, Audios (all formats you will ever need); Image Formats: JPEG, GIF, SVG, PNG, TIFF (store your photos); Document Formats: PDF, DOC, DOCX, HTML, XLS, XLSX, PPT, PPTX, ODP, KEY, TXT (store important documents you don’t want to lose); Video Formats: MP4, AVI, MOV, FLV, AVCHD (store your favourite movies); Audio Formats: M4A, MP3, WAV (store your favourite music); Unlimited Storage (don’t limit yourself by the size of your files)",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.668Z",
+  "lastUpdated": "2026-01-12T20:47:13.668Z"
+}

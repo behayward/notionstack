@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Personal Assistants: Online Course",
+  "name": "Notion for Personal Assistants: Online Course",
+  "slug": "notion-for-personal-assistants-online-course",
+  "description": "Unlock the Power of Notion for Personal Assistants!Unlock the full potential of Notion with this immersive course designed specifically for Personal Assistants. Dive deep into advanced functionalities and learn how to create a customized task management system that will revolutionize your workflow. By the end of this course, you'll have a comprehensive Notion dashboard tailored for your unique needs, empowering you to manage tasks with unparalleled efficiency.Who is it For?This course is tailor-",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/aneuw",
+  "affiliateUrl": "https://gumroad.com/a/145902419/aneuw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Personal Assistants; - Employers; Basic understanding of Notion; - Familiarity with database concepts; - Basic knowledge of Python for API integration; Advanced Notion Fundamentals; 2. Crafting a Cohesive Data Structure; 3. Integrating Tools for Enhanced Productivity; 4. Mastering Notion Formulas",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.377Z",
+  "lastUpdated": "2026-01-12T20:47:13.377Z"
+}

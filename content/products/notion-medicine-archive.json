@@ -1,0 +1,30 @@
+{
+  "id": "Notion: Medicine Archive",
+  "name": "Notion: Medicine Archive",
+  "slug": "notion-medicine-archive",
+  "description": "Simplify medication management with our Notion Medicine Archive! Features a table view for drug intake records: name, price, intake numbers, detailed notes. Stay organized and track adherence efficiently!🔑Key Components🔑Comprehensive Record Keeping🧐Maintain a detailed record of your medication intake with a structured table view, Including essential details such as drug name, price, intake numbers, and detailed notes for each entry.Efficient Tracking🔍Easily track medication usage and adherence o",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Aldwin Nou",
+    "url": "https://aldwinnv.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/asipkz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/asipkz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Maintain a detailed record of your medication intake with a structured table view,; Including essential details such as drug name, price, intake numbers, and detailed notes for each entry.; Efficient Tracking🔍Easily track medication usage and adherence over time,Ensuring you stay organized and compliant with your prescribed treatment plan.; Easily track medication usage and adherence over time,; Ensuring you stay organized and compliant with your prescribed treatment plan.; Customize record fields to capture additional information or specific details relevant to your medication management needs,; Providing flexibility and tailored data management.; Customizable Data Fields✏️Access medication information easily and conveniently,Facilitating quick reference and informed decision-making regarding medication usage and management.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.047Z",
+  "lastUpdated": "2026-01-12T20:47:13.047Z"
+}

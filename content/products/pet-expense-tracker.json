@@ -1,0 +1,30 @@
+{
+  "id": "Pet Expense Tracker",
+  "name": "Pet Expense Tracker",
+  "slug": "pet-expense-tracker",
+  "description": "For pet owners, this tracker helps you manage expenses related to pet care, including food, veterinary visits, grooming, and medications.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc Template: A template f",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/vfmqs",
+  "affiliateUrl": "https://gumroad.com/a/402782931/vfmqs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; View all your Pet care Related Expenses in one glance.; Add all the different categories for pet related expenses such asBasic Care Expenses, Healthcare Expenses,orOtherexpenses.; CalculateTotal Expense Amount,Set Budgeted Expense Amountand% of Budgeted Expense Paid.; Get a complete summary of all expenses incurred under one glance.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.715Z",
+  "lastUpdated": "2026-01-12T20:47:13.715Z"
+}

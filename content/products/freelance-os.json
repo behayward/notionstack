@@ -1,0 +1,30 @@
+{
+  "id": "Freelance OS",
+  "name": "Freelance OS",
+  "slug": "freelance-os",
+  "description": "Manage your freelance business in NotionThis Notion template is an all-in-one dashboard for clients, projects, and meeting notes. If you have tried juggling multiple tools, you know how information can become scattered and distracting. In this dashboard, information is consolidated in one place and related to each other, making it easy to find what you need.What's included? Client Relationship Manager (CRM) Deals Pipeline Management Projects &amp; Tasks Management Meeting Notes OKRs Tracker Invo",
+  "price": 79,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/602107091/gpckg",
+  "affiliateUrl": "https://gumroad.com/a/602107091/gpckg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 48,
+  "ratingCount": 48,
+  "salesCount": 855,
+  "tags": [],
+  "useCases": [],
+  "features": "Client Relationship Manager (CRM); Deals Pipeline Management; Projects & Tasks Management; Meeting Notes; OKRs Tracker; Invoice Tracker; Resource Library",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.432Z",
+  "lastUpdated": "2026-01-12T20:47:13.432Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Food and Beverage Cost Tracker",
+  "name": "Food and Beverage Cost Tracker",
+  "slug": "food-and-beverage-cost-tracker",
+  "description": "Ideal for those who are looking to track their food and beverage costs, this tracker helps you keep track of food and beverage expenses, setting budget, assessing consumption and much more.Are you looking for a tracker to keep track of food and beverage expenses?This tracker is perfect to add food and beverage related details, add expenses, set consumption as well all under one glance.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certif",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/pkuny",
+  "affiliateUrl": "https://gumroad.com/a/402782931/pkuny",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.757Z",
+  "lastUpdated": "2026-01-12T20:47:13.757Z"
+}

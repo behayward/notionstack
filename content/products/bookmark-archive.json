@@ -1,0 +1,30 @@
+{
+  "id": "Bookmark Archive",
+  "name": "Bookmark Archive",
+  "slug": "bookmark-archive",
+  "description": "Save now and read whenever you want.How many times an interesting article catches your attention but you don't have the time to read it? Don't miss important news or articles, save them with a click in your Notion library and read them whenever you want.Create your digital newsstandThe browser extension \"Save to Notion\" (already integrated with the mobile app), helps you save everything you find online into a Notion database:Click the share buttonSelect NotionSave the article into a database Ess",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "reading",
+  "creator": {
+    "name": "Dave",
+    "url": "https://iamdave.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/620903123/dyhbq",
+  "affiliateUrl": "https://gumroad.com/a/620903123/dyhbq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 65,
+  "ratingCount": 65,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Click the share button; Select Notion; Save the article into a database; Bookmark Database; Category & Source gallery box; Articles Widget counter; Can I share this template with anyone else?No. This product has a private license. If you want to share it with someone, please direct them tothis page.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.676Z",
+  "lastUpdated": "2026-01-12T20:47:13.676Z"
+}

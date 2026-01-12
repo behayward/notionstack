@@ -1,0 +1,30 @@
+{
+  "id": "Inventory Tracker for Small Business",
+  "name": "Inventory Tracker for Small Business",
+  "slug": "inventory-tracker-for-small-business",
+  "description": "Only tool you need to manage your inventory for small business effectively in a one-glance view.Do you feel overwhelmed managing your inventory and still feel lost what you need to re-order and what not to?This Notion template is all you need to manage all your inventory like with a simple and easy to use interface setting re-order levels, assigning valuation principles and much more.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certifi",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/mmzpk",
+  "affiliateUrl": "https://gumroad.com/a/402782931/mmzpk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.698Z",
+  "lastUpdated": "2026-01-12T20:47:13.698Z"
+}

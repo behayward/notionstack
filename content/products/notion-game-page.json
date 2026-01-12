@@ -1,0 +1,30 @@
+{
+  "id": "Notion Game Page",
+  "name": "Notion Game Page",
+  "slug": "notion-game-page",
+  "description": "What would it be like to be able to play games without leaving Notion?We all get bored at working sometimes and need a chill out. For this, I collected 11 simple games and prepared a game page.You can get your own copy of Notion for free.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Ahmet Deveci",
+    "url": "https://ahmetdeveci.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/quxtq",
+  "affiliateUrl": "https://gumroad.com/a/962870099/quxtq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.600Z",
+  "lastUpdated": "2026-01-12T20:47:12.600Z"
+}

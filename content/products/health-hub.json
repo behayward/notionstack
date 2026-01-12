@@ -1,0 +1,30 @@
+{
+  "id": "Health hub",
+  "name": "Health hub",
+  "slug": "health-hub",
+  "description": "Health Hub OS in NotionVisit Official WebsiteOverview:The Health Hub OS is an all-inclusive digital ecosystem in Notion designed to holistically manage, track, and reflect on various aspects of your health and well-being. With user-friendly databases and detailed logging capabilities, users can gain insights into their health patterns, track progress, and work towards achieving their personal health goals.Key Features: Good Sleep Tracker:Track the quality, duration, and patterns of your sleep. U",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Heyismail",
+    "url": "https://heyismail.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/deczkh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/deczkh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 38,
+  "ratingCount": 38,
+  "salesCount": 688,
+  "tags": [],
+  "useCases": [],
+  "features": "Good Sleep Tracker:Track the quality, duration, and patterns of your sleep. Understand the factors affecting your sleep and ensure you’re getting the restorative rest you need.; Healthy Meals Database:A visual diary of your meals, complete with ingredients, macronutrients, and recipes. Understand your diet and make informed food choices.; Water Intake Tracker:Stay hydrated! Track daily water intake and set reminders to drink at regular intervals.; Doctor Visits Database:Keep a log of medical appointments, prescribed medications, and important advice from healthcare professionals. Never forget a follow-up or overlook a prescription.; Exercise & Physical Activity Tracker:Whether it's cardio, strength training, or yoga, record your workouts, their intensity, and calories burned. Monitor your fitness journey and set new milestones.; Mental Health & Mood Diary:Reflect on your mental state, identify triggers, and document self-care routines. A safe space to express and understand your feelings.; Medication & Supplements Tracker:Never miss a dose again. Track your medications, supplements, their purposes, and intake schedules.; Centralized Health Overview: Get a bird's eye view of all aspects of your health in one place.; Informed Decision Making: Make health decisions based on accumulated data and personal trends.; Goal Setting & Achievement: Set health targets, track progress, and celebrate achievements.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.040Z",
+  "lastUpdated": "2026-01-12T20:47:13.040Z"
+}

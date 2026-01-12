@@ -1,0 +1,30 @@
+{
+  "id": "DaySense",
+  "name": "DaySense",
+  "slug": "daysense",
+  "description": "Introducing DaySense, your AI-driven daily scheduling assistant within Notion. DaySense isn't just another scheduling tool; it's your personalized time management powerhouse. Here's what it brings to your table:Optimized Daily Planning: Your AI scheduler, meticulously crafting your day with precision, ensuring that every task, break, and commitment finds its perfect slot.Weekly Overview: Your foresight oracle, offering a bird's-eye view of your week, ensuring that long-term projects, meetings, a",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Hunter Bohm",
+    "url": "https://thehunterbohm.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/oyliu",
+  "affiliateUrl": "https://gumroad.com/a/962870099/oyliu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 24,
+  "ratingCount": 24,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Optimized Daily Planning: Your AI scheduler, meticulously crafting your day with precision, ensuring that every task, break, and commitment finds its perfect slot.; Weekly Overview: Your foresight oracle, offering a bird's-eye view of your week, ensuring that long-term projects, meetings, and personal commitments are harmoniously balanced.; Personalized Time Blocks: Your time management guru, creating tailored time blocks based on your preferences, energy levels, and priorities, ensuring you're always at your productive best.; Seamless Notion Integration: No need for external apps or tools. DaySense is built within Notion, ensuring a seamless user experience and easy adaptability.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.735Z",
+  "lastUpdated": "2026-01-12T20:47:12.735Z"
+}

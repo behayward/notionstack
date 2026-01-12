@@ -1,0 +1,30 @@
+{
+  "id": "100 Days of Code Journal",
+  "name": "100 Days of Code Journal",
+  "slug": "100-days-of-code-journal",
+  "description": "Notion template for people who are doing 100 Days of code challenge. record and track your progress with ease.Features Progress bar to display your progress. Pages for all 100 days already created. Quick links to useful websites. FAQDoes this work on the free version of Notion?Yes. Once you download, you'll get a link to the template you can duplicate it and use as you like. How to download this template?Go to the template page, then click \"Duplicate\" on the top right corner to duplicate it to y",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Tony David",
+    "url": "https://tonydavid.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mkgui",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mkgui",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 252,
+  "ratingCount": 252,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Progress bar to display your progress.; Pages for all 100 days already created.; Quick links to useful websites.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.533Z",
+  "lastUpdated": "2026-01-12T20:47:12.533Z"
+}

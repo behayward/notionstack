@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Barbers: Online Course",
+  "name": "Notion for Barbers: Online Course",
+  "slug": "notion-for-barbers-online-course",
+  "description": "Transform Your Barbering Business with Notion for Barbers!Unlock the power of Notion to revolutionize your barbering business! This intermediate-level course is designed specifically for barbers who have a basic understanding of Notion but are eager to dive deeper. By the end of this course, you will transform an empty canvas into a dynamic dashboard that streamlines your tasks, manages client interactions, and enhances your overall productivity. Get ready to master advanced features like formul",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/tulqn",
+  "affiliateUrl": "https://gumroad.com/a/145902419/tulqn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate users looking to enhance their Notion skills and business operations.; -Audience:Barbers looking to enhance their business management skills, students who want to improve their productivity using Notion, professionals aiming to create a customized digital workspace.; Basic understanding of Notion's interface and features; - Familiarity with database concepts; - Willingness to learn about API integration using Python; - Motivation to streamline barbering operations; - Commitment to invest time in learning; 1. From Basics to Brilliance: Setting Up Your Notion Workspace; 2. Crafting Your Client Management System",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.363Z",
+  "lastUpdated": "2026-01-12T20:47:13.363Z"
+}

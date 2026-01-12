@@ -1,0 +1,30 @@
+{
+  "id": "Notion Income Tracker",
+  "name": "Notion Income Tracker",
+  "slug": "notion-income-tracker",
+  "description": "\"Are you tired of manually tracking your income? Introducing the ultimate solution: the Notion Income Tracker\"With this powerful tool, you can easily track your income, sources, and variations of income and see overall financial gains all in one convenient place!Our tracker seamlessly integrates with your Notion account and allows you to easily categorize your income sources, set the frequency of income, and much more.Plus, it's customizable to fit your specific needs.Say goodbye to the tedious ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/yyumdw",
+  "affiliateUrl": "https://gumroad.com/a/402782931/yyumdw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": 259,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Income Sources(i.e. Salary, Side Hustle, and Other Income),; Income Frequencies(monthly, half-yearly, quarterly, annually, one time),; Income divided into 4 quarters; Provide theincome details(such as Salary income, Side Hustle income, etc).; Provide theperiod of Income(such as Jan 2023, Feb 2023, Mar 2023, etc).; Provide theincome source(such as Salary, Side Hustle, or Other incomes).; Provide thefrequency of income(such as Monthly, Quarterly, Half-yearly, One Time, Annual etc).",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.685Z",
+  "lastUpdated": "2026-01-12T20:47:13.685Z"
+}

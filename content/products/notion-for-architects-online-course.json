@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Architects: Online Course",
+  "name": "Notion for Architects: Online Course",
+  "slug": "notion-for-architects-online-course",
+  "description": "Unlock the full potential of Notion tailored specifically for architects!This immersive course is designed to elevate your project management and organizational skills through advanced Notion setups. Learn to create intricate databases, smooth workflows, and powerful integrations that will transform your architectural practice. By the end of this journey, youâll have a customized Notion dashboard that enhances collaboration and efficiency, making your architectural tasks not just manageable, b",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/fnpic",
+  "affiliateUrl": "https://gumroad.com/a/145902419/fnpic",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate; -Audience: Architects looking to streamline their practice, Project Managers seeking efficient task management, Clients wanting enhanced collaboration.; Basic knowledge of Notion interface; - Familiarity with architectural project management; - Understanding of database concepts; 1. Architectural Foundations: Setting Up Your Notion Workspace; 2. Crafting Complex Databases: The Heart of Your Setup; 3. Mastering Notion Formulas: Elevate Your Data Analysis; 4. Integrating Notion with Other Tools: Expanding Your Capabilities",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.341Z",
+  "lastUpdated": "2026-01-12T20:47:13.341Z"
+}

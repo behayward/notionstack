@@ -1,0 +1,30 @@
+{
+  "id": "Bookmark Manager OS",
+  "name": "Bookmark Manager OS",
+  "slug": "bookmark-manager-os",
+  "description": "Capture and manage your Bookmarks in NotionA simple and aesthetic bookmark manager that centralizes all your bookmarks into your digital workspace.How does it work? Capture your web bookmarks with Notion web clipper, Importing from browser, or with automation. Classify and organize by status and topic. Interact with your saved for later, unread, favorite, or archived bookmarks. What's included? Home page with guide Main dashboard All-In-One view of the system Bookmarks Folders Collections 4 inte",
+  "price": 15,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/661958867/uaeky",
+  "affiliateUrl": "https://gumroad.com/a/661958867/uaeky",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 101,
+  "ratingCount": 101,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Capture your web bookmarks with Notion web clipper, Importing from browser, or with automation.; Classify and organize by status and topic.; Interact with your saved for later, unread, favorite, or archived bookmarks.; Home page with guide; Main dashboard; All-In-One view of the system; Collections; 4 integrations",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.510Z",
+  "lastUpdated": "2026-01-12T20:47:13.510Z"
+}

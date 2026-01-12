@@ -1,0 +1,30 @@
+{
+  "id": "Simple Subscription Tracker",
+  "name": "Simple Subscription Tracker",
+  "slug": "simple-subscription-tracker",
+  "description": "Start saving money today by cancelling under-utilized servicesSubscription Tracker is a subscription management tool for keeping track of all your monthly and yearly subscriptions, thus allowing you to be reminded of the actions required before auto-renewal payments kick in.Recurring subscriptions add up really quickly and you would be surprised to find out the total amount you're paying each month!Features Auto-calculate monthly/yearly costs by subscription typeAuto-calculate renewal payment da",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Kevin",
+    "url": "https://turtleinvestor.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/htxpz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/htxpz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Auto-calculate monthly/yearly costs by subscription type; Auto-calculate renewal payment date; Custom categories for subscriptions; Monthly view of subscriptions by category type; Yearly view of subscriptions by category type; Search, filter and sort subscriptions; Notion template; Tutorial guide on how to use the template; Sample entries included to demonstrate usage; Lifetime access and updates",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.559Z",
+  "lastUpdated": "2026-01-12T20:47:12.559Z"
+}

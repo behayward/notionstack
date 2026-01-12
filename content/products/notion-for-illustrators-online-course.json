@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Illustrators: Online Course",
+  "name": "Notion for Illustrators: Online Course",
+  "slug": "notion-for-illustrators-online-course",
+  "description": "Master Notion for Illustrators and Transform Your Workflow!Unlock the full potential of Notion and transform your illustration workflow! This course is designed specifically for intermediate illustrators looking to elevate their productivity and project management skills. By the end of this course, you will have a customized Notion workspace that not only organizes your tasks but also enhances your creative process. Dive deep into advanced features, learn to integrate with other tools, and creat",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/nruduy",
+  "affiliateUrl": "https://gumroad.com/a/145902419/nruduy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic knowledge of Notion's interface and features.; - Familiarity with project management concepts.; - Understanding of database structures.; 1. Crafting Your Notion Foundation; 2. Advanced Data Structuring Techniques; 3. Formulas That Work for You; 4. Creating a Visually Appealing Dashboard; 5. Integrating Notion with Other Tools; 6. API Integration and Beyond",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.332Z",
+  "lastUpdated": "2026-01-12T20:47:13.332Z"
+}

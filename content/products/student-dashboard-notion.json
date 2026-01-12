@@ -1,0 +1,30 @@
+{
+  "id": "Student Dashboard | Notion",
+  "name": "Student Dashboard | Notion",
+  "slug": "student-dashboard-notion",
+  "description": "The Notion Student OS allows you to manage every bit of your academic life so you don't need to run around between different apps just trying to figure out one thing. You get everything at the same place. No need for Google Calendar, Todoist, Evernote, timetable and 100s of PDFs, prints and still asking your friend if you missed out on something. You getQuick Notes and plannerImportant links and filesAssignmentsStatistics tracking your academic credits and semester timelineCoursesProfessors &amp",
+  "price": 50,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Shreyansh Kumar",
+    "url": "https://voyagerx9.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/brpnyb",
+  "affiliateUrl": "https://gumroad.com/a/962870099/brpnyb",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Quick Notes and planner; Important links and files; Assignments; Statistics tracking your academic credits and semester timeline; Professors & TFs/TAs details; Calendar with upcoming exams and holidays; \"Today's Classes\" (pretty advanced)",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.833Z",
+  "lastUpdated": "2026-01-12T20:47:12.833Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Journal",
+  "name": "Journal",
+  "slug": "journal",
+  "description": "Your Personal Diary for Daily Journal, Fitness Journey, and Travels.Log your thoughts and memories, allowing you to reflect on your past experiences and cherished moments. Unlimited entries: You can add as many journal entries as you like with your free Notion account. On This Day: Time travel back in time to revisit your past experiences. Multiple Journals: Create separate journals to group your entries, whether to document your fitness journey or travel adventures. Start journaling and gain cl",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hmsuy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hmsuy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 217,
+  "ratingCount": 217,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Unlimited entries:You can add as many journal entries as you like with your free Notion account.; On This Day:Time travel back in time to revisit your past experiences.; Multiple Journals:Create separate journals to group your entries, whether to document your fitness journey or travel adventures.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.250Z",
+  "lastUpdated": "2026-01-12T20:47:13.250Z"
+}

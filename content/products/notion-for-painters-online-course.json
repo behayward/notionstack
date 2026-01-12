@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Painters: Online Course",
+  "name": "Notion for Painters: Online Course",
+  "slug": "notion-for-painters-online-course",
+  "description": "Transform Your Painting Process with Notion for Painters!Unlock the true potential of your painting practice with our intensive course on Notion! Designed specifically for painters, this course will guide you from an empty page to a fully functional dashboard tailored to your artistic needs. Dive deep into advanced features, learn to integrate with other tools, and master the art of organization to elevate your painting process. Get ready to transform chaos into clarity!Who is it For?This course",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/yotzh",
+  "affiliateUrl": "https://gumroad.com/a/145902419/yotzh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Painters looking to improve their organizational skills; - Art instructors; - Freelance artists; Basic knowledge of Notion features; - Familiarity with painting tasks and organization; - Understanding of basic database concepts; Diving into Notion's Advanced Features; 2. Building Your Notion Database; 3. Crafting Your Dashboard: The Heart of Your System; 4. Mastering Notion Formulas",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.335Z",
+  "lastUpdated": "2026-01-12T20:47:13.335Z"
+}

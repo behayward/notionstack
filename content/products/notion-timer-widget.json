@@ -1,0 +1,30 @@
+{
+  "id": "Notion Timer Widget",
+  "name": "Notion Timer Widget",
+  "slug": "notion-timer-widget",
+  "description": "Notion Timer Widget: The Time Management Accessory for Your Workspace!Transform the way you track time in your Notion workspace with our brand-new Notion Timer Widget. This isn't just a timer; it's a seamless integration of style and functionality, tailored to enhance your productivity and focus. Perfect for those who value both efficiency and aesthetics in their workspace.Tired of Clunky, unresponsive Timers? We Were Too!We understand the frustration of using timers that don't quite fit your wo",
+  "price": 12.99,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Matt Shelton",
+    "url": "https://matthewshelton.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/krabn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/krabn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Morning Boost:Start your day with calming blueish hues, energizing you for the tasks ahead.; Afternoon Vibrance:Keep your momentum with warm oranges and yellows, inspired by the sun's energy.; Evening Wind Down:Soothe into your evening with relaxing red and purple hues, helping you transition into rest.; Responsive Design:Adapts seamlessly to your workspace layout.; Dual Styles:Choose between two elegant designs to match your preference.; Adaptive Background:Color schemes change with the time of day, aligning with your natural rhythm.; Focus Enhancer:Designed to keep you productive, attentive, and on track.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.060Z",
+  "lastUpdated": "2026-01-12T20:47:13.060Z"
+}

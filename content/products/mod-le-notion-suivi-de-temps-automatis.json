@@ -1,0 +1,30 @@
+{
+  "id": "Modèle Notion - Suivi de temps automatisé",
+  "name": "Modèle Notion - Suivi de temps automatisé",
+  "slug": "mod-le-notion-suivi-de-temps-automatis",
+  "description": "Ce modèle Notion pour le suivi du temps par projet est une solution automatisée pour gérer efficacement votre temps de travail sur divers projets ⏳ Il utilise deux bases de données principales : les projets et les sessions de travail. Chaque session de travail est horodatée et attribuée à un projet spécifique, permettant ainsi un suivi précis du temps passé. L'automatisation Notion assure le décompte des minutes pour chaque session de travail et les récapitule dans le projet correspondant, en fo",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Lou Attal",
+    "url": "https://louattal.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/knmqj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/knmqj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Une meilleure organisation et gestion du temps grâce àun suivi précisdes sessions de travail.; Unemeilleure visibilité sur le temps passésur chaque projet, permettant une planification et une allocation des ressources plus efficaces.; La possibilité de stocker des idées de tâches pour un moment ultérieur, favorisant ainsi unemeilleure gestion des prioritéset une efficacité accrue.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.207Z",
+  "lastUpdated": "2026-01-12T20:47:13.207Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Simple Notion Blog Template",
+  "name": "Simple Notion Blog Template",
+  "slug": "simple-notion-blog-template",
+  "description": "If you are thinking about creating your own blog using Notion, this is the best template you can use to do just that.See Template in Action*The template works ideally with Simple.Ink - Using Simple.ink you can add a menu, footer and other design options.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "content",
+  "creator": {
+    "name": "Daniel Marthi",
+    "url": "https://danielmarthi.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/cpjba",
+  "affiliateUrl": "https://gumroad.com/a/962870099/cpjba",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.223Z",
+  "lastUpdated": "2026-01-12T20:47:13.223Z"
+}

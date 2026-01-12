@@ -1,0 +1,30 @@
+{
+  "id": "Bold Idea Generator Engine - BIG-E",
+  "name": "Bold Idea Generator Engine - BIG-E",
+  "slug": "bold-idea-generator-engine-big-e",
+  "description": "Use BIG-E to generate investable project and business ideas. Automated thinking system powered by Notion &amp; ChatGPT.The 3-step process: Idea -&gt; Concept -&gt; EU calls. STEP 1:Insert or/and adjust: Number of ideas (you want to create) Technology (you want to use) Industry (you want to tackle) Impact (you want to create) Target group (you want to help) Mental model (powering thinking) STEP 2: Elaborate your idea using an advanced mega-prompt Breakdown your idea into: Problem &amp; Solution, ",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Kristjan Zemljic & Maja Novak",
+    "url": "https://globaldisruption.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gwhhu",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gwhhu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 51,
+  "ratingCount": 51,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Number of ideas (you want to create); Technology (you want to use); Industry (you want to tackle); Impact (you want to create); Target group (you want to help); Mental model (powering thinking); Elaborate your idea using an advanced mega-prompt; Breakdown your idea into:Problem & Solution,Workpackages,Value Chain,The next steps.; Problem & Solution,; Workpackages,",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.605Z",
+  "lastUpdated": "2026-01-12T20:47:12.605Z"
+}

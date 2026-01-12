@@ -1,0 +1,30 @@
+{
+  "id": "Personal Finance Tracker",
+  "name": "Personal Finance Tracker",
+  "slug": "personal-finance-tracker-1",
+  "description": "Keep track of your personal incomes and expenses in Notion.Includes monthly reports, yearly reports, monthly recurring incomes, monthly recurring expenses, classic table view and a one page guide on how to use the template.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Chin",
+    "url": "https://chchin.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/dSgnA",
+  "affiliateUrl": "https://gumroad.com/a/962870099/dSgnA",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 24,
+  "ratingCount": 24,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.569Z",
+  "lastUpdated": "2026-01-12T20:47:12.569Z"
+}

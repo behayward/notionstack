@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Pharmacists: Online Course",
+  "name": "Notion for Pharmacists: Online Course",
+  "slug": "notion-for-pharmacists-online-course",
+  "description": "Transform Your Pharmacy Workflow with Notion for Pharmacists!Unlock the full potential of Notion tailored specifically for pharmacists! This intensive course is designed to guide you through the intricacies of Notion, transforming you from a basic user into a master of organization. You'll learn how to create a personalized Notion setup that streamlines your daily operations and enhances productivity. Get ready to dive deep into advanced features, integrations, and database management that will ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/jwhpft",
+  "affiliateUrl": "https://gumroad.com/a/145902419/jwhpft",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion's interface and functionalities.; - Familiarity with digital task management tools.; - Basic knowledge of Python for API integration.; Getting Started with Notion Mastery; 2. Crafting Complex Databases and Relations; 3. Mastering Notion Formulas; 4. Optimizing Your Notion Workflow; 5. Integrating Notion with Other Tools; 6. Finalizing Your Notion Setup for Success; Create a fully functional Notion dashboard tailored for pharmacy management.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.357Z",
+  "lastUpdated": "2026-01-12T20:47:13.357Z"
+}

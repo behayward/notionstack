@@ -1,0 +1,30 @@
+{
+  "id": "Task manager xTiles template",
+  "name": "Task manager xTiles template",
+  "slug": "task-manager-xtiles-template",
+  "description": "Are you struggling with the complexities of Notion and looking for a simpler, yet equally powerful alternative? Meet xTiles, the productivity app that makes organizing your tasks a breeze without compromising on aesthetics.Managing tasks and maintaining productivity can be daunting, especially with tools that are overly complicated and hard to navigate.xTiles offers a user-friendly interface perfect for beginners who find Notion overwhelming.With xTiles, you can streamline your workflow effortle",
+  "price": 17,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Royal Cool",
+    "url": "https://royalcool.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lghxi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lghxi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": 28,
+  "tags": [],
+  "useCases": [],
+  "features": "Ease of Use: Intuitive design that ensures you spend more time on tasks and less time figuring out the app.; Comprehensive Features: Includes important tasks, Eisenhower matrix, time blocking, habit tracker, Pomodoro timer widget, quotes generator widget, and clock widget—all in one place.; Customization: Personalize your templates with your own colors, text, and sections to suit your style and needs.; One xTiles template packed with essential productivity tools.; Important Tasks: Keep track of your critical tasks to stay on top of your game.; Eisenhower Matrix: Prioritize your tasks effectively using this classic decision-making tool.; Time Blocking: Allocate your time efficiently to boost productivity.; Habit Tracker: Monitor and develop good habits with ease.; Pomodoro Timer Widget: Use this technique to maintain focus and productivity.; Quotes Generator Widget: Stay motivated with inspiring quotes.",
+  "assessmentScore": 64,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.260Z",
+  "lastUpdated": "2026-01-12T20:47:13.260Z"
+}

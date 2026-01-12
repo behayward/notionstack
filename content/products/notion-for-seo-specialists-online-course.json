@@ -1,0 +1,30 @@
+{
+  "id": "Notion for SEO Specialists: Online Course",
+  "name": "Notion for SEO Specialists: Online Course",
+  "slug": "notion-for-seo-specialists-online-course",
+  "description": "Unlock the Power of Notion for SEO Specialists!Transform your Notion into a powerful SEO management tool! This course is designed specifically for SEO specialists looking to streamline their workflows and enhance their project management capabilities using Notion. Dive deep into advanced features and learn how to create a customized workspace that caters to your SEO needs. By the end of this course, you'll be equipped to tackle complex SEO tasks with efficiency and precision, ensuring your proje",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/hvgek",
+  "affiliateUrl": "https://gumroad.com/a/145902419/hvgek",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion's interface and functionalities.; - Familiarity with SEO concepts and terminology.; - Basic knowledge of Python for API integration.; 1. Getting Started with Notion for SEO; 2. Building Advanced Databases; 3. Creating Effective Workflows; 4. Mastering Notion Formulas; 5. Integrating Notion with SEO Tools; 6. Creating Your Notion for SEO Specialists Dashboard",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.368Z",
+  "lastUpdated": "2026-01-12T20:47:13.368Z"
+}

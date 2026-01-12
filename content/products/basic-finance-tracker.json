@@ -1,0 +1,30 @@
+{
+  "id": "Basic Finance Tracker",
+  "name": "Basic Finance Tracker",
+  "slug": "basic-finance-tracker",
+  "description": "Basic Finance TrackerSimplify your financial journey with this intuitive Notion Finance Tracker. Designed for ease, it's your go-to digital companion to master your money matters effortlessly. Take charge of your finances, track expenses, savings, and income seamlessly. Start your financial adventure today!What's included... Expense by category Income and expense tracker Monthly saving's progress Savings tracker Wishlist tracker",
+  "price": 3.5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "TsuneStudios",
+    "url": "https://tsunestudios.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ievpe",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ievpe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 97,
+  "ratingCount": 97,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Expense by category; Income and expense tracker; Monthly saving's progress; Savings tracker; Wishlist tracker",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.053Z",
+  "lastUpdated": "2026-01-12T20:47:13.053Z"
+}

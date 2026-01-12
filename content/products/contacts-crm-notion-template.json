@@ -1,0 +1,30 @@
+{
+  "id": "Contacts CRM Notion Template",
+  "name": "Contacts CRM Notion Template",
+  "slug": "contacts-crm-notion-template",
+  "description": "Stay in touch, remember birthdays, keep track of important information, and build relationships with your own Contact CRM database.This template is a single Notion database. It includes prompts for managing contact information. Note: This free database is a sample from my Sales Dashboard. You can check that out here: https://chloeforbesk.gumroad.com/l/sales",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "chloeforbesk",
+    "url": "https://chloeforbesk.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zozvl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zozvl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.708Z",
+  "lastUpdated": "2026-01-12T20:47:12.708Z"
+}

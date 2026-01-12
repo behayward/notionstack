@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Restaurant Managers: Online Course",
+  "name": "Notion for Restaurant Managers: Online Course",
+  "slug": "notion-for-restaurant-managers-online-course",
+  "description": "Unlock the full potential of Notion for Restaurant Managers!This course is designed for intermediate users eager to transform their restaurant operations into a well-oiled machine. Dive deep into advanced features, integrations, and customizations that will empower you to create a comprehensive management system tailored specifically for your restaurant. By the end, you won't just understand Notion; you'll master it!Who is it For?This course is designed for ambitious restaurant managers and oper",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/tpysu",
+  "affiliateUrl": "https://gumroad.com/a/145902419/tpysu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion; - Familiarity with restaurant management tasks; - Basic knowledge of databases; The Notion Landscape: Advanced Features Unveiled; -Crafting Databases: The Backbone of Your Management System; -Mastering Notion Formulas: Automate Your Tasks; -Integrations Unleashed: Connecting Notion with Other Tools; -Data Flow Management: Ensuring Smooth Operations; -Customizing Notion: Tailoring Your System for Success; Develop a fully functional Notion dashboard tailored for restaurant management.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.347Z",
+  "lastUpdated": "2026-01-12T20:47:13.347Z"
+}

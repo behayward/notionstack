@@ -1,0 +1,30 @@
+{
+  "id": "Rich Finance Tracker",
+  "name": "Rich Finance Tracker",
+  "slug": "rich-finance-tracker",
+  "description": "Automate your Finance Tracking in NotionIt helps people like you track, make, spend, invest and grow money as effectively as possible.NEVER LOSE TRACK OF YOUR FINANCERich Finance Tracker is integrated with systems that help you track finance from anywhere in the world and then build your assets, and gain financial freedom.And all this can be easily used as a clear view of your cash flow.ALL YOUR ACCOUNTS IN ONE PLACESee, tracking finances don’t need to be difficult. Now you will be able to easil",
+  "price": 15,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "iNotion",
+    "url": "https://inotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/39386835/tyvoat",
+  "affiliateUrl": "https://gumroad.com/a/39386835/tyvoat",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Add a transaction; Select your account; Your bank account balance will be automatically updated; Accounts: Cash, Personal, PayPal, Stripe; Real Statistics & Ideal Statistics; Transactions: Income, Expense, Transfer; Recurring Transactions & Subscriptions; Loans: Debtor, Lender; Income & Expense; Assets & Liabilities",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.671Z",
+  "lastUpdated": "2026-01-12T20:47:13.671Z"
+}

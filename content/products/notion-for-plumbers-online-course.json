@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Plumbers: Online Course",
+  "name": "Notion for Plumbers: Online Course",
+  "slug": "notion-for-plumbers-online-course",
+  "description": "Master Notion for Plumbing Tasks and Boost Efficiency!Unlock the full potential of Notion tailored specifically for plumbing professionals! This practical course will take you from a basic understanding of Notion to mastering advanced features, enabling you to create a comprehensive dashboard that streamlines your plumbing tasks. Dive deep into database relations, integrations, and formulas, all while enhancing your workflow and productivity. Get ready to transform your daily operations with Not",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/mltmr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/mltmr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "1. Laying the Foundation: Notion Basics for Plumbers; 2. Building Powerful Databases: Relations and Filters; 3. Formulas Unleashed: Automating Your Workflow; 4. Integrating Notion with Other Tools; 5. Creating a Comprehensive Dashboard for Plumbing Operations; 6. Mastering Data Tracking and Reporting; -Quizzes:Each module includes a self-evaluation quiz to reinforce your understanding and application of concepts learned.; -Assignments:Hands-on assignments such as creating your own Notion for Plumbers Dashboard, developing relational databases, and implementing automation with formulas.; -Practical Project:Your final project will involve creating a fully functional Notion dashboard tailored for your plumbing tasks, integrating all the skills you've learned.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.363Z",
+  "lastUpdated": "2026-01-12T20:47:13.363Z"
+}

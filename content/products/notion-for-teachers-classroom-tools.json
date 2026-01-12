@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Teachers: Classroom Tools",
+  "name": "Notion for Teachers: Classroom Tools",
+  "slug": "notion-for-teachers-classroom-tools",
+  "description": "A suite of digital tools for your classroom, all on one Notion page which you can duplicate to your own workspace and use on any Notion page you desire.Included are my:Classroom Timers including link to my video for how to generate a timer for ANY duration.Random Number GeneratorRandom Letter GeneratorDie Roller2-Dice Roller",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "design",
+  "creator": {
+    "name": "Notion For Teachers",
+    "url": "https://notionforteachers.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/aehpdl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/aehpdl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Classroom Timers including link to my video for how to generate a timer forANYduration.; Random Number Generator; Random Letter Generator; 2-Dice Roller",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.556Z",
+  "lastUpdated": "2026-01-12T20:47:12.556Z"
+}

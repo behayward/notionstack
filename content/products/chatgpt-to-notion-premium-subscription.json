@@ -1,0 +1,30 @@
+{
+  "id": "'ChatGPT to Notion' premium subscription",
+  "name": "'ChatGPT to Notion' premium subscription",
+  "slug": "chatgpt-to-notion-premium-subscription",
+  "description": "Have tried autosave and feel like it's useful to you? Enjoy an ad-free experience and get access to exclusive content such as : Autosave Full history save Priority customer support Priority access to new features By the way, your subscription will also work with Bard to Notion!",
+  "price": 2,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Lart",
+    "url": "https://theolartigau.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tfjeh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tfjeh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Full history save; Priority customer support; Priority access to new features",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.942Z",
+  "lastUpdated": "2026-01-12T20:47:12.942Z"
+}

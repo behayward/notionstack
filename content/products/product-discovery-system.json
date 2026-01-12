@@ -1,0 +1,30 @@
+{
+  "id": "Product Discovery System",
+  "name": "Product Discovery System",
+  "slug": "product-discovery-system",
+  "description": "Discover your next winning product, service, or feature using an organized system.Finding your next product, service, or feature idea can be hard. You may feel stuck, uninspired, and lost. I have felt this way more than once, and I have discovered that a good system for capturing and analyzing ideas can put me back on track 🏃🏽‍♀️The Notion Discovery System uses a 3-stage process designed to help you ideate, screen, and research ideas based on customer, user, and employees' feedback in the simple",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "NOXEN STUDIO",
+    "url": "https://notionologia.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/34557139/almef",
+  "affiliateUrl": "https://gumroad.com/a/34557139/almef",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": 111,
+  "tags": [],
+  "useCases": [],
+  "features": "A General Dashboard:  to work on different stages of the Discovery Process, take a quick look at the progress made on every stage, and organize documentation and meetings.; Screening:Includes a template with techniques for screening ideas with four tools: Judges Panel, Criteria Evaluation/Score Card, Proof of concept, Token Vote.; Research:Includes a template with a checklist and a sample report with an index of important elements to research an idea.; Documentation: A database with all the documents related to each stage.; Meetings: A database with all the meetings related to each stage.; Dictionary, Education, and Good Practices:for improving the template and connect it with your system and learn more about ideation techniques.; Clients are one of the most important sources of ideas for products, services, and features. This system will help you make sure to collect and screen that feedback.; Employees are another important source of innovation. The Discovery System will help you to implement brainstorming sessions and collect recommendations.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.441Z",
+  "lastUpdated": "2026-01-12T20:47:13.441Z"
+}

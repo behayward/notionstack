@@ -1,0 +1,30 @@
+{
+  "id": "Notion Employee Handbook",
+  "name": "Notion Employee Handbook",
+  "slug": "notion-employee-handbook",
+  "description": "Start Your Employee Handbook With This Simple Page LayoutEditing PagesAll pages have mockups of a select policy in an employee handbook. All underlined text can be replaced with your company’s name, objectives, or statements — in addition to adding more information and blocks.How The Policy Index WorksThe first 1-2 paragraphs in each policy page have a red outline — they are synced blocks. These synced blocks are copied and pasted into Policy Index with a read more link back to the original page",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Red Gregory",
+    "url": "https://redgregory.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lnitf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lnitf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "For everynew pagecreate a synced block to place your summary inside (type → /sync).; After the summary is written, navigate to thecopy and syncbutton, then travel toPolicy Indexto paste the block inside. Now, whenever a policy summary is changed, it will also change in the index.",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.679Z",
+  "lastUpdated": "2026-01-12T20:47:12.679Z"
+}

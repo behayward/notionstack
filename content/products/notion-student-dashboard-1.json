@@ -1,0 +1,32 @@
+{
+  "id": "Notion Travel Dashboard",
+  "name": "Notion Travel Dashboard",
+  "slug": "notion-student-dashboard-1",
+  "description": "👍 Improvements and Updates (as of 9/22/23) Enhanced text and title formatting: Cleaned up titles (capitalized, included Notion icons in database view titles for a more personalized look)Optimized Text Size: Turned on small text to make a more concise page with a cleaner look (can revert to ‘normal’ size by clicking the … in the upper right corner and toggling off Small text)Added ‘On Hold’ view to Travel Plans database views below: You will now have access to a checkbox property called “On Hold”",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "P",
+    "url": "https://ptalkstech.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/dfxtg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/dfxtg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 48,
+  "ratingCount": 48,
+  "salesCount": null,
+  "tags": [
+    "Dashboard"
+  ],
+  "useCases": [],
+  "features": "Enhanced text and title formatting:Cleaned up titles (capitalized, included Notion icons in database view titles for a more personalized look); Optimized Text Size:Turned on small text to make a more concise page with a cleaner look (can revert to ‘normal’ size by clicking the…in the upper right corner and toggling offSmall text); Enhanced Calendar Viewing Experience:Transitioned from the monthly calendar view to a weekly format, enhancing user-friendliness and facilitating a more intuitive browsing experience.; Streamlined \"New Trip\" Page:Revamped the \"New Trip\" page by repositioning key features and eliminating extraneous elements for a more efficient and user-friendly layout.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "April 10, 2023 10:57 AM",
+  "lastUpdated": "2026-01-12T20:47:12.506Z"
+}

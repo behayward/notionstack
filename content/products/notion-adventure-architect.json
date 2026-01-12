@@ -1,0 +1,30 @@
+{
+  "id": "Notion Adventure Architect",
+  "name": "Notion Adventure Architect",
+  "slug": "notion-adventure-architect",
+  "description": "TripsWe all love trips, don't we? Maybe you're planning one right now, or maybe not. Whatever the case may be, here is a powerful tool that can save you a lot of time when it comes to traveling.ImagineHaving a place where you can manage every single cost, objective, hotel booking, or trip. I built this place and named it Notion Adventure Architect.It's the only tool you need to skyrocket your trip by saving days of planning using a friendly infrastructure and AI.No inspiration?Not a problem anym",
+  "price": 29,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Robert",
+    "url": "https://robertsnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vnbae",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vnbae",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.594Z",
+  "lastUpdated": "2026-01-12T20:47:12.594Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Personal Budget Planner",
+  "name": "Notion Personal Budget Planner",
+  "slug": "notion-personal-budget-planner",
+  "description": "Managing your personal finances has never been easier.Control your finances and fast-track your way to financial freedom.Features:Lite:Income TrackerExpense TrackerPro:All Lite features and...Intelligent Account SystemExpense Tracking by CategoryIncome &amp; Savings TrackerGoal Setting &amp; Progress MonitoringAutomated Notification BoardExpenditure Overview &amp; AnalysisHow it Works:Purchase (Pay what you think is a fair price)Access Template (Duplicate to your own Notion workspace)Set-up (Rea",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Caffiend",
+    "url": "https://itscaffiend.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/phmtq",
+  "affiliateUrl": "https://gumroad.com/a/962870099/phmtq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": 17,
+  "tags": [],
+  "useCases": [],
+  "features": "Income Tracker; Expense Tracker; Intelligent Account System; Expense Tracking by Category; Income & Savings Tracker; Goal Setting & Progress Monitoring; Automated Notification Board; Expenditure Overview & Analysis; Purchase(Pay what you think is a fair price); Access Template(Duplicate to your own Notion workspace)",
+  "assessmentScore": 64,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.255Z",
+  "lastUpdated": "2026-01-12T20:47:13.255Z"
+}

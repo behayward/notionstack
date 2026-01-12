@@ -1,0 +1,30 @@
+{
+  "id": "Notion Fuel Expense Tracker",
+  "name": "Notion Fuel Expense Tracker",
+  "slug": "notion-fuel-expense-tracker",
+  "description": "Notion Fuel Expenses TrackerOptimize your fuel expense tracking with a flexible and user-friendly tool, easily incorporating your fuel expenses into Notion workspace.Here's a quick walkthrough of the template 👇:The Fuel Expense Tracker in Notion provides a simple solution for efficiently managing your fuel expenditures.Within this tool, you'll discover a comprehensive system designed to monitor your fuel expenses, offering monthly and yearly overviews to help you stay within your budget while on",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/zsnqh",
+  "affiliateUrl": "https://gumroad.com/a/402782931/zsnqh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Effortlessly recorddaily fuel expense transactionswith our intuitive interface designed for seamless tracking of your fuel expenses.; Customize your vehicle database, get vehiclemileage, distance travelled and expenditures made, along with effortlessly managing your spending with a consolidated dashboard.; Benefit from a comprehensive Expenses Overview, receivetimely service notifications, and accessmonthlyandyearlysummaries of all your fuel-related expenditures.; Compatible withMacOS,Windows OS,iOS, andAndroiddevices for your convenience.; Complete Fuel Expenses Overview Dashboard; Fuel Expenses Tracker; Complete Interactive Guide; Fuel Expenses Tracker ($9 Value)",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.732Z",
+  "lastUpdated": "2026-01-12T20:47:13.732Z"
+}

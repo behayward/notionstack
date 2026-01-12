@@ -1,0 +1,30 @@
+{
+  "id": "Ultimate Notion Finance Bundle",
+  "name": "Ultimate Notion Finance Bundle",
+  "slug": "ultimate-notion-finance-bundle",
+  "description": "Streamline Your Financial Life: Get 7 Essential Finance Templates in 1 Time-Saving Notion Bundle!This bundle includes 7 comprehensive finance templates developed by a finance professional in Notion that cover a range of financial planning and tracking needs.With these templates, you can easily monitor your spending, maintain your debt credit score, create a budget, track savings, and more. Whether you're just starting out with financial planning or are a seasoned investor, this bundle has everyt",
+  "price": 39,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/qaozt",
+  "affiliateUrl": "https://gumroad.com/a/402782931/qaozt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": 40,
+  "tags": [],
+  "useCases": [],
+  "features": "Expense Tracker- ★ 5.0; Income Tracker- ★ 5.0; Budget Tracker- ★ 5.0; Debt Tracker- ★ 5.0; Sinking Funds Tracker- ★ 5.0; Bills Tracker- ★ 5.0; Net Worth Tracker- ★ 5.0; Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.",
+  "assessmentScore": 89,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.689Z",
+  "lastUpdated": "2026-01-12T20:47:13.689Z"
+}

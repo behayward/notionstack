@@ -1,0 +1,30 @@
+{
+  "id": "Finance Tracker",
+  "name": "Finance Tracker",
+  "slug": "finance-tracker",
+  "description": "Track and Manage All Your Finances with EaseThis tracker will help you:Track the balances of your Bank accounts &amp; see your total net worth.Track your monthly business profits.See your yearly business profit.Don't wait any longer to unlock the full potential of Notion. Get our Finance Tracker for free today and take your finances to the next level!Choose how much you want to pay, you can enter \"$0\" and click the \"I want this\" button to download Finance Tracker for free!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Karolis Piliponis",
+    "url": "https://creatorkarro.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/alzoba",
+  "affiliateUrl": "https://gumroad.com/a/962870099/alzoba",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 156,
+  "ratingCount": 156,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Track the balances of your Bank accounts & see your total net worth.; Track your monthly business profits.; See your yearly business profit.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.812Z",
+  "lastUpdated": "2026-01-12T20:47:12.812Z"
+}

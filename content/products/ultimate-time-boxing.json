@@ -1,0 +1,30 @@
+{
+  "id": "Ultimate Time Boxing",
+  "name": "Ultimate Time Boxing",
+  "slug": "ultimate-time-boxing",
+  "description": "Take Control of Your Time with the Ultimate Time Boxing Notion Template!Do you feel like there just aren't enough hours in the day? Are your to-do lists getting longer, not shorter?The Ultimate Time Boxing Notion Template is a structured system designed to help you: Break down your day into focused time blocks dedicated to specific tasks, eliminating distractions and procrastination. Maintain laser focus during each time block, maximizing your output and achieving more in less time. Learn to ide",
+  "price": 2,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "project-management",
+  "creator": {
+    "name": "Ideate. Create. Profit",
+    "url": "https://ideatecreateprofit.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/uwiol",
+  "affiliateUrl": "https://gumroad.com/a/962870099/uwiol",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 13,
+  "ratingCount": 13,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Break down your day into focused time blocks dedicated to specific tasks, eliminating distractions and procrastination.; Maintain laser focus during each time block, maximizing your output and achieving more in less time.; Learn to identify and tackle the most important tasks first, ensuring you make progress on your true goals.; Stop feeling like you're spinning your wheels. Track your progress and celebrate milestones, staying motivated on your journey.; task management - manage all your tasks (today's view, completed/not completed); timeboxing - allocate today's tasks to the specific time slots and plan your day;; brain dumping - a free area to dump your thoughts;; project management - manage your projects;; goals management - set SMART goals;; areas - define areas of your life and make progress them;",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.142Z",
+  "lastUpdated": "2026-01-12T20:47:13.142Z"
+}

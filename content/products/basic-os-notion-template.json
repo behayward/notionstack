@@ -1,0 +1,30 @@
+{
+  "id": "Basic OS Notion Template",
+  "name": "Basic OS Notion Template",
+  "slug": "basic-os-notion-template",
+  "description": "The Perfect Notion Template for Beginners Time Blocking Calendar To Do List",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Productive Setups",
+    "url": "https://productivesetups.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/adqtn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/adqtn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 16,
+  "ratingCount": 16,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Time Blocking",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.217Z",
+  "lastUpdated": "2026-01-12T20:47:13.217Z"
+}

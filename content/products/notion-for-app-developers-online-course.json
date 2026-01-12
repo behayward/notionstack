@@ -1,0 +1,30 @@
+{
+  "id": "Notion for App Developers: Online Course",
+  "name": "Notion for App Developers: Online Course",
+  "slug": "notion-for-app-developers-online-course",
+  "description": "Transform Your App Development Workflow with Notion!Unlock the full potential of Notion and revolutionize your app development process! This course is designed for intermediate users who are ready to elevate their workflow and project management skills. Dive deep into advanced features of Notion, learn how to create complex database structures, and master integrations that will transform your productivity. By the end of this course, you will have a comprehensive Notion workspace tailored specifi",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/abtnu",
+  "affiliateUrl": "https://gumroad.com/a/145902419/abtnu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "App Developers looking to enhance their workflow; - Project Managers seeking better organization; - Team Leads wanting to streamline processes; Basic understanding of Notion interface; - Familiarity with app development processes; - Basic knowledge of Python for API integrations; The Notion Power-Up: Advanced Features Unleashed; 2. Crafting Your Custom Dashboard: The Heart of Your Workspace; 3. Database Mastery: Structuring Your Information Effectively; 4. Formulas and Functions: Supercharge Your Data Handling",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.372Z",
+  "lastUpdated": "2026-01-12T20:47:13.372Z"
+}

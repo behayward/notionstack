@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Animators: Online Course",
+  "name": "Notion for Animators: Online Course",
+  "slug": "notion-for-animators-online-course",
+  "description": "Unlock Your Animation Potential with Notion for Animators!Dive into the world of Notion tailored specifically for animators! This course is designed for those who already have a basic understanding of Notion but want to elevate their skills and productivity. You will learn how to create a fully functional Notion setup that streamlines your animation projects, enhances organization, and boosts efficiency. By the end, you will transform an empty page into a comprehensive dashboard that caters to y",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/qqrza",
+  "affiliateUrl": "https://gumroad.com/a/145902419/qqrza",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Animators seeking better project management; - Freelancers wanting to enhance their workflow; - Animation studios looking for efficient tools; - Project managers needing structured data management; Basic knowledge of Notion interface; - Understanding of animation project management; - Familiarity with basic data structures; - Willingness to learn advanced techniques; - Interest in integrating Notion with other tools; Laying the Foundation: Notion Basics for Animators",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.370Z",
+  "lastUpdated": "2026-01-12T20:47:13.370Z"
+}

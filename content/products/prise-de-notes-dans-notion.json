@@ -1,0 +1,30 @@
+{
+  "id": "Prise de notes dans Notion 📝",
+  "name": "Prise de notes dans Notion 📝",
+  "slug": "prise-de-notes-dans-notion",
+  "description": "Voici un système simple mais efficace pour organiser vos notes et projets dans Notion. Vous y trouverez deux espaces distincts pour une meilleure organisation :D'un côté, un espace dédié à la prise de notes rapide et flexible. Parfait pour capturer vos idées au vol ou documenter vos apprentissages. Les différentes vues vous permettent de retrouver facilement vos notes, qu'elles soient récentes ou archivées ✍️De l'autre, vous pouvez connecter un système pour gérer vos projets de manière structuré",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Lou Attal",
+    "url": "https://louattal.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nmpji",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nmpji",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.254Z",
+  "lastUpdated": "2026-01-12T20:47:13.254Z"
+}

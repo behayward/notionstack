@@ -1,0 +1,30 @@
+{
+  "id": "Product Designer OS (Bundle Pack)",
+  "name": "Product Designer OS (Bundle Pack)",
+  "slug": "product-designer-os-bundle-pack",
+  "description": "Product Designer OS is a comprehensive tool for product designers at any stage of their career, whether you're working as a freelancer, in a startup, agency or a big tech company. This system helps streamline your workflow, stay organized, and advance your career by keeping track of projects, knowledge, and your portfolio all in one place. With access to over 1000 resources, a career planning tool and various templates, Product Designer OS makes it easy to stay on top of your work and reach your",
+  "price": 15,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "UX DEPARTMENT",
+    "url": "https://uxdepartment.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/axjatn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/axjatn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 25,
+  "ratingCount": 25,
+  "salesCount": 143,
+  "tags": [],
+  "useCases": [],
+  "features": "Project template & tracker:A streamlined design process framework makes it easy to stay organized, manage client communication, and quickly write effective case studies for your portfolio.; Resources & templates:Access to over 1000 resources (includesStandardandProResource Packs); Career growth:Get access to anactionable career plannerto manage your growth. Comes with 200+ UI and AR design prompts to get hands on practice.Bonus:Web3 expansion knowledge pack.; Portfolio & brand:Enables easy creation and management of portfolio and brand on Notion. Comes with a case study template and resume template.",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.582Z",
+  "lastUpdated": "2026-01-12T20:47:12.582Z"
+}

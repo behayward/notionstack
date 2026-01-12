@@ -1,0 +1,30 @@
+{
+  "id": "Notion Recipes Journal",
+  "name": "Notion Recipes Journal",
+  "slug": "notion-recipes-journal",
+  "description": "The Recipes Journal is an ideal template for keeping all your favorite recipes in one convenient location. The template includes a recipe section where you can add all your recipes, including cooking time, ingredients, and photos. The page is also easy to use for writing the recipes themselves.Additionally, the recipes are linked to an ingredient template.Features:Add as many recipes as you want.Total cooking time is automatically calculated.Organize the recipes.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "journal",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wubek",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wubek",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Add as many recipes as you want.; Total cooking time is automatically calculated.; Organize the recipes.",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.969Z",
+  "lastUpdated": "2026-01-12T20:47:12.969Z"
+}

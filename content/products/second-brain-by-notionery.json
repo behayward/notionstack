@@ -1,0 +1,30 @@
+{
+  "id": "Second Brain by Notionery",
+  "name": "Second Brain by Notionery",
+  "slug": "second-brain-by-notionery",
+  "description": "Our Second Brain Notion template is a digital OS that helps you store and organize your thoughts, tasks, or ideas all in one place. The Second Brain further helps you to recollect the needed information at the right time when you need it.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Notionery",
+    "url": "https://notionery.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qeykc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qeykc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.532Z",
+  "lastUpdated": "2026-01-12T20:47:12.532Z"
+}

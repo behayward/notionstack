@@ -1,0 +1,30 @@
+{
+  "id": "Course Schedule OS for Students",
+  "name": "Course Schedule OS for Students",
+  "slug": "course-schedule-os-for-students",
+  "description": "Introducing the ultimate tool for students who want to take control of their academic life: The Notion Course Schedule Template.This revolutionary template is the solution you’ve been looking for to help you keep track of all your coursework, assignments, and deadlines in one easy-to-use dashboard. With just a few clicks, you can organize your entire semester or quarter into a visual calendar that shows you exactly what you need to do and when.No more missed deadlines, last-minute cramming, or f",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "My Digital Brain",
+    "url": "https://mydigitalbrain.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zhzrr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zhzrr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "A fully customizable course schedule: You can easily add, edit, and delete courses, assignments, and deadlines to create a personalized schedule that fits your unique needs.; A visual calendar: You can view your schedule in a monthly or weekly calendar format, so you always know what’s coming up.; Assignment tracker: You can keep track of all your assignments, including their due dates and submission status, all in one place.; Task manager: You can create and manage your to-do list, so you never forget important tasks.; Progress tracker: You can track your progress throughout the semester or quarter, so you know how well you’re doing in each course.; Resource library: You can keep all your study materials, including notes, readings, and links, organized in one place.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.688Z",
+  "lastUpdated": "2026-01-12T20:47:12.688Z"
+}

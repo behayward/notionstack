@@ -1,0 +1,30 @@
+{
+  "id": "Mood Tracker With Pixels",
+  "name": "Mood Tracker With Pixels",
+  "slug": "mood-tracker-with-pixels",
+  "description": "What's Inside?Mood TrackerIt is a template that let you monitor you mode based on color code and mode levels then you can view it in a pixel format.Why Track Your Mood?Tracking your mood can provide you with valuable insights that can help you better understand your emotions and how your behavior is affected by them. It can help you identify the triggers that lead to certain moods, and the factors that influence them. Keeping track of your moods is also a great way to recognize and appreciate th",
+  "price": 6,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Lavendairy's Corner",
+    "url": "https://lavendairyscorner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/moqry",
+  "affiliateUrl": "https://gumroad.com/a/962870099/moqry",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": 77,
+  "tags": [],
+  "useCases": [],
+  "features": "Mode Color Code; Pixel Mood view; Notion Templates; Productivity management",
+  "assessmentScore": 62,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.730Z",
+  "lastUpdated": "2026-01-12T20:47:12.730Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Tour Guides: Online Course",
+  "name": "Notion for Tour Guides: Online Course",
+  "slug": "notion-for-tour-guides-online-course",
+  "description": "Transform Your Tour Guiding with Notion for Tour Guides!Unlock the full potential of Notion specifically designed for tour guides! This course takes you from a basic understanding of Notion to mastering its advanced features, enabling you to create a tailored management system that enhances your efficiency, organization, and effectiveness as a tour guide. Dive into the intricacies of database management, API integration, and more, ensuring that your tour guiding tasks are streamlined and organiz",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/leerit",
+  "affiliateUrl": "https://gumroad.com/a/145902419/leerit",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate users seeking to enhance their Notion skills for tour guiding tasks.; -Audience:Tour guides looking to improve their task management, travel agencies wanting to enhance service delivery, and tourism professionals aiming for better organization.; Basic knowledge of Notion; - Understanding of database concepts; - Basic Python knowledge for API integration; - Laying the Foundation: Advanced Notion Features; - Database Mastery: Creating Complex Relations; - Formulas Unleashed: Making Data Work for You; - Integrating Notion: Connecting with Other Platforms",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.367Z",
+  "lastUpdated": "2026-01-12T20:47:13.367Z"
+}

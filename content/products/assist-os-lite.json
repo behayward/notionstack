@@ -1,0 +1,30 @@
+{
+  "id": "Assist OS Lite",
+  "name": "Assist OS Lite",
+  "slug": "assist-os-lite",
+  "description": "Introducing Assist OS Lite 🚀 - the ultimate Notion template for anyone who wants to take their project planning to the next level. With Assist OS Lite, you can create, manage, and track all your projects in one place, thanks to its powerful real-time database functionality 📊.Gone are the days of managing multiple spreadsheets and tools to keep track of your projects. With Assist OS Lite, you have a comprehensive project management solution that simplifies your workflow and maximizes your product",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "My Digital Brain",
+    "url": "https://mydigitalbrain.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/abpemf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/abpemf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 29,
+  "ratingCount": 29,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.609Z",
+  "lastUpdated": "2026-01-12T20:47:12.609Z"
+}

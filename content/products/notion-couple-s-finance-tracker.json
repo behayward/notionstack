@@ -1,0 +1,30 @@
+{
+  "id": "Notion Couple's Finance Tracker",
+  "name": "Notion Couple's Finance Tracker",
+  "slug": "notion-couple-s-finance-tracker",
+  "description": "Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc Template: A template file with placeholders in {{...}} format (e.g., {{InvoiceNumber}}, {{ClientName}}). Notion Database: Acts as a database with matching head",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/xeirh",
+  "affiliateUrl": "https://gumroad.com/a/402782931/xeirh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": 249,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Keep track of your income and expenses in one central location 💰; Fix your monthly savings goals to prioritize your savings 🎯; Assess savings funds and contribution to total overall savings by him 🙋‍♂️; Assess savings funds and contribution to total overall savings by her 🙋‍♀️; Access your couple's finance tracker from any device, anywhere 📱; Easy categorization for expenses and income for the couple.; Simple and intuitive interface for easy tracking.; Savings Funds tracking with progress bars.",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.683Z",
+  "lastUpdated": "2026-01-12T20:47:13.683Z"
+}

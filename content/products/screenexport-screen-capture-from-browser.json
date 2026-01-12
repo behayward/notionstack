@@ -1,0 +1,30 @@
+{
+  "id": "ScreenExport | Screen Capture From Browser",
+  "name": "ScreenExport | Screen Capture From Browser",
+  "slug": "screenexport-screen-capture-from-browser",
+  "description": "Effortless Screen &amp; Webcam Recording at Your FingertipsCapture every detail with our streamlined Screen Recorder Web App, ScreenExport.Whether you’re presenting, creating tutorials, or using desktop, our app makes it simple to record your screen, desktop activities, and even your webcam—all in high-quality webm format, instantly ready for download.Use it directly on your browser, no installation or additional setup required.Features: Flexible Recording Options: Switch your webcam and screen ",
+  "price": 49,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/sqhft",
+  "affiliateUrl": "https://gumroad.com/a/402782931/sqhft",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Flexible Recording Options:Switch your webcam and screen recording on or off anytime, giving you full control over your captures.; Instant Output in webm:Get your recordings instantly in efficient, high-quality webm format, with no processing delays.; User-Friendly & Lightweight:Designed to keep things simple and distraction-free, ideal for users of all tech levels.; Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Opening File-Double - Click on the downloaded file to open the same in your preferred browser.; Setup Devices-Click on Setup Devices to allow access to microphone and webcam to set up the devices before recording.; Start Recording-Enable / Disable webcam or screen during recording as per requirement and record your video on the go directly from browser.",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.755Z",
+  "lastUpdated": "2026-01-12T20:47:13.755Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Family Budget Tracker",
+  "name": "Family Budget Tracker",
+  "slug": "family-budget-tracker",
+  "description": "A Family Budget Planner template is used to track and manage household income and expenses, helping families maintain financial stability and achieve their financial goals.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?AutoDocCreator lets you instantly generate PDFs from Google Docs using data from your Notion Database. All generated PDFs are automatically saved back into Notion — zero manual steps need",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/hlmmj",
+  "affiliateUrl": "https://gumroad.com/a/402782931/hlmmj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.714Z",
+  "lastUpdated": "2026-01-12T20:47:13.714Z"
+}

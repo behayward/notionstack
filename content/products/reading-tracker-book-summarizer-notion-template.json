@@ -1,0 +1,30 @@
+{
+  "id": "Reading Tracker + Book Summarizer | Notion Template",
+  "name": "Reading Tracker + Book Summarizer | Notion Template",
+  "slug": "reading-tracker-book-summarizer-notion-template",
+  "description": "Why did I create this?You probably consume a lot of books full of interesting knowledge but, what are the chances that you will be ready to put any given piece of learning into practice right when it is needed?The most important factor to use your learning is how easy it is to discover it and access the specific points that are most useful for your projects. The Book Essence Extractor helps you to distill the essence of your books and remember what you read so you can put it into action.\"To atta",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Imagination Labs",
+    "url": "https://imaginationlabs.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/boxps",
+  "affiliateUrl": "https://gumroad.com/a/962870099/boxps",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 33,
+  "ratingCount": 33,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Manage your book collection; Set a reading target; Use the Progressive Summarization technique for note-taking; Distill the essence from your books; Book Collection Database; Genre Classification View; Reading Target Widget; Progressive Summarization Template; References and Instructions to learn the Progressive Summarization technique",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.771Z",
+  "lastUpdated": "2026-01-12T20:47:12.771Z"
+}

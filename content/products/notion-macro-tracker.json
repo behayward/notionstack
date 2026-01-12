@@ -1,0 +1,30 @@
+{
+  "id": "Notion Macro Tracker",
+  "name": "Notion Macro Tracker",
+  "slug": "notion-macro-tracker",
+  "description": "The only macro tracker you needThis macro tracker will help you manage and track your recipes and the food you eat on a day to day basis, to ensure you're hitting the right amount of macros your body needs.Whether you're trying to maintain, gain, or lose weight, knowing how much you need to consume every day and having a way to reliably track your macros is absolutely necessary.This Macro Tracker will help you on your journey of improving your health.This Macro Tracker includes: Ingredients data",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/sdxeg",
+  "affiliateUrl": "https://gumroad.com/a/376061651/sdxeg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 25,
+  "ratingCount": 25,
+  "salesCount": 810,
+  "tags": [],
+  "useCases": [],
+  "features": "Ingredients database; Recipe/meal planner; Macro Tracker & Calculator; Shopping List",
+  "assessmentScore": 105,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.658Z",
+  "lastUpdated": "2026-01-12T20:47:13.658Z"
+}

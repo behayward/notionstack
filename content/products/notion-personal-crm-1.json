@@ -1,0 +1,30 @@
+{
+  "id": "Notion Personal CRM",
+  "name": "Notion Personal CRM",
+  "slug": "notion-personal-crm-1",
+  "description": "Notion Personal CRM—Simplify Contact ManagementThe Notion Personal CRM Template streamlines contact management to help you build better relationships. It replaces messy spreadsheets with a cleaner, more efficient approach.Features:Store contact information, including names, phone numbers, email addresses, social media profiles, birthdays, anniversaries, and more.Group contacts based on different criteria, such as industry, location, or relationship status.Automatic calculation of next birthday d",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Tony David",
+    "url": "https://tonydavid.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sgdip",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sgdip",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 15,
+  "ratingCount": 15,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Store contact information, including names, phone numbers, email addresses, social media profiles, birthdays, anniversaries, and more.; Group contacts based on different criteria, such as industry, location, or relationship status.; Automatic calculation of next birthday date based on entered birthdate.; Automatic appearance of contact's name in the dashboard birthdays section if the next birthday is within the next 30 days.; Ability to enter a person’s wedding anniversary in the anniversary property.; Set reminders with messages using the Reminder property.; Automatic calculation of the follow-up date based on the frequency and last contact date.; Ability to log all interactions with each contact in the Interactions database.; View interaction entries for a specific person on their page in the People database.; Save notes about a person on their page in the Notes database.",
+  "assessmentScore": 90,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.719Z",
+  "lastUpdated": "2026-01-12T20:47:12.719Z"
+}

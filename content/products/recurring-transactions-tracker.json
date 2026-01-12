@@ -1,0 +1,34 @@
+{
+  "id": "💸 Notion Recurring Transactions Tracker",
+  "name": "💸 Notion Recurring Transactions Tracker",
+  "slug": "recurring-transactions-tracker",
+  "description": "Who are you sending $133 to each month?It's ridiculous how much we as consumers are getting abused by corporations who spend thousands of dollars to get you as a customer just to get you hooked on their new shiny product.You are getting this sweet \"free demo\" just to find yourself 53 months later with a monthly credit card charge of $7 that you never even noticed. Maybe you don't know how to see all subscriptions on card, or maybe you are just not paying attention or think that you will use the ",
+  "price": 29,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/gbqto",
+  "affiliateUrl": "https://gumroad.com/a/145902419/gbqto",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": 135,
+  "tags": [
+    "Budgeting",
+    "Dashboard",
+    "Finances"
+  ],
+  "useCases": [],
+  "features": "You want to save money each month on subscriptions you no longer use; You don't want to forget about a subscription and continue paying for it even though you're not using it anymore; You care for your financial well-being and want to take control of your budget; Your goal is to have a clear overview of all your incoming and outgoing charges; You want to save money each month so you can use it for other things; Bill and Subscription manager to save money each month on subscriptions you no longer use; \"Single database with multiple views\" setup to keep track of all your recurring charges in one place; Aggregations to see exactly how much you're spending each month on subscriptions; The approximate calculation to see exactly when a bill is due; Many cycles are pre-installed to track your transactions monthly, yearly, weekly or even daily",
+  "assessmentScore": 92,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "October 21, 2022 1:12 PM",
+  "lastUpdated": "2026-01-12T20:47:12.457Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Webflow 101 - Gamified ChatGPT Course",
+  "name": "Webflow 101 - Gamified ChatGPT Course",
+  "slug": "webflow-101-gamified-chatgpt-course",
+  "description": "Master Web Design with Webflow 101 - Unlock Your Creative Potential Today!Not another generic course or set of prompts.Discover the power of Webflow 101, the comprehensive online course that equips you with the skills to design stunning websites without writing a single line of code. Join thousands of satisfied students who have unleashed their creativity and built visually captivating websites with ease.Are you ready to take your web design skills to new heights?Imagine creating professional, r",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ezophl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ezophl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 16,
+  "ratingCount": 16,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Lesson 1: Introduction to Webflow (70 prompts); Lesson 2: Basic Web Design Concepts (70 prompts); Lesson 3: Working with Webflow Elements (70 prompts); Lesson 4: Responsive Design(70 prompts); Lesson 5: Interactions and Animations(70 prompts); Lesson 6: Webflow Final Project(70 prompts); 50+ No Code Definitions; No Code Roadmap; 50+ No Code Tips; Notion AI features",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.087Z",
+  "lastUpdated": "2026-01-12T20:47:13.087Z"
+}

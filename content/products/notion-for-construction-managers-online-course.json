@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Construction Managers: Online Course",
+  "name": "Notion for Construction Managers: Online Course",
+  "slug": "notion-for-construction-managers-online-course",
+  "description": "Transform Your Construction Management with Notion!Unlock the full potential of Notion and transform your construction management practices! This practical course is designed for construction managers who already have a basic understanding of Notion but are eager to dive deeper. You will learn to create a comprehensive Notion setup tailored specifically for managing construction projects, enhancing your productivity, organization, and project tracking capabilities. By the end of this course, you",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/ljsbl",
+  "affiliateUrl": "https://gumroad.com/a/145902419/ljsbl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion; - Familiarity with construction management processes; - Experience with managing projects; -Quizzes:Quizzes will help reinforce your understanding of each module, ensuring you grasp advanced features and applications of Notion in construction management.; -Practical Project:Your practical project will be to create a fully functional Notion setup tailored for construction management, integrating all learned concepts.; -Before You Start:Before you start, ensure you have a basic understanding of Notion and familiarity with construction management processes to maximize your learning experience.; -Books to Read:Recommended readings will include resources that delve deeper into Notion's capabilities and construction management best practices.; -Glossary:A glossary of key terms will be provided to help you navigate the specific terminology used throughout the course.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.365Z",
+  "lastUpdated": "2026-01-12T20:47:13.365Z"
+}

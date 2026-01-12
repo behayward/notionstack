@@ -1,0 +1,30 @@
+{
+  "id": "Notion Learning hub",
+  "name": "Notion Learning hub",
+  "slug": "notion-learning-hub",
+  "description": "If you're starting out or an advanced Notion user, you'll find categorized tutorials, tips, and resources that will help you troubleshoot your daily Notion useWith this Notion tool you will find:A repository of YouTube's most prolific Notion consultants, advisers, and influencers.Curated list of Notion ResourcesNotion basicsCategorized Notion tutorials ranging from technical to Lifestyle related",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Juan Camilo Moreno",
+    "url": "https://jcmorenoa.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/txupo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/txupo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "A repository of YouTube's most prolific Notion consultants, advisers, and influencers.; Curated list of Notion Resources; Notion basics; Categorized Notion tutorials ranging from technical to Lifestyle related",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.172Z",
+  "lastUpdated": "2026-01-12T20:47:13.172Z"
+}

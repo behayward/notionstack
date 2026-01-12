@@ -1,0 +1,30 @@
+{
+  "id": "Manifest-station",
+  "name": "Manifest-station",
+  "slug": "manifest-station",
+  "description": "The tool that turns your dreams into reality. This is designed to help individuals set and achieve their goals through the practice of manifestation. The tool has exercises aimed at helping you identify your desires, visualize your goals, and take action to make them a reality.This is perfect if you are:Looking for self-improvement and intend on unlocking your full potential.Looking to get to know yourself better by understanding the different areas in your life.Looking for a system that encoura",
+  "price": 10,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Notion Freak",
+    "url": "https://notionfreak.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/codpl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/codpl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 32,
+  "ratingCount": 32,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Looking for self-improvement and intend on unlocking your full potential.; Looking to get to know yourself better by understanding the different areas in your life.; Looking for a system that encourages you to take actionable steps towards your dreams; Explore Inwards: Visualization exercises, red-flags identifier in your journey toward self-growth.; Dynamic Habit Tracker: Interactive habit tracker graph to track your habits in real time.; SMART Goals System: Accountability system to work toward your goals.; How do I use it?As long as you have a Notion account, all you have to do is download the page and hit duplicate at the top right of the template.; I don't have a paid account, does this still work?Yes! It works the same",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.841Z",
+  "lastUpdated": "2026-01-12T20:47:12.841Z"
+}

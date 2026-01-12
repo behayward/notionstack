@@ -1,0 +1,30 @@
+{
+  "id": "Notion Habit Tracker with Monthly Analytics",
+  "name": "Notion Habit Tracker with Monthly Analytics",
+  "slug": "notion-habit-tracker-with-monthly-analytics",
+  "description": "Welcome to the Notion Habit Tracker with Monthly Analytics! A surprisingly powerful method of tracking habits.Features:Automated daily page addition, either via Notion template repeat feature or by running the Python script once a yearScript will automatically delete any previous year pages, so they won't mess up with monthly analyticsMonthly analytics provide Habits completion % insights via star ratings ⭐️Real-time daily performance charts 🚀Habit completion visual cues using progress bar and c",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Anurag Singh",
+    "url": "https://ashleymavericks.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ocvzld",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ocvzld",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 17,
+  "ratingCount": 17,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Automated daily page addition, either via Notion template repeat feature or by running the Python script once a year; Script will automatically delete any previous year pages, so they won't mess up with monthly analytics; Monthly analytics provide Habits completion % insights via star ratings ⭐️; Real-time daily performance charts 🚀; Habit completion visual cues using progress bar and custom star ratings; Notion formulae are used in a way, that user will only see current week and current monthly graph performance.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.613Z",
+  "lastUpdated": "2026-01-12T20:47:12.613Z"
+}

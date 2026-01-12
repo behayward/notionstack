@@ -1,0 +1,30 @@
+{
+  "id": "Workout Tracker",
+  "name": "Workout Tracker",
+  "slug": "workout-tracker-1",
+  "description": "Track, improve &amp; build muscle in the gym.We bring together everything you'll ever need in the fitness center to help you advance your workouts.See workout-os.com for more info.Tracking workouts can be a major headache.Many of our customers used to track everything by writing new lines in a Notion page. Some even sat with notebooks and got a pencil out to write between sets.This way of tracking is rather meaningless - and often results in exhaustion and less motivation to work out.Workout Tra",
+  "price": 8,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Noah Lloyd",
+    "url": "https://noahlloyd.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/uufbi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/uufbi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": 170,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.641Z",
+  "lastUpdated": "2026-01-12T20:47:12.641Z"
+}

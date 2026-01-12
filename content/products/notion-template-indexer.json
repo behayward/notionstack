@@ -1,0 +1,30 @@
+{
+  "id": "Notion Template Indexer",
+  "name": "Notion Template Indexer",
+  "slug": "notion-template-indexer",
+  "description": "Tired of losing and confusing your templates?Use the Notion - Template Indexer by Shosan!Quickly identify your templates on the fly!Categorize them, obviously, otherwise? I mess!Make sure you keep track of how many templates are on any category automatically with formulas!And more...!Make sure to download before it's too late for your templates. Save them!!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Shosan",
+    "url": "https://shosan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ywjwj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ywjwj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Quickly identify your templates on the fly!; Categorize them, obviously, otherwise? I mess!; Make sure you keep track of how many templates are on any category automatically with formulas!",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.627Z",
+  "lastUpdated": "2026-01-12T20:47:12.627Z"
+}

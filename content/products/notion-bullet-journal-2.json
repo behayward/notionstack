@@ -1,0 +1,30 @@
+{
+  "id": "Notion Bullet Journal",
+  "name": "Notion Bullet Journal",
+  "slug": "notion-bullet-journal-2",
+  "description": "The Ultimate Bullet Journal for NotionThis comprehensive system, meticulously crafted around the renowned Bullet Journal framework, is seamlessly integrated into Notion for optimal user experience. It's expertly designed to enable consistent tracking, monitoring, and execution of your tasks across various timeframes, including monthly, weekly, and daily schedules. Its intuitive interface and structured layout make it easy to organize and prioritize your activities, ensuring you stay on top of yo",
+  "price": 15,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Zach Matthai",
+    "url": "https://zachmatthai.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ftsic",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ftsic",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 31,
+  "ratingCount": 31,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Purchase the product.; Go to the Notion page through the link you get access to.; Duplicate the page into your own Notion workspace.; Read the setup guide and use the template.",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.599Z",
+  "lastUpdated": "2026-01-12T20:47:12.599Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Charity Donation Tracker",
+  "name": "Charity Donation Tracker",
+  "slug": "charity-donation-tracker",
+  "description": "If you make regular donations to charitable organizations, this tracker helps you keep records of your contributions for tax purposes and charitable planning.Do you feel overwhelmed managing your donations towards charity and are unable to track funds properly?This Notion template is all you need to manage all your charity funds, set target amount and date, assess savings, build cash flow with savings over time and much more.Are you looking to automate PDF generation for repetitive documents lik",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/fydfyp",
+  "affiliateUrl": "https://gumroad.com/a/402782931/fydfyp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.702Z",
+  "lastUpdated": "2026-01-12T20:47:13.702Z"
+}

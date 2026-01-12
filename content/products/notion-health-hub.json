@@ -1,0 +1,30 @@
+{
+  "id": "Notion Health Hub",
+  "name": "Notion Health Hub",
+  "slug": "notion-health-hub",
+  "description": "Your digital dashboard for your personal health management 🧠💪When was the last time you did a health check-up? Did you take your medication today? Are you making any progress on your fitness goals? (you have set them, did you?)Our mind and our body are the most important assets we have. Often, it can be overwhelming to prioritize their care, but investing in our physical and mental well-being is crucial for a fulfilling and healthy life!A lot of information and tasks to stay on top of, and it's ",
+  "price": 9,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Saelbi",
+    "url": "https://saelbi.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ivqvg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ivqvg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 11,
+  "ratingCount": 11,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "What do I need to start?Before you can use and edit this template, you need a Notion account. You can create your FREE accounthere.; Can I become an affiliate?Of course,click here to sign up.; Do you offer custom Notion solutions?Yes. Feel free to send me an email atthesaelbi@gmail.comor reach out to me onTwitter.",
+  "assessmentScore": 90,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.739Z",
+  "lastUpdated": "2026-01-12T20:47:12.739Z"
+}

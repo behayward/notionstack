@@ -1,0 +1,30 @@
+{
+  "id": "Notion Subscription Tracker",
+  "name": "Notion Subscription Tracker",
+  "slug": "notion-subscription-tracker",
+  "description": "Keep your subscriptions in check.A simple Notion dashboard to help you track and manage your subscriptions.Features Includes: Tracking active/inactive subscriptions Clarity with categories Breakdown your subscriptions Notify of upcoming subscription renewals FAQsHow to download the template?Open the template link, then click \"Duplicate\" on the top right corner to duplicate it to your workspace.How can I become an affiliate?Click here to fill out the affiliate form.Still have questions?Send your ",
+  "price": 2,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Benny Kan",
+    "url": "https://bennykan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hcshps",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hcshps",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 58,
+  "ratingCount": 58,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Tracking active/inactive subscriptions; Clarity with categories; Breakdown your subscriptions; Notify of upcoming subscription renewals",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.612Z",
+  "lastUpdated": "2026-01-12T20:47:12.612Z"
+}

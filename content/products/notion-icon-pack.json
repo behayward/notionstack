@@ -1,0 +1,30 @@
+{
+  "id": "Notion Icon Pack",
+  "name": "Notion Icon Pack",
+  "slug": "notion-icon-pack",
+  "description": "Update your Notion workspace with these icons that match Notion headings.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Cat Mulvihill",
+    "url": "https://catmulvihill.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/KWsCw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/KWsCw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 42,
+  "ratingCount": 42,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.570Z",
+  "lastUpdated": "2026-01-12T20:47:12.570Z"
+}

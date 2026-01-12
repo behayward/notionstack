@@ -1,0 +1,30 @@
+{
+  "id": "Notion Library",
+  "name": "Notion Library",
+  "slug": "notion-library-1",
+  "description": "Hi, this is template is a version of my personal Library in Notion. Enjoy!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "reading",
+  "creator": {
+    "name": "NotionFlows",
+    "url": "https://notionflows.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ZCsZe",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ZCsZe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 22,
+  "ratingCount": 22,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.671Z",
+  "lastUpdated": "2026-01-12T20:47:12.671Z"
+}

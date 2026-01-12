@@ -1,0 +1,30 @@
+{
+  "id": "Time Tracking Template",
+  "name": "Time Tracking Template",
+  "slug": "time-tracking-template",
+  "description": "Effortlessly track your work hours, earnings, and projects!Introducing a Notion template for time tracking, designed to help you take control of your work hours, earnings, and projects like never before! With this template, you'll easily track the time spent on each task, calculate your earnings based on your hourly rate, and manage multiple projects with ease.Key Features:Start and End Session Buttons: Easily track the time spent on each activity by simply clicking the start and end buttons. Ne",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bjkia",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bjkia",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 501,
+  "ratingCount": 501,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Start and End Session Buttons:Easily track the time spent on each activity by simply clicking the start and end buttons. Never miss a minute of your valuable work time!; Hourly Rate & Earnings Tracking: Enter your hourly rate and let the template automatically calculate your earnings for each session. Keep track of your income with ease.; Project Tracking:Manage projects that require multiple timed sessions. Start and end each session with a click of a button, and monitor your progress throughout the project.; Project Overview:Get an overview view of your total hours and earnings for each project, helping you stay on top of your income and productivity.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.581Z",
+  "lastUpdated": "2026-01-12T20:47:12.581Z"
+}

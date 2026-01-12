@@ -1,0 +1,30 @@
+{
+  "id": "Notion Life Planner",
+  "name": "Notion Life Planner",
+  "slug": "notion-life-planner-1",
+  "description": "Plan Your Life and Reach Your Goals With NotionLife Planner helps you plan your entire life and turn your goals into a reality effortlessly with one all-in-one streamlined system.Learn More",
+  "price": 59,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Pathpages",
+    "url": "https://pathpages.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qidem",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qidem",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 26,
+  "ratingCount": 26,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 105,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.756Z",
+  "lastUpdated": "2026-01-12T20:47:12.756Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Consultants: Online Course",
+  "name": "Notion for Consultants: Online Course",
+  "slug": "notion-for-consultants-online-course",
+  "description": "Transform Your Consulting Workflow with Notion!Unlock the full potential of Notion tailored specifically for consultants! This intensive course will guide you from a basic understanding to crafting a fully functional, customized dashboard that enhances your productivity and organization. Dive deep into advanced features, integrations, and automation to streamline your consulting workflow like never before. Get ready to transform your consulting tasks into a seamless experience!Who is it For?This",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/uauxr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/uauxr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Consultants looking to improve their organization; - Freelancers seeking to streamline their workflow; - Project Managers aiming for better task management; Basic familiarity with Notion's interface; - Understanding of database concepts; - Knowledge of Python for API integration; Mastering the Notion Interface: Your Launchpad; 2. Crafting Databases for Consulting Success; 3. Advanced Filtering and Views: Seeing is Believing; 4. Formulas Unleashed: Automate Your Workflow",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.352Z",
+  "lastUpdated": "2026-01-12T20:47:13.352Z"
+}

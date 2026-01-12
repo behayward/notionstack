@@ -1,0 +1,30 @@
+{
+  "id": "Notion ChatGPT Prompt Manager",
+  "name": "Notion ChatGPT Prompt Manager",
+  "slug": "notion-chatgpt-prompt-manager",
+  "description": "Are you overwhelmed by all the new AI tools that are coming out these days? Do you want to hone your ChatGPT skills and jump ahead of your peers with it? My Prompt Manager template helps you to stay on top of things and teaches you the most important prompt engineering techniques.When I first started using ChatGPT and other LLMs in my studies, I found it challenging to write effective prompts and manage them. I realized that a structured approach was needed to navigate this vast field and extrac",
+  "price": 4.99,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Garry",
+    "url": "https://garrygum.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zsnydm",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zsnydm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "A practical and sophisticated prompt engineering guide, with tips for real use cases.; A curated collection of my favourite prompts, categorized to their respective use cases.; A database helping you to manage and order your prompts, according to usefulness and category.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.778Z",
+  "lastUpdated": "2026-01-12T20:47:12.778Z"
+}

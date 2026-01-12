@@ -1,0 +1,30 @@
+{
+  "id": "Notion Task Manager",
+  "name": "Notion Task Manager",
+  "slug": "notion-task-manager-8",
+  "description": "The simple, powerful way to manage your daily tasksNotion Task Manager allows you to effortlessly create tasks, track progress &amp; assign dependencies. What's included:✔ Centralized task management:Keep all of your tasks and to-dos in one place, with easy-to-use filters and sorting options to help you prioritize and stay focused.✔ Task timeline:Few tasks in timeline view, and create dependencies.✔ Customizable workflows: Adapt the template to your needs by creating custom workflows and task ca",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Brian",
+    "url": "https://heynoon.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/dauoy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/dauoy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Keep all of your tasks and to-dos in one place, with easy-to-use filters and sorting options to help you prioritize and stay focused.; Few tasks in timeline view, and create dependencies.; Adapt the template to your needs by creating custom workflows and task categories that fit your unique approach to getting things done.; Set priority levels for each task to help you focus on what's most important.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.545Z",
+  "lastUpdated": "2026-01-12T20:47:12.545Z"
+}

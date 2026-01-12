@@ -1,0 +1,30 @@
+{
+  "id": "Notion Credit Card Expenses Tracker",
+  "name": "Notion Credit Card Expenses Tracker",
+  "slug": "notion-credit-card-expenses-tracker",
+  "description": "Notion Credit Card Expenses TrackerStreamline your finances with a versatile and intuitive tool, seamlessly integrating credit card payments in time onto your Notion workspace.Here's a quick walkthrough of the template 👇:The Notion Credit Card Expenses Tracker offers an easy way for you to stay on top of your credit card payments on time.Inside you'll find a whole operating system that will help you to track your credit card dues, monthly and yearly overview of expenses and stay within budget on",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/vmkfr",
+  "affiliateUrl": "https://gumroad.com/a/402782931/vmkfr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Easy to create transactions to track daily credit card dues in a simple and intuitive interface.; Set your own credit card expense categories, assign budget for each, and keep expenses in check under one dashboard.; Provides Expenses Overview, Notifications for payments, Monthly and Yearly Overview of all expenses.; Available for MacOS, Windows OS, iOS and Android devices.; Complete Credit Card Expenses Overview Dashboard; Credit Card Expenses Tracker; Complete Interactive Guide; Credit Card Expense Tracker ($9 Value)",
+  "assessmentScore": 72,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.731Z",
+  "lastUpdated": "2026-01-12T20:47:13.731Z"
+}

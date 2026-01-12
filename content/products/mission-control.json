@@ -1,0 +1,30 @@
+{
+  "id": "Mission Control",
+  "name": "Mission Control",
+  "slug": "mission-control",
+  "description": "The only project &amp; task manager you need to get sh*t doneA complete Notion project &amp; task management system that eliminates overwhelm and keeps you focused on what matters most, built on proven productivity frameworks.Transform your chaotic task list into a strategic command center.The Mission Control uses the Eisenhower Matrix, GTD methodology, and OKR principles to automatically prioritize your work and eliminate decision fatigue.Perfect for entrepreneurs, freelancers, and professional",
+  "price": 19,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/zujmwo",
+  "affiliateUrl": "https://gumroad.com/a/376061651/zujmwo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "🎯 Smart Priority System (Eisenhower Matrix):Automatic task categorization by urgency and importance so you never waste time on busy work again and only focus on what moves the needle; 📊 Visual Project Progress Tracking:Real-time progress bars and completion percentages so you can see exactly how close you are to finishing projects and stay motivated; ⏱️ Time Estimation & Accuracy Tracking:Estimate task duration and track actual time spent so you can get better at planning your days and avoid overcommitting; 🔄 GTD-Based Inbox Processing:Capture everything, then systematically process into actionable items so you can clear mental clutter and never lose track of important tasks again; 📅 Calendar Integration & Time Blocking:Drag-and-drop tasks directly onto your calendar so you can time block and turn your task list into a realistic daily schedule; 🧠 Context-Based Task Grouping:Organize tasks by state so you can batch similar work together and eliminate context switching",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.663Z",
+  "lastUpdated": "2026-01-12T20:47:13.663Z"
+}

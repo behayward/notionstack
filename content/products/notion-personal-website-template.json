@@ -1,0 +1,30 @@
+{
+  "id": "Notion Personal Website Template",
+  "name": "Notion Personal Website Template",
+  "slug": "notion-personal-website-template",
+  "description": "Create and customize your personal website in minutes with Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "personal",
+  "creator": {
+    "name": "Easlo Academy",
+    "url": "https://easloacademy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gflwg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gflwg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 209,
+  "ratingCount": 209,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.530Z",
+  "lastUpdated": "2026-01-12T20:47:12.530Z"
+}

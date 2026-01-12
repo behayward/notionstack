@@ -1,0 +1,30 @@
+{
+  "id": "Sales OS",
+  "name": "Sales OS",
+  "slug": "sales-os",
+  "description": "Capture and Manage your Sales in NotionA kick-ass and aesthetic sales management system that centralizes all your clients, orders &amp; products into your digital workspace.How does it work?Create a contact and organize it by customer, lead, or teamImport your contacts from Google Contacts or MailchimpCapture and manage your products. Track your sales and make prognostics.Manage your client’s orders to never miss a thing.Create meetings with your contacts for discovery or follow-up.Store your sa",
+  "price": 20,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/661958867/ktwgp",
+  "affiliateUrl": "https://gumroad.com/a/661958867/ktwgp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 113,
+  "ratingCount": 113,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Create a contact and organize it by customer, lead, or team; Import your contacts from Google Contacts or Mailchimp; Capture and manage your products. Track your sales and make prognostics.; Manage your client’s orders to never miss a thing.; Create meetings with your contacts for discovery or follow-up.; Store your sales assets.; Create docs, contracts, and notes and manage them in different notebooks.; Home page with guide; Main dashboard; All-In-One view of the system",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.513Z",
+  "lastUpdated": "2026-01-12T20:47:13.513Z"
+}

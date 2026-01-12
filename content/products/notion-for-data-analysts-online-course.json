@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Data Analysts: Online Course",
+  "name": "Notion for Data Analysts: Online Course",
+  "slug": "notion-for-data-analysts-online-course",
+  "description": "Unlock the full potential of Notion for Data Analysts!This practical course is designed to empower you to create a comprehensive Notion dashboard tailored specifically for your data analysis tasks. Dive deep into advanced features, integrations, and elegant data systems that will revolutionize your workflow and enhance productivity. By the end of this course, you'll not only master Notion's capabilities but also create a user-friendly, functional workspace that meets your unique needs.Who is it ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/pkmsn",
+  "affiliateUrl": "https://gumroad.com/a/145902419/pkmsn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate; - Data Analysts looking to streamline their workflow; - Project Managers aiming for better task organization; - Team Leaders wanting to enhance collaboration in data projects; Basic knowledge of Notion features and functionalities.; - Familiarity with data analysis concepts and tools.; - Basic understanding of Python for API integration.; 1. Building the Foundation: Notion Basics for Analysts",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.353Z",
+  "lastUpdated": "2026-01-12T20:47:13.353Z"
+}

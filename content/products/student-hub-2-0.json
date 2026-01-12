@@ -1,0 +1,30 @@
+{
+  "id": "Student Hub 2.0",
+  "name": "Student Hub 2.0",
+  "slug": "student-hub-2-0",
+  "description": "🎓 The Student Hub Notion Template is the ultimate productivity tool for students. This comprehensive template is designed to help students manage their academic and personal lives with ease.Features:📅 Keep track of your assignments, exams, and deadlines📝 Preloaded with a custom calendar, to-do list, and study schedule🎨 Fully customizable to tailor to your unique needs🎓 Suitable for high school students or graduate students🧠 Spaced Repetition for easy memorization📋 Daily Tasks and Review Sections",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "The Notion Noob",
+    "url": "https://thenotionnoob.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fcmvw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fcmvw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "📅 Keep track of your assignments, exams, and deadlines; 📝 Preloaded with a custom calendar, to-do list, and study schedule; 🎨 Fully customizable to tailor to your unique needs; 🎓 Suitable for high school students or graduate students; 🧠 Spaced Repetition for easy memorization; 📋 Daily Tasks and Review Sections",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.750Z",
+  "lastUpdated": "2026-01-12T20:47:12.750Z"
+}

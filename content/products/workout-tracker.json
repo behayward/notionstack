@@ -1,0 +1,30 @@
+{
+  "id": "Workout Tracker",
+  "name": "Workout Tracker",
+  "slug": "workout-tracker",
+  "description": "Introducing the Ultimate Workout Tracking Template for Notion!Plan your workout days and track your exercises, reps, sets, and weights all in one place. This Notion template allows you to add as many exercises as you want, grouped by different muscle groups, so you can easily plan your workout routine.With the ability to check off completed sets, you can track your progress and stay motivated. Plus, you can easily view an archive of all the exercises you've ever done to see your progression and ",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xkeese",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xkeese",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1247,
+  "ratingCount": 1247,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Training Schedule; Workout Routines; Workout History; Exercises Database; Exercise Groups; Everything in Basic Version; Muscle Group Covers; Custom Exercise Groups; Weekly Workout Planner; Weight Tracking",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.567Z",
+  "lastUpdated": "2026-01-12T20:47:12.567Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Freelance Bundle",
+  "name": "Notion Freelance Bundle",
+  "slug": "notion-freelance-bundle",
+  "description": "Get (truly) organized with 65% offGet my premium freelance templates for the price of one.I spent hundreds of hours crafting these templates so that you don't have to — I hope you'll enjoy them!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "freelance",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/ifvpg",
+  "affiliateUrl": "https://gumroad.com/a/822660307/ifvpg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.479Z",
+  "lastUpdated": "2026-01-12T20:47:13.479Z"
+}

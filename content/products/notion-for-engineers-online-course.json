@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Engineers: Online Course",
+  "name": "Notion for Engineers: Online Course",
+  "slug": "notion-for-engineers-online-course",
+  "description": "Unlock the Power of Notion for Engineers!Dive into the intricate world of Notion tailored specifically for engineers. This course is designed to elevate your organizational skills and transform your workflow, providing you with the tools to build a comprehensive Notion setup that enhances productivity and streamlines engineering tasks.Who is it For:This course is designed for engineers familiar with basic Notion functionalities but looking to enhance their organizational skills. If you're motiva",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/wmqhkp",
+  "affiliateUrl": "https://gumroad.com/a/145902419/wmqhkp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate engineers looking to enhance their organizational skills.; -Audience:Engineers, Project Managers, Team Leads.; Basic understanding of Notion.; - Familiarity with engineering tasks and workflows.; - Basic knowledge of databases and data management.; Modules:Unlocking the Power of Notion, Crafting Your Engineering Dashboard, Building Complex Databases, Mastering Notion Formulas, Integrating Notion with Other Tools, Finalizing Your Notion System.; -Quizzes:Quizzes will be included at the end of each module to reinforce your learning and assess your understanding of advanced Notion features.; -Assignments:Assignments include practical tasks such as creating your own Notion for Engineers Dashboard, building complex databases, and integrating external tools to enhance your workflow.; -Practical Project:The final project involves creating a comprehensive Notion dashboard tailored specifically for engineering tasks, incorporating all elements learned throughout the course.; -Before You Start:Before you start, ensure you have a basic understanding of Notion and engineering workflows to fully benefit from this course.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.339Z",
+  "lastUpdated": "2026-01-12T20:47:13.339Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "PDF Generator Template",
+  "name": "PDF Generator Template",
+  "slug": "pdf-generator-template",
+  "description": "Welcome to PDF Generator Template page. This page hosts a lot of PDF Template pages which can be used to generate PDF documents in bulk using a Notion Page and PDFOutput Chrome Extension.Click on View Templates below to see all the templates.View TemplatesHere's a video showing how to use the PDFOutput Chrome extension to generate PDF documents in bulk with the extension.Click on Buy Now to gain access to the PDFOutput templates and you would be sent a link for access to the templates.For any qu",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/tsknh",
+  "affiliateUrl": "https://gumroad.com/a/402782931/tsknh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.774Z",
+  "lastUpdated": "2026-01-12T20:47:13.774Z"
+}

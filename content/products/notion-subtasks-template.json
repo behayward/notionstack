@@ -1,0 +1,30 @@
+{
+  "id": "Notion Subtasks Template",
+  "name": "Notion Subtasks Template",
+  "slug": "notion-subtasks-template",
+  "description": "Subtasks,Sub(sub)tasks,Sub(sub)²tasks.When you work on complex projects, some tasks often require subtasks. And some of these subtasks sometimes need (sub)subtasks. And occasionally, these (sub)subtasks also need (sub)²subtasks.This template allows you to create 3-levels subtasks while maintaining access to the project that each task belongs to.Features Project Tasks Level 1 Subtasks Level 2 Subtasks Level 3 Subtasks For more details &amp; instructions, please visit my article on the subject.FAQ",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/lvmbd",
+  "affiliateUrl": "https://gumroad.com/a/822660307/lvmbd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Level 1 Subtasks; Level 2 Subtasks; Level 3 Subtasks",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.474Z",
+  "lastUpdated": "2026-01-12T20:47:13.474Z"
+}

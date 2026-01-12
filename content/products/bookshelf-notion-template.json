@@ -1,0 +1,30 @@
+{
+  "id": "Bookshelf - Notion Template",
+  "name": "Bookshelf - Notion Template",
+  "slug": "bookshelf-notion-template",
+  "description": "Introducing the Bookshelf Notion Template! Escape into a world of literary wonders with our Bookshelf Notion Template! 📚 Whether you're a devoted bookworm or just starting your reading journey, this template is here to be your ultimate companion, helping you organize and explore your favorite books. 👩‍💼 Authors Database: ✨ Immerse yourself in the captivating lives of authors with a dedicated database. Dive deep into their biographies, discover their extensive bibliographies, and get ready to rec",
+  "price": 5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "reading",
+  "creator": {
+    "name": "Radiant Rebel",
+    "url": "https://radiantrebel.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qalnw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qalnw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": 3,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.863Z",
+  "lastUpdated": "2026-01-12T20:47:12.863Z"
+}

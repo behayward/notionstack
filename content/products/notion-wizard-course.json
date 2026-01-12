@@ -1,0 +1,30 @@
+{
+  "id": "Notion Wizard Course",
+  "name": "Notion Wizard Course",
+  "slug": "notion-wizard-course",
+  "description": "Master Notion, Tame Your To-Do List and turn your procrastination into focusWhen you start using Notion – it’s just a blank canvas. And that’s the problem. Most people open it, stare at the screen, and go, “Now what?”Instead of saving time, you waste it. Instead of clarity, you get chaos.Sound familiar? Then you might be a Bob...“I just want to turn chaos into order… without breaking my brain.”Meet Bob. Bob is you.Bob is the human embodiment of a chaotic browser window with 87 tabs open. Bob is ",
+  "price": 97,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/igadff",
+  "affiliateUrl": "https://gumroad.com/a/376061651/igadff",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Get overwhelmed by Notion’s endless possibilities and don’t know where to start.; Spend more time Googling “How to Notion” than actually using Notion.; Love the idea of being organized, but no matter how many times you try, you’re back to square one.; Keep thinking, “What if I never figure this out? What if I’m just a messy person pretending to be productive?”; Keep getting distracted by shiny new templates instead of focusing on learning the basics.; Know that the disorganized version of you is holding you back from the life you want.; Every task has a place.; Every project is mapped out.; And every idea is captured, categorized, and ready to roll.; Is organized and almost too productive",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.663Z",
+  "lastUpdated": "2026-01-12T20:47:13.663Z"
+}

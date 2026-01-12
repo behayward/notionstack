@@ -1,0 +1,30 @@
+{
+  "id": "Simple Habit Tracker (Notion Template)",
+  "name": "Simple Habit Tracker (Notion Template)",
+  "slug": "simple-habit-tracker-notion-template",
+  "description": "This Notion habit tracker is simple and easy to use and set up on a consistent basis. If you want to track your habits using Notion then this is the one to go with.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Demetri Panici",
+    "url": "https://dpanici014.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/akVlY",
+  "affiliateUrl": "https://gumroad.com/a/962870099/akVlY",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.644Z",
+  "lastUpdated": "2026-01-12T20:47:12.644Z"
+}

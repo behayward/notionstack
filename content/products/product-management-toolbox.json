@@ -1,0 +1,30 @@
+{
+  "id": "Product Management Toolbox",
+  "name": "Product Management Toolbox",
+  "slug": "product-management-toolbox",
+  "description": "20+ templates for product management, built in Notion. Save time with pre-built detailed templates Stay organized in Notion Collaborate seamlessly and drive reuslts Get it today!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "UX DEPARTMENT",
+    "url": "https://uxdepartment.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bcand",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bcand",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Save time with pre-built detailed templates; Stay organized in Notion; Collaborate seamlessly and drive reuslts",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.271Z",
+  "lastUpdated": "2026-01-12T20:47:13.271Z"
+}

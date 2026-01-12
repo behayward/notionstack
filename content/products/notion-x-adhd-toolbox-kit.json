@@ -1,0 +1,30 @@
+{
+  "id": "Notion X ADHD Toolbox Kit",
+  "name": "Notion X ADHD Toolbox Kit",
+  "slug": "notion-x-adhd-toolbox-kit",
+  "description": "A Toolbox Kit for ADHD Brain with Free Notion templates, free resources, tools, and AI prompts to help you tame your ADHD Brain and unlock your best self.",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/pmmuy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/pmmuy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.001Z",
+  "lastUpdated": "2026-01-12T20:47:13.001Z"
+}

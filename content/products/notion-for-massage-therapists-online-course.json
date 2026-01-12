@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Massage Therapists: Online Course",
+  "name": "Notion for Massage Therapists: Online Course",
+  "slug": "notion-for-massage-therapists-online-course",
+  "description": "Transform Your Massage Practice with Notion!Unlock the full potential of Notion tailored specifically for massage therapists! This course will guide you through the intricacies of Notion, empowering you to create a comprehensive management system that streamlines your practice. By the end, youâll have a customized dashboard that enhances your operational efficiency and elevates client interactions.Who is it For?This course is designed specifically for intermediate massage therapists familiar w",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/nvtok",
+  "affiliateUrl": "https://gumroad.com/a/145902419/nvtok",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Diving Deeper: Advanced Notion Features; -Crafting Your Custom Dashboard; -Database Mastery: Relations and Formulas; -Integration: Notion and Beyond; -Streamlining Operations: Data Flows and Views; -Final Touches: Review and Optimize Your Setup; Master advanced features of Notion tailored for massage therapy practices.; - Create a personalized Notion dashboard to manage clients and tasks effectively.; - Integrate Notion with other platforms to enhance your workflow.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.375Z",
+  "lastUpdated": "2026-01-12T20:47:13.375Z"
+}

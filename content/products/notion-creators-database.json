@@ -1,0 +1,30 @@
+{
+  "id": "Notion Creators Database",
+  "name": "Notion Creators Database",
+  "slug": "notion-creators-database",
+  "description": "Notion Creators Database ↴The list of the best Notion creators on X. Use this list to connect and engage with account similar to you to grow your Notion business. Or simply use the list to learn more about Notion, how to use it and connect with like minded creators.Key Features:🫧 Clean aesthetic: With Clean Aesthetic, simplicity is key. We've carefully curated every detail, from crisp lines to spacious layouts, to ensure that your content remains the focal point. Say goodbye to cluttered interfa",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Tyler Pham",
+    "url": "https://tylerworkflow.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/durho",
+  "affiliateUrl": "https://gumroad.com/a/962870099/durho",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.236Z",
+  "lastUpdated": "2026-01-12T20:47:13.236Z"
+}

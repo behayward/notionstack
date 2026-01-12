@@ -1,0 +1,34 @@
+{
+  "id": "Everything Bundle",
+  "name": "Everything Bundle",
+  "slug": "notion-complete-bundle",
+  "description": "That's over $800 worth of value for just $389 (Limited-Time Only)You will get unlimited access to our current and future Notion templates and courses.Don't wait any longer to unlock the full potential of Notion.Get instant access to all premium Notion templates and courses!",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/602107091/axszr",
+  "affiliateUrl": "https://gumroad.com/a/602107091/axszr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 65,
+  "ratingCount": 65,
+  "salesCount": null,
+  "tags": [
+    "Bundle",
+    "Dashboard",
+    "Journal"
+  ],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "September 27, 2022 3:14 PM",
+  "lastUpdated": "2026-01-12T20:47:12.427Z"
+}

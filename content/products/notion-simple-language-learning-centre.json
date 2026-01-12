@@ -1,0 +1,30 @@
+{
+  "id": "💬 Notion: Simple Language Learning Centre",
+  "name": "💬 Notion: Simple Language Learning Centre",
+  "slug": "notion-simple-language-learning-centre",
+  "description": "Track your progress, store online resources, save vocab, and do even more with this template. It even includes a Quizlet generator and a fully-programmed vocab test!🎯 Track Your ProgressTrack your progress and practise writing in your target language simultaneously with entries! Everything is automatically calculated for you; just set your goals, add vocab words to your entries, and watch your progress soar. 💡Never Forget a WordRemember every word you pick up by using the Vocab database. 📚 One P",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Bluemoondragon Productions",
+    "url": "https://bluemoondragon.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fbvmx",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fbvmx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Revised Layout; Quizlet Generator now on its own page; Take a Vocab Testaddedquiz yourself using a graded Vocab Test, all programmed into two Notion tables.; quiz yourself using a graded Vocab Test, all programmed into two Notion tables.; # Words Learnednow calculates automatically when words are added to 🗣️Vocab Learned Today.; There is now a separate database forEpisodesunder 🔊Listening Practice.; There are now separate templates forMoviesandShowsunder 🔊Listening Practice. Shows can be connected to Episodes and calculate the total number of words learned from all the episodes combined.; Added a Microsoft Translate embed inVocab; Daily Entriesnow automatically sort by date.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.561Z",
+  "lastUpdated": "2026-01-12T20:47:12.561Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Training Course Builder",
+  "name": "Training Course Builder",
+  "slug": "training-course-builder",
+  "description": "Your companion to build professional training courses step by step.Use the 5-step methodology I have built throughout my 10 years experience in the training industry:1 - Strategise2 - Design3 - Build your content4 - Test &amp; Iterate5 - CommunicateEach step comes with ready-to-use databases and templates, guiding you thrugh the course creation process step by step.The system helps you build your training course in a logical sense, starting with the final goal, taking you through content creatio",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "ManagerHacks by Mona",
+    "url": "https://managerhacks.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mvepay",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mvepay",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": 177,
+  "tags": [],
+  "useCases": [],
+  "features": "This is a Notion template.Get Notion(this template works on both Free and Premium accounts).*; Once you get the template, duplicate it to your own Notion space.; Delete the example courses in the database; Start building your course by adding a new course with the button \"New\"; Follow the steps and help others grow ✨",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.651Z",
+  "lastUpdated": "2026-01-12T20:47:12.651Z"
+}

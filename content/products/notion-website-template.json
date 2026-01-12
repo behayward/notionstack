@@ -1,0 +1,30 @@
+{
+  "id": "Notion Website Template",
+  "name": "Notion Website Template",
+  "slug": "notion-website-template",
+  "description": "Build your website with Notion: show projects, showcase yourself, write blogBuild your website with Notion: display your portfolio, highlight your expertise, share your story, write insightful blogs, and create a professional online presence all in one intuitive platform.Fully customizable and user-friendly, this template is your ticket to a stunning and functional portfolio website. Best of all? It’s entirely free and available to anyone with a Notion account.Publish your website from Notion. A",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Solt Wagner",
+    "url": "https://soltwagner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/883590867/gatsb",
+  "affiliateUrl": "https://gumroad.com/a/883590867/gatsb",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 17,
+  "ratingCount": 17,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Landing page; Projects CMS; Testimonial section; Videos section; FAQ section; Newsletter section",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.638Z",
+  "lastUpdated": "2026-01-12T20:47:13.638Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Shift Planner",
+  "name": "Shift Planner",
+  "slug": "shift-planner",
+  "description": "Easily manage your team's shifts and payments on Notion.Shift Planner is a Notion template designed to help you organise your employees' working hours and manage payments. It is ideal for event managers, restaurants, pubs, hotels, and other businesses where shifts are essential to business operations.The Shift Planner template consists of two master and two supporting databases. You will only need to navigate within the master databases (i.e. Events and Team) to complete all your tasks. The supp",
+  "price": 29,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Merve Goulding",
+    "url": "https://karakedi.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vnxexo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vnxexo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Add events to your calendar (view as a Gallery or on a monthly Calendar); Add and assign shifts to team members; Filter your team by their role and choose the best fit for each shift; Table and Timeline views to easily add and display shifts.; Auto-generated team board for your events.; Team Directory with Shifts and PaymentsTeam Directory with multiple viewsTeam member profiles with shift historyAuto-calculated wages and payment records; Team Directory with multiple views; Team member profiles with shift history; Auto-calculated wages and payment records",
+  "assessmentScore": 62,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.666Z",
+  "lastUpdated": "2026-01-12T20:47:12.666Z"
+}

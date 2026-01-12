@@ -1,0 +1,30 @@
+{
+  "id": "Portfolio",
+  "name": "Portfolio",
+  "slug": "portfolio",
+  "description": "Are you a content creator or trainer? Do you wish you could quickly show what you are capable of to land your next gig? Here's everything you've been waiting for...Create a Portfolio in Minutes.This Notion template lets you showcase your expertise to the world by giving you a place to show and describe your work. Once it's ready, you can quickly share the link to it with a potential client or employer.NOTE: New to Notion? Notion is an online place where you can think, plan, write, create and tra",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Regine | Organize to Transform",
+    "url": "https://organizetotransform.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ncbcv",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ncbcv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.556Z",
+  "lastUpdated": "2026-01-12T20:47:12.556Z"
+}

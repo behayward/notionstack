@@ -1,0 +1,30 @@
+{
+  "id": "Notion Task Manager",
+  "name": "Notion Task Manager",
+  "slug": "notion-task-manager-2",
+  "description": "Version 2 launched! Overall better interface and UX NEW: Time Blocking view NEW: Anti-procrastination buttons NEW: Custom Workspace page with Distractions section and Quick Links NEW: See Recent Edits section in all pages REWORK: Core Tasks → Strict Tasks REWORK: Renamed Purpose → Areas (to match PARA method) REWORK: All task difficulties can now have sub-items And so much more! Beat procrastination today.Procrastinating too often? No motivation to complete your tasks on time?Use this Notion Ant",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Gosdee",
+    "url": "https://gosdee.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/pxeal",
+  "affiliateUrl": "https://gumroad.com/a/962870099/pxeal",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 89,
+  "ratingCount": 89,
+  "salesCount": 394,
+  "tags": [],
+  "useCases": [],
+  "features": "Overall better interface and UX; NEW: Time Blocking view; NEW: Anti-procrastination buttons; NEW: Custom Workspace page with Distractions section and Quick Links; NEW: See Recent Edits section in all pages; REWORK: Core Tasks → Strict Tasks; REWORK: Renamed Purpose → Areas (to match PARA method); REWORK: All task difficulties can now have sub-items; And so much more!; A task manager with several anti-procrastination features to help prevent you from delaying your tasks",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.987Z",
+  "lastUpdated": "2026-01-12T20:47:12.987Z"
+}

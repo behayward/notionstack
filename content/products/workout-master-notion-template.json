@@ -1,0 +1,30 @@
+{
+  "id": "Workout Master: Notion Template",
+  "name": "Workout Master: Notion Template",
+  "slug": "workout-master-notion-template",
+  "description": "Unlock the full potential of your fitness journey with this feature-rich template, designed to bring your workout experience to a new level.KEY FEATURES:Free: Enjoy the full functionality for free in your personal fitness journey. Just set 0 as a price and press \"I want this!\".Full control: Effortlessly create workouts of any complexity to meet to your fitness goals. Control workouts, exercises inside workouts and even sets inside exercises. Come back and resume any workout, any time.Regular and",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Roma",
+    "url": "https://romav.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xvhdmi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xvhdmi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Free:Enjoy the full functionality for free in your personal fitness journey. Just set 0 as a price and press \"I want this!\".; Regular and Timed Exercises:Create any number of \"weight x reps\" sets for regular exercises or add \"time\" for cardio exercises.; Notes and Tags:Custom notes and tags are supported for both at workout and exercise level, enhancing your tracking and organization.; Extensive Exercise Library:Access library of 220+ exercises grouped into 9 categories, each with high-quality thumbnails for a visual guide.; Track Your Progress:Access detailed history of your routines for each exercise.; Auto Records:Template automatically calculates progress and records (best weight x reps) for each exercise, providing valuable insights into your performance.; Mobile-First Design:All interactions are button-driven, and views are optimized for mobile screens, ensuring a pleasant mobile experience on the go.; Customizable Settings:Tailor your experience with customizable settings, allowing you to choose your preferred weight unit, time format, and content density.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.135Z",
+  "lastUpdated": "2026-01-12T20:47:13.135Z"
+}

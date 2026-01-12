@@ -1,0 +1,30 @@
+{
+  "id": "AI Artwork Organizer - preloaded with 50+ high quality prompt",
+  "name": "AI Artwork Organizer - preloaded with 50+ high quality prompt",
+  "slug": "ai-artwork-organizer-preloaded-with-50-high-quality-prompt",
+  "description": "Do you need a way to store prompts and images so you can quickly go back to them? Or a way to catalog your beautiful creations? This gallery-style organizer is the tool.Features:Shuffling gallery view.Document prompt, negative prompt, and other parameters. Preloaded with 50+ high-quality prompts with images.Organize with category, tag, and favorite.Create a share link to the album.Here's what the gallery looks likeDemo for adding new artwork: FAQsDoes this work with the free version of Notion?Ye",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Stable Diffusion Art Store",
+    "url": "https://andrewongai.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/inrgl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/inrgl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 32,
+  "ratingCount": 32,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Shuffling gallery view.; Document prompt, negative prompt, and other parameters.; Preloaded with 50+ high-quality prompts with images.; Organize with category, tag, and favorite.; Create a share link to the album.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.667Z",
+  "lastUpdated": "2026-01-12T20:47:12.667Z"
+}

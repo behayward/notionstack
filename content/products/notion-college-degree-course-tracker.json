@@ -1,0 +1,30 @@
+{
+  "id": "Notion College Degree Course Tracker",
+  "name": "Notion College Degree Course Tracker",
+  "slug": "notion-college-degree-course-tracker",
+  "description": "College is a wonderful time, but I also remember trying to keep track of the coursework for my major, general requirements, and prerequisites for graduate school. It’s hard to do! This template is inspired by a more basic spreadsheet I used before Notion came about. It includes: GPA CalculatorCourse TrackerDegree Requirements TrackerMulti-Year PlannerGood luck with your college journey and future path!",
+  "price": 5,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Alison Y, MD - Digi Doc 🩺",
+    "url": "https://digidocali.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zoqvr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zoqvr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "GPA Calculator; Course Tracker; Degree Requirements Tracker; Multi-Year Planner",
+  "assessmentScore": 90,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.629Z",
+  "lastUpdated": "2026-01-12T20:47:12.629Z"
+}

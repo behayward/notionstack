@@ -1,0 +1,30 @@
+{
+  "id": "Starter Bundle",
+  "name": "Starter Bundle",
+  "slug": "starter-bundle",
+  "description": "Get Started on Organizing Your Life in Notion.This bundle includes 5 ready-to-use templates to eliminate the need to set up your Notion from scratch.Enter \"$0\" and click the \"I want this\" button to download now.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "bundle",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hUGAv",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hUGAv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9495,
+  "ratingCount": 9495,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.532Z",
+  "lastUpdated": "2026-01-12T20:47:12.532Z"
+}

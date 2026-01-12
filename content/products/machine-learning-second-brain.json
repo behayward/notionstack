@@ -1,0 +1,30 @@
+{
+  "id": "Machine Learning Second Brain",
+  "name": "Machine Learning Second Brain",
+  "slug": "machine-learning-second-brain",
+  "description": "Machine Learning Second Brain Notion TemplateAs a machine learning engineer, you’re constantly managing projects, experiments, models, and deployments. This ML Second Brain Notion template is designed to be your complete organizational system, keeping everything streamlined and at your fingertips, from tracking experiments to monitoring deployments.This template is your ultimate dashboard for managing all aspects of your machine learning projects, designed to help you stay on top of your workflo",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Daniel García",
+    "url": "https://iamdgarcia.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/adpep",
+  "affiliateUrl": "https://gumroad.com/a/962870099/adpep",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Integrated Calendar View:Organize your upcoming tasks, experiments, and key milestones.Color-coded and filterable by project or task type, allowing for easy prioritization.; Organize your upcoming tasks, experiments, and key milestones.; Color-coded and filterable by project or task type, allowing for easy prioritization.; Active Projects Dashboard:Get a bird’s-eye view of all your ongoing projects and their current status.Track experiment progress, next major milestones, and deployment phases.; Get a bird’s-eye view of all your ongoing projects and their current status.; Track experiment progress, next major milestones, and deployment phases.; Experiments Summary:Keep tabs on all active and recent experiments with quick access to key metrics and dataset links.Easily monitor the status of each experiment to ensure everything is on track.; Keep tabs on all active and recent experiments with quick access to key metrics and dataset links.; Easily monitor the status of each experiment to ensure everything is on track.; Model Performance Tracker:Track the latest performance of models in development or deployment.View performance trends over time and quickly access version histories.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.220Z",
+  "lastUpdated": "2026-01-12T20:47:13.220Z"
+}

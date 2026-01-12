@@ -1,0 +1,30 @@
+{
+  "id": "50+ Short & Sweet Non-Fiction",
+  "name": "50+ Short & Sweet Non-Fiction",
+  "slug": "50-short-sweet-non-fiction",
+  "description": "Get a Notion doc with 50+ short non-fiction books. Enter 0 in the price box to get this document for free.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "reading",
+  "creator": {
+    "name": "Alex & Books",
+    "url": "https://alexandbooks.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ydkcg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ydkcg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.845Z",
+  "lastUpdated": "2026-01-12T20:47:12.845Z"
+}

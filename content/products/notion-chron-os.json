@@ -1,0 +1,30 @@
+{
+  "id": "Notion Chron OS",
+  "name": "Notion Chron OS",
+  "slug": "notion-chron-os",
+  "description": "A productivity system designed to help you keep track of your daily, weekly, and monthly goals.What's included?Tasks: see your daily, weekly, and monthly tasks in one placeProgress dashboard: to help you monitor the progress of tasksCategory dashboard: to help you group related tasks togetherPriority dashboard: to help you see the most important tasks firstBoilerplate template: readily create new tasks using OKR frameworkPreview:",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Toki Templates",
+    "url": "https://tokitoki.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qvjjcc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qvjjcc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Tasks: see your daily, weekly, and monthly tasks in one place; Progress dashboard: to help you monitor the progress of tasks; Category dashboard: to help you group related tasks together; Priority dashboard: to help you see the most important tasks first; Boilerplate template: readily create new tasks using OKR framework",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.542Z",
+  "lastUpdated": "2026-01-12T20:47:12.542Z"
+}

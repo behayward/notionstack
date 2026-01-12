@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Fundraisers: Online Course",
+  "name": "Notion for Fundraisers: Online Course",
+  "slug": "notion-for-fundraisers-online-course",
+  "description": "Transform Your Fundraising with Notion for Fundraisers!Unlock the full potential of Notion to supercharge your fundraising efforts! This hands-on course will guide you through advanced features tailored specifically for fundraisers, enabling you to create a fully functional dashboard that streamlines your operations and enhances your workflows. Dive deep into the world of data management, integration, and collaborative tools, and emerge equipped to tackle your fundraising tasks with newfound eff",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/aixydx",
+  "affiliateUrl": "https://gumroad.com/a/145902419/aixydx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Fundraisers aiming to improve their task management.; - Non-profit organizations looking for better data management.; - Project managers seeking to streamline their workflows.; Basic understanding of Notion's interface and functionalities; - Familiarity with fundraising processes; - Basic knowledge of databases and data management; 1. The Notion Landscape: Advanced Features Unveiled; 2. Crafting Your Data Structure: The Backbone of Fundraising; 3. Harnessing the Power of Notionâs UI",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.360Z",
+  "lastUpdated": "2026-01-12T20:47:13.360Z"
+}

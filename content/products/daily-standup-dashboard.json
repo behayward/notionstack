@@ -1,0 +1,30 @@
+{
+  "id": "Daily Standup Dashboard",
+  "name": "Daily Standup Dashboard",
+  "slug": "daily-standup-dashboard",
+  "description": "Record your daily standups using Notion.Daily Standup (n): A short meeting meant to keep teams aligned and quickly resolve issues. Synonyms: daily scrum, stand-up, daily huddle, morning roll-call, check-ins.This template lets you easily record your standup notes, work on any blockers that arise, and assign who is responsible for resolving them.📌 Daily QuestionsWhat did you do yesterday?What will you do today?Anything blocking your progress?🏁 Best PracticesSmall, focused groupsIn the morning ever",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Raiu",
+    "url": "https://raiu.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/swqvk",
+  "affiliateUrl": "https://gumroad.com/a/962870099/swqvk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "What did you doyesterday?; What will you dotoday?; Anythingblockingyour progress?; Small, focused groups; In the morning every work day; Less than15 minutesper session",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.548Z",
+  "lastUpdated": "2026-01-12T20:47:12.548Z"
+}

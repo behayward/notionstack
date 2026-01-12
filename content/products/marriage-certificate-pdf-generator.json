@@ -1,0 +1,30 @@
+{
+  "id": "Marriage Certificate PDF Generator",
+  "name": "Marriage Certificate PDF Generator",
+  "slug": "marriage-certificate-pdf-generator",
+  "description": "Marriage Certificate PDF GeneratorGenerate Marriage Certificate PDFs on automation from a Notion database using Google Doc as a template.Watch video below:Step: 1Add Google Doc Template:Upload a Google Doc with placeholders like {{ClientName}} or {{InvoiceDate}}.Step: 2 Connect Notion Database:Link your Notion database with matching headers like ClientName, InvoiceDate for seamless placeholder mapping.Step: 3 Download PDFs:Click on Download PDFs to generate the PDFs. Each row of the Notion Datab",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/taiqqm",
+  "affiliateUrl": "https://gumroad.com/a/402782931/taiqqm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 7,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 53,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.845Z",
+  "lastUpdated": "2026-01-12T20:47:13.845Z"
+}

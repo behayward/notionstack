@@ -1,0 +1,30 @@
+{
+  "id": "PARA Dashboard - FREE",
+  "name": "PARA Dashboard - FREE",
+  "slug": "para-dashboard-free",
+  "description": "Introducing the Matisway PARA Dashboard for NotionDesigned with precision and simplicity, this Notion template is built around the powerful PARA method by Tiago Forte.This Notion dashboard categorizes your life into four databases: Tasks, Projects, Areas, and Resources. You can move pages to the Archive view by checking the box in each database. Defining Areas of Life: Start by listing out the significant roles and responsibilities in your life in the Areas database. (Health, Finance, ect.) Proj",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Matisway",
+    "url": "https://matisway.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xhycz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xhycz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Defining Areas of Life:Start by listing out the significant roles and responsibilities in your life in the Areas database. (Health, Finance, ect.); Project Management:For every area in your life, plan and oversee related projects in the Projects database to level up your skills and achievements.; Task Management:For every project, break it down into actionable steps and list them in theTasksdatabase.; Resource Management:Capture and organize valuable references, such as articles and videos, in the Resources database. You can link these resources to related projects for easy access.; Easy Archiving:As things become less relevant or outdated, simply use the archive checkbox in any of the databases to move items to the Archive view.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.280Z",
+  "lastUpdated": "2026-01-12T20:47:13.280Z"
+}

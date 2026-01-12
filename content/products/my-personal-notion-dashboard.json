@@ -1,0 +1,30 @@
+{
+  "id": "My Personal Notion Dashboard",
+  "name": "My Personal Notion Dashboard",
+  "slug": "my-personal-notion-dashboard",
+  "description": "Introducing a personal dashboard that’s more than just a planner - it’s your daily companion for productivity and success. This Notion template is designed to help you navigate your day with ease and efficiency, keeping you on track with your tasks and projects.Daily Reset Card: Start each day fresh with this card that resets itself daily, providing a clean slate for your tasks and goals.Semester Setup: Stay on top of your academic schedule by populating the subjects and semesters databases. Tog",
+  "price": 5,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Prince Sharma",
+    "url": "https://notionprince.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/macpc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/macpc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 72,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.963Z",
+  "lastUpdated": "2026-01-12T20:47:12.963Z"
+}

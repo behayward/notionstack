@@ -1,0 +1,30 @@
+{
+  "id": "New Customer Registration Form",
+  "name": "New Customer Registration Form",
+  "slug": "new-customer-registration-form",
+  "description": "In this template, businesses can keep track of their New Customer Registration requirements with ease with the use of this simple Notion Form Template.Here's a quick walkthrough of a demo template which showcases how to use Notion Forms...Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Tech",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/lfrqsr",
+  "affiliateUrl": "https://gumroad.com/a/402782931/lfrqsr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:14.103Z",
+  "lastUpdated": "2026-01-12T20:47:14.103Z"
+}

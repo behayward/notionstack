@@ -1,0 +1,30 @@
+{
+  "id": "Travel Planner",
+  "name": "Travel Planner",
+  "slug": "travel-planner",
+  "description": "Plan your next travel better with NotionOrganize and keep track of your destinations, itinerary, and expenses for a better travel experience.What's Inside?Basic Travel PlannerThe basic planner is designed for those focusing on a singular journey.Plan an itinerary for a single tripUltimate Travel Dashboard:All-in-one Travel Companion: Designed for the frequent explorer, our ultimate dashboard lets you plan and manage unlimited trips all in one place. But we didn't stop there. Plan unlimited trips",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nqtvy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nqtvy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 826,
+  "ratingCount": 826,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Plan an itinerary for a single trip; Plan unlimited trips and itineraries; Track your travel expenses for every trip; Log your travel reflection in your journal; Collect travel essentials and items; Navigation sidebar and action buttons",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.533Z",
+  "lastUpdated": "2026-01-12T20:47:12.533Z"
+}

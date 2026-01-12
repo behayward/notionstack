@@ -1,0 +1,30 @@
+{
+  "id": "Profit and Loss Template",
+  "name": "Profit and Loss Template",
+  "slug": "profit-and-loss-template",
+  "description": "This is a user-friendly template that helps individuals or businesses track their income and expenses over a specific period to determine their profitability.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc T",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/ilumiv",
+  "affiliateUrl": "https://gumroad.com/a/402782931/ilumiv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Easy to create transactions to track profitability with a simple and intuitive interface; Track income, expenses and create accounts easily in one dashboard; Available for MacOS, Windows OS, iOS and Android devices.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.719Z",
+  "lastUpdated": "2026-01-12T20:47:13.719Z"
+}

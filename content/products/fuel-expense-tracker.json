@@ -1,0 +1,30 @@
+{
+  "id": "Fuel expense tracker",
+  "name": "Fuel expense tracker",
+  "slug": "fuel-expense-tracker",
+  "description": "This beginner friendly template is designed to empower you to better understand and manage your finances, starting with your fuel expense. Who knows, maybe you can customize it to be your entire expense tracker! Have at it!► KEY FEATURES Minimal, beginner friendly, highly customizable Could fit right into your dashboard with minimum tweaks Multiple user profiles Monthly and yearly tracker Eases the roommate expense split! ► What is notion?Notion is an all-in-one productivity tool.download notion",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "ops 31",
+    "url": "https://ops31.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gafmm",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gafmm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": 112,
+  "tags": [],
+  "useCases": [],
+  "features": "Minimal, beginner friendly, highly customizable; Could fit right into your dashboard with minimum tweaks; Multiple user profiles; Monthly and yearly tracker; Eases the roommate expense split!",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.044Z",
+  "lastUpdated": "2026-01-12T20:47:13.044Z"
+}

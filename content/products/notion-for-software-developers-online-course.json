@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Software Developers: Online Course",
+  "name": "Notion for Software Developers: Online Course",
+  "slug": "notion-for-software-developers-online-course",
+  "description": "Transform Your Software Development Workflow with Notion!Unlock the full potential of Notion tailored specifically for software developers! This practical course will guide you from foundational knowledge to building a sophisticated workspace designed for managing software development tasks. Dive deep into advanced features, integrations, and automation to enhance your productivity and organization. By the end, you will have a fully functional Notion workspace that transforms the way you manage ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/hjpkw",
+  "affiliateUrl": "https://gumroad.com/a/145902419/hjpkw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate; -Audience:Software Developers eager to enhance productivity, Project Managers looking for efficient task management, Team Leads aiming to improve collaboration and organization.; Basic knowledge of Notion; - Familiarity with software development concepts; - Basic understanding of databases and task management systems; From Basics to Brilliance: Setting Up Your Notion Workspace; 2. Mastering Databases: The Heart of Your Notion System; 3. Formulas Unleashed: Automating Your Workflow; 4. Integrating Notion with Your Development Tools; 5. Creating Elegant and Efficient Workflows",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.383Z",
+  "lastUpdated": "2026-01-12T20:47:13.383Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion AI Automation Agent",
+  "name": "Notion AI Automation Agent",
+  "slug": "notion-ai-automation-agent",
+  "description": "🚀 Automate Notion with AI – Upload, Analyze &amp; Translate Instantly!Supercharge your Notion workflow with AI automation! This powerful MCP server, built with Claude Desktop, seamlessly integrates with Notion to handle time-consuming tasks for you.🔥 What This AI-Powered Tool Can Do: ✅ Upload Documents &amp; Bank Statements – Automatically extract data from invoices, receipts, and statements and add them to your Notion database.✅ Analyze Notion Databases – Gain AI-powered insights, summaries, an",
+  "price": 49,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/kmqnrr",
+  "affiliateUrl": "https://gumroad.com/a/402782931/kmqnrr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.776Z",
+  "lastUpdated": "2026-01-12T20:47:13.776Z"
+}

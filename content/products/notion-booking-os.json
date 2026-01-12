@@ -1,0 +1,30 @@
+{
+  "id": "Notion Booking OS",
+  "name": "Notion Booking OS",
+  "slug": "notion-booking-os",
+  "description": "Appointment Booking Schedule ManagementEffortlessly Organize Appointments, Clients, and Services for Your Salon, Clinic, or OfficeRevolutionize your scheduling with our Booking OS Notion Template, designed for seamless management of appointments, clients, staff, and services. Tailored for Beauty Salons, Barber Shops, Medical, Dental Offices, and more, this all-in-one solution simplifies your workflow, ensuring efficient operations and exceptional customer service. Say goodbye to scheduling heada",
+  "price": 39,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Solt Wagner",
+    "url": "https://soltwagner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/883590867/eaiim",
+  "affiliateUrl": "https://gumroad.com/a/883590867/eaiim",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Appointment management; Service management by categories; Ability to add service duration time and price information; View which employee is performing each service; Customer management; Staff team management; Ability to view service times; Automatic calculation of end time based on service duration; Payment method and status management; Service amount and extra tips management",
+  "assessmentScore": 82,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.627Z",
+  "lastUpdated": "2026-01-12T20:47:13.627Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Tattoo Artists: Online Course",
+  "name": "Notion for Tattoo Artists: Online Course",
+  "slug": "notion-for-tattoo-artists-online-course",
+  "description": "Unlock the Full Potential of Notion for Tattoo Artists!This intermediate course is designed specifically for tattoo artists who are familiar with the basics of Notion but are ready to dive deeper into advanced functionalities. By the end of this course, you will create a fully functional Notion dashboard tailored to manage your tattoo-related tasks, streamline your operations, and enhance client satisfaction. Get ready to elevate your craft and master the art of organization!Who is it For?This c",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/lqjhr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/lqjhr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Tattoo artists seeking organization; - Tattoo shop owners looking to streamline operations; - Clients wanting efficient appointment scheduling; Basic knowledge of Notion; - Familiarity with tattoo industry terminology; - Understanding of databases and data structures; Mastering the Notion Interface; 2. Building Your Tattoo Management System; 3. Advanced Data Relationships and Flows; 4. Formulas and Automation in Notion",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.334Z",
+  "lastUpdated": "2026-01-12T20:47:13.334Z"
+}

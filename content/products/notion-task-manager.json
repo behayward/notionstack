@@ -1,0 +1,30 @@
+{
+  "id": "Notion Task Manager",
+  "name": "Notion Task Manager",
+  "slug": "notion-task-manager",
+  "description": "Keep your tasks and projects organised.A minimal Notion dashboard to track and manage your tasks and projects.Do you often find yourself struggling to keep track of your tasks and projects? Do you feel like you're always forgetting something important? Say goodbye to the chaos and hello to the Task Manager Notion Template from Bodie!Our template is designed to help you stay organized and on top of your tasks and projects. With a simple and intuitive interface, you can easily create and manage yo",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Benny Kan",
+    "url": "https://bennykan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/pifxs",
+  "affiliateUrl": "https://gumroad.com/a/962870099/pifxs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 540,
+  "ratingCount": 540,
+  "salesCount": 309,
+  "tags": [],
+  "useCases": [],
+  "features": "New Tasks button to create new tasks quickly; Keep track of tasks due; Prioritising your tasks; Managing tasks with different projects",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.530Z",
+  "lastUpdated": "2026-01-12T20:47:12.530Z"
+}

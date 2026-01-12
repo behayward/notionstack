@@ -1,0 +1,30 @@
+{
+  "id": "Notion Engineering Dashboard",
+  "name": "Notion Engineering Dashboard",
+  "slug": "notion-engineering-dashboard",
+  "description": "Organize your engineering tasks &amp; sprints in one placeThe Notion Engineering Dashboard is an easy-to-use workspace for you to track your tasks, stories, epics, sprints, and meetings. With this Notion setup you can cut out clutter and focus on your highest priority tasks, without losing track of important details.What’s Included Task &amp; Bug TrackerAdd tasks to stories or deploy bug fixes. Stories TrackerPlan your stories and delegate tasks. Epics TrackerPlan your high-level development pro",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Matt Bio",
+    "url": "https://mrbio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bhkir",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bhkir",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 23,
+  "ratingCount": 23,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Task & Bug TrackerAdd tasks to stories or deploy bug fixes.; Stories TrackerPlan your stories and delegate tasks.; Epics TrackerPlan your high-level development projects.; Sprint PlannerOrganize your schedule and meet deadlines.; Notes DatabaseTake notes from your standups and retros.; Lack of visibility into work progress; Difficulty meeting deadlines; Lack of organization; Inefficient collaboration; Improve productivity",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.147Z",
+  "lastUpdated": "2026-01-12T20:47:13.147Z"
+}

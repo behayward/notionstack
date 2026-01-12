@@ -1,0 +1,30 @@
+{
+  "id": "Notion Widgets - Minimal  Pack",
+  "name": "Notion Widgets - Minimal  Pack",
+  "slug": "notion-widgets-minimal-pack",
+  "description": "A set of 6 ready to embed minimal Notion widgets: Greetings with date and time Calendar Calculator Basic Calculator Quote of the day Time Left in this week ( week starts Sunday &amp; Monday) Time Left in this Month",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Organizing Wonderland",
+    "url": "https://shorouk.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jknfp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jknfp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Greetings with date and time; Basic Calculator; Quote of the day; Time Left in this week ( week starts Sunday & Monday); Time Left in this Month",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.615Z",
+  "lastUpdated": "2026-01-12T20:47:12.615Z"
+}

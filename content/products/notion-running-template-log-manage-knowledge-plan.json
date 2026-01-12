@@ -1,0 +1,30 @@
+{
+  "id": "Notion Running Template (log, manage knowledge, plan)",
+  "name": "Notion Running Template (log, manage knowledge, plan)",
+  "slug": "notion-running-template-log-manage-knowledge-plan",
+  "description": "For runners, to track your workouts, to organize your knowledge around running, and to set up a training plan.This template is a digital system to follow your running journey.Check your weekly mileageStrava IntegrationAssign a type of workout to your activities, Track your shoe wear Collect articles, notes on topics that interests you. And many more...FAQs:I am not familiar with Notion, can I still use it?Of course! I wrote a guide and captured a tutorial video on how navigate around Notion and ",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Bence Szabo",
+    "url": "https://notiontaylor.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tdbkt",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tdbkt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Check your weekly mileage; Strava Integration; Assign a type of workout to your activities,; Track your shoe wear; Collect articles, notes on topics that interests you.; And many more...",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.583Z",
+  "lastUpdated": "2026-01-12T20:47:12.583Z"
+}

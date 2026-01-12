@@ -1,0 +1,30 @@
+{
+  "id": "Notion Budget Tracker",
+  "name": "Notion Budget Tracker",
+  "slug": "notion-budget-tracker-2",
+  "description": "Notion Ultimate Budgeting TrackerEffortlessly monitor your financial goals with a dynamic budgeting tracker seamlessly integrated into your Notion workspace.Here's a quick walkthrough of the template 👇:The Notion Ultimate Budget Tracker offers an easy way for you to stay on top of your budgeting requirements all the time.Inside you'll find a whole operating system that will help you to track your expenses, debt payments, bills payments, help encourage savings habits and track income as well.It w",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/tyffc",
+  "affiliateUrl": "https://gumroad.com/a/402782931/tyffc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": 252,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Easy to create transactions to track expense, income, debt payments, build savings and pay bills on time; Set your own accounts for each of the 5 components of budgeting tracker under one dashboard.; Provides Complete Overview, Monthly Overview, Yearly Overview with dynamic filters to track specific dates as well.; Available for MacOS, Windows OS, iOS and Android devices.; Complete Budgeting Tracker Overview Dashboard; Notion Budget Tracker; Complete Interactive Guide; Notion Budget Tracker ($9 Value)",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.682Z",
+  "lastUpdated": "2026-01-12T20:47:13.682Z"
+}

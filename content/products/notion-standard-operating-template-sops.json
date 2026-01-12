@@ -1,0 +1,30 @@
+{
+  "id": "Notion Standard Operating Template (SOPs)",
+  "name": "Notion Standard Operating Template (SOPs)",
+  "slug": "notion-standard-operating-template-sops",
+  "description": "Template structured as a guide detailing step-by-step instructions for routine tasks and processes within an organization to ensure consistency and efficiency.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/xyqzgf",
+  "affiliateUrl": "https://gumroad.com/a/402782931/xyqzgf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Helps to maintain uniformity in processes, fostering reliable and repeatable outcomes.; Helps to provide a structured framework, optimizing workflow and reducing time-consuming decision-making.; Helps adhere to industry regulations and best practices, promoting a compliant and accountable organizational environment.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.728Z",
+  "lastUpdated": "2026-01-12T20:47:13.728Z"
+}

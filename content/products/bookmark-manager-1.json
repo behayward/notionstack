@@ -1,0 +1,30 @@
+{
+  "id": "Bookmark Manager",
+  "name": "Bookmark Manager",
+  "slug": "bookmark-manager-1",
+  "description": "Notion Bookmark Manager TemplateThis Notion template is designed to help you easily manage valuable resources you come across online, ensuring that you don't miss anything you would like to review later!🔖 To quickly add webpages to this template, you can install Notion's Web Clipper on your browser. The template provides instructions on how to use it.🔵 Notice: This is a Notion template. To use this template, you must have a Notion account. The template is compatible with the free version of Noti",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "reading",
+  "creator": {
+    "name": "Small Wins",
+    "url": "https://smallwins33.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mvhdio",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mvhdio",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 40,
+  "ratingCount": 40,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Topics- categorize your bookmarks; Bookmarks- There are 7 views in the bookmark database:AllNot started,ReviewingandReviewedFavoriteGroup by TopicsArchived: Inactive bookmarks that may be useful for future.; Not started,ReviewingandReviewed; Group by Topics; Archived: Inactive bookmarks that may be useful for future.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.087Z",
+  "lastUpdated": "2026-01-12T20:47:13.087Z"
+}

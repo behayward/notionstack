@@ -1,0 +1,30 @@
+{
+  "id": "Knowledge Hub",
+  "name": "Knowledge Hub",
+  "slug": "knowledge-hub",
+  "description": "The Knowledge Hub Notion TemplateVisit Official Website Do you struggle to organize your learning and track your progress? Are you tired of information scattered across different apps and notebooks?The Knowledge Hub Notion Template is your all-in-one solution for becoming a master learner.Here's what you get: Centralized Knowledge Base: Consolidate your learning goals, resources, notes, and reflections in one intuitive workspace. Streamlined Goal Setting: Define clear, actionable learning goals ",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Heyismail",
+    "url": "https://heyismail.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qdwyuj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qdwyuj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 82,
+  "ratingCount": 82,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Centralized Knowledge Base:Consolidate your learning goals, resources, notes, and reflections in one intuitive workspace.; Streamlined Goal Setting:Define clear, actionable learning goals and track your progress with the dedicated \"Learning Goals\" database.; Resource Powerhouse:Curate your favorite learning resources (articles, videos, courses) in the \"Resource Library\" for easy access and reference.; Skill Assessment Tracker:Evaluate your current skill level and identify areas for improvement with the \"Skills Assessment\" database.; Boost Retention with Reflection:Capture your insights and takeaways from your learning journey in the \"Notes & Reflection\" section.; Build Your Network:Expand your professional circle by managing connections and fostering relationships in the \"Community & Networking\" database.; Project Management Made Easy:Plan and execute learning projects with a dedicated \"Projects Management\" section.; Daily Learning Tracker:Maintain momentum and stay accountable with a daily log for your learning activities.; Never Miss an Event:Keep track of important workshops, conferences, and deadlines with the \"Events\" database.; Save Time & Energy:Stop wasting time searching for information. The Knowledge Hub keeps everything organized and accessible.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.097Z",
+  "lastUpdated": "2026-01-12T20:47:13.097Z"
+}

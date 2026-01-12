@@ -1,0 +1,30 @@
+{
+  "id": "Shopping Wishlist",
+  "name": "Shopping Wishlist",
+  "slug": "shopping-wishlist",
+  "description": "Shop smart by managing your wantsA one-stop-shop Notion dashboard that helps you consolidate your wishlist items, compare them and narrow down your list, and make smarter purchase decisions so you’ll actually love what you buy.You’ll benefit from this if:You have a hard time remembering all the things you need/want to buy or visualize how much they would costYou often find yourself buying similar items or “for now” items and end up regretting your decisionsYou want to reduce your impulse purchas",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Notionium",
+    "url": "https://notionium.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tqjiq",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tqjiq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 124,
+  "ratingCount": 124,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "You have a hard time remembering all the things you need/want to buy or visualize how much they would cost; You often find yourself buying similar items or “for now” items and end up regretting your decisions; You want to reduce your impulse purchases and be more intentional about what you spend your hard-earned money on; Wishlist dashboard; Wishlisted & purchased item databases (+ want/need level assessment); Category database (+ summary and stats); Store database (+ summary and stats); Brand database (+ summary and stats)",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.538Z",
+  "lastUpdated": "2026-01-12T20:47:12.538Z"
+}

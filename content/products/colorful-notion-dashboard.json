@@ -1,0 +1,30 @@
+{
+  "id": "Colorful Notion Dashboard",
+  "name": "Colorful Notion Dashboard",
+  "slug": "colorful-notion-dashboard",
+  "description": "Colorful Notion DashboardDuplicate this to your Notion Workspace.Note: You will have to create your own (free) versions of all charts and widgets from the urls below:Weather, Clock, Calendar, Quote Widgets from : https://widgetbox.appLife Progress Widget from : https://indify.coCharts from: https://notioncharts.ioGraphics from : https://lottiefiles.com/Tracker/Counters from : https://getkairo.com/notion-blocks",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "NotionCharts.io",
+    "url": "https://notionchartsio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/SKsPd",
+  "affiliateUrl": "https://gumroad.com/a/962870099/SKsPd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.945Z",
+  "lastUpdated": "2026-01-12T20:47:12.945Z"
+}

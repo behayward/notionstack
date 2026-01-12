@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Electricians: Online Course",
+  "name": "Notion for Electricians: Online Course",
+  "slug": "notion-for-electricians-online-course",
+  "description": "Transform Your Electrical Workflow with Notion for Electricians!Unlock the full potential of Notion tailored specifically for electricians! This practical course is designed to transform your basic understanding of Notion into a comprehensive, functional dashboard that streamlines your work processes and enhances your task management. Dive deep into advanced features, create complex databases, and learn how to integrate Notion with other tools to elevate your productivity and organization. Say g",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/dxyjqv",
+  "affiliateUrl": "https://gumroad.com/a/145902419/dxyjqv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Electricians looking to improve their task management; - Employers seeking better organization from their teams; - Clients expecting timely and efficient service from electricians; Basic understanding of Notion's interface and functionalities; - Familiarity with task management principles; - Basic knowledge of databases and data organization; Foundations of Notion for Electricians; 2. Building Your Database Structure; 3. Mastering Notion Formulas; 4. Integrating Notion with Other Platforms",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.365Z",
+  "lastUpdated": "2026-01-12T20:47:13.365Z"
+}

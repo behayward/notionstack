@@ -1,0 +1,30 @@
+{
+  "id": "My Plants Notion Template",
+  "name": "My Plants Notion Template",
+  "slug": "my-plants-notion-template",
+  "description": "What is this template useful for?Easily keep track of your plants with this template. Never forget to water or fertilize them again with built-in water and fertilizer tracker, which automatically calculate the date when you should water your plants.How to install this template?click on the template's link open the relevant template and click on the Duplicate button in the top right cornerselect the workspace in which you want to use this templateIf you have any further questions, feel free to co",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Miha",
+    "url": "https://eyomiha.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/blfsi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/blfsi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "click on the template's link; open the relevant template and click on theDuplicatebutton in the top right corner; select the workspace in which you want to use this template",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.901Z",
+  "lastUpdated": "2026-01-12T20:47:12.901Z"
+}

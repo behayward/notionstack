@@ -1,0 +1,30 @@
+{
+  "id": "Notion Mastery Course",
+  "name": "Notion Mastery Course",
+  "slug": "notion-mastery-course",
+  "description": "Master NotionTransform Your ProductivityDesigned to help you streamline your workflow, enhance collaboration, and achieve your goals effortlesslySave Valuable Time:Learn efficient workflows and techniques that help you complete tasks more quickly, giving you more time to focus on what truly matters.Boost Your Efficiency:Leverage Notion’s powerful tools and features to streamline your workflow, stay organized, and effortlessly manage your projects.Enhance Your Collaboration:Collaborate effectivel",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "productivity",
+  "creator": {
+    "name": "Chape",
+    "url": "https://chape.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qaubi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qaubi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 16,
+  "ratingCount": 16,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.008Z",
+  "lastUpdated": "2026-01-12T20:47:13.008Z"
+}

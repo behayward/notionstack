@@ -1,0 +1,30 @@
+{
+  "id": "Simple Note Taking Notion Template",
+  "name": "Simple Note Taking Notion Template",
+  "slug": "simple-note-taking-notion-template",
+  "description": "Super super simple Note Taking Setup for Notion",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Productive Setups",
+    "url": "https://productivesetups.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mcxxr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mcxxr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.024Z",
+  "lastUpdated": "2026-01-12T20:47:13.024Z"
+}

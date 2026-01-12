@@ -1,0 +1,30 @@
+{
+  "id": "Team Training Expenses Tracker",
+  "name": "Team Training Expenses Tracker",
+  "slug": "team-training-expenses-tracker",
+  "description": "Ideal for those who are looking to track their team training expenses in one glance.Are you looking for a tracker to manage your team training expenses?This tracker is perfect to add team training expenses, set budgeting and assess your overall cost expenses performance all under one glance.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/wqdap",
+  "affiliateUrl": "https://gumroad.com/a/402782931/wqdap",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set your budget, add expenses and assessoverall cost efficiencyfor team training expenses.; Ensureproper team training expenses management.; Get acomplete detailed overviewof all team training expenses made, their allocations and other metrics.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.763Z",
+  "lastUpdated": "2026-01-12T20:47:13.763Z"
+}

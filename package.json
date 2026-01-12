@@ -13,8 +13,9 @@
     "import:all": "npm run import:notion && npm run import:blog"
   },
   "dependencies": {
-    "astro": "^5.16.8",
     "@notionhq/client": "^2.2.15",
+    "astro": "^5.16.8",
+    "csv-parser": "^3.2.0",
     "dotenv": "^16.3.1",
     "notion-to-md": "^3.1.1"
   },

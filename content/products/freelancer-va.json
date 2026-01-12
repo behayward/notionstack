@@ -1,0 +1,30 @@
+{
+  "id": "Freelancer VA",
+  "name": "Freelancer VA",
+  "slug": "freelancer-va",
+  "description": "Manage your life as a freelancerThe life of a freelancer can quickly become overwhelming with all the different projects, tasks, meetings, invoices, subscriptions, and everything else that needs to be managed.You don't need more time you just need a better system to manage everything in your small business.This dashboard is ideal for freelancers and consultants who needs to manage their clients &amp; meetings, while staying on top of their projects and never missing a deadline ever again.Include",
+  "price": 49,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/pmtmo",
+  "affiliateUrl": "https://gumroad.com/a/376061651/pmtmo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 28,
+  "ratingCount": 28,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "CRM:Manage all of your clients and meetings; Project Management:Manage your client's projects & tasks; Finance Tracker:Track your income, expenses, subscriptions, and bank accounts; Invoices:Manage and create personalized invoices for your clients; Notebook:Simple note-taking system for your freelance work; Library:A place to keep all your resources, links, portfolio pages, etc.; Phone Notes:Take notes on your phone and have them sync to your dashboard; A.I. Assistant:100 Notion AI prompts for growing on social media, Twitter, and YouTube; Dashboard Walkthrough:Full video walkthrough included",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.655Z",
+  "lastUpdated": "2026-01-12T20:47:13.655Z"
+}

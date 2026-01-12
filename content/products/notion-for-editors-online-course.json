@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Editors: Online Course",
+  "name": "Notion for Editors: Online Course",
+  "slug": "notion-for-editors-online-course",
+  "description": "Transform Your Editorial Workflow with Notion!Unlock the full potential of Notion tailored specifically for editorial tasks! This course is designed to transform your workflow, allowing you to create a structured and efficient workspace that enhances your productivity and creativity. Dive deep into advanced features, integrations, and database management to elevate your editorial processes to new heights!Who is it For?This course is designed for intermediate editors who are already familiar with",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/jwzta",
+  "affiliateUrl": "https://gumroad.com/a/145902419/jwzta",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion; - Familiarity with editorial workflows; - Basic knowledge of databases; - Willingness to explore advanced features; - Interest in integrating tools; Navigating Advanced Notion Features; 2. Crafting Your Editorial Database; 3. Integrating Notion with Other Tools; 4. Designing an Intuitive User Interface; 5. Writing Notion Formulas Like a Pro",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.373Z",
+  "lastUpdated": "2026-01-12T20:47:13.373Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Simple Expense Tracker",
+  "name": "Simple Expense Tracker",
+  "slug": "simple-expense-tracker",
+  "description": "Discover financial clarity with our Notion Expense Tracker. Designed for simplicity and efficiency, this template ensures that you'll never lose track of your spending again. From daily expenses to monthly budgets, gain insights into your financial habits and make informed decisions. Easy to customize and adapt, it's the perfect tool for those aiming to take charge of their finances. Start your journey towards better money management today!Features: - Daily Log: Input expenses on the go, ensurin",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Efficiora",
+    "url": "https://efficiora.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wdunf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wdunf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 17,
+  "ratingCount": 17,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.887Z",
+  "lastUpdated": "2026-01-12T20:47:12.887Z"
+}

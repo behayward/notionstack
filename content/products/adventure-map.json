@@ -1,0 +1,30 @@
+{
+  "id": "Adventure Map",
+  "name": "Adventure Map",
+  "slug": "adventure-map",
+  "description": "Take control of your wanderlust with Adventure Map, the ultimate travel planning tool to organise, track, and visualise your global adventures.This all-in-one Notion system is perfect for planning trips, managing your bucket list, and keeping tabs on past destinations, making every step of your journey seamless and inspiring.What is Adventure Map?Adventure Map is your personal travel planner, designed for travel enthusiasts, digital nomads, and bucket-list builders.This beautifully crafted Notio",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Anna",
+    "url": "https://annanotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lspnzs",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lspnzs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Track Your AdventuresMap out every country you’ve visited and categorise your travels by continent.; Plan Your Next DestinationAdd upcoming trips with date and destination details in the easy-to-use planner.; Dream BigBuild and manage a personalized bucket list for your future explorations and check off your \"Been there\" moments as you go.; Visited Countries TrackerVisualize your past travels with a beautifully designed map organized by continent.; Trip PlannerAdd dates, destinations, and details for every trip with a simple and intuitive interface.; Interactive Bucket ListKeep track of dream destinations and mark them off as you explore.; Global Adventure DashboardA central hub to view and manage your travel plans, past adventures, and future goals.; All-in-One SystemEverything you need to plan, track, and visualize your travels in one place.; Customizable & FlexiblePersonalize your dashboard to match your travel style and goals.; Inspiring DesignA beautifully crafted layout to spark wanderlust and simplify organization.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.244Z",
+  "lastUpdated": "2026-01-12T20:47:13.244Z"
+}

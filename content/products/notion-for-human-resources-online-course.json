@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Human Resources: Online Course",
+  "name": "Notion for Human Resources: Online Course",
+  "slug": "notion-for-human-resources-online-course",
+  "description": "Transform Your HR Processes with Notion!Unlock the full potential of Notion tailored specifically for Human Resources! This course is designed for HR professionals eager to streamline their workflows and enhance efficiency. Dive deep into advanced setups, integrations, and data management techniques that will transform your HR operations into a well-oiled machine.Who is it For?This course is designed for HR professionals, team leaders, and consultants who are ready to take their Notion skills fr",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/pbbnqr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/pbbnqr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion's interface and features; - Familiarity with Human Resources processes; - Basic knowledge of data management concepts; Modules:Foundations of Notion for HR, Building Your HR Dashboard, Advanced Database Management, Mastering Notion Formulas, Integrating Notion with Other Tools, Ensuring Data Security and Privacy; -Quizzes:Each module includes quizzes to reinforce your understanding of the material and ensure you can apply what you've learned effectively.; -Assignments:Hands-on assignments will guide you in creating your own Notion for Human Resources Dashboard and other practical applications.; -Practical Project:A capstone project will allow you to implement everything you've learned in a real-world scenario, creating a fully functional Notion workspace for HR.; -Before You Start:Before starting, ensure you have a basic understanding of Notion's features and HR processes to maximize your learning experience.; -Books to Read:Supplementary reading materials will be provided to deepen your understanding of Notion and HR management practices.; -Glossary:A glossary of key terms will be included to help you navigate the course content effectively.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.382Z",
+  "lastUpdated": "2026-01-12T20:47:13.382Z"
+}

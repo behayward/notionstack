@@ -1,0 +1,30 @@
+{
+  "id": "Operating Expense Tracker",
+  "name": "Operating Expense Tracker",
+  "slug": "operating-expense-tracker",
+  "description": "Ideal for those who manage their operational aspect of business, this tracker helps you keep tabs on operation-related expenses such as overhead, payroll, supplies expenses and much more.Are you looking for a tracker to keep track of expenses associated with your business operations and manage your finances effectively?This tracker is perfect to set expense limits, plan business operation strategies in advance, and make wise financial decisions for each business operation expenses within the pro",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/bqlpt",
+  "affiliateUrl": "https://gumroad.com/a/402782931/bqlpt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set upOperatingExpense Categories,Add Budgetfor Each, Make Business Decisions and Spend wisely each time.; EnterExpense Amountfor each category of operation expenses assessing the projected amount correctly to stay within budget.; Get a complete detailed overview of all added sources of expenses along with the total expenses incurred and projected expenses for each.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.744Z",
+  "lastUpdated": "2026-01-12T20:47:13.744Z"
+}

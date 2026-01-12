@@ -1,0 +1,32 @@
+{
+  "id": "Expense Tracker",
+  "name": "Expense Tracker",
+  "slug": "notion-expense-tracker",
+  "description": "Track your daily expenses and spendings in NotionThis Notion template helps you track your expenses regularly. You'll gain clarity on your spending patterns and identify unnecessary expenses you can cut to improve your finances. Log your daily expenses from anywhere Group expenses by custom categories View by recent, monthly or yearly expenses",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ifrdj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ifrdj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2151,
+  "ratingCount": 2151,
+  "salesCount": null,
+  "tags": [
+    "Expenses"
+  ],
+  "useCases": [],
+  "features": "Log your daily expenses from anywhere; Group expenses by custom categories; View by recent, monthly or yearly expenses",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "April 10, 2023 10:45 AM",
+  "lastUpdated": "2026-01-12T20:47:12.504Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Habit Tracker OS",
+  "name": "Habit Tracker OS",
+  "slug": "habit-tracker-os",
+  "description": "Habit TrackerIntroducing the ultimate tool for boosting productivity and achieving your goals - Habit Tracker built-in Notion!With this habit tracker, you can easily create and track your daily habits, ensuring that you stay on track and reach your goals. Whether you want to exercise more, read more books, or simply drink more water, this habit tracker will help you form new habits and break old ones.So if you're ready to take control of your habits and start achieving your goals, try the Habit ",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "iamsourabhshen",
+    "url": "https://iamsourabhshen.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jcnpf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jcnpf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 79,
+  "ratingCount": 79,
+  "salesCount": 59,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.693Z",
+  "lastUpdated": "2026-01-12T20:47:12.693Z"
+}

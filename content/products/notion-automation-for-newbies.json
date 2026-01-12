@@ -1,0 +1,30 @@
+{
+  "id": "Notion Automation For Newbies",
+  "name": "Notion Automation For Newbies",
+  "slug": "notion-automation-for-newbies",
+  "description": "Introducing the NAFN (Notion Automation for Newbies) guide, created by Bardeen.ai and Angry Tom· Save time with pre-built Notion automations · Access Notion templates from Angry Tom's and Bardeen's vault· Get your hands on Notion's best learning resources This Notion hub is made out of 50+ pre-built automations for common workflows and use cases. Explore automations, learning resources, creators, and databases that leverage Notion API. 🚀",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Bardeen",
+    "url": "https://bardeen.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xvcah",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xvcah",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.556Z",
+  "lastUpdated": "2026-01-12T20:47:12.556Z"
+}

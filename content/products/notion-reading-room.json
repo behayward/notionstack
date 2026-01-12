@@ -1,0 +1,30 @@
+{
+  "id": "Notion Reading Room",
+  "name": "Notion Reading Room",
+  "slug": "notion-reading-room",
+  "description": "Keep track of all the books you're reading, sort by genre, and set your reading goals and reading plan with this aesthetic Reading Room template.What's inside:Book Tracker Yearly Reading GoalsFavorite BooksQuotesVisual Progress barsBook Genre CategoriesReading Goals + Reading PlanBook Summary Templates",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Bri",
+    "url": "https://bridoesthings.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/owauy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/owauy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Book Tracker; Yearly Reading Goals; Favorite Books; Visual Progress bars; Book Genre Categories; Reading Goals + Reading Plan; Book Summary Templates",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.850Z",
+  "lastUpdated": "2026-01-12T20:47:12.850Z"
+}

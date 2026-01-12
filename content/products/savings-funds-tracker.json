@@ -1,0 +1,30 @@
+{
+  "id": "Savings Funds Tracker",
+  "name": "Savings Funds Tracker",
+  "slug": "savings-funds-tracker",
+  "description": "Save money creating savings funds and track your progressive contributions and savings with Savings Funds Tracker.Contribute money on time and stay on track to reach your savings goal.Are you struggling to keep track of your monthly contributions to a savings fund? Do you want to work on saving money for a goal in the future?Look no further than this Savings Funds Tracker!Our Savings Funds Tracker helps you track your savings goals and monitor your progress over time.It includes your savings goa",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/gtzrp",
+  "affiliateUrl": "https://gumroad.com/a/402782931/gtzrp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 5,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Helps you Keep track of your saving goals in one central location.; Contribute money onto a savings fund on a timely basis to stay on track toward your savings goals.; Assess any shortfall or excess contribution towards any fund to meet your savings goals.; Access your savings funds tracker from any device, anywhere; Easy categorization for savings funds.; Simple and intuitive interface for easy tracking.; Savings Funds Overview to help you understand how you want to contribute towards your sinking fund based on priority.; Savings Funds Report which calculates monthly contributions dynamically as you make savings with time.",
+  "assessmentScore": 53,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.737Z",
+  "lastUpdated": "2026-01-12T20:47:13.737Z"
+}

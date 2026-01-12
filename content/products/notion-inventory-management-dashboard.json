@@ -1,0 +1,30 @@
+{
+  "id": "Notion Inventory Management Dashboard",
+  "name": "Notion Inventory Management Dashboard",
+  "slug": "notion-inventory-management-dashboard",
+  "description": "Keep your home inventory in check.A simple Notion dashboard to help you track and manage your inventory at home.Features Includes: Keep track of warranty status and expiry Oversee where items are located Easily organise item's location Keeping track of recently purchased items FAQsHow to download the template?Open the template link, then click \"Duplicate\" on the top right corner to duplicate it to your workspace.How can I become an affiliate?Click here to fill out the affiliate form.Still have q",
+  "price": 2,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Benny Kan",
+    "url": "https://bennykan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hdcbi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hdcbi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 35,
+  "ratingCount": 35,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Keep track of warranty status and expiry; Oversee where items are located; Easily organise item's location; Keeping track of recently purchased items",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.536Z",
+  "lastUpdated": "2026-01-12T20:47:12.536Z"
+}

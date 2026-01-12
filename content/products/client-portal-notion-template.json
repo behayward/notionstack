@@ -1,0 +1,30 @@
+{
+  "id": "Client Portal Notion Template",
+  "name": "Client Portal Notion Template",
+  "slug": "client-portal-notion-template",
+  "description": "Create and manage client projects by setting up client portals in Notion. This is a free, easy way to stay on top of projects and take the experience you provide clients to the next level. I've included my own website design workflow for inspiration but I've also included a blank template so you can set it all up and customise it to make it your own. This template is a step-by-step guide broken down into [X] sections:WelcomeProject TrackerHelp and Support (no more back and forth through email)Pr",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "chloeforbesk",
+    "url": "https://chloeforbesk.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/begbh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/begbh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Project Tracker; Help and Support  (no more back and forth through email); Project ManagementProject StepsProject TimelineDocumentsMeetingsResources; Project Steps; Project Timeline",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.709Z",
+  "lastUpdated": "2026-01-12T20:47:12.709Z"
+}

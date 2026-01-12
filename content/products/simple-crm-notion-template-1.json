@@ -1,0 +1,30 @@
+{
+  "id": "Simple CRM (Notion Template)",
+  "name": "Simple CRM (Notion Template)",
+  "slug": "simple-crm-notion-template-1",
+  "description": "Consists of two databases:People (to manage your relationships)Meetings (for tracking your meeting notes and dates)This simple system will allow you to track when you need to reach out to every important person in your life.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Daniel Canosa",
+    "url": "https://dcanosa.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/BfkmP",
+  "affiliateUrl": "https://gumroad.com/a/962870099/BfkmP",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "People (to manage your relationships); Meetings (for tracking your meeting notes and dates)",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.762Z",
+  "lastUpdated": "2026-01-12T20:47:12.762Z"
+}

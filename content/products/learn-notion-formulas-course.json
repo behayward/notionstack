@@ -1,0 +1,30 @@
+{
+  "id": "Learn Notion Formulas (Course)",
+  "name": "Learn Notion Formulas (Course)",
+  "slug": "learn-notion-formulas-course",
+  "description": "In this course, I am going to give you a crash course in Notion's formula language and how it can communicate with other database properties. This is for people at a beginner and/or novice level.Look at the course outline here",
+  "price": 45,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "student",
+  "creator": {
+    "name": "Red Gregory",
+    "url": "https://redgregory.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/882718419/ekppem",
+  "affiliateUrl": "https://gumroad.com/a/882718419/ekppem",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": 120,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 92,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.573Z",
+  "lastUpdated": "2026-01-12T20:47:13.573Z"
+}

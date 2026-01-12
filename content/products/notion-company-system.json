@@ -1,0 +1,30 @@
+{
+  "id": "Notion Company System",
+  "name": "Notion Company System",
+  "slug": "notion-company-system",
+  "description": "Introducing Notion Company System: Effortlessly run your business in NotionAre you tired of juggling multiple tools and struggling to keep your business organized? Notion Company System will change the way you manage your company. This template is designed to turn your Notion workspace into the ultimate company management system. Efficiently handle task management, project management, finance management, team collaboration, CRM, invoice creation, and more - all in Notion.Who is Notion Company Sy",
+  "price": 29,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Brian",
+    "url": "https://heynoon.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vljhpl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vljhpl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 82,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.680Z",
+  "lastUpdated": "2026-01-12T20:47:12.680Z"
+}

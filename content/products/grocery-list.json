@@ -1,0 +1,30 @@
+{
+  "id": "Grocery List",
+  "name": "Grocery List",
+  "slug": "grocery-list",
+  "description": "Never forget an item at the grocery store again!Manage your grocery list effortlessly with this easy-to-use Notion template. Unlimited Items: Add as many items to your database as you need. Organize by Category: Sort items for easier shopping. Filter by Store: Customize lists for different stores. Quick Search: Find items fast with a keyword search. Shareable: Plan shopping with family or friends. Mobile Friendly: Perfect for on-the-go use. Start simplifying your grocery shopping today!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/IudUtr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/IudUtr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 63,
+  "ratingCount": 63,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Unlimited Items: Add as many items to your database as you need.; Organize by Category: Sort items for easier shopping.; Filter by Store: Customize lists for different stores.; Quick Search: Find items fast with a keyword search.; Shareable: Plan shopping with family or friends.; Mobile Friendly: Perfect for on-the-go use.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.536Z",
+  "lastUpdated": "2026-01-12T20:47:12.536Z"
+}

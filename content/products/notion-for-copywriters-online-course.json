@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Copywriters: Online Course",
+  "name": "Notion for Copywriters: Online Course",
+  "slug": "notion-for-copywriters-online-course",
+  "description": "Elevate Your Copywriting with Notion!Unlock the full potential of Notion and transform your copywriting workflow! This course is designed for intermediate users who already have a basic understanding of Notion but are ready to dive deeper. You'll learn how to set up a tailored Notion workspace that enhances your productivity, organization, and project management skills. By the end of this course, you'll be equipped to create a comprehensive dashboard that streamlines your copywriting tasks, inte",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/gilqe",
+  "affiliateUrl": "https://gumroad.com/a/145902419/gilqe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Copywriters looking to enhance their workflow; - Freelancers managing multiple projects; - Content Managers seeking organizational tools; Basic knowledge of Notion; - Familiarity with copywriting tasks; - Understanding of database concepts; Building Your Notion Foundation; 2. Crafting Advanced Database Structures; 3. Mastering Notion Formulas; 4. Integrating Notion with Other Tools",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.372Z",
+  "lastUpdated": "2026-01-12T20:47:13.372Z"
+}

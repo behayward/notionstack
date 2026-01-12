@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Nonprofit Managers: Online Course",
+  "name": "Notion for Nonprofit Managers: Online Course",
+  "slug": "notion-for-nonprofit-managers-online-course",
+  "description": "Unlock the full potential of Notion for Nonprofit Managers!This practical course is designed to teach nonprofit managers how to effectively utilize Notion for task and operations management. By mastering advanced features, you'll create a comprehensive Notion dashboard tailored for your organization's needs.Who is it For?This course is tailored for nonprofit managers who are already familiar with the basics of Notion but are looking to deepen their understanding and application of its advanced f",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/wnniy",
+  "affiliateUrl": "https://gumroad.com/a/145902419/wnniy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate; -Audience:Nonprofit managers seeking efficiency, team members wanting to collaborate better, volunteers needing structured task management, IT support staff looking to optimize Notion usage.; Basic knowledge of Notion interface; - Familiarity with nonprofit management practices; - Understanding of data management concepts; 1. Unleashing Notion's Power: Advanced Features; 2. Crafting Your Nonprofit Dashboard; 3. Mastering Data Management in Notion; 4. Integrating Notion with Other Platforms",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.358Z",
+  "lastUpdated": "2026-01-12T20:47:13.358Z"
+}

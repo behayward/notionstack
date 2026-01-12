@@ -1,0 +1,30 @@
+{
+  "id": "Book Library Notion Template",
+  "name": "Book Library Notion Template",
+  "slug": "book-library-notion-template",
+  "description": "Notion Book Library TemplateAn easy way to see all of the books you want to read, are currently reading and have read.With the \"quick button\" you can add a new book directly from your main dashboard.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Productive Setups",
+    "url": "https://productivesetups.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tgwnj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tgwnj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 27,
+  "ratingCount": 27,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.015Z",
+  "lastUpdated": "2026-01-12T20:47:13.015Z"
+}

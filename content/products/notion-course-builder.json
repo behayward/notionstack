@@ -1,0 +1,30 @@
+{
+  "id": "Notion Course Builder",
+  "name": "Notion Course Builder",
+  "slug": "notion-course-builder",
+  "description": "Unlock the Power of Notion Course BuilderAre you ready to take your course creation to the next level? Introducing Notion Course Builder, the ultimate solution for crafting, organizing, and delivering captivating online courses.Features: Modular Course Creation: Structure your courses with ease using a versatile modular framework. One-Click Quick Action Buttons: Simplify course creation with effortless module and lesson setup. Ready-Made Templates and Components: Access a library of templates an",
+  "price": 2.99,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Randy Valencia",
+    "url": "https://randyvalencianotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/labwj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/labwj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": 195,
+  "tags": [],
+  "useCases": [],
+  "features": "Modular Course Creation:Structure your courses with ease using a versatile modular framework.; One-Click Quick Action Buttons:Simplify course creation with effortless module and lesson setup.; Ready-Made Templates and Components:Access a library of templates and components for visually appealing courses.; User-Friendly Interface:Enjoy a simple and intuitive platform, regardless of your technical expertise.; Lifetime Access:Provide learners with lifetime access to course materials, enabling them to revisit content at their own pace.; Optimized Learning:Maintain an organized and easily navigable course structure for an optimal learning experience.; Customization:Tailor the template to your specific course needs, from content layout to branding.; Versatile Use:Create courses in various subjects, from arts to professional development.; Seamless Notion Integration:Leverage Notion to access your courses, collaborate with others, and integrate multimedia content and resources seamlessly.; Flexible Learning Experience:Deliver a flexible learning experience that adapts to your learners' preferences and schedules.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.170Z",
+  "lastUpdated": "2026-01-12T20:47:13.170Z"
+}

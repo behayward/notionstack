@@ -1,0 +1,30 @@
+{
+  "id": "Online Course Creation System - Notion Template",
+  "name": "Online Course Creation System - Notion Template",
+  "slug": "online-course-creation-system-notion-template",
+  "description": "This template will help you organise and plan your Online Courses.I currently run an Online Course Creation agency and this is the template we always use in the agency when we're helping other teachers create their online courses.This template has saved us a ton of time that we actually spent in creating the courses themselves.You can watch the template walkthrough in this video:",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "student",
+  "creator": {
+    "name": "Daniel Canosa",
+    "url": "https://dcanosa.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ldCcm",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ldCcm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 23,
+  "ratingCount": 23,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.594Z",
+  "lastUpdated": "2026-01-12T20:47:12.594Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Subscription Payment Reminder on WhatsApp with Automation",
+  "name": "Subscription Payment Reminder on WhatsApp with Automation",
+  "slug": "subscription-payment-reminder-on-whatsapp-with-automation",
+  "description": "Are you looking for automating your subscription payment reminders directly to your WhatsApp?If that's the case, your search is over!Subscription Payment Reminder will send a direct notification for subscription payments on your WhatsApp on the assigned due date 🤩Here's a quick walkthrough of Subscription Expense Payment Reminder 👇Benefits Set your payment reminders once and automate it for lifetime until its repaid. Easy to follow and setup the process along with setting up own link for bank pa",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/rdiyq",
+  "affiliateUrl": "https://gumroad.com/a/402782931/rdiyq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Set your payment reminders once and automate it for lifetime until its repaid.; Easy to follow and setup the process along with setting up own link for bank payments.; Get free customer support for any issues during the automation process (applicable for users who sign-up using my affiliate link).; Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Automate payment notification reminders and receive payment alerts on WhatsApp on due date to repay the loan.; Easy to customize the message for setting up payment reminders and you can create your own template message to get started.; Set daily, weekly, bi-weekly , monthly, quarterly, half-yearly or even yearly payments as per your requirement.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.695Z",
+  "lastUpdated": "2026-01-12T20:47:13.695Z"
+}

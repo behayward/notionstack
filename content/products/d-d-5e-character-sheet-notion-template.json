@@ -1,0 +1,30 @@
+{
+  "id": "D&D 5e Character Sheet · Notion template",
+  "name": "D&D 5e Character Sheet · Notion template",
+  "slug": "d-d-5e-character-sheet-notion-template",
+  "description": "Manage your D&amp;D 5e characters in Notion! 🧙‍♂️✨This is a template I've used for my own games, as an alternative to a PDF template or D&amp;D Beyond. I found it helpful so I thought I'd share it so other people can give it a go too.FeaturesSeparate databases for different stats (this makes it easier to show linked database views).Pre-filled with spells from the Player's Handbook (sourced from this JSON file and tidied up for Notion) Plenty of views to get started with (spell cards, equipment l",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Gubbins",
+    "url": "https://gubbins.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ugchji",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ugchji",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Separate databases for different stats (this makes it easier to show linked database views).; Pre-filled with spells from the Player's Handbook (sourced fromthis JSON fileand tidied up for Notion); Plenty of views to get started with (spell cards, equipment list, skills and saving throws); Relations and rollups to help you automatically calculate certain stats.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.649Z",
+  "lastUpdated": "2026-01-12T20:47:12.649Z"
+}

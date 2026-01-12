@@ -1,0 +1,30 @@
+{
+  "id": "Home OS",
+  "name": "Home OS",
+  "slug": "home-os",
+  "description": "HomeOS: The Ultimate Notion Template for Holistic Home ManagementIntroducing HomeOS – your comprehensive solution for managing every aspect of your household directly within Notion. From finances to meal planning, from household inventory to family events, the HomeOS template has been meticulously designed to bring order, clarity, and coordination to your family or shared living situation.Visit Official WebsiteKey Features: Household Members Database: Keep track of all household members, their c",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Heyismail",
+    "url": "https://heyismail.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jabwi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jabwi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 28,
+  "ratingCount": 28,
+  "salesCount": 213,
+  "tags": [],
+  "useCases": [],
+  "features": "Household Members Database: Keep track of all household members, their contact information, assigned tasks, and related events.; Finances Tracker: Organize both income and expenses with relations to who made each transaction and what it was for, offering a full financial picture.; Maintenance & Repairs Log: Schedule, track, and assign household tasks, while also tracking related costs.; Smart Shopping List: Itemize your shopping needs and link them to household members and finances.; To-Dos & Reminders: Delegate tasks among household members and monitor completion.; Household Inventory: Document your important household items, their purchase dates, and associated costs.; Events & Celebrations: Never miss an important date, from birthdays to anniversaries, and link them to the relevant household members.; Meal Planning Database: Plan meals, link them to the cook, and ensure you have all the necessary ingredients in your shopping list.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.105Z",
+  "lastUpdated": "2026-01-12T20:47:13.105Z"
+}

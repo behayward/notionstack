@@ -1,0 +1,30 @@
+{
+  "id": "Pack Perso Notion",
+  "name": "Pack Perso Notion",
+  "slug": "pack-perso-notion",
+  "description": "Organise toi (vraiment) avec 70% offObtiens tous mes templates perso premium pour le prix d'un seul.J'ai passé en tout des centaines d'heures à créer ces templates pour que tu n'aies pas à le faire - j'espère qu'ils te plairont !",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/sihdr",
+  "affiliateUrl": "https://gumroad.com/a/822660307/sihdr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.483Z",
+  "lastUpdated": "2026-01-12T20:47:13.483Z"
+}

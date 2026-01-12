@@ -1,0 +1,30 @@
+{
+  "id": "Monthly Budget Planner",
+  "name": "Monthly Budget Planner",
+  "slug": "monthly-budget-planner",
+  "description": "Introducing the Monthly Budget Planner - Get Out Of DebtTake control of your finances and pave the way to a debt-free future with the Monthly Budget Planner. This comprehensive tool empowers you to plan your monthly budget down to the last cent, ensuring you never lose sight of your financial goals.Here's what the Monthly Budget Planner offers: Monthly Tracker: Plan your income and assets to prevent falling into debt. Set limits for different expense categories, and the tracker will alert you wh",
+  "price": 5,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Severin",
+    "url": "https://severinschuetz.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402026707/xovow",
+  "affiliateUrl": "https://gumroad.com/a/402026707/xovow",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": 136,
+  "tags": [],
+  "useCases": [],
+  "features": "Notion Template:Enjoy the convenience of a pre-designed Notion template that seamlessly integrates into your digital workspace. Stay organized and simplify your budgeting process.; Budget:Set realistic budgets for each expense category and effortlessly track your progress. Understand where your money goes and make adjustments to maximize savings and reduce unnecessary spending.; Quick Add Page:Conveniently add new income or expenses on the go with a Quick Add page. Capture financial transactions in real-time, ensuring accurate and up-to-date budget tracking.; Automate Average Monthly Income:Effortlessly calculate your average monthly income with an automation feature. Say goodbye to manual calculations and let the planner do the work for you.; What is a Budget Planner?A budget planner is a tool that assists users in managing their finances effectively by providing a structured framework for planning expenses and setting financial goals.",
+  "assessmentScore": 62,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.534Z",
+  "lastUpdated": "2026-01-12T20:47:13.534Z"
+}

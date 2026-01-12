@@ -1,0 +1,30 @@
+{
+  "id": "Pocket Money",
+  "name": "Pocket Money",
+  "slug": "pocket-money",
+  "description": "Pocket Money — Never Go Broke Again.The Pocket Money Notion template is a simple and easy-to-use expense tracker that is optimized for both desktop mobile devices. You can easily track your daily expenses, income, and accounts by tapping the button-based dashboard.Features Button-based: At the touch of a button, you can effortlessly record your income or expenses. Mobile-optimized: The dashboard is specially made to fit and look beautiful on your phone. It also works on desktop. Income, Expense,",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Kevechino",
+    "url": "https://kevechino.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/eyemo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/eyemo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 11,
+  "ratingCount": 11,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Button-based:At the touch of a button, you can effortlessly record your income or expenses.; Mobile-optimized: The dashboard is specially made to fit and look beautiful on your phone. It also works on desktop.; Income, Expense, and Accounts: Simple income, expense, and account tracking with monthly views.; Low Maintenance, Easy Set-up: Gone are the days when you had to set-up complex financial trackers before using them. The Pocket Expense Tracker requiresZEROmaintenance and a veryEASYsetup.; Free: Do you really want to pay for another subscription?",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.991Z",
+  "lastUpdated": "2026-01-12T20:47:12.991Z"
+}

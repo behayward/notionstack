@@ -1,0 +1,30 @@
+{
+  "id": "Gym Tracker",
+  "name": "Gym Tracker",
+  "slug": "gym-tracker",
+  "description": "What you will get?A template that tracks your fitness goalshow consistently you go to the gym your per day calorie intake how much weight &amp; reps you do per exercise. To get the template, just click on the link you will get during checkout and duplicate the template to your Notion workspace.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "goals",
+  "creator": {
+    "name": "Nikk",
+    "url": "https://nikk07.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/rgggb",
+  "affiliateUrl": "https://gumroad.com/a/962870099/rgggb",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "your fitness goals; how consistently you go to the gym; your per day calorie intake; how much weight & reps you do per exercise.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.552Z",
+  "lastUpdated": "2026-01-12T20:47:12.552Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Lifeboard",
+  "name": "Lifeboard",
+  "slug": "lifeboard",
+  "description": "Demo:Master your Personal Productivity in one Dashboard.This life dashboard template is meant to be a map of your whole life in Notion. One dashboard creates an overview of all your projects, life areas, resources, goals, and life purpose.This is Different!This is not your usual self-improvement course. It's the personal life productivity system that you need for continuous progress in your projects, goals, knowledge expansion, and life purpose.What is the Lifeboard?The Lifeboard is a digital pr",
+  "price": 97,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "ARCHEON INC.",
+    "url": "https://elitedigitalist.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/678415571/aPCKm",
+  "affiliateUrl": "https://gumroad.com/a/678415571/aPCKm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Projects Database - to manage your projects; Areas Database - to oversee your life areas in mini-dashboards; Repertoire Database - to save your checklists and templates; Resources Database - to save your knowledge; Archives Database - to archive inactive items for later use; Goals Database - to keep track of your 1 year goals; Overview Database - to keep track of your long term vision; Northstar Database - to align your purpose, values and principles; Contacts Database - to keep track of people in your life; Milestones Database - to track your progress to your goals",
+  "assessmentScore": 67,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.493Z",
+  "lastUpdated": "2026-01-12T20:47:13.493Z"
+}

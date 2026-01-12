@@ -1,0 +1,30 @@
+{
+  "id": "Learning Dashboard",
+  "name": "Learning Dashboard",
+  "slug": "learning-dashboard",
+  "description": "In our Learning Dashboard, we've created a dedicated section called \"Things I Want to Learn\" where you can plan your daily tasks. By utilizing different views such as the board view, calendar, timeline, and gallery view, you can effectively focus on the items you want to learn and track your progress towards achieving your big goals.To access our Notion template and make use of its features, simply follow these steps:Purchase the template for instant download.Once downloaded, access the template",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Riya Jawandhiya",
+    "url": "https://riyaj.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ohryc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ohryc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 25,
+  "ratingCount": 25,
+  "salesCount": 576,
+  "tags": [],
+  "useCases": [],
+  "features": "Purchase the template for instant download.; Once downloaded, access the template within your Notion account.; From the top right bar, duplicate the template to create your personalized learning planner.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.740Z",
+  "lastUpdated": "2026-01-12T20:47:12.740Z"
+}

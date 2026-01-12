@@ -1,0 +1,30 @@
+{
+  "id": "Habit Tracker",
+  "name": "Habit Tracker",
+  "slug": "habit-tracker-3",
+  "description": "Free Notion Habit trackerTrack your daily habits and achieve your goals effortlessly with our Habit Tracker Notion Template. Customize fields and categories, visualize progress, and stay motivated with powerful features like reminder notifications, habit streaks, and progress charts. Start building healthier habits today for a happier, healthier, and more productive life!",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "The VA Project",
+    "url": "https://thevaproject.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xsddi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xsddi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": 78,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.694Z",
+  "lastUpdated": "2026-01-12T20:47:12.694Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Vibe Coding Prompts Library",
+  "name": "Vibe Coding Prompts Library",
+  "slug": "vibe-coding-prompts-library",
+  "description": "If you're tired of generic AI prompts that barely apply to your use case, this is for you.Vibe Coding Prompts is a Notion-based library designed to help you build full-stack apps through clear, contextual prompts — no fluff, no filler. Whether you're defining your data model, designing UI components, writing CRUD logic, or rolling back a broken deploy, each prompt is tailored to match real-world product workflows.And it’s not just a prompt dump. Every entry includes a code-ready prompt plus a us",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Tyler Pham",
+    "url": "https://tylerworkflow.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/yzhhgvp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/yzhhgvp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.287Z",
+  "lastUpdated": "2026-01-12T20:47:13.287Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Auctioneers: Online Course",
+  "name": "Notion for Auctioneers: Online Course",
+  "slug": "notion-for-auctioneers-online-course",
+  "description": "Unlock the Power of Notion for Auctioneers!This practical course empowers auctioneers to master Notion, transforming their auction management tasks into a seamless experience. Learn to create customized dashboards, integrate with other tools, and utilize advanced features to enhance productivity and efficiency.Who is it For?This course is designed for auctioneers, auction house managers, real estate auctioneers, and event coordinators who already have a basic understanding of Notion but want to ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/nhhik",
+  "affiliateUrl": "https://gumroad.com/a/145902419/nhhik",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate users looking to enhance their Notion skills for auction management.; - Auctioneers seeking better task management; - Auction House Managers aiming for operational efficiency; - Real Estate Auctioneers wanting to streamline their processes; - Event Coordinators looking for organized workflows; Basic knowledge of Notion; - Familiarity with database concepts; - Understanding of task management principles; Mastering Notion's Advanced Features",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.333Z",
+  "lastUpdated": "2026-01-12T20:47:13.333Z"
+}

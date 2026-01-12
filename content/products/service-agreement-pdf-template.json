@@ -1,0 +1,30 @@
+{
+  "id": "Service Agreement PDF Template",
+  "name": "Service Agreement PDF Template",
+  "slug": "service-agreement-pdf-template",
+  "description": "Easy Service Agreements PDF GeneratorGenerate Service Agreements PDFs in bulk from a Notion database using Notion page as a template.How to generate Invoice PDF documents in bulk using Notion?To generate Invoice PDF documents in bulk using Notion, use pdfoutput.com to generate with ease.Here's a quick demo for generating Bulk Invoices using Notion...",
+  "price": 9,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/eawdh",
+  "affiliateUrl": "https://gumroad.com/a/402782931/eawdh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.776Z",
+  "lastUpdated": "2026-01-12T20:47:13.776Z"
+}

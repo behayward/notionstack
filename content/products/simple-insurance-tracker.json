@@ -1,0 +1,30 @@
+{
+  "id": "Simple Insurance Tracker",
+  "name": "Simple Insurance Tracker",
+  "slug": "simple-insurance-tracker",
+  "description": "Know exactly how much insurance coverage you have and how much you're paying for itInsurance Tracker is a management tool for keeping track of all your insurances policies and enables quick access to critical information (e.g. policy number, contact numbers) when emergencies happen.Features Auto-calculate monthly/yearly payments based on frequency of premiums by subscription typeTotal monthly/yearly payment by insurance typeAttach important information for access anytime and anywhere Policy numb",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Kevin",
+    "url": "https://turtleinvestor.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sgbkh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sgbkh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Auto-calculate monthly/yearly payments based on frequency of premiums by subscription type; Total monthly/yearly payment by insurance type; Attach important information for access anytime and anywherePolicy numberPolicy documentsContact numbers; Policy number; Policy documents; Contact numbers; Search, filter and sort insurance policies; Notion template; Tutorial guide on how to use the template; Sample entries included to demonstrate usage",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.559Z",
+  "lastUpdated": "2026-01-12T20:47:12.559Z"
+}

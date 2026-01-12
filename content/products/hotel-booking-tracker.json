@@ -1,0 +1,30 @@
+{
+  "id": "Hotel Booking Tracker",
+  "name": "Hotel Booking Tracker",
+  "slug": "hotel-booking-tracker",
+  "description": "In this template, businesses can keep track of their Hotel Bookings received from users with ease with the use of this simple Notion Template.Here's a quick walkthrough of the template...Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?AutoDocCreator lets you instantly generate PDFs from Google Docs using data from your Notion Database. All generated PDFs are automatically saved back into Notion — zero ma",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/eardw",
+  "affiliateUrl": "https://gumroad.com/a/402782931/eardw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.798Z",
+  "lastUpdated": "2026-01-12T20:47:13.798Z"
+}

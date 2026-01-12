@@ -1,0 +1,30 @@
+{
+  "id": "tido.today (Notion task manager)",
+  "name": "tido.today (Notion task manager)",
+  "slug": "tido-today-notion-task-manager",
+  "description": "tido.today is part of the early.tools ecosystem – the home to discover and learn from pre-launch startups. ✧Drive your macro momentum. Week by week.Purpose requires discipline. Results require consistency. We make big bets every single day, but fail to translate them into wins. Tasks shouldn’t be a burden. They should help us carry a higher cause whilst having fun in the process. Knowing why you do is equally as important as knowing where you want to be.How does it work?Intentions and desired ou",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Julian Paul",
+    "url": "https://julianpaul.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bllbr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bllbr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "TASK →What you want to get done.; INTENTION →Why you are doing it. (Past/Current Self); DESIRED OUTCOME →Where you want to be as a result. (Future Self); Landing page:https://tido.today/; Initial Webflow prototype for testing:https://ageofus.webflow.io/tido; Julian Paul's Twitter:https://x.com/itsjulianpaul",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.530Z",
+  "lastUpdated": "2026-01-12T20:47:12.530Z"
+}

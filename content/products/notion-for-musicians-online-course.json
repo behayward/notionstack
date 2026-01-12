@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Musicians: Online Course",
+  "name": "Notion for Musicians: Online Course",
+  "slug": "notion-for-musicians-online-course",
+  "description": "Transform Your Music Workflow with Notion for Musicians!Unlock the full potential of Notion tailored specifically for musicians! This course is designed to elevate your productivity and organization, providing you with the tools to create a comprehensive management system for your music career. By mastering advanced features and integrations, you will streamline your workflow and enhance collaboration.Who is it For?This course is designed for intermediate musicians who already have a basic under",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/noohhg",
+  "affiliateUrl": "https://gumroad.com/a/145902419/noohhg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Musicians looking to optimize their workflow; - Music Producers seeking better organization; - Collaborators wanting a streamlined process; - Music Managers needing efficient task management; Basic knowledge of Notion; - Familiarity with music-related tasks; - Understanding of database concepts; Diving Deeper into Notion's Features; 2. Building Your Music Database; 3. Integrating Notion with Other Tools",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.343Z",
+  "lastUpdated": "2026-01-12T20:47:13.343Z"
+}

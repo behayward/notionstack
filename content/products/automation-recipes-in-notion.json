@@ -1,0 +1,30 @@
+{
+  "id": "Automation Recipes in Notion",
+  "name": "Automation Recipes in Notion",
+  "slug": "automation-recipes-in-notion",
+  "description": "A collection of Zapier automation recipes for indie hackers and no-coders made in Notion.Includes links that let you enable the automation with a single click.10 automated recipes8+ hours saved every week2 minutes to set up each recipeThanks to automation tools like Zapier or Integromat, we are able to save countless hours and money every week. We took the most useful automations we use and created a collection called Automation Recipes (in Notion, that goes without saying). Every recipe contain",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Notionery",
+    "url": "https://notionery.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/PuwFj",
+  "affiliateUrl": "https://gumroad.com/a/962870099/PuwFj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Thank-you email after a meeting; Email a Google Analytics report; Schedule a call with Typeform leads; Email to Notion; Product Hunt monitoring; Follow up with new Stripe customers; Follow up after a Gumroad sale; Gather Twitter mentions in Notion; Email agenda before a meeting; Tweet upvoted Product Hunt posts",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.532Z",
+  "lastUpdated": "2026-01-12T20:47:12.532Z"
+}

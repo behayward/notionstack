@@ -1,0 +1,30 @@
+{
+  "id": "Travel Expense Tracker",
+  "name": "Travel Expense Tracker",
+  "slug": "travel-expense-tracker",
+  "description": "Ideal for those who travel for work or leisure, this tracker helps you keep tabs on travel-related expenses such as flights, accommodations, meals, and transportation and much more.Are you looking for a tracker to keep track on expenses associated with your travel and spend within budget?This tracker is perfect to set budget for expenses, plan trips in advance and spend wisely for each trip within budget.Are you looking to automate PDF generation for repetitive documents like invoices, agreement",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/kzjbez",
+  "affiliateUrl": "https://gumroad.com/a/402782931/kzjbez",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set upExpense Categories, AddBudget for Each, SetTravel InfoandSpend wiselyeach time.; EnterExpenses Amountfor each month for each source of travel expense assessing the budgeted amount correctly to stay within budgeted expense.; Getacomplete detailed overviewof all added source of expenses added along with the total expense incurred and budgeted expense for each.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.701Z",
+  "lastUpdated": "2026-01-12T20:47:13.701Z"
+}

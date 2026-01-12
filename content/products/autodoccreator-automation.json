@@ -1,0 +1,30 @@
+{
+  "id": "AutoDocCreator Automation",
+  "name": "AutoDocCreator Automation",
+  "slug": "autodoccreator-automation",
+  "description": "Google Docs to PDFs using Notion DatabaseAutoDocCreator lets you instantly generate PDFs from Google Docs using data from your Notion Database. All generated PDFs are automatically saved back into Notion — zero manual steps needed.Automate PDF workflows — no coding required!How It Works1. Install the AutoDocCreator extension Install the extension and setup the automation. One-time setup and configuration Quick 5-minute installation process 2. Add placeholders onto the Google Document Copy Notion",
+  "price": 99,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/gawrcw",
+  "affiliateUrl": "https://gumroad.com/a/402782931/gawrcw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 2,
+  "tags": [],
+  "useCases": [],
+  "features": "Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database; Generates PDFs using Google Document template; Saves PDFs directly to Notion database",
+  "assessmentScore": 68,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.877Z",
+  "lastUpdated": "2026-01-12T20:47:13.877Z"
+}

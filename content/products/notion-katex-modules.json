@@ -1,0 +1,30 @@
+{
+  "id": "Notion KaTeX Modules",
+  "name": "Notion KaTeX Modules",
+  "slug": "notion-katex-modules",
+  "description": "Latest Updates:Version 1.1 - Nov 14, 2024Synced block bug of Draft pages now fixed.Copy and paste your custom advanced Notion aesthetics. Ever wondered how aesthetic Notion templates use fancy designs?The answer is KaTeX codes.Now you can use them too!Use the Notion KaTeX Modules to generate your own KaTeX-made aesthetics without needing to learn the complexities of the code. It's as easy as copy and paste.What is KaTeX?KaTeX is the typesetting library used by Notion to display math equations. O",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Gosdee",
+    "url": "https://gosdee.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/drpac",
+  "affiliateUrl": "https://gumroad.com/a/962870099/drpac",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": 156,
+  "tags": [],
+  "useCases": [],
+  "features": "Synced block bug of Draft pages now fixed.; A library of KaTeX codes containing 147 colors and 10 different styles for you to easily add design elements to your Notion workspace.; What is Notion?; What is a Notion template?; Is Notion free?; Does this template work on a free plan?; I want to get Notion Plus for free. How do I do this?",
+  "assessmentScore": 67,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.237Z",
+  "lastUpdated": "2026-01-12T20:47:13.237Z"
+}

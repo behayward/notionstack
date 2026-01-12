@@ -1,0 +1,30 @@
+{
+  "id": "Academic PKM template: Zettelkasten and Project Management Notion Template",
+  "name": "Academic PKM template: Zettelkasten and Project Management Notion Template",
+  "slug": "academic-pkm-template-zettelkasten-and-project-management-notion-template",
+  "description": "This is a template of the Notion workspace I have developed over the course of several years to effectively manage both my personal and professional life as an academic. It is a comprehensive system that combines both project and knowledge management, and is designed to support a wide range of activities, including research, teaching, and learning.At its core, this workspace is built around the concept of a Zettelkasten, a personal knowledge management system that facilitates the building of a b",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Genevieve Shanahan",
+    "url": "https://genshanahan.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/gybzq",
+  "affiliateUrl": "https://gumroad.com/a/962870099/gybzq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 11,
+  "ratingCount": 11,
+  "salesCount": 139,
+  "tags": [],
+  "useCases": [],
+  "features": "Tasks database:Tasks are specific, defined actions. This database allows you to sort your tasks by, for instance, deadline (due date), when you plan to do the task (do date), and by priority.; Habit & mood tracker:This database allows you to keep track of your habits and mood, and can be used as a digital journal.; Create a new entry in theReference databasefor the paper or book you're reading.; When you click the Reference template a pre-filtered view of theZettelkasten databasewill appear. This will show all and only the Zettels related to the reference in question.",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.779Z",
+  "lastUpdated": "2026-01-12T20:47:12.779Z"
+}

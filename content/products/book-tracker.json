@@ -1,0 +1,30 @@
+{
+  "id": "Book Tracker",
+  "name": "Book Tracker",
+  "slug": "book-tracker",
+  "description": "Keep track of your reading progress and lessons learnedThis Notion template helps you keep track of your progress and stay motivated. For example, if you're trying to read one book every month, tracking your progress can help you stay on track. Add quotes or highlights from the book View your reading progress and status Create your custom set of book genres",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mzizp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mzizp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 987,
+  "ratingCount": 987,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Add quotes or highlights from the book; View your reading progress and status; Create your custom set of book genres",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.538Z",
+  "lastUpdated": "2026-01-12T20:47:12.538Z"
+}

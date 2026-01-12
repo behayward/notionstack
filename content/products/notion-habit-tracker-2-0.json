@@ -1,0 +1,30 @@
+{
+  "id": "Notion Habit Tracker 2.0",
+  "name": "Notion Habit Tracker 2.0",
+  "slug": "notion-habit-tracker-2-0",
+  "description": "A improved version of my previous Habit Tracker with buttons automations.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bdukh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bdukh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.082Z",
+  "lastUpdated": "2026-01-12T20:47:13.082Z"
+}

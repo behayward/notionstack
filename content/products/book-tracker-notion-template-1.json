@@ -1,0 +1,30 @@
+{
+  "id": "Book Tracker Notion Template",
+  "name": "Book Tracker Notion Template",
+  "slug": "book-tracker-notion-template-1",
+  "description": "A minimal easy to use reading list tracker.What's Inside Reading Goal tracker Book progress indicator Author Database Genre Database This template was created as an alternative to goodreads for managing my books and tracking the books i am reading. The reading tracker for yearly goal updates automatically based on the starting date and finished date. Separate databases for authors and genres give you more flexibility for managing your books. With sidebar navigation you can jump between pages wit",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Tony David",
+    "url": "https://tonydavid.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/536495827/xbpjv",
+  "affiliateUrl": "https://gumroad.com/a/536495827/xbpjv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 462,
+  "ratingCount": 462,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Reading Goal tracker; Book progress indicator; Author Database; Genre Database",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.641Z",
+  "lastUpdated": "2026-01-12T20:47:13.641Z"
+}

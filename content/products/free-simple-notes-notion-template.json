@@ -1,0 +1,30 @@
+{
+  "id": "FREE: Simple Notes Notion Template",
+  "name": "FREE: Simple Notes Notion Template",
+  "slug": "free-simple-notes-notion-template",
+  "description": "based on Thomas Frank’s note-taking template where he uses multiple databases for different notebookes.❓ This is a single database system utilising filters and linked databases.Take notes quickly using the Inbox. This is where all notes start.Update the category to bring it out the inbox and into one of the pages on the left.Use the Add New Category button to create a new page for a specific category.Use the All Notes page to see every note you have, grouped by category.Click \"I WANT THIS\" to ge",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Will - The Productive Dad",
+    "url": "https://theproductivedad.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ddfdp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ddfdp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Take notes quickly using the Inbox. This is where all notes start.; Update the category to bring it out the inbox and into one of the pages on the left.; Use theAdd New Categorybutton to create a new page for a specific category.; Use theAll Notespage to see every note you have, grouped by category.",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.085Z",
+  "lastUpdated": "2026-01-12T20:47:13.085Z"
+}

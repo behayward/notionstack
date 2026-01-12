@@ -1,0 +1,30 @@
+{
+  "id": "Startup Validation Experiment Tracker",
+  "name": "Startup Validation Experiment Tracker",
+  "slug": "startup-validation-experiment-tracker",
+  "description": "What is this:Two databases to track your validation experiments for your business hypotheses.The '#Visualise Your Experiments' board keeps your team aware of what experiments they are running to reduce the risk in your business. The '#Insights &amp; Learnings' board tracks learnings from your various experiments How to use this: Click Duplicate in the top right of this page and select your notion workspace. Use The Templates inside of each board to test your biggest hypotheses.This template is j",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "student",
+  "creator": {
+    "name": "Serj Solarkpunk | The Augmentor Academy",
+    "url": "https://paideiaxpraxis.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/yCernM",
+  "affiliateUrl": "https://gumroad.com/a/962870099/yCernM",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.712Z",
+  "lastUpdated": "2026-01-12T20:47:12.712Z"
+}

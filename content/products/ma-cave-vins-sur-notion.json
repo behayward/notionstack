@@ -1,0 +1,30 @@
+{
+  "id": "Ma Cave à Vins sur Notion",
+  "name": "Ma Cave à Vins sur Notion",
+  "slug": "ma-cave-vins-sur-notion",
+  "description": "Ce template offre une approche flexible pour suivre et explorer votre collection de vins préférés. N'hésitez pas à l'adapter selon vos préférences et à l'enrichir avec vos propres idées. Profitez de cette page pour découvrir de nouveaux vins, partager vos expériences et savourer pleinement votre passion pour le vin, avec modération of course ! Santé !La page est divisée en sections claires et intuitives pour faciliter la navigation et l'ajout de nouvelles entrées. Voici un aperçu des différentes",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Delory",
+    "url": "https://delory.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/cozvn",
+  "affiliateUrl": "https://gumroad.com/a/962870099/cozvn",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.735Z",
+  "lastUpdated": "2026-01-12T20:47:12.735Z"
+}

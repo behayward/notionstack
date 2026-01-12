@@ -1,0 +1,30 @@
+{
+  "id": "Quick Budget Tracker",
+  "name": "Quick Budget Tracker",
+  "slug": "quick-budget-tracker",
+  "description": "Introducing QuickBudget Tracker for Notion – Effortlessly manage your finances within Notion. Real-time updates, intuitive interface, and visual goal tracking. Bank-level security ensures your data's safety. Accessible on all devices. Start your financial journey today!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Digital Brain Kaizen",
+    "url": "https://kaizenedu.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/uszik",
+  "affiliateUrl": "https://gumroad.com/a/962870099/uszik",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.178Z",
+  "lastUpdated": "2026-01-12T20:47:13.178Z"
+}

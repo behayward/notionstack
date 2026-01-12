@@ -1,0 +1,30 @@
+{
+  "id": "Movie & TV Show Tracker",
+  "name": "Movie & TV Show Tracker",
+  "slug": "movie-tv-show-tracker",
+  "description": "Your Notion Watchlist CompanionCreate a personalized watchlist to ensure you never miss out on watching a fantastic movie or TV show.Genre Cataloging: Categorize and sort your watchlist by your favourite genres.Dedicated Watch Lists: Maintain separate watchlists for movies and TV shows, so nothing gets mixed up.Release Tracking: Stay updated with release dates and platforms, so you're always in the loop.Quick Additions: Speedily add new titles to your watchlist with the button blocks.Watch Histo",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/rwfzr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/rwfzr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 412,
+  "ratingCount": 412,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Genre Cataloging: Categorize and sort your watchlist by your favourite genres.; Dedicated Watch Lists: Maintain separate watchlists for movies and TV shows, so nothing gets mixed up.; Release Tracking: Stay updated with release dates and platforms, so you're always in the loop.; Quick Additions: Speedily add new titles to your watchlist with the button blocks.; Watch History: Maintain a log of your recently viewed and all-time favourites for easy recall and re-watching.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.645Z",
+  "lastUpdated": "2026-01-12T20:47:12.645Z"
+}

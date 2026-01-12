@@ -1,0 +1,30 @@
+{
+  "id": "Notion Personal Finance Tracker",
+  "name": "Notion Personal Finance Tracker",
+  "slug": "notion-personal-finance-tracker",
+  "description": "The only Notion Dashboard you will need to track your Personal Finances with ease!Do you feel overwhelmed while your finances that feels like a full-time job?This Notion template is all you need to manage all your finances in one place with a simple and easy to use interface as shown below.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion D",
+  "price": 49,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/sfrrap",
+  "affiliateUrl": "https://gumroad.com/a/402782931/sfrrap",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 36,
+  "ratingCount": 36,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; View account balances; Income Tracking; Expenses Tracking; Set monthly budgets and assess your performance; Pay Bills on Time; Create Savings Funds for your use; Pay Debt on Time; Find your Net Worth",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.692Z",
+  "lastUpdated": "2026-01-12T20:47:13.692Z"
+}

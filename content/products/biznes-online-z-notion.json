@@ -1,0 +1,30 @@
+{
+  "id": "Biznes online z Notion",
+  "name": "Biznes online z Notion",
+  "slug": "biznes-online-z-notion",
+  "description": "Przewodnik prowadzący do sukcesywnego zbudowania swojego pierwszego biznesu online w oparciu o sprzedaż szablonów oraz zostanie ekspertem Notion.Zaoszczędź ponad 100 godzin poszukiwań. Stworzyłem poradnik zawierający wszystkie kroki prowadzące do stworzenia pierwszego biznesu w oparciu o przychód pasywny.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "template",
+  "creator": {
+    "name": "Artur Tomala",
+    "url": "https://arturtomala.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/rceyr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/rceyr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.532Z",
+  "lastUpdated": "2026-01-12T20:47:12.532Z"
+}

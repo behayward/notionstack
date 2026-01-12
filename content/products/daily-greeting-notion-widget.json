@@ -1,0 +1,30 @@
+{
+  "id": "Daily Greeting Notion Widget",
+  "name": "Daily Greeting Notion Widget",
+  "slug": "daily-greeting-notion-widget",
+  "description": "🚀 What can this widget help me with?Add greetings for different times of dayAdd a birthday greetingAdd greetings for special events and days like ChristmasNo external embeddings or links needed, everything is build in standard vanilla Notion💡 What is Notion?Notion is an all-in-one workspace where you plan, write, organize, and collaborate. It provides its users with the building blocks to create customized layouts to get work done. Notion is free for a personal plan and is accessible through any",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "design",
+  "creator": {
+    "name": "The Bohemian Bliss ✨",
+    "url": "https://magicalwedding.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ixixe",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ixixe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Add greetings for different times of day; Add a birthday greeting; Add greetings for special events and days like Christmas; No external embeddings or links needed, everything is build in standard vanilla Notion",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.129Z",
+  "lastUpdated": "2026-01-12T20:47:13.129Z"
+}

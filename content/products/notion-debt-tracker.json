@@ -1,0 +1,30 @@
+{
+  "id": "Notion Debt Tracker",
+  "name": "Notion Debt Tracker",
+  "slug": "notion-debt-tracker",
+  "description": "Track your debt obligations with Notion Debt Tracker.Pay your Debt Payments on time and Maintain your Credit Score.Are you struggling to keep track of your debt payments? Do you want to lead a debt-free life and use your funds wisely?Look no further than Notion's Debt Tracker!Our debt tracker is the ultimate tool for anyone who wants to pay off their debts in time using the snowball method and achieve a debt-free life.Are you looking to automate PDF generation for repetitive documents like invoi",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/ebqjwf",
+  "affiliateUrl": "https://gumroad.com/a/402782931/ebqjwf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 28,
+  "ratingCount": 28,
+  "salesCount": 480,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Keep track of your debt obligations in one central location.; Pay your monthly debt payments in time to maintain your credit score.; Assign the priority for debt payments based on the snowball method.; Set timely reminders to pay the debt on time.; Access your debt tracker from any device, anywhere; Easy categorization for debt obligations.; Simple and intuitive interface for easy tracking.; Monthly debt payments progress with total repayment (in %).",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.684Z",
+  "lastUpdated": "2026-01-12T20:47:13.684Z"
+}

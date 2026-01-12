@@ -1,0 +1,30 @@
+{
+  "id": "CRM Template",
+  "name": "CRM Template",
+  "slug": "crm-template",
+  "description": "Capture and track your leads in NotionA CRM template helps you manage interactions and relationships with customers, potential leads, and sales opportunities. Track each customer's stage in the pipeline and follow up promptly to avoid missing any opportunities.Get it now and easily track all your leads and clients in Notion!",
+  "price": 9,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bpvho",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bpvho",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 533,
+  "ratingCount": 533,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.541Z",
+  "lastUpdated": "2026-01-12T20:47:12.541Z"
+}

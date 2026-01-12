@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Writers: Online Course",
+  "name": "Notion for Writers: Online Course",
+  "slug": "notion-for-writers-online-course",
+  "description": "Transform Your Writing with Notion!Unlock the full potential of Notion as a powerful writing management tool! This course is designed for intermediate writers eager to streamline their writing processes and enhance productivity. Dive deep into advanced features of Notion, from complex database structures to API integrations, and emerge with a fully functional Notion dashboard tailored to your writing needs. Say goodbye to chaos and hello to clarity!Who is it ForThis course is designed for interm",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/kedsd",
+  "affiliateUrl": "https://gumroad.com/a/145902419/kedsd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate; - Writers looking to improve their writing management; - Editors seeking better organization tools; - Content Creators wanting to streamline their processes; - Project Managers needing efficient task management; Basic understanding of Notion; - Familiarity with writing processes; - Basic knowledge of databases; - Willingness to learn advanced features",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.386Z",
+  "lastUpdated": "2026-01-12T20:47:13.386Z"
+}

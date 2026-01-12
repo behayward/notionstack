@@ -1,0 +1,30 @@
+{
+  "id": "The Modern Writer",
+  "name": "The Modern Writer",
+  "slug": "the-modern-writer",
+  "description": "Welcome fellow writer to my Notion template! Let me introduce you to the ultimate writer's workspace with a bit of backstory.A long time ago in a galaxy far, far away... there was a huge lack of specialized tools for writers. Having tried everything, from classics like InDesign to more creative products like Scrivener, I always felt like something was missing. Yes, I could design margins, pagination and work with thousands of different fonts, but I ended up asking myself - What is the most impor",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "design",
+  "creator": {
+    "name": "The Modern Guy",
+    "url": "https://themodernguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/KXWOw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/KXWOw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.695Z",
+  "lastUpdated": "2026-01-12T20:47:12.695Z"
+}

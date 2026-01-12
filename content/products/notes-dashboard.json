@@ -1,0 +1,30 @@
+{
+  "id": "Notes Dashboard",
+  "name": "Notes Dashboard",
+  "slug": "notes-dashboard",
+  "description": "Turn Notion into the ultimate note-taking experienceThis Notion template helps you streamline your note-taking process, making your notes not only beautifully organized but also easily retrievable. Linked Notes: Create relations between your notes to link everything together. Topics: Tag your notes to related topics and patterns to help your brain organize them effectively. Filtered Views: Include views for recent notes, favorite notes, notes to review, and the option to create a custom filtered",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lkvvhf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lkvvhf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 137,
+  "ratingCount": 137,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Linked Notes: Create relations between your notes to link everything together.; Topics: Tag your notes to related topics and patterns to help your brain organize them effectively.; Filtered Views: Include views for recent notes, favorite notes, notes to review, and the option to create a custom filtered view.; Notebooks: Group your notes into broader categories like a course, research, or journal you are actively working on.; Archive: Mark an outdated or irrelevant note as archive to hide it from all views except the archive view.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.218Z",
+  "lastUpdated": "2026-01-12T20:47:13.218Z"
+}

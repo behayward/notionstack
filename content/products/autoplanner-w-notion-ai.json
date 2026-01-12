@@ -1,0 +1,30 @@
+{
+  "id": "AutoPlanner (w/ Notion AI)",
+  "name": "AutoPlanner (w/ Notion AI)",
+  "slug": "autoplanner-w-notion-ai",
+  "description": "Hi there! This system is designed to make your life easier by creating daily schedules that fit your needs and preferences. A prewritten Notion AI script uses information about your tasks, the time you want to allocate to each task, events, and routines to generate a customized schedule that works for you. This not only simplifies your daily planning but also adds a bit of spontaneity to your life. Plus...Notion AI can even generate a daily recap of what you worked on, what happened, and your wr",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Richard's Productivity Store",
+    "url": "https://richardmathewsii.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/dqvfl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/dqvfl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Notion AI can even generate a daily recap of what you worked on, what happened, and your written reflection.; The system is implemented using theconfigured content design pattern, so it is simple, intuitive, and maintainable.; The template also comes with a \"System Card\" that explains what the databases and views are for, as well as an instructions manual to help you set up and use the system.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.074Z",
+  "lastUpdated": "2026-01-12T20:47:13.074Z"
+}

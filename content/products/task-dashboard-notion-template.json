@@ -1,0 +1,30 @@
+{
+  "id": "Task Dashboard Notion Template",
+  "name": "Task Dashboard Notion Template",
+  "slug": "task-dashboard-notion-template",
+  "description": "Our Task Dashboard Notion template is the perfect way to keep track of your tasks and to-do list! This Notion template is for those who want a simple but practical approach to task management and staying on top of your to-do list. We created and use this template ourselves and it has been a great help in managing our day to day tasks.Key features in our template are: Monthly check-inMy tasks at a glanceMy today to-do list Click here for a detailed tutorial.",
+  "price": 2,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "The Organized Notebook",
+    "url": "https://theorganizednotebook.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/khopx",
+  "affiliateUrl": "https://gumroad.com/a/962870099/khopx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Monthly check-in; My tasks at a glance; My today to-do list",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.552Z",
+  "lastUpdated": "2026-01-12T20:47:12.552Z"
+}

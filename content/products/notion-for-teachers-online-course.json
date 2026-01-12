@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Teachers: Online Course",
+  "name": "Notion for Teachers: Online Course",
+  "slug": "notion-for-teachers-online-course",
+  "description": "Transform Your Teaching Experience with Notion for Teachers!Unlock the full potential of Notion and transform your teaching experience! This practical course is designed specifically for educators who have a basic understanding of Notion but are ready to elevate their skills. By the end, you'll be equipped to create a personalized Notion setup that streamlines your workflow, enhances productivity, and integrates seamlessly with other educational tools. Say goodbye to chaos and hello to a well-or",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/shkgq",
+  "affiliateUrl": "https://gumroad.com/a/145902419/shkgq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate educators looking to advance their Notion skills.; Basic understanding of Notion interface; - Familiarity with database concepts; - Knowledge of educational task management; - Willingness to learn advanced features; - Basic understanding of API integrations (optional); - Diving Deeper: Advanced Notion Features; - Crafting Your Personalized Dashboard",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.355Z",
+  "lastUpdated": "2026-01-12T20:47:13.355Z"
+}

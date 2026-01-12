@@ -1,0 +1,30 @@
+{
+  "id": "Notion Account Management Tracker",
+  "name": "Notion Account Management Tracker",
+  "slug": "notion-account-management-tracker",
+  "description": "Ideal for Account Managers, Customer Success and Engagement, and Sales, but also adaptable to tons of other fields as well! If you need to keep track of accounts and customer/client relationships, this is 100% the tool to use.",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "P",
+    "url": "https://ptalkstech.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ntdwm",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ntdwm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.804Z",
+  "lastUpdated": "2026-01-12T20:47:12.804Z"
+}

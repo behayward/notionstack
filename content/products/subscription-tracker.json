@@ -1,0 +1,30 @@
+{
+  "id": "Subscription Tracker",
+  "name": "Subscription Tracker",
+  "slug": "subscription-tracker",
+  "description": "Never forget about your subscriptions again!A Notion template that helps you keep track of your subscriptions, so you never forget to renew or cancel them.What's inside? Set reminders for subscription renewal Group subscriptions by categories e.g. entertainment, education, business Calculate monthly &amp; yearly expenses for each category View subscriptions by their status",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vcfde",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vcfde",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 593,
+  "ratingCount": 593,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Set reminders for subscription renewal; Group subscriptions by categories e.g. entertainment, education, business; Calculate monthly & yearly expenses for each category; View subscriptions by their status",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.534Z",
+  "lastUpdated": "2026-01-12T20:47:12.534Z"
+}

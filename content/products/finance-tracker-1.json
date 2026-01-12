@@ -1,0 +1,30 @@
+{
+  "id": "Finance Tracker",
+  "name": "Finance Tracker",
+  "slug": "finance-tracker-1",
+  "description": "The ultimate Notion dashboard to track all your financesJuggling your finances can feel like a full-time job. Our Notion template makes it easy to manage all your finances in one place.Why Notion?Notion is available on every platform, with customizable layouts and a wide range of components and views including board view, gallery view, table view and more.Stacking up with advanced filter, sort, and search functions, Notion provides a powerful database to track years of financial data without pay",
+  "price": 39,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/602107091/beygm",
+  "affiliateUrl": "https://gumroad.com/a/602107091/beygm",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 134,
+  "ratingCount": 134,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "View account balances; Generate monthly reports; Transfer funds between accounts; Track financial goals; Set monthly budgets; Monthly view of expenses & incomes; Income tracking; Expense tracking; Subscription tracking",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.433Z",
+  "lastUpdated": "2026-01-12T20:47:13.433Z"
+}

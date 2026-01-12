@@ -1,0 +1,30 @@
+{
+  "id": "Course Builder Notion Template",
+  "name": "Course Builder Notion Template",
+  "slug": "course-builder-notion-template",
+  "description": "Course Builder: Build, Manage, and Share Your Courses EffortlesslyEmpower Coaches, Educators, and Trainers to Create Comprehensive Courses SeamlesslyThe Course Creator Template offers a seamless way to develop courses in modules and lessons, manage them in a centralized space, and effortlessly share content with your audience. Ideal for coaches, educators, and anyone passionate about sharing knowledge, Course Creator provides an intuitive interface to craft, edit, and oversee courses in one conv",
+  "price": 29,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Solt Wagner",
+    "url": "https://soltwagner.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/883590867/bsdfrl",
+  "affiliateUrl": "https://gumroad.com/a/883590867/bsdfrl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Manage your course in one place.; Build your course with ease.; Share your course with just one click.; Organize your course into modules and lessons.; Upload videos directly; Embed videos from Vimeo or YouTube into your lessons; Add descriptions, notes, to-do lists, and resources to your lessons and modules; Students can track their progress, and see completed lessons and modules.; Get ready to level up your page covers, modules, and lesson cards with included Canva Templates.",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.626Z",
+  "lastUpdated": "2026-01-12T20:47:13.626Z"
+}

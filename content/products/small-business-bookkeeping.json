@@ -1,0 +1,30 @@
+{
+  "id": "Small Business Bookkeeping",
+  "name": "Small Business Bookkeeping",
+  "slug": "small-business-bookkeeping",
+  "description": "Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc Template: A template file with placeholders in {{...}} format (e.g., {{InvoiceNumber}}, {{ClientName}}). Notion Database: Acts as a database with matching head",
+  "price": 49,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/orbqt",
+  "affiliateUrl": "https://gumroad.com/a/402782931/orbqt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Balance Sheet; Profit and Loss; Cash Flow Statement; Customizable categories:It's easy to customize the categories of each section to suit your needs and requirements.; Historical tracking:This helps you keep track of historical transactions and client-related activities for easy reference.; Real-Time tracking:Provides real-time updated accounts and helps simplify the bookkeeping process for any user.",
+  "assessmentScore": 62,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.703Z",
+  "lastUpdated": "2026-01-12T20:47:13.703Z"
+}

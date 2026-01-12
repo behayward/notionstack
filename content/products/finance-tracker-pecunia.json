@@ -1,0 +1,30 @@
+{
+  "id": "Finance Tracker Pecunia",
+  "name": "Finance Tracker Pecunia",
+  "slug": "finance-tracker-pecunia",
+  "description": "Get Out Of Debt and Take Control of Your Finances!Experience the ultimate financial management solution with Pecunia - an all-in-one Notion dashboard designed to help you achieve financial freedom. With Pecunia, you won't miss a single feature, ensuring comprehensive control over your income, expenses, accounts, cards, investments, and budget.Website: Trackerpecunia.com Why choose Pecunia? Seamlessly automated: Say goodbye to time-consuming manual tasks. Pecunia automates everything possible, gi",
+  "price": 129,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Severin",
+    "url": "https://severinschuetz.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402026707/ztpor",
+  "affiliateUrl": "https://gumroad.com/a/402026707/ztpor",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Subscription Tracker:Take charge of your spending habits by keeping tabs on all your subscriptions. Easily identify unnecessary expenses and save money by knowing where you can cut back.; Budget Planner; Subscription Tracker; Card Management; Expense Tracking; Account Management",
+  "assessmentScore": 72,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.535Z",
+  "lastUpdated": "2026-01-12T20:47:13.535Z"
+}

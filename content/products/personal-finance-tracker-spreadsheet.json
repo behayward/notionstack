@@ -1,0 +1,30 @@
+{
+  "id": "Personal Finance Tracker Spreadsheet",
+  "name": "Personal Finance Tracker Spreadsheet",
+  "slug": "personal-finance-tracker-spreadsheet",
+  "description": "Tracking your personal finances is now easy with the help of this simple and easy-to-use Personal Finance Tracker Spreadsheet.Be in control of your finances and find out where your money goes 💰With simple 2 steps follow strategy its easy to assess your overall financial situation at any given point of time.Salient Features: Simple Click and Use Interface with only 3 tabs to manage your personal finances, even for an absolute beginner. Addition of own Income and Expense accounts along with specif",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/ztxij",
+  "affiliateUrl": "https://gumroad.com/a/402782931/ztxij",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Simple Click and Use Interface with only 3 tabs to manage your personal finances, even for an absolute beginner.; Addition of own Income and Expense accounts along with specifying your Income Goals and Budgeted Expenses for12 months.; Monthly OverviewofIncome,ExpensesandSummaryof all accounts showing how you performed during the period.; IncomeandExpenses Overviewthat is updated based on the period filtered for use by user.; Entire template is built on3 tabs, and is controllable with the help of only3 filtersprovided by the user.; Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Add as many of your ownIncomeandExpensesaccounts and set yourIncome GoalsandBudgeted Expensesfor the 12 months period in no time.; Add inIncomeandExpensedetails as per the Accounts added earlier.; Assess yourmonthlyoryearly Income and Expensesfor each of the accounts or all accounts in total in a simple and easy to useDashboardsection.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.691Z",
+  "lastUpdated": "2026-01-12T20:47:13.691Z"
+}

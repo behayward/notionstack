@@ -1,0 +1,30 @@
+{
+  "id": "Content Calendar",
+  "name": "Content Calendar",
+  "slug": "content-calendar",
+  "description": "Plan and Manage Your Content Calendar in NotionPlan your social media content across multiple platforms all in one place. Unlimited Channels: Manage content for Facebook, Instagram, Twitter, LinkedIn, YouTube, TikTok, and more, all in one place. Content Tracking: Plan and track all your social media content from idea to published, ensuring you never miss a post.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wxtvs",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wxtvs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 457,
+  "ratingCount": 457,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Unlimited Channels:Manage content for Facebook, Instagram, Twitter, LinkedIn, YouTube, TikTok, and more, all in one place.; Content Tracking: Plan and track all your social media content from idea to published, ensuring you never miss a post.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.548Z",
+  "lastUpdated": "2026-01-12T20:47:12.548Z"
+}

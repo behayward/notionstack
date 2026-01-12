@@ -1,0 +1,30 @@
+{
+  "id": "Elizabeth's Book Notes Formula",
+  "name": "Elizabeth's Book Notes Formula",
+  "slug": "elizabeth-s-book-notes-formula",
+  "description": "How to take notes like me, based on this video here, as a Notion Template.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Elizabeth Filips",
+    "url": "https://lizziefilips.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/veqls",
+  "affiliateUrl": "https://gumroad.com/a/962870099/veqls",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 177,
+  "ratingCount": 177,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.675Z",
+  "lastUpdated": "2026-01-12T20:47:12.675Z"
+}

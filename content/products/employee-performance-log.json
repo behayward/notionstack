@@ -1,0 +1,30 @@
+{
+  "id": "Employee Performance Log",
+  "name": "Employee Performance Log",
+  "slug": "employee-performance-log",
+  "description": "Nobody likes managing low performance.And the name \"Performance Log\" is clearly offputting.Yet, every manager needs its help. When you manage a team, it is impossible to remember every concrete example of excellent or weak performance. Of specific situations which you want to address during a feedback session, or a career talk.Use the Performance Log as your private helper. If it gets into the wrong hands, it can give you some trouble.ℹ️ This template is also part of the comprehensive Manager OS",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "template",
+  "creator": {
+    "name": "ManagerHacks by Mona",
+    "url": "https://managerhacks.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/miiyz",
+  "affiliateUrl": "https://gumroad.com/a/962870099/miiyz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 36,
+  "ratingCount": 36,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "This is a Notion template.Get Notion(this template works on both Free and Premium accounts).*; Duplicate the template to your Notion space. Keep it private!; Adapt the template to your team (add the names of your team members, create custom views); When you observe a situation, note it done in an objective way without sharing any emotion or judgement. State what happened, where it happened and then what you plan to do with this.; A ready-to-use table with fields to input your observation & select the desired action you want to take.; Table views for each employee of your team.; Template button to recreate the performance log every time you need a fresh start.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.591Z",
+  "lastUpdated": "2026-01-12T20:47:12.591Z"
+}

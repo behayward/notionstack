@@ -1,0 +1,30 @@
+{
+  "id": "HTML Study Progress Tracker",
+  "name": "HTML Study Progress Tracker",
+  "slug": "html-study-progress-tracker",
+  "description": "To access the template enter 0 or more dollars in the price box on the right and click the \"I want this!\" or \"Add to cart\" button.Elevate your HTML learning journey with this dynamic study progress tracker Notion template, designed to effortlessly monitor your study progress!Navigate HTML Topics with Ease, Kanban styleEasy as 1-2-3! Choose what you want to learn from the Not Started column, slide it into In Progress, and, when you conquer it, move it to Done. Plus, every topic has a handy refere",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Damian Demasi",
+    "url": "https://damiandemasi.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sfits",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sfits",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.006Z",
+  "lastUpdated": "2026-01-12T20:47:13.006Z"
+}

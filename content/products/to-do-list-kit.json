@@ -1,0 +1,30 @@
+{
+  "id": "To-Do List Kit",
+  "name": "To-Do List Kit",
+  "slug": "to-do-list-kit",
+  "description": "A Simple To-Do List Kit for Notion7 Theme Included (Grey, Dark Mode, Purple, Green, Orange, Yellow, Blue, Pink)",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "bundle",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ppciu",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ppciu",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.970Z",
+  "lastUpdated": "2026-01-12T20:47:12.970Z"
+}

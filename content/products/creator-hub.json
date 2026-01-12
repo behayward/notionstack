@@ -1,0 +1,30 @@
+{
+  "id": "Creator Hub",
+  "name": "Creator Hub",
+  "slug": "creator-hub",
+  "description": "Manage your creative life with easeCreate more content with less effort.A Notion dashboard tailored to content creators helping you manage and turn your ideas into content.Before you think of creating more content or posting to multiple platforms, you first need to have a system in place to help you handle your workload and free up your time.The Creator Hub Includes: A.I. Assistant: 100 Notion AI prompts for growing on social media, Twitter, and YouTube Content Tracker: Stay on top of your conte",
+  "price": 25,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/viconw",
+  "affiliateUrl": "https://gumroad.com/a/376061651/viconw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "A.I. Assistant:100 Notion AI prompts for growing on social media, Twitter, and YouTube; Content Tracker:Stay on top of your content projects with a dedicated content tracker & calendar; Posting Schedule: Plan out your content posting schedule for all your different platforms; Bookmarks:Collect, save, and repurpose bookmarks saved to your dashboard; Finance Tracker:Track your income, expenses, subscriptions, and bank accounts; Twitter scheduler:Schedule Tweets directly from Notion through the add-on inside; YouTubeSystem:Dedicated workflow for managing your YouTube videos and ideas",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.657Z",
+  "lastUpdated": "2026-01-12T20:47:13.657Z"
+}

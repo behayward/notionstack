@@ -1,0 +1,30 @@
+{
+  "id": "Modèle Notion - CRM",
+  "name": "Modèle Notion - CRM",
+  "slug": "mod-le-notion-crm",
+  "description": "Centralisez et gérez efficacement tous vos contacts et opportunités grâce à ce modèle Notion complet et facile à utiliser, conçu pour les entrepreneurs et les professionnels de tous les secteurs. Optimisez votre vie professionnelle et votre prospection ! ➡️Votre gestion de contacts et d'opportunités dans Notion 💭Ce modèle Notion permet de gérer efficacement les contacts d'une entreprise grâce à trois bases de données :🙋 Contacts : contient des informations telles que le nom, l'email, le numéro d",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "project-management",
+  "creator": {
+    "name": "Lou Attal",
+    "url": "https://louattal.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/aueau",
+  "affiliateUrl": "https://gumroad.com/a/962870099/aueau",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 39,
+  "ratingCount": 39,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "🙋 Contacts :contient des informations telles que le nom, l'email, le numéro de téléphone et des informations spécifiques à la personne; 🏙 Entreprises :contient des informations de l'entreprise, une relation pour lier les entreprises aux contacts, et une autre pour les lier au opportunités; 🔍 Opportunités :Une vue en kanban permet de suivre l'état d'avancement des opportunités, avec les montants et les contacts liés.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.120Z",
+  "lastUpdated": "2026-01-12T20:47:13.120Z"
+}

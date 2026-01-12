@@ -1,0 +1,30 @@
+{
+  "id": "Goal Dashboard - Notion",
+  "name": "Goal Dashboard - Notion",
+  "slug": "goal-dashboard-notion",
+  "description": "A goal dashboard to add to your notion space to clarify and organize your yearly goals.This is an excellent addition to any notion space to keep your top priorities in mind throughout the year.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Brian Kimpson",
+    "url": "https://briankimpson.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/guiqw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/guiqw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.576Z",
+  "lastUpdated": "2026-01-12T20:47:12.576Z"
+}

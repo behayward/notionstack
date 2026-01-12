@@ -1,0 +1,30 @@
+{
+  "id": "Random inspirational quotes for Notion",
+  "name": "Random inspirational quotes for Notion",
+  "slug": "random-inspirational-quotes-for-notion",
+  "description": "This template shows a random quote each minute. Copy to the top of your Today's page to get inspired everyday.FeaturesStart your day with a dose of optimism.Get inspired during middle of the day.Learn from thoughtful minds and gain 50 inspirational quotesThe quote looks like:",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Stable Diffusion Art Store",
+    "url": "https://andrewongai.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jbdzk",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jbdzk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 7,
+  "ratingCount": 7,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Start your day with a dose of optimism.; Get inspired during middle of the day.; Learn from thoughtful minds and gain; 50 inspirational quotes",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.668Z",
+  "lastUpdated": "2026-01-12T20:47:12.668Z"
+}

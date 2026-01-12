@@ -1,0 +1,30 @@
+{
+  "id": "Notion Bundle",
+  "name": "Notion Bundle",
+  "slug": "notion-bundle",
+  "description": "Get Every Notion Template I’ve Ever Made—At 50% Off!Get all 22 of my best-selling Notion templates, including 6 premium dashboards, for just $225! (regular price $450).Everything you need to boost your productivity in one place.What’s Included in the Bundle?You’ll get immediate access to all 22 templates, designed to help you stay organized, boost productivity, and optimize your personal and professional life. Here’s what you’ll find inside: Life OS Dashboard ($149) - The most aesthetic way to m",
+  "price": 225,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Chris",
+    "url": "https://chrisnotion.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/376061651/bsgcf",
+  "affiliateUrl": "https://gumroad.com/a/376061651/bsgcf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 34,
+  "ratingCount": 34,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Life OS Dashboard($149) -The most aesthetic way to manage your entire life; Habit Tracker Hub($60) -Your personal accountability partner to build habits that stick; Freelancer VA($60) -Manage clients, projects, and workflows with ease in one place; Goal OS($39)- An Identity-Based Goal System that transforms who you ARE, not just what you DO; Finance OS($39) -Take control of your budget and simplify your finances; Creator Hub($30) -Organize your content creation process from idea to published; Student OS Dashboard($20) -Stay on top of assignments, exams, and personal goals as a student; Mission Control($19)- A single command centre to organize all your projects & tasks; GTD System($10) -Stay organized with the popular \"Getting Things Done\" methodology; Second Brain($10) -A lightweight system for capturing and organizing ideas",
+  "assessmentScore": 110,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.659Z",
+  "lastUpdated": "2026-01-12T20:47:13.659Z"
+}

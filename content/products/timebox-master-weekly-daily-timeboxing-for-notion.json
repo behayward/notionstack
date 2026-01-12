@@ -1,0 +1,30 @@
+{
+  "id": "TimeBox Master (Weekly/Daily Timeboxing) for Notion",
+  "name": "TimeBox Master (Weekly/Daily Timeboxing) for Notion",
+  "slug": "timebox-master-weekly-daily-timeboxing-for-notion",
+  "description": "Enhance your work-life balance and avoid burnout with Time Block Master!Time Block Master, a simple tool for optimizing your time management and boosting your productivity. With Time Block Master, you can achieve laser-focused productivity by allocating specific time blocks for your tasks and activities, improve time management by prioritizing your most important tasks, and optimize your workflow by reducing distractions. Whether you're looking to enhance your work-life balance or avoid burnout,",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "MrPugo",
+    "url": "https://mrpugo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/glaaa",
+  "affiliateUrl": "https://gumroad.com/a/962870099/glaaa",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 16,
+  "ratingCount": 16,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Achieve laser-focused productivity by allocating specific time blocks for your tasks and activities; Improve time management and prioritize your most important tasks; Optimize your workflow and reduce distractions; Enhance your work-life balance and avoid burnout; Task Box:A dedicated space to store and organize all your tasks and ideas; Calendar Integration:Seamlessly connect with Notion's Calendar App for a detailed and powerful scheduling experience; Drag and Drop Functionality:Easily move tasks from the Task Box to the Calendar or create new ones directly in the Calendar; Customizable Time Blocks:Add start and end dates to each task to create your personalized time block calendar; Weekly View:Plan and visualize your daily time blockings per week for effective planning",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.210Z",
+  "lastUpdated": "2026-01-12T20:47:13.210Z"
+}

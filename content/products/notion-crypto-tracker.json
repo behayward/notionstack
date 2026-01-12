@@ -1,0 +1,30 @@
+{
+  "id": "Notion Crypto Tracker",
+  "name": "Notion Crypto Tracker",
+  "slug": "notion-crypto-tracker",
+  "description": "The Crypto &amp; NFT Tracker Notion template is perfect for anyone looking to keep track of their cryptocurrency and NFT investments. The template includes real-time asset prices, making it easy to monitor your portfolio's value and stay up-to-date on market trends.The template is designed with simplicity in mind, featuring a clean and intuitive interface that is easy to navigate. You can easily customize the template to fit your specific needs, adding or removing sections as needed.The real-tim",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/cruxi",
+  "affiliateUrl": "https://gumroad.com/a/822660307/cruxi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Live asset prices; Crypto purchase tracker; Crypto portfolio tracker; NFT tracker; Key metrics such as current portfolio value, total earnings & growth rate",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.467Z",
+  "lastUpdated": "2026-01-12T20:47:13.467Z"
+}

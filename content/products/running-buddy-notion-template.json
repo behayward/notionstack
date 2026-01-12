@@ -1,0 +1,30 @@
+{
+  "id": "Running buddy Notion template",
+  "name": "Running buddy Notion template",
+  "slug": "running-buddy-notion-template",
+  "description": "A place for all your runs !Welcome to Running Buddy, the ultimate tool for runners to manage their training, races, and materials. With this template, you can keep track of your runs, log your miles, and monitor your progress. You can also create a library of your shoes and keep track of their usage and maintenance.In addition to tracking your training, Running Buddy also helps you plan and prepare for races. You can create a calendar of upcoming events, set your goals, and track your bib and me",
+  "price": 1,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "David",
+    "url": "https://notionenthusiast.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sxwij",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sxwij",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 9,
+  "ratingCount": 9,
+  "salesCount": 701,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.886Z",
+  "lastUpdated": "2026-01-12T20:47:12.886Z"
+}

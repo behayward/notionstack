@@ -1,0 +1,30 @@
+{
+  "id": "Notion Research Paper Tracker",
+  "name": "Notion Research Paper Tracker",
+  "slug": "notion-research-paper-tracker",
+  "description": "Hi there, I created a research paper tracker in Notion that I'm happy to share with you. It's a simple tool to help early researchers, and students keep track of the research papers they're reading and take notes from them. Basic Version:This version of the template provides different Notion layouts to track papers. The template includes basic information about each paper, such as the title, DOI, reading status, notes, and remarks. This focus on the reading allows users to track their papers eff",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "GeekCode",
+    "url": "https://geekcodeq.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fghnl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fghnl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 20,
+  "ratingCount": 20,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "The 3-Pass Approach To Reading Research Papers; Taking Notes From Research Papers; Use of Reference Managers Along With Notion; Extra Apps for Your Research Journey",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.689Z",
+  "lastUpdated": "2026-01-12T20:47:12.689Z"
+}

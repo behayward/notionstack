@@ -1,0 +1,30 @@
+{
+  "id": "Game Dev Manager",
+  "name": "Game Dev Manager",
+  "slug": "game-dev-manager",
+  "description": "The ultimate system to organise and streamline your game development process — all within Notion.Effortlessly plan, design, and document game projects.Manage game ideas, track development, and keep your workflow efficient — all within your Notion-powered workspace.What’s IncludedMain Game Board: Your central hub for all game projects, neatly categorised by their status. Easily navigate through active, paused, and completed games.Blueprint Page: Dive into the heart of your game with the Blueprint",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "CreatorJagat",
+    "url": "https://blogresources.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/wnsxa",
+  "affiliateUrl": "https://gumroad.com/a/962870099/wnsxa",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 13,
+  "ratingCount": 13,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Main Game Board: Your central hub for all game projects, neatly categorised by their status. Easily navigate through active, paused, and completed games.; Blueprint Page: Dive into the heart of your game with the Blueprint Page. Craft stories, define characteristics, visualise the look and feel, and outline intricate relationships between characters.; Development Log: Linked to each game, the Development Log documents your journey from inspiration to breakthroughs, perfect for reflection or sharing updates.; Sub-Tasks for Game Development: Break down your game into manageable sub-tasks, ensuring no detail is overlooked and keeping you on track.; Set Up Game Pages: Create detailed game project pages, defining genres, storylines, and character details.; Develop Blueprints: Use the blueprint page to map out your game’s design, visual style, and character dynamics.; Track Development Progress: Use the development log to capture key milestones and document your progress.; Break Down Tasks: Divide game creation into specific sub-tasks to maintain organisation and track completion rates.; Review and Reflect: Use the main game board to get an overview of active and completed games, optimising your workflow.; To streamline the planning and documentation of game development projects.",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.181Z",
+  "lastUpdated": "2026-01-12T20:47:13.181Z"
+}

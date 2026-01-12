@@ -1,0 +1,30 @@
+{
+  "id": "Debt-EMI Calculator - Notion template",
+  "name": "Debt-EMI Calculator - Notion template",
+  "slug": "debt-emi-calculator-notion-template",
+  "description": "A notion template that helps in performing various calculations related to debt. It contains the following features:EMI Calculator: Calculates the EMI to be paid based on the Loan amount, Interest rate &amp; Time period of the loan.Pay-off Time Calculator: Calculates the change in time it will take to repay the loan, if the EMI is changed.Loan Affordability Calculator: Calculates the amount one can borrow based on the EMI one can pay on a monthly basis.Pay-off Date EMI Calculator: Calculates the",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Nikk",
+    "url": "https://nikk07.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/sltjta",
+  "affiliateUrl": "https://gumroad.com/a/962870099/sltjta",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "EMI Calculator:Calculates the EMI to be paid based on the Loan amount, Interest rate & Time period of the loan.; Pay-off Time Calculator:Calculates the change in time it will take to repay the loan, if the EMI is changed.; Loan Affordability Calculator:Calculates the amount one can borrow based on the EMI one can pay on a monthly basis.; Pay-off Date EMI Calculator:Calculates the EMI required to be paid in order to pay-off the loan before a set date.; Debt-Income Ratio:This calculates the ratio depicting how much of the income is tied up in debt repayment obligations.",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.610Z",
+  "lastUpdated": "2026-01-12T20:47:12.610Z"
+}

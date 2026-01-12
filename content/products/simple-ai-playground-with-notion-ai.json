@@ -1,0 +1,30 @@
+{
+  "id": "Simple AI playground (with Notion AI)",
+  "name": "Simple AI playground (with Notion AI)",
+  "slug": "simple-ai-playground-with-notion-ai",
+  "description": "Play with Notion AI in an organized way 🕹️If you're a content creator or product maker, you know that generating content can be a time-consuming process so using AI is making it easier.With AI Playground, you'll have access to a simple and intuitive page in Notion that allows you to easily play with AI and content generation. This template ensures that all generated copy is organized, saving you time and ensuring no content is lost.But that's not all - there's a database for evaluating generated",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "ai",
+  "creator": {
+    "name": "PM optimizer",
+    "url": "https://pmoptimizer.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hklqxk",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hklqxk",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Template to quickly generate copy with AI; Evaluation of your prompts based on satisfaction; Database with organized pages of your content; Simply open the template link, and click \"Duplicate\" in the top right corner to save it in your workspace.; Everyone can use Notion AI for free, so you can test its capabilities before purchasing the add-on subscription.; There is a limited amount of AI responses user can make.; Once you've used all your complimentary AI responses, you will see a message that a Notion AI add-onsubscriptionis necessary to continue using AI features.; If you have any questions or feedback, you can reach out to me on 🔗LinkedIn.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.702Z",
+  "lastUpdated": "2026-01-12T20:47:12.702Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Media List",
+  "name": "Notion Media List",
+  "slug": "notion-media-list",
+  "description": "With the embedded features of Notion, you can turn any Notion page into a media hub. It's easy to include video, audio, and Spotify playlists with the free media hub.FeaturesEasy to add your own mediaMinimalistic designUser-friendly interface",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ydsmd",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ydsmd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Easy to add your own media; Minimalistic design; User-friendly interface",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.936Z",
+  "lastUpdated": "2026-01-12T20:47:12.936Z"
+}

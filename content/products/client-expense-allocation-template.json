@@ -1,0 +1,30 @@
+{
+  "id": "Client Expense Allocation Template",
+  "name": "Client Expense Allocation Template",
+  "slug": "client-expense-allocation-template",
+  "description": "Ideal for those who are looking to allocate their client expenses, setting the budgetary requirements and improving the cost efficiency and performance.Are you looking for a tracker to allocate your client expenses?This tracker is perfect to add client expenses, allocate the expenses and assess the performance all under one glance.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?AutoDocCreator lets you in",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/utstt",
+  "affiliateUrl": "https://gumroad.com/a/402782931/utstt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.761Z",
+  "lastUpdated": "2026-01-12T20:47:13.761Z"
+}

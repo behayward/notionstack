@@ -1,0 +1,30 @@
+{
+  "id": "Notion Student Dashboard",
+  "name": "Notion Student Dashboard",
+  "slug": "notion-student-dashboard-3",
+  "description": "Maintain control over your academic life.As a student, you're probably well aware of the challenge of balancing homework, university/college life, and free time. Effective management not only benefits your well-being but also enhances your motivation to accomplish more.During your college years, you will likely be enrolled in multiple courses simultaneously, each with its own set of assignments and exams that come with varying due dates. While this can easily become overwhelming, utilizing the N",
+  "price": 15,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Design Freaks",
+    "url": "https://dfreaks.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/1051518675/ttocs",
+  "affiliateUrl": "https://gumroad.com/a/1051518675/ttocs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Task Manager; Events & Dates Manager; Notes System; Ideas Manager; Reflection Manager; Resources & Tools Tracker; Pomodoro timer; Classes Manager; Assignments Tracker",
+  "assessmentScore": 77,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.599Z",
+  "lastUpdated": "2026-01-12T20:47:13.599Z"
+}

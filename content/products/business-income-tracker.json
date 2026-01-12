@@ -1,0 +1,30 @@
+{
+  "id": "Business Income Tracker",
+  "name": "Business Income Tracker",
+  "slug": "business-income-tracker",
+  "description": "Ideal for those who manage a business, this tracker helps you keep tabs on business-related income such as sales, services, investments, and much more.Are you looking for a tracker to keep track of income associated with your business and manage your finances effectively?This tracker is perfect to set income goals, plan business strategies in advance, and make wise financial decisions for each business venture within the projected income.Are you looking to automate PDF generation for repetitive ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/cxenrc",
+  "affiliateUrl": "https://gumroad.com/a/402782931/cxenrc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Install the extension and setup the automation.; One-time setup and configuration; Quick 5-minute installation process; Copy Notion Database properties placeholders; Paste them into your Google Document template; One-time setup per document template; Set your preferred automation schedule; Automatically scans Notion database",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.741Z",
+  "lastUpdated": "2026-01-12T20:47:13.742Z"
+}

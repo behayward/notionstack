@@ -1,0 +1,30 @@
+{
+  "id": "Tax Deductible Expense Tracker",
+  "name": "Tax Deductible Expense Tracker",
+  "slug": "tax-deductible-expense-tracker",
+  "description": "This tracker is perfect to add expenses, set budgeting and assess your overall cost expenses performance all under one glance.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 things: Google Doc Template: A template file with pl",
+  "price": 49,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/nxvakw",
+  "affiliateUrl": "https://gumroad.com/a/402782931/nxvakw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set your budget, add expenses and assessoverall cost efficiencyfor your expenses.; Ensureproper expenses management.; Get acomplete detailed overviewof all expenses made, their allocations and other metrics.",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.764Z",
+  "lastUpdated": "2026-01-12T20:47:13.764Z"
+}

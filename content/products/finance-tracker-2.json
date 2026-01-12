@@ -1,0 +1,30 @@
+{
+  "id": "Finance Tracker",
+  "name": "Finance Tracker",
+  "slug": "finance-tracker-2",
+  "description": "Your One-Stop Finance Hub in NotionManaging money is no small feat, but our Notion template is designed to simplify the process, consolidating all your financial data under one roof.Why Choose This Template in Notion?Notion is your universal app, accessible from any device. With its highly flexible interface, including options for list views, calendar views, and kanban boards, our template leverages Notion's powerful features to give you a personalized finance management experience.Tailored with",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Notion Zone",
+    "url": "https://notionz.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/syzjyp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/syzjyp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 48,
+  "ratingCount": 48,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Monitor account statuses; Create custom financial reports; Seamless fund transfers among accounts; Stay on track with financial objectives; Plan and stick to monthly budgets; Comprehensive monthly summaries for incomes & expenses; Real-time income monitoring; Detailed expense auditing; Keep an eye on recurring subscriptions",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.841Z",
+  "lastUpdated": "2026-01-12T20:47:12.841Z"
+}

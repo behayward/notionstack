@@ -1,0 +1,30 @@
+{
+  "id": "University Hub Notion Template",
+  "name": "University Hub Notion Template",
+  "slug": "university-hub-notion-template",
+  "description": "The University Hub is a tool that helps students manage their university tasks and courses. It will help you stay ahead of your university work with a to-do list, calendar, and view of upcoming tasks.The University Hub also allows you to share your university work with others, so you collaborate and stay on top of your university work together. It is a simple and effective way to track and manage your university workload.Perfect for high school students or university students looking to find a s",
+  "price": 2,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Abdul Rafay",
+    "url": "https://abdulrafay.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/agrwke",
+  "affiliateUrl": "https://gumroad.com/a/962870099/agrwke",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 12,
+  "ratingCount": 12,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Overdue, Today and Weekly View; Assignment/Exams Tracker; Course Home; Weekly Course Schedule; Masterlist of All Assignments; Overview Calendar",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.647Z",
+  "lastUpdated": "2026-01-12T20:47:12.647Z"
+}

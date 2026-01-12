@@ -1,0 +1,30 @@
+{
+  "id": "Eve.",
+  "name": "Eve.",
+  "slug": "eve",
+  "description": "Remember Everything you consume.Do you struggle to remember everything you consume, from books to podcasts and articles? Are your notes and bookmarks scattered, making it hard to recall important insights? Enter Eve – a Notion template that centralises, organises, and reflects on all the knowledge you gain. With AI-generated learnings, quotes, and action points, Eve helps you make the most of the content you consume. Regularly scheduled reviews keep your memory fresh, and track your progress ove",
+  "price": 15,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "NotesbyHugh.",
+    "url": "https://notesbyhugh.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kmmrw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kmmrw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Use the built in templates to save content; Use built-in AI prompts to generate reflections, best quotes, actions, summarise learnings and recommend similar based content.; Built in spaced repetition functions to tell you when to review the content; Automatic feature to tell you how much content you've consumed each year. Track it across years, months and weeks.; Eve - a simple version for Notion beginners; Eve + - an advanced version for those familiar with Notion's features; Sure does! Just hit duplicate and you're good to go!; Yes - all updates are free and included! There is a Changelog page included in the template that will document any updates. I'll be sure to let you know of any updates too.; The template includes a page dedicated to setup that explains (with walkthrough videos) how to get the most value from the template.; No. This is for individual license only. Looking to purchase for a team or a large number of people? Send me a message and I can offer a discount bulk bundle.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.543Z",
+  "lastUpdated": "2026-01-12T20:47:12.543Z"
+}

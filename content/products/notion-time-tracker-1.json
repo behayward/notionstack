@@ -1,0 +1,30 @@
+{
+  "id": "Notion Time Tracker",
+  "name": "Notion Time Tracker",
+  "slug": "notion-time-tracker-1",
+  "description": "This is not a disposable template.This is an integrated, everlasting system.To all the MFM fans out there, remember this?Well, we designed a system that allows you to track every minute of your time &amp; display the results in an elegant Notion dashboard. After building the Google Calendar to Notion 2-way sync automation, you'll be able to see the exact repartition of your time between Work, Life, Relationships &amp; Sleep (categories can be added &amp; modified).On top of that, you also have t",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Templates For Notion",
+    "url": "https://ramesquinerie.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/822660307/udszps",
+  "affiliateUrl": "https://gumroad.com/a/822660307/udszps",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "2-way sync automation between Google Calendar & Notion (Instructions)Get all your Google Calendar events into NotionPush events from Notion to Google CalendarUpdate events & automatic sync; Get all your Google Calendar events into Notion; Push events from Notion to Google Calendar; Update events & automatic sync; Automatic time tracking & repartition system; Habits, Mood, & Sleeping scoring system",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.476Z",
+  "lastUpdated": "2026-01-12T20:47:13.476Z"
+}

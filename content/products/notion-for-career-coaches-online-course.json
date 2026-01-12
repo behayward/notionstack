@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Career Coaches: Online Course",
+  "name": "Notion for Career Coaches: Online Course",
+  "slug": "notion-for-career-coaches-online-course",
+  "description": "Unlock the true potential of Notion for Career Coaches!This course is designed for those who already have a basic understanding of Notion but are eager to elevate their skills to a whole new level. Learn how to create a fully functional Notion dashboard tailored specifically for your coaching practice. By the end of this course, you will have the tools and knowledge to streamline your operations, enhance client management, and boost your productivity through advanced Notion features.Who is it Fo",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/mmbpd",
+  "affiliateUrl": "https://gumroad.com/a/145902419/mmbpd",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Career Coaches seeking to enhance their productivity.; - Professionals looking to streamline client management.; - Individuals wanting to master advanced Notion functionalities.; Basic understanding of Notion's interface; - Familiarity with database creation in Notion; - Basic knowledge of formulas in Notion; Navigating the Notion Universe; 2. Crafting Your Coaching Dashboard; 3. Mastering Databases and Relationships; 4. Formulas Unleashed: Beyond Basics",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.380Z",
+  "lastUpdated": "2026-01-12T20:47:13.380Z"
+}

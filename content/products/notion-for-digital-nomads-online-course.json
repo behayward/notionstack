@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Digital Nomads: Online Course",
+  "name": "Notion for Digital Nomads: Online Course",
+  "slug": "notion-for-digital-nomads-online-course",
+  "description": "Master Notion for Digital Nomads and Transform Your Workflow!Unlock the full potential of Notion as a powerful organizational tool tailored for digital nomads. This course will guide you through the intricacies of Notion, helping you transform an empty page into a fully functional dashboard that streamlines your professional tasks and daily operations. By the end of this course, you will not only master advanced features but also integrate them into your unique workflow, enhancing your productiv",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/meeyr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/meeyr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Digital nomads seeking efficient task management.; - Freelancers looking to enhance productivity.; - Remote workers wanting to streamline their workflows.; Basic understanding of Notion's interface; - Familiarity with task management concepts; - Basic knowledge of databases and data flow; Navigating the Notion Universe; 2. Crafting Your Database Masterpiece; 3. Harnessing the Power of Filters and Views; 4. Formulas: The Secret Sauce of Notion",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.386Z",
+  "lastUpdated": "2026-01-12T20:47:13.386Z"
+}

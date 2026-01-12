@@ -1,0 +1,30 @@
+{
+  "id": "100 Days Of Code Journal Dashboard",
+  "name": "100 Days Of Code Journal Dashboard",
+  "slug": "100-days-of-code-journal-dashboard",
+  "description": "Boost Your Coding Skills with \"The 100 Days Of Code Journal\"Are you considering doing the #100DaysOfCode challenge? I designed this vibrant Notion dashboard to help you stay consistent with the challenge. It's a space to journal your progress, set a clear 100-day goal and reflect on your daily achievements all in one place.You will love this dashboard if: You are ready to commit to coding for at least an hour every day You want a structured way to journal your learning with meaningful journal pr",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Tech By Toowee",
+    "url": "https://techbytoowee.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jdcnl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jdcnl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 79,
+  "ratingCount": 79,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "You are ready to commit to coding for at least an hour every day; You want a structured way to journal your learning with meaningful journal prompts",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.079Z",
+  "lastUpdated": "2026-01-12T20:47:13.079Z"
+}

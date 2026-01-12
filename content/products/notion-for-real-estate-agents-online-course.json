@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Real Estate Agents: Online Course",
+  "name": "Notion for Real Estate Agents: Online Course",
+  "slug": "notion-for-real-estate-agents-online-course",
+  "description": "Unlock the Power of Notion for Real Estate Agents!This immersive course guides you from a basic understanding to a fully functional dashboard that streamlines your daily operations and enhances productivity. Prepare to dive deep into advanced features, integrations, and data management techniques that will transform how you manage your real estate tasks. Get ready to revolutionize your workflow!Who is it For?This course is tailor-made for intermediate real estate agents who have a basic understa",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/fluzyg",
+  "affiliateUrl": "https://gumroad.com/a/145902419/fluzyg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "- The Foundation: Setting Up Your Notion Workspace; - Advanced Database Management: The Heart of Your Dashboard; - Mastering Notion Formulas: Automate Your Workflow; - Integrating Notion with Other Tools: Supercharge Your Efficiency; - Creating Elegant Data Flows: Organize and Access Information Seamlessly; - Final Touches: Polishing Your Notion Dashboard for Real Estate Success; Quizzes: Quizzes will be integrated at the end of each module to reinforce your understanding and application of the concepts covered.; -Assignments: Hands-on challenges will propel your growth, including creating your own Notion dashboard tailored for real estate operations and building a comprehensive client database.; -Practical Project: The practical project involves finalizing your Notion dashboard and preparing a presentation for your peers.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.343Z",
+  "lastUpdated": "2026-01-12T20:47:13.343Z"
+}

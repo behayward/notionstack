@@ -1,0 +1,30 @@
+{
+  "id": "Notion Daily Todo List",
+  "name": "Notion Daily Todo List",
+  "slug": "notion-daily-todo-list",
+  "description": "A minimalistic template to help set goals for the day! Lets you create tasks, pick which tasks to focus on today, and drag and drop to rearrange tasks!To copy and modify this template, you will first need to set up an account on Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "goals",
+  "creator": {
+    "name": "Mochi Productions",
+    "url": "https://mochiproductions.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hblgw",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hblgw",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 24,
+  "ratingCount": 24,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.993Z",
+  "lastUpdated": "2026-01-12T20:47:12.993Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Started Pack",
+  "name": "Notion Started Pack",
+  "slug": "notion-started-pack",
+  "description": "This is a suite of Notion tools to help you with your productivity and task management.Enhance your life and get more things done using these tools. Here you'll get:✅ Task Manager that will help you create and manage all your tasks based on the Eisenhower Matrix system. You will be able to group your tasks based on Importance and Urgency. Also, each and every one of your tasks is connected to your goals so with each task that you get done, you will get closer to your goal.🎯 Goal Setting System i",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "productivity",
+  "creator": {
+    "name": "Alex",
+    "url": "https://krsta.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/rdewi",
+  "affiliateUrl": "https://gumroad.com/a/962870099/rdewi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.576Z",
+  "lastUpdated": "2026-01-12T20:47:12.576Z"
+}

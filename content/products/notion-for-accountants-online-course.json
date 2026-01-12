@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Accountants: Online Course",
+  "name": "Notion for Accountants: Online Course",
+  "slug": "notion-for-accountants-online-course",
+  "description": "Transform Your Accounting Workflow with Notion!Unlock the full potential of Notion tailored specifically for accountants. This course is designed to take you from a basic understanding to a powerful, fully functional setup that enhances your productivity and efficiency in managing accounting tasks. Dive deep into advanced database structures, automation, and integration techniques that will revolutionize the way you handle your work. Are you ready to transform your accounting practices?Who is it",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/ecjtb",
+  "affiliateUrl": "https://gumroad.com/a/145902419/ecjtb",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate; - Accountants looking to streamline their workflow; - Financial analysts wanting better data management; - Bookkeepers seeking advanced Notion techniques; Basic knowledge of Notion; - Familiarity with accounting concepts; - Basic understanding of databases; - Willingness to learn advanced techniques; - Access to Notion for hands-on practice",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.342Z",
+  "lastUpdated": "2026-01-12T20:47:13.342Z"
+}

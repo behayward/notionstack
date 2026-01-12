@@ -1,0 +1,30 @@
+{
+  "id": "Notion Tasks Tracker",
+  "name": "Notion Tasks Tracker",
+  "slug": "notion-tasks-tracker",
+  "description": "The ultimate dashboard to track all your tasks and complete them on timeDo you manage a lot of tasks regularly but fail to keep a track of all of them effectively?Well, here's something you have been looking for all along.This is a Notion solution that makes it easy to manage all your task-related commitments in one place.Why Notion?The notion is available on every platform, with customizable layouts and a wide range of components and views including board view, gallery view, table view, and mor",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/yllov",
+  "affiliateUrl": "https://gumroad.com/a/402782931/yllov",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": 102,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Task description,; Task priority (High, Medium, or Low); Task scheduled end date,; Category of tasks (such as Family, Work, Studies etc),; Task Efficiency (in %); Get a timeline of all the tasks for the period set to any date along with task status and priority.; Overall categories of the task and the total tasks allotted for each.",
+  "assessmentScore": 100,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.690Z",
+  "lastUpdated": "2026-01-12T20:47:13.690Z"
+}

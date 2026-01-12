@@ -1,0 +1,30 @@
+{
+  "id": "Notion-Fortgeschrittenen Tutorial",
+  "name": "Notion-Fortgeschrittenen Tutorial",
+  "slug": "notion-fortgeschrittenen-tutorial",
+  "description": "Dein Fortgeschrittenen-Tutorial für NotionEin Schritt-für-Schritt Lernmodul, um tiefer in Notion einzusteigen und Notion zu lernen.",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "hr",
+  "creator": {
+    "name": "Christoph K",
+    "url": "https://schulgelaber.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nzesp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nzesp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.686Z",
+  "lastUpdated": "2026-01-12T20:47:12.686Z"
+}

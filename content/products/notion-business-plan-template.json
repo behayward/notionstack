@@ -1,0 +1,30 @@
+{
+  "id": "Notion Business Plan Template",
+  "name": "Notion Business Plan Template",
+  "slug": "notion-business-plan-template",
+  "description": "This is a user-friendly business planner template that helps outline a company's goals, strategies, and anticipated outcomes, serving as a roadmap for success and a guide for potential investors.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automati",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/nposi",
+  "affiliateUrl": "https://gumroad.com/a/402782931/nposi",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Crafted to guide you from inception to growth in entrepreneurial journey.; Review your business plan and track your progress in one dashboard.; Available for MacOS, Windows OS, iOS and Android devices.",
+  "assessmentScore": 70,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.727Z",
+  "lastUpdated": "2026-01-12T20:47:13.727Z"
+}

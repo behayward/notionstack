@@ -1,0 +1,30 @@
+{
+  "id": "AI-Content Assistant",
+  "name": "AI-Content Assistant",
+  "slug": "ai-content-assistant",
+  "description": "Introducing the AI Content Assistant, your ultimate content creation companion in Notion.The AI Content Assistant is not just a tool, it's your personal content creation powerhouse. Here's what it can do for you:Idea Expansion: Takes your initial idea and expands it into a comprehensive concept, ready for content creation.Subtopic Ideas: Generates relevant subtopics to enrich your content and provide a well-rounded perspective on your idea.Emotion: Identifies the emotion that best aligns with yo",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Hunter Bohm",
+    "url": "https://thehunterbohm.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tbnzs",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tbnzs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 39,
+  "ratingCount": 39,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.693Z",
+  "lastUpdated": "2026-01-12T20:47:12.693Z"
+}

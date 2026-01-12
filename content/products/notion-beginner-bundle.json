@@ -1,0 +1,35 @@
+{
+  "id": "Notion Beginner Manual",
+  "name": "Notion Beginner Manual",
+  "slug": "notion-beginner-bundle",
+  "description": "Learn how to use and understand NotionA step-by-step manual to help you go from beginner level to intermediate level in using and understand Notion.Who am I?I'm an Official Notion Ambassador and I've built over 50+ Notion workspaces for clients, customers and myself. I'm an expert in using different Notion blocks and databases and now I'm teaching you to do the same.Why did I create this manual?Notion is the future of digital productivity for both personal and business use. I want to help you be",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Pascio",
+    "url": "https://pascio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tityry",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tityry",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 218,
+  "ratingCount": 218,
+  "salesCount": null,
+  "tags": [
+    "Books",
+    "Goals",
+    "Journal",
+    "Tasks"
+  ],
+  "useCases": [],
+  "features": "I don't know where to start learning Notion; I'm unsure about what to use Notion for; I'm overwhelmed with all the options; I don't know what the different things do; I don't understand databases and complicated features; Lesson 1: Introduction; Lesson 2: Getting started with Notion; Lesson 3: Basic components of Notion; Lesson 4: Organizing your workspace; Lesson 5: Collaborating with others",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "April 10, 2023 11:32 AM",
+  "lastUpdated": "2026-01-12T20:47:12.509Z"
+}

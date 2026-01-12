@@ -1,0 +1,30 @@
+{
+  "id": "Post-its - Notas personalizadas",
+  "name": "Post-its - Notas personalizadas",
+  "slug": "post-its-notas-personalizadas",
+  "description": "Esse é um recurso básico para você personalizar de acordo com a sua necessidade.A partir do botão de template, você cria uma nova nota com um click!Algumas ideias para você usar os \"post-its\" na sua área de trabalho do Notion:🔴 Registrar ideias, dicas, links, eventos e lembretes com destaques personalizados;🟠 Configurar uma cor ou ícone para cada categoria de interesse ou objetivo (por exemplo: por disciplinas escolares ou área de atuação);🟡 Criar listas de compras ou de tarefas repetitivas rapi",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Arlaine Braga",
+    "url": "https://arlaine.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/lgbeh",
+  "affiliateUrl": "https://gumroad.com/a/962870099/lgbeh",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 29,
+  "ratingCount": 29,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.819Z",
+  "lastUpdated": "2026-01-12T20:47:12.819Z"
+}

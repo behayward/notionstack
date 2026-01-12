@@ -1,0 +1,30 @@
+{
+  "id": "Second Brain Automation Bundle: n8n + Telegram + Notion",
+  "name": "Second Brain Automation Bundle: n8n + Telegram + Notion",
+  "slug": "second-brain-automation-bundle-n8n-telegram-notion",
+  "description": "Build your own AI-powered Second Brain with zero friction. Inside this pack you’ll find: n8n JSON Workflows Master Router: ingests Telegram voice-notes, texts, forwards, images Classifier &amp; Saver: uses GPT-3.5 to tag, summarize and send items into Notion Notion Template Databases: Areas, Projects, Tasks, Resources, Notes Quick Capture buttons, Inbox view, starter dashboards Setup Guide Step-by-step import instructions (n8n Cloud or self-hosted) Placeholder content to kickstart your workflow ",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "CyberFox",
+    "url": "https://cyberfox.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/zjqcv",
+  "affiliateUrl": "https://gumroad.com/a/962870099/zjqcv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "n8n JSON WorkflowsMaster Router: ingests Telegram voice-notes, texts, forwards, imagesClassifier & Saver: uses GPT-3.5 to tag, summarize and send items into Notion; Master Router: ingests Telegram voice-notes, texts, forwards, images; Classifier & Saver: uses GPT-3.5 to tag, summarize and send items into Notion; Notion TemplateDatabases: Areas, Projects, Tasks, Resources, NotesQuick Capture buttons, Inbox view, starter dashboards; Databases: Areas, Projects, Tasks, Resources, Notes; Quick Capture buttons, Inbox view, starter dashboards; Setup GuideStep-by-step import instructions (n8n Cloud or self-hosted)Placeholder content to kickstart your workflowLinks to extended templates and community catalogs; Step-by-step import instructions (n8n Cloud or self-hosted); Placeholder content to kickstart your workflow; Links to extended templates and community catalogs",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.286Z",
+  "lastUpdated": "2026-01-12T20:47:13.286Z"
+}

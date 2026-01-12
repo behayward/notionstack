@@ -1,0 +1,30 @@
+{
+  "id": "Recruitment Expense Tracker",
+  "name": "Recruitment Expense Tracker",
+  "slug": "recruitment-expense-tracker",
+  "description": "Ideal for those who manage a business, this tracker helps you keep tabs on recruitment-related expenses such as advertising, agency, screening and much more.Are you looking for a tracker to keep track of expenses associated with your business recruitment and manage your finances effectively?This tracker is perfect to set expense limits, plan business recruitment strategies in advance, and make wise financial decisions for each business recruitment expenses within the projected expenses.Are you l",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/nxhue",
+  "affiliateUrl": "https://gumroad.com/a/402782931/nxhue",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set upRecruitmentExpense Categories,Add Budgetfor Each, Make Business Decisions and Spend wisely each time.; EnterExpense Amountfor each category of recruitment expenses assessing the projected amount correctly to stay within budget.; Get a complete detailed overview of all added sources of expenses along with the total expenses incurred and projected expenses for each.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.743Z",
+  "lastUpdated": "2026-01-12T20:47:13.743Z"
+}

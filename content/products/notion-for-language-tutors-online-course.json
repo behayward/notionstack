@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Language Tutors: Online Course",
+  "name": "Notion for Language Tutors: Online Course",
+  "slug": "notion-for-language-tutors-online-course",
+  "description": "Transform Your Language Tutoring with Notion!Unlock the full potential of Notion and transform your language tutoring practice! This dynamic course is designed for intermediate users eager to streamline their operations and enhance efficiency using Notion's powerful features. By the end of this journey, you will have crafted a fully functional Notion setup tailored specifically for language tutoring, allowing you to manage tasks, track student progress, and communicate seamlessly with your learn",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/kbjvt",
+  "affiliateUrl": "https://gumroad.com/a/145902419/kbjvt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic knowledge of Notion; - Familiarity with language tutoring; - Understanding of database concepts; 1. Diving Deeper: Advanced Notion Features; 2. Crafting Your Dashboard: A Practical Approach; 3. Mastering Notion Formulas: Automate Your Workflow; 4. Integrating Notion with Other Platforms; 5. Building Elegant Data Structures; 6. Finalizing Your Notion Setup: A Complete System",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.360Z",
+  "lastUpdated": "2026-01-12T20:47:13.360Z"
+}

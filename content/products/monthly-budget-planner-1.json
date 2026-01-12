@@ -1,0 +1,30 @@
+{
+  "id": "Monthly Budget Planner",
+  "name": "Monthly Budget Planner",
+  "slug": "monthly-budget-planner-1",
+  "description": "Notion Monthly Budget PlannerStreamline your finances with a versatile and intuitive tool, seamlessly integrating budgeting into your Notion workspace.Here's a quick walkthrough of the template 👇:The Notion Monthly Budget Planner offers an easy way for you to stay on top of your money.Inside you'll find a whole operating system that will help you to track your daily, monthly and yearly expenses and stay within budget (also create easy and intuitive expenses overview in one glance view).You will ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/fxfcq",
+  "affiliateUrl": "https://gumroad.com/a/402782931/fxfcq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Easy to create transactions to track daily expenses in a simple and intuitive interface.; Set your expense categories, assign budget for each, and keep expenses in check under one dashboard.; Provides Expenses Overview, Monthly Overview, Yearly Overview and Summary of all expenses.; Available for MacOS, Windows OS, iOS and Android devices.; Complete finances overview dashboard; Monthly Budget Planner; Complete Interactive Guide; Monthly Budget Planner ($9 Value)",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.731Z",
+  "lastUpdated": "2026-01-12T20:47:13.731Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "📝 Personal Project Management Exercise",
+  "name": "📝 Personal Project Management Exercise",
+  "slug": "personal-project-management-exercise",
+  "description": "This is a template that is used for our Manifest Workshop on Personal Project Management.If you're new to Notion, or are trying to manage projects more intentionally, this template will walk through going from listing out active projects, to creating Projects and Tasks Databases that can form the basis for your Project Management System.For more context, check out our April Live Session!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "project-management",
+  "creator": {
+    "name": "Workcraft Labs",
+    "url": "https://workcraftlabs.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/myDnb",
+  "affiliateUrl": "https://gumroad.com/a/962870099/myDnb",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 8,
+  "ratingCount": 8,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.613Z",
+  "lastUpdated": "2026-01-12T20:47:12.613Z"
+}

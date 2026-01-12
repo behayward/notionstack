@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Marketing Professionals: Online Course",
+  "name": "Notion for Marketing Professionals: Online Course",
+  "slug": "notion-for-marketing-professionals-online-course",
+  "description": "Transform Your Marketing Workflow with Notion!Unlock the full potential of Notion tailored specifically for marketing professionals! This course takes you beyond the basics, guiding you through advanced features, integrations, and automation techniques that will transform your marketing workflow. By the end, you will have a fully functional Notion setup designed to enhance your productivity and project management skills. Dive into the world of databases, relations, and API integrations, and watc",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/xupoj",
+  "affiliateUrl": "https://gumroad.com/a/145902419/xupoj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "1. From Basics to Brilliance: Advanced Notion Features; 2. Crafting Your Marketing Dashboard: A Step-by-Step Guide; 3. Integrate and Automate: Connecting Notion with Other Tools; 4. Formula Mastery: Enhancing Your Data with Notion Formulas; 5. API Integration: Supercharge Your Notion Setup with Python; 6. Final Touches: Polishing Your Notion for Marketing Success; -Quizzes:Quizzes are included to reinforce your understanding of advanced Notion features and ensure you can apply what you've learned effectively.; -Assignments:Assignments include practical tasks like creating your own Notion dashboard, integrating Notion with other tools, and writing effective formulas tailored for marketing.; -Practical Project:Your final project will be to create a comprehensive Notion dashboard that showcases your understanding and skills acquired throughout the course.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.348Z",
+  "lastUpdated": "2026-01-12T20:47:13.348Z"
+}

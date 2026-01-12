@@ -1,0 +1,30 @@
+{
+  "id": "Marketing Expenses Tracker",
+  "name": "Marketing Expenses Tracker",
+  "slug": "marketing-expenses-tracker",
+  "description": "This template is suitable for recording and analyzing expenses related to marketing activities, making it easier for businesses to manage their marketing budgets.Key Features: Easy to add marketing expenses categories such as Advertising, Personnel or Research Expenses. Set Budgeted Expenses for each marketing expense and spend for the marketing expenses within the budget. Available for MacOS, Windows OS, iOS and Android devices. Any questions?Shoot us direct mail at notionformyuse@gmail.comAre ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/lwvoj",
+  "affiliateUrl": "https://gumroad.com/a/402782931/lwvoj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Easy to add marketing expenses categories such asAdvertising,PersonnelorResearch Expenses.; SetBudgeted Expensesfor eachmarketing expenseand spend for the marketing expenseswithinthebudget.; Available for MacOS, Windows OS, iOS and Android devices.; Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.724Z",
+  "lastUpdated": "2026-01-12T20:47:13.724Z"
+}

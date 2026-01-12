@@ -1,0 +1,30 @@
+{
+  "id": "Modèle Notion - Réunions & Notes avec IA",
+  "name": "Modèle Notion - Réunions & Notes avec IA",
+  "slug": "mod-le-notion-r-unions-notes-avec-ia",
+  "description": "Ce modèle de prise de notes, alimenté par l'IA de Notion, est un outil puissant pour organiser vos réunions et notes 📝 Après chaque réunion, le système génère un résumé ainsi qu'une liste de tâches basées sur le contenu. De plus, des archives sont mises à disposition pour vous permettre de ranger facilement les éléments qui ne sont plus d'actualité 📁Automatisation de la génération de résumés et de listes de tâches post-réunionUne organisation simplifiée grâce à un système d'archivage intégréUn g",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Lou Attal",
+    "url": "https://louattal.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hcwbo",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hcwbo",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2,
+  "ratingCount": 2,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Automatisation de la génération de résumés et de listes de tâches post-réunion; Une organisation simplifiée grâce à un système d'archivage intégré; Un gain de temps et d'efficacité en évitant la relecture intégrale de chaque note de réunion",
+  "assessmentScore": 52,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.083Z",
+  "lastUpdated": "2026-01-12T20:47:13.083Z"
+}

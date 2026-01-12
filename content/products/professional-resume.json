@@ -1,0 +1,30 @@
+{
+  "id": "Professional Resume",
+  "name": "Professional Resume",
+  "slug": "professional-resume",
+  "description": "Create a professional resume in minutes with Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "resume",
+  "creator": {
+    "name": "Easlo Academy",
+    "url": "https://easloacademy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/mckym",
+  "affiliateUrl": "https://gumroad.com/a/962870099/mckym",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 400,
+  "ratingCount": 400,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.568Z",
+  "lastUpdated": "2026-01-12T20:47:12.568Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Freelance Dashboard",
+  "name": "Freelance Dashboard",
+  "slug": "freelance-dashboard",
+  "description": "Supercharge your business with this all-in-one system to manage your clients, projects, finances and more.Turns Notion into the only tool you need to manage your entire business in one place.⏳ Set-up in 5 minutes Designed to help you:→ Manage your entire business in one place, rather than scattered over several apps.→ Create a seamless process that will impress the hell out of your clients→ Cut hours from your day and make all the admin work that comes with running a business effortless.Tour The",
+  "price": 97,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Anna Hickman",
+    "url": "https://cedabranding.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/itwqrg",
+  "affiliateUrl": "https://gumroad.com/a/962870099/itwqrg",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 67,
+  "ratingCount": 67,
+  "salesCount": 218,
+  "tags": [],
+  "useCases": [],
+  "features": "Client Management; Project Management; Task Management; Meeting Notes; Client Portal; Invoice Tracker; Finance Tracker; Testimonials; Email Templates; Resource Management",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.037Z",
+  "lastUpdated": "2026-01-12T20:47:13.037Z"
+}

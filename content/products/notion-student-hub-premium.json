@@ -1,0 +1,30 @@
+{
+  "id": "Notion Student Hub Premium",
+  "name": "Notion Student Hub Premium",
+  "slug": "notion-student-hub-premium",
+  "description": "Hello, Welcome to the Student Hub Premium. After the success of the student hub (free version) I decided to build a premium hub that is:Beautifully designedEasy to use and to customizeHas way more feature and resourcesHere's what's inside:Classes Hub: This hub integrates the Cornell Note System, creating a dedicated space for each class's materials. It also contains more than 50 resources of websites and learning tools.Food Hub: This hub features a recipe book, a shopping list, and even a cookin",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Tlemcani Hamza",
+    "url": "https://tlemchamza.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hqnym",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hqnym",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 38,
+  "ratingCount": 38,
+  "salesCount": 313,
+  "tags": [],
+  "useCases": [],
+  "features": "Beautifully designed; Easy to use and to customize; Has way more feature and resources; Classes Hub:This hub integrates the Cornell Note System, creating a dedicated space for each class's materials. It also contains more than 50 resources of websites and learning tools.; Food Hub:This hub features a recipe book, a shopping list, and even a cooking playlist. It's designed to help you document the easiest recipes for your go-to student life.",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.688Z",
+  "lastUpdated": "2026-01-12T20:47:12.688Z"
+}

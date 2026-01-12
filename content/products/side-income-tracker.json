@@ -1,0 +1,30 @@
+{
+  "id": "Side Income Tracker",
+  "name": "Side Income Tracker",
+  "slug": "side-income-tracker",
+  "description": "If you have multiple sources of side income or gig work, this tracker helps you monitor your earnings from various sources, ensuring you're maximizing your potential income.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion Database and a Google Doc!No Coding Required, No Technical Skills Needed, Just One-Click Automation!It requires 2 thing",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/mxocyx",
+  "affiliateUrl": "https://gumroad.com/a/402782931/mxocyx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; View all your side incomes in one glance.; Add your own category of side incomes such asServices,InvestmentsandOther Sources of Incomeetc.; Assess your quarterly side incomes and find performance over time.; Track your performance with overall side incomes achieved over period of time.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.711Z",
+  "lastUpdated": "2026-01-12T20:47:13.711Z"
+}

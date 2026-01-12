@@ -1,0 +1,30 @@
+{
+  "id": "Task Manager",
+  "name": "Task Manager",
+  "slug": "task-manager-1",
+  "description": "This Notion template allows you to track your tasks and time in one place. With 12 unique database properties designed for flexible customization, the 10 linked database views are grouped strategically by a set of five Notion pages. 📰 Template Pages ▶ New Entries▶ Statuses▶ Timelines▶ Client &amp; Work ▶ Connecting Entries📌 Template Features✔ 1 Database✔ 1 Instructions / Overview Page✔ 5 Pages To Group Database Views✔ 11 Linked Database Views📌 Template Pages📰 The new entries page is a place wher",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "crm",
+  "creator": {
+    "name": "Notion Workflow Templates & Consulting",
+    "url": "https://notionworkflow.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ugisf",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ugisf",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 22,
+  "ratingCount": 22,
+  "salesCount": 217,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.585Z",
+  "lastUpdated": "2026-01-12T20:47:12.585Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Student Notion Dashboard",
+  "name": "Student Notion Dashboard",
+  "slug": "student-notion-dashboard",
+  "description": "A dummy proof system for a busy student looking to manage their assignments, tasks, and notes.Say no more to the stress, missing deadlines, and disorganized schoolwork, and say hello to a planner that keeps you on track, on time, and top of your game.This system integrating various productivity systems like GTD, Timeblocking, and PARA, is designed to solve the REAL problems that students face every day. From keeping track of deadlines to staying focused during study sessions, this planner has go",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Notion Freak",
+    "url": "https://notionfreak.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ccmve",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ccmve",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 26,
+  "ratingCount": 26,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "How do I use it?As long as you have a Notion account, all you have to do is download the page and hit duplicate at the top right of the template.; I don't have a paid account, does this still work?Yes! It works the same",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.637Z",
+  "lastUpdated": "2026-01-12T20:47:12.637Z"
+}

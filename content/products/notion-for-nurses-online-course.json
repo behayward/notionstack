@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Nurses: Online Course",
+  "name": "Notion for Nurses: Online Course",
+  "slug": "notion-for-nurses-online-course",
+  "description": "Unlock the Power of Notion for Nurses!This course is designed for nurses who have a foundational knowledge of Notion and are ready to dive deep into advanced features that will transform their daily workflows. By the end of this course, you'll not only master the intricacies of Notion but also create a personalized dashboard that enhances your productivity and organization in nursing tasks.Who is it For?Skill Level: IntermediateThis course is aimed at intermediate nurses who have some experience",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/nookz",
+  "affiliateUrl": "https://gumroad.com/a/145902419/nookz",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Nurses looking to improve task management; - Healthcare administrators seeking efficient workflows; - IT support professionals involved in tool integration; Basic understanding of Notion; - Familiarity with nursing tasks and workflows; - Basic knowledge of database concepts; 1. Diving Deeper: Advanced Notion Features Unleashed; 2. Crafting Your Nursing Dashboard; 3. Data Management Mastery: Databases and Views",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.354Z",
+  "lastUpdated": "2026-01-12T20:47:13.354Z"
+}

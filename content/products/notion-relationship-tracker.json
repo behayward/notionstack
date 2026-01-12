@@ -1,0 +1,30 @@
+{
+  "id": "Notion Relationship Tracker",
+  "name": "Notion Relationship Tracker",
+  "slug": "notion-relationship-tracker",
+  "description": "The ultimate dashboard to track all your relationship commitmentsDo you have a lot of events lined up this year with people connected in your life, but you don't know how to keep a track of all of them?Our Notion solution makes it easy to manage all your relationship commitments in one place.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, certificates, reports, letters etc?PDFOutput helps automate PDF generation for documents using Notion",
+  "price": 3,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/cvbxl",
+  "affiliateUrl": "https://gumroad.com/a/402782931/cvbxl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 5,
+  "ratingCount": 5,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Easy to add people's details onto the database and categorize them based on your relationship.; Get a timeline of all the events for the year set to any date in a calendar view.; Set the priority of an event to attend and fulfill your commitment based on your preference.; Track Daily, Weekly, Monthly, and Recent events.; Categorize your events based on relationship status with a person (such as Family, Friends, Colleagues, etc).; Check your overall performance of the events attended in respect to a person.",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.687Z",
+  "lastUpdated": "2026-01-12T20:47:13.687Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Mies - Minimal task manager",
+  "name": "Mies - Minimal task manager",
+  "slug": "mies-minimal-task-manager",
+  "description": "Do you need to organize your tasks efficiently?This task management notion template will help you create and organize tasks in a very efficient way. Designed to be flexible, fast and modifiable, it is perfect to use in your day to day life.Easily drag your incomplete tasks to the next day or to any other day of the week within the next 7 days. Or simply use the calendar view, where you can manage and drag all your tasks for the month and even those without due dates.What does it contain?Daily, t",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Jesus Vargas",
+    "url": "https://iamyisus.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/tplye",
+  "affiliateUrl": "https://gumroad.com/a/962870099/tplye",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": 180,
+  "tags": [],
+  "useCases": [],
+  "features": "Daily, tomorrow and weekly task manager; Overdue tasks view; Drag and drop tasks; Drop-down views Status Manager; Native notion icons; Dual mode black/white; Calendar overview; Minimalistic clock widget; Task organizer without dates; 2 Databases: Tasks and projects.",
+  "assessmentScore": 60,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.530Z",
+  "lastUpdated": "2026-01-12T20:47:12.530Z"
+}

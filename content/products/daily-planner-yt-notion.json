@@ -1,0 +1,30 @@
+{
+  "id": "Daily Planner - YT Notion",
+  "name": "Daily Planner - YT Notion",
+  "slug": "daily-planner-yt-notion",
+  "description": "Daily planner to keep track of each of your days, with integrated routines, tasks, notes, watermark and meal planner.",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Jesus Vargas",
+    "url": "https://iamyisus.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kslqe",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kslqe",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 29,
+  "ratingCount": 29,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.934Z",
+  "lastUpdated": "2026-01-12T20:47:12.934Z"
+}

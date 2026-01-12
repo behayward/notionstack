@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Makeup Artists: Online Course",
+  "name": "Notion for Makeup Artists: Online Course",
+  "slug": "notion-for-makeup-artists-online-course",
+  "description": "Unlock the full potential of Notion for Makeup Artists!This course is designed specifically for makeup artists who want to streamline their workflow and enhance productivity. Dive deep into advanced features, create complex systems, and develop a personalized Notion dashboard that caters to your unique needs. By the end of this course, you'll transform Notion from a blank slate into your ultimate business management tool!Who is it ForThis course is tailored for makeup artists eager to enhance th",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/qupbt",
+  "affiliateUrl": "https://gumroad.com/a/145902419/qupbt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate; -Audience: Makeup Artists, Freelancers, Beauty Industry Professionals; Basic understanding of Notion's interface; - Familiarity with makeup artistry terminology; - Experience with task management tools; - Understanding of database concepts; - Basic Python knowledge (for API integration); 1. Navigating the Notion Universe: Beyond Basics; 2. Crafting Complex Database Relationships",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.366Z",
+  "lastUpdated": "2026-01-12T20:47:13.366Z"
+}

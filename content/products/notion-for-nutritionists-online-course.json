@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Nutritionists: Online Course",
+  "name": "Notion for Nutritionists: Online Course",
+  "slug": "notion-for-nutritionists-online-course",
+  "description": "Unlock the full potential of Notion in your nutrition practice!This course is designed specifically for nutritionists who want to optimize their workflow and enhance productivity. By the end of this immersive journey, you'll create a customized Notion setup tailored to your unique needs, transforming your professional tasks and daily operations into an organized, efficient powerhouse. Get ready to dive deep into Notion's advanced features and emerge with a fully functional dashboard that will re",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/nysgj",
+  "affiliateUrl": "https://gumroad.com/a/145902419/nysgj",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Basic understanding of Notion's interface; - Familiarity with nutritionist practices; - Basic knowledge of databases and data management; Getting Started with Notion: Intermediate Setup; 2. Building Your Nutrition Database; 3. Mastering Notion Formulas; 4. Integrating Notion with Other Tools; 5. Advanced Data Flows and Views; 6. Putting It All Together: Your Notion Dashboard; Develop a customized Notion dashboard specifically for nutritionists.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.377Z",
+  "lastUpdated": "2026-01-12T20:47:13.377Z"
+}

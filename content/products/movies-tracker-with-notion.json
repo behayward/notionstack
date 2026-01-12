@@ -1,0 +1,30 @@
+{
+  "id": "Movies Tracker with Notion",
+  "name": "Movies Tracker with Notion",
+  "slug": "movies-tracker-with-notion",
+  "description": "Are you a movie lover who struggles to keep track of all the movies you want to watch or have already seen? Do you find yourself constantly forgetting the titles of that great movie you heard about?Well, we have the perfect solution for you! Our \"Movies to Watch\" template is a comprehensive tool that allows you to keep all your movie-related information in one place.Here's how to use the template:Start by adding the title of the movie to the list. You can also add the release year, director, and",
+  "price": 3,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "template",
+  "creator": {
+    "name": "El Vairus Notion Templates",
+    "url": "https://vairusstrategy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/hzakl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/hzakl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 28,
+  "ratingCount": 28,
+  "salesCount": 243,
+  "tags": [],
+  "useCases": [],
+  "features": "Start by adding the title of the movie to the list. You can also add the release year, director, and genre for additional information.; Indicate whether you've seen the movie already or not.; Add your own rating or review of the movie to keep track of your opinions.; Sort the list by release year, genre, or rating to find the perfect movie for your mood.",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.828Z",
+  "lastUpdated": "2026-01-12T20:47:12.828Z"
+}

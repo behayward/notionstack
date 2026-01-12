@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Dentists: Online Course",
+  "name": "Notion for Dentists: Online Course",
+  "slug": "notion-for-dentists-online-course",
+  "description": "Transform Your Dental Practice with Notion!Unlock the full potential of Notion tailored specifically for dental practices! This course is designed to help dentists and their teams transform their workflow and operations, moving from basic usage to a comprehensive, elegant setup that enhances productivity and organization. Dive into advanced features, learn to integrate with existing systems, and create a customized dashboard that meets your unique needs.Who is it For?Skill Level: Intermediate - ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/zagxr",
+  "affiliateUrl": "https://gumroad.com/a/145902419/zagxr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Dentists looking to streamline operations with Notion; - Dental assistants aiming to enhance productivity; - Office managers seeking organized systems for practice management; Basic knowledge of Notion interface and features; - Familiarity with dental practice operations; - Basic understanding of databases and data structures; 1. Crafting Your Notion Foundation; 2. Building Databases for Dental Operations; 3. Streamlining Workflow with Filters and Views",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.356Z",
+  "lastUpdated": "2026-01-12T20:47:13.356Z"
+}

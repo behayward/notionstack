@@ -1,0 +1,30 @@
+{
+  "id": "Tool Subscription Tracker",
+  "name": "Tool Subscription Tracker",
+  "slug": "tool-subscription-tracker",
+  "description": "Ideal for those who are looking to track of their tool subscription expenses, this tracker helps you keep track of tools subscriptions, setting budget, assessing usage and much more.Are you looking for a tracker to keep track of tool subscription expenses?This tracker is perfect to add tools subscription expenses related details, define expenses, set consumption as well all under one glance.Are you looking to automate PDF generation for repetitive documents like invoices, agreements, contracts, ",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/cvpcny",
+  "affiliateUrl": "https://gumroad.com/a/402782931/cvpcny",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Set upcomprehensive managementof tools subscriptions expenses, including details, different categories, setting classifications, and much more.; Ensureproper tools subscriptions costs managementright from adding the tools subscription details, setting proper budgeting and assessing overall cost efficiency.; Get acomplete detailed overviewof all tools subscriptions made, their budget and other metrics.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.759Z",
+  "lastUpdated": "2026-01-12T20:47:13.759Z"
+}

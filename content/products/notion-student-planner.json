@@ -1,0 +1,30 @@
+{
+  "id": "Notion Student Planner",
+  "name": "Notion Student Planner",
+  "slug": "notion-student-planner",
+  "description": "Plan out your schedule, set your goals, and list down your to-dosView your weekly class scheduleSet goals for your new semesterKeep a list of your to-dos and assignments",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo Academy",
+    "url": "https://easloacademy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/eyuci",
+  "affiliateUrl": "https://gumroad.com/a/962870099/eyuci",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2554,
+  "ratingCount": 2554,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "View your weekly class schedule; Set goals for your new semester; Keep a list of your to-dos and assignments",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.545Z",
+  "lastUpdated": "2026-01-12T20:47:12.545Z"
+}

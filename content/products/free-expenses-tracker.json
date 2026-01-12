@@ -1,0 +1,30 @@
+{
+  "id": "Free Expenses Tracker",
+  "name": "Free Expenses Tracker",
+  "slug": "free-expenses-tracker",
+  "description": "Stay on top of your expenses, the easy way.A simple notion template to track your expenses, income and current balance.📑 STILL HAVE QUESTIONS?Drop a message at support@notionavenue.co📑 COMPATIBILITY: The template only works with Notion. It's optimized for use on laptops and desktops. It’s accessible with any device When accessed from smaller devices such as smartphones and tablets the template would appear different than the listing images. The functions remain consistent across all the devices.",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Notion Avenue",
+    "url": "https://notionavenue.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kqfic",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kqfic",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 6,
+  "ratingCount": 6,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.968Z",
+  "lastUpdated": "2026-01-12T20:47:12.968Z"
+}

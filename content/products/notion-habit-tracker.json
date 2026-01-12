@@ -1,0 +1,32 @@
+{
+  "id": "Habit Tracker",
+  "name": "Habit Tracker",
+  "slug": "notion-habit-tracker",
+  "description": "Track Your Daily Habits and Routines with NotionIt is the small and consistent habits that lead to significant results over time. This Notion template track your daily habits and routines, allowing you to monitor your progress and build positive habits. Let's work together towards achieving our goals!",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "planner",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/DEnNV",
+  "affiliateUrl": "https://gumroad.com/a/962870099/DEnNV",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 2594,
+  "ratingCount": 2594,
+  "salesCount": null,
+  "tags": [
+    "Habits"
+  ],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "April 10, 2023 10:50 AM",
+  "lastUpdated": "2026-01-12T20:47:12.504Z"
+}

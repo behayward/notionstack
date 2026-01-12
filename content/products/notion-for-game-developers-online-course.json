@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Game Developers: Online Course",
+  "name": "Notion for Game Developers: Online Course",
+  "slug": "notion-for-game-developers-online-course",
+  "description": "Unlock the Power of Notion for Game Developers!Dive into the immersive world of Notion tailored specifically for game developers! This course is designed to transform your basic understanding of Notion into a powerful organizational tool that streamlines your game development projects. By the end, you will have a fully functional Notion workspace that enhances your productivity and collaboration, enabling you to manage your projects with ease and efficiency.Who is it For?Skill LevelIntermediate ",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/rqmxv",
+  "affiliateUrl": "https://gumroad.com/a/145902419/rqmxv",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Solo developers; - Project managers; - Game design teams; Basic knowledge of Notion; - Familiarity with game development concepts; - Understanding of project management tools; Laying the Groundwork: Advanced Notion Features; 2. Crafting Your Game Development Database; 3. Mastering Notion Formulas; 4. Integrating Notion with Other Tools",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.369Z",
+  "lastUpdated": "2026-01-12T20:47:13.369Z"
+}

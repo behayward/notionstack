@@ -1,0 +1,30 @@
+{
+  "id": "Prompt Engineering 101 - Gamified ChatGPT Course",
+  "name": "Prompt Engineering 101 - Gamified ChatGPT Course",
+  "slug": "prompt-engineering-101-gamified-chatgpt-course",
+  "description": "Unleash the Power of Prompt Engineering: Master the Art of AI-Driven Conversations Today!Not another generic course or set of prompts.Welcome to Prompt Engineering 101, where you'll dive into the world of AI-driven conversations and learn the art of crafting prompts that captivate and inspire. Harness the full potential of AI models to generate personalized recommendations, compelling stories, and more. Elevate your AI interactions to new heights and create meaningful connections with users.Are ",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "TheVeller",
+    "url": "https://theveller.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/oqmcng",
+  "affiliateUrl": "https://gumroad.com/a/962870099/oqmcng",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 47,
+  "ratingCount": 47,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Lesson 1: Introduction to Prompt Engineering (70 prompts); Lesson 2: Advanced Prompt Engineering (70 prompts); Lesson 3: Evaluating and Refining Prompts (70 prompts); Lesson 4: Specialized Prompts(70 prompts); Lesson 5: Ethics and Society Concerning AI(70 prompts); Lesson 6: Capstone Project: Prompt Engineering(70 prompts); 50+ Prompt Engineering Definitions; Prompt Engineering Roadmap; 50+ Prompt Engineering Tips; Notion AI features",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.771Z",
+  "lastUpdated": "2026-01-12T20:47:12.771Z"
+}

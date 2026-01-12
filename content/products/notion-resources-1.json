@@ -1,0 +1,30 @@
+{
+  "id": "Notion Resources",
+  "name": "Notion Resources",
+  "slug": "notion-resources-1",
+  "description": "List of Notion resources including where to find templates, icons, widgets, and learn more about the platform! Additionally, I included some codes to help customize your Notion. I will try to be constantly updating this template as I find more resources!",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "template",
+  "creator": {
+    "name": "Sija",
+    "url": "https://ramblingsofa20.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/vgwhwc",
+  "affiliateUrl": "https://gumroad.com/a/962870099/vgwhwc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 14,
+  "ratingCount": 14,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.536Z",
+  "lastUpdated": "2026-01-12T20:47:12.536Z"
+}

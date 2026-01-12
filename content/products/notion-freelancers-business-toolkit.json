@@ -1,0 +1,30 @@
+{
+  "id": "Notion Freelancers Business Toolkit",
+  "name": "Notion Freelancers Business Toolkit",
+  "slug": "notion-freelancers-business-toolkit",
+  "description": "The only Notion Dashboard you will need to manage your Freelancing Business with ease!Do you feel overwhelmed juggling between multiple tools to manage your freelancing business while it seems stressful all the time ?This Notion template is all you need to manage all your finances, client management, invoicing, setting goals and meetings and much more in one place with a simple and easy to use interface as shown below.Are you looking to automate PDF generation for repetitive documents like invoi",
+  "price": 99,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/esgws",
+  "affiliateUrl": "https://gumroad.com/a/402782931/esgws",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Google Doc Template: A template file with placeholders in {{...}} format (e.g.,{{InvoiceNumber}},{{ClientName}}).; Notion Database: Acts as a database with matching headers likeClientName,InvoiceDatefor seamless placeholder mapping.; Complete Finance Tracking Solution (track income, expenses, debt payments, set budgeting, track investments and much more); Create Invoices and manage invoicing effortlessly; Easy Client Management System with drag and drop interface; Assign Projects for each Client and track progress; Set services to each client based on fixed rate or hourly rates; Create Resources for use in Business; Set Goals for your business and track their progress; Add Key Contact Details for use in Business",
+  "assessmentScore": 85,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.692Z",
+  "lastUpdated": "2026-01-12T20:47:13.692Z"
+}

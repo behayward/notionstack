@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Fitness Coaches: Online Course",
+  "name": "Notion for Fitness Coaches: Online Course",
+  "slug": "notion-for-fitness-coaches-online-course",
+  "description": "Transform Your Fitness Coaching with Notion!Unlock the potential of Notion to revolutionize your fitness coaching business! This course is designed for fitness coaches looking to enhance their operational efficiency and client management. Dive deep into the powerful features of Notion, from database creation to API integration, and emerge with a comprehensive workspace tailored specifically for your coaching needs.Who is it ForThis course is designed specifically for fitness coaches who are fami",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/elluq",
+  "affiliateUrl": "https://gumroad.com/a/145902419/elluq",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate fitness coaches looking to enhance their operational efficiency.; -Audience:Fitness Coaches, Personal Trainers, Health Enthusiasts.; Basic understanding of Notion; - Familiarity with fitness coaching concepts; - Basic knowledge of data management; - The Notion Landscape: Setting the Stage; - Crafting Your Coaching Dashboard; - Mastering Databases: The Heart of Notion; - Automating Your Workflow with Notion",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.345Z",
+  "lastUpdated": "2026-01-12T20:47:13.345Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Notion Creator Course",
+  "name": "Notion Creator Course",
+  "slug": "notion-creator-course-1",
+  "description": "Learn to Create and Monetize Notion TemplatesThis is the exact framework for how I went from being a novice in Notion to empowering over 250,000+ users worldwide with Notion templates. Who am I?Hello, I'm Easlo, a Notion Certified Ambassador. Over the past two years, I've devoted myself to developing a range of Notion templates. My collection of ready-made solutions has made a significant difference to over 250,000 users worldwide, encompassing students, freelancers, entrepreneurs, and startups.",
+  "price": 149,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Easlo",
+    "url": "https://easlo.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/unndvl",
+  "affiliateUrl": "https://gumroad.com/a/962870099/unndvl",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 40,
+  "ratingCount": 40,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "What is Notion?; What are Notion templates and why are they in demand?; Why Notion community matters?; Part 1: Learning Notion; Part 2: Making your first template; Part 3: Building & learning in public; Part 4: Publish your template; Part 5: Launching your template; Part 6: Growing your traffic; Part 7: Sell paid template",
+  "assessmentScore": 110,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.534Z",
+  "lastUpdated": "2026-01-12T20:47:12.534Z"
+}

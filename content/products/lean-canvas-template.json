@@ -1,0 +1,30 @@
+{
+  "id": "Lean Canvas Template",
+  "name": "Lean Canvas Template",
+  "slug": "lean-canvas-template",
+  "description": "Validate your business model from the ground up.Use the Lean Canvas in your Notion workspace, and share editing access or viewing access with your team.Live CollaborationLink SharingExport to PDFLearn about Lean CanvasLean Canvas was designed by Ash Maurya, based on the Business Model Canvas designed by Alex Osterwalder. Licensed under CC BY SA 3.0. https://strategyzer.com/",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "business",
+  "creator": {
+    "name": "Easlo Academy",
+    "url": "https://easloacademy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/bvoii",
+  "affiliateUrl": "https://gumroad.com/a/962870099/bvoii",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 28,
+  "ratingCount": 28,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Live Collaboration; Link Sharing; Export to PDF",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.567Z",
+  "lastUpdated": "2026-01-12T20:47:12.567Z"
+}

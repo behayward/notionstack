@@ -1,0 +1,30 @@
+{
+  "id": "Edu-Creator Operating System",
+  "name": "Edu-Creator Operating System",
+  "slug": "edu-creator-operating-system",
+  "description": "Welcome to the Notion business OS and guidebook for educational content creators. Everything you need to turn your information intake into courses, workshops and content. Run a business and create transformative learning experiences.Visit the Edu-Creator OS Website or read the written walkthroughWhat's in the box!?30+ Templates: Templates for Workshops, youtube videos, online course creation, podcasts and more! Toolkit - Choose your character! 80+ tools, customizable workflows and setup guides t",
+  "price": 67,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "productivity",
+  "creator": {
+    "name": "Mimetis",
+    "url": "https://mimetis.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/PlRaN",
+  "affiliateUrl": "https://gumroad.com/a/962870099/PlRaN",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 3,
+  "ratingCount": 3,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 67,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.655Z",
+  "lastUpdated": "2026-01-12T20:47:12.655Z"
+}

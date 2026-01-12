@@ -1,0 +1,30 @@
+{
+  "id": "Freelance System",
+  "name": "Freelance System",
+  "slug": "freelance-system",
+  "description": "Take Your Freelancing to the Next Level with Notion Freelance OSThe Notion Freelance OS is your ultimate tool to manage and elevate your freelance business. This all-in-one template is designed to streamline every aspect of your freelancing career, from managing clients and projects to tracking finances and meeting your business goals. Whether you're a solo freelancer or collaborating with a team, Freelance OS offers the structure and efficiency you need to thrive in the fast-paced world of free",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Heyismail",
+    "url": "https://heyismail.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/fejca",
+  "affiliateUrl": "https://gumroad.com/a/962870099/fejca",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 132,
+  "ratingCount": 132,
+  "salesCount": 828,
+  "tags": [],
+  "useCases": [],
+  "features": "Financial Overview:Monitor your freelance income, expenses, and overall financial health.; Work Overview:Get a snapshot of your current workload, including ongoing projects and key metrics.; Operations:Streamline your daily freelance activities with organized workflows.; Freelancing Home:Access all essential freelance tools and information from a central hub.; Projects:Plan, manage, and track all your freelance projects, ensuring timely delivery.; Tasks:Organize daily tasks, prioritize them, and maintain a high level of productivity.; Resources:Store important documents, files, and reference materials in one secure place.; Notes:Capture ideas, meeting notes, and important information, keeping everything organized.; CRM Tracker:Manage client relationships and track interactions to ensure effective communication.; Clients:Organize client details, manage communication, and maintain strong professional relationships.",
+  "assessmentScore": 65,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.938Z",
+  "lastUpdated": "2026-01-12T20:47:12.938Z"
+}

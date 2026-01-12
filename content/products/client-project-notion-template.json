@@ -1,0 +1,30 @@
+{
+  "id": "Client project Notion template",
+  "name": "Client project Notion template",
+  "slug": "client-project-notion-template",
+  "description": "The beautiful client tracker that has been ~Marie Poulin~ized and made better. :)This is ideally for freelance copywriters/content writers, but I'm sure people in any kind of freelance trade could find some use in it! Plus, Marie Poulin directly helped create this and who doesn't want a Marie template?Databases included:- Client tracker- Project tracker- Meeting and notes- Projects- Swipe file- Content (aka each individual piece)",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Jackie Pearce",
+    "url": "https://jpearce.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/nJAKJ",
+  "affiliateUrl": "https://gumroad.com/a/962870099/nJAKJ",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.675Z",
+  "lastUpdated": "2026-01-12T20:47:12.675Z"
+}

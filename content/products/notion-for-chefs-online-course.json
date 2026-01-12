@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Chefs: Online Course",
+  "name": "Notion for Chefs: Online Course",
+  "slug": "notion-for-chefs-online-course",
+  "description": "Unlock the Power of Notion for Culinary Excellence!This course is designed to transform your culinary operations from chaos to clarity. Dive deep into advanced features and integrations that will streamline your workflow, enhance your productivity, and allow you to create a fully functional Notion setup that caters to your unique culinary needs.Who is it ForThis course is tailor-made for culinary professionals eager to elevate their productivity and organization using Notion.Skill Level: Interme",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/jxjgzc",
+  "affiliateUrl": "https://gumroad.com/a/145902419/jxjgzc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level: Intermediate; -Audience: Chefs, Culinary Professionals, Restaurant Managers, Culinary Students; Basic knowledge of Notion functionalities; - Familiarity with culinary tasks and workflows; - Understanding of data organization principles; - Unleashing the Power of Notion; - Crafting Your Culinary Dashboard; - Mastering Data Management; - Integrating Notion with Other Platforms",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.344Z",
+  "lastUpdated": "2026-01-12T20:47:13.344Z"
+}

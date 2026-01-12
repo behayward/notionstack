@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Researchers: Online Course",
+  "name": "Notion for Researchers: Online Course",
+  "slug": "notion-for-researchers-online-course",
+  "description": "Unlock Your Research Potential with Notion for Researchers!Transform your research workflow with Notion's powerful features. This practical course is designed to help researchers streamline their processes and enhance productivity by effectively leveraging Notion's advanced functionalities. By the end of this course, you'll create a fully functional Notion dashboard specifically tailored to your research needs, empowering you to manage tasks and data like never before.Who Is It For?This course i",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/qhsxs",
+  "affiliateUrl": "https://gumroad.com/a/145902419/qhsxs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate; Basic knowledge of Notion; - Familiarity with research processes; - Understanding of database concepts; 1. Mastering Database Structures; 2. Formulas That Empower Your Research; 3. Integrating Notion with Other Tools; 4. API Integration: Automating Your Research",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.350Z",
+  "lastUpdated": "2026-01-12T20:47:13.350Z"
+}

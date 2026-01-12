@@ -1,0 +1,30 @@
+{
+  "id": "Notion for UX Designers: Online Course",
+  "name": "Notion for UX Designers: Online Course",
+  "slug": "notion-for-ux-designers-online-course",
+  "description": "Unlock the Power of Notion for UX Designers!This course is tailored for intermediate UX designers eager to elevate their productivity and organization by mastering Notion. Dive into advanced features, integrations, and database management, transforming your workflow and enhancing collaboration with your team.Who is it For?If you have a basic understanding of Notion but want to leverage its advanced features specifically for UX design, this course is for you.Skill Level: Intermediate UX Designers",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/bjiuc",
+  "affiliateUrl": "https://gumroad.com/a/145902419/bjiuc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Skill Level:Intermediate UX Designers; -Audience:Project Managers, Team Members; Basic knowledge of Notion; - Familiarity with UX design principles; - Understanding of project management concepts; Mastering Notion's Advanced Features; - Crafting a UX Design Dashboard; - Database Structures for UX Projects; - Integrating Notion with Other Platforms; - Writing Notion Formulas Like a Pro",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.368Z",
+  "lastUpdated": "2026-01-12T20:47:13.368Z"
+}

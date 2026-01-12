@@ -1,0 +1,30 @@
+{
+  "id": "Notion for Entrepreneurs: Online Course",
+  "name": "Notion for Entrepreneurs: Online Course",
+  "slug": "notion-for-entrepreneurs-online-course",
+  "description": "Unlock the full potential of Notion for Entrepreneurs!This course is meticulously designed for intermediate users who are ready to elevate their Notion skills. Dive deep into advanced features, integrations, and workflows that will revolutionize your task management and operational efficiency. By the end of this course, you will not only have a fully functional Notion dashboard but also the confidence to customize it to fit your unique business needs.Who is it ForThis course is tailor-made for e",
+  "price": 25,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/wagjt",
+  "affiliateUrl": "https://gumroad.com/a/145902419/wagjt",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "1. From Zero to Hero: Setting Up Your Notion Workspace; 2. Database Mastery: Crafting Complex Structures; 3. Workflow Wizardry: Streamlining Your Processes; 4. Formula Fun: Making Data Work for You; 5. Integrate and Elevate: Connecting Notion with Other Tools; 6. Dashboard Design: Your Final Masterpiece; Quizzes: Quizzes will reinforce your understanding of advanced Notion features and workflows, ensuring you can apply what you've learned effectively.; Assignments: Assignments will challenge you to create your own Notion for Entrepreneurs Dashboard, develop comprehensive workflows, and implement advanced database structures, among others.; Practical Project: Your final project will be to create a customized Notion dashboard that integrates all elements learned throughout the course, showcasing your unique style and workflow.",
+  "assessmentScore": 80,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.349Z",
+  "lastUpdated": "2026-01-12T20:47:13.349Z"
+}

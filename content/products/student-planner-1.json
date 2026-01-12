@@ -1,0 +1,30 @@
+{
+  "id": "Student Planner",
+  "name": "Student Planner",
+  "slug": "student-planner-1",
+  "description": "Stay organized, focused, and on top of your studies with this comprehensive Notion template. Managing your timetable to tracking assignments and semester goals, Student Planner has everything you need to excel in your academic endeavors.Key FeaturesTimetable: Keep track of your classes and study schedule with ease.Course Management: Stay organized by managing your courses.Simple Task Tracker: Easily track your tasks and assignments to ensure nothing falls through the cracks.Assignment Checklist:",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "planner",
+  "creator": {
+    "name": "HEYALBERT DIGITAL",
+    "url": "https://heyalbert.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/kxwke",
+  "affiliateUrl": "https://gumroad.com/a/962870099/kxwke",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 4,
+  "ratingCount": 4,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Timetable:Keep track of your classes and study schedule with ease.; Course Management:Stay organized by managing your courses.; Simple Task Tracker:Easily track your tasks and assignments to ensure nothing falls through the cracks.; Assignment Checklist:Keep a checklist of assignments to manage deadlines effectively.; Semester Goals Module:Set and track your academic goals to stay motivated and achieve success.",
+  "assessmentScore": 50,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.176Z",
+  "lastUpdated": "2026-01-12T20:47:13.176Z"
+}

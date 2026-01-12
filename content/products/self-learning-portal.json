@@ -1,0 +1,30 @@
+{
+  "id": "Self-Learning Portal",
+  "name": "Self-Learning Portal",
+  "slug": "self-learning-portal",
+  "description": "Level up your self-studying with this template! The Self-Learning Portal is a Notion template inspired by my learning management system. It helps you organize your learning journeys with self-constructed educational curriculums, modules, and assignments. As an autodidact, I find structure critical to stay disciplined about my learning, and this system has been instrumental in helping me advance my skills in artificial intelligence, mathematics, and computer science. Duplicate this template into ",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Richard's Productivity Store",
+    "url": "https://richardmathewsii.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/qnuox",
+  "affiliateUrl": "https://gumroad.com/a/962870099/qnuox",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 10,
+  "ratingCount": 10,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 55,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.113Z",
+  "lastUpdated": "2026-01-12T20:47:13.113Z"
+}

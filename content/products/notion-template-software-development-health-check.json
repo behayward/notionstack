@@ -1,0 +1,30 @@
+{
+  "id": "Notion Template: Software Development Health Check",
+  "name": "Notion Template: Software Development Health Check",
+  "slug": "notion-template-software-development-health-check",
+  "description": "The goal of this productWith this Notion template, you can check how your development team is doing. It targets focus, stress levels, mental health, teamwork and a lot more. There are three categories of questions you will go through, which are Growth, Processes and Environment. In the end, you should have a good overview of how good your team processes are defined. The goal is to find out what already works great, what might be missing and what you might be able to improve on.Why I made this pr",
+  "price": 0,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "goals",
+  "creator": {
+    "name": "Ice Bear Labs",
+    "url": "https://icebearlabs.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/xugrxp",
+  "affiliateUrl": "https://gumroad.com/a/962870099/xugrxp",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "An introduction to the topic of mental / stress awareness overall; An overview over the \"Joel Test\" as a development quality test; The actual \"3 Parts Checklist\", which is the Software Development Health Check. It's split into the aforementioned three categories Growth, Processes and Environment; A guide on what to do after doing the test with your team; Links to advanced resources with which you can work further",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.115Z",
+  "lastUpdated": "2026-01-12T20:47:13.115Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Payment Receipts PDF Generator",
+  "name": "Payment Receipts PDF Generator",
+  "slug": "payment-receipts-pdf-generator",
+  "description": "📄 Automate Payment Receipts in Notion (Export as PDFs Instantly) Managing Payment Receipts manually can be a headache.With this tool, you can automatically generate Payment Receipts as PDFs directly from your Notion Database — no more copy-paste, no more formatting struggles.Watch video below:🚀 How It Works Add Your Notion Database – Store all your Payment Receipts details (Vendor, Items, Amount, Date, etc.) in one place. Upload a Google Doc Template – Use a clean Payment Receipts template (full",
+  "price": 9,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Sanat | The Accountant Guy (Finance Products)",
+    "url": "https://theaccountantguy.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/402782931/clilc",
+  "affiliateUrl": "https://gumroad.com/a/402782931/clilc",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 28,
+  "tags": [],
+  "useCases": [],
+  "features": "Add Your Notion Database– Store all your Payment Receipts details (Vendor, Items, Amount, Date, etc.) in one place.; Upload a Google Doc Template– Use a clean Payment Receipts template (fully customizable).; Map Properties– Link Notion fields to the template fields (one-time setup).; Fully Automated– Works 24/7, no manual formatting needed.; One-Time Setup– Set it up once, generate forever.; Professional PDFs– Clean, branded Payment Receipts every time.; Scalable– Generate unlimited POs without extra effort.; Businesses issuing frequent Payment Receipts; Startups and SMEs looking for simple automation; Teams managing vendors and suppliers in Notion",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.818Z",
+  "lastUpdated": "2026-01-12T20:47:13.818Z"
+}

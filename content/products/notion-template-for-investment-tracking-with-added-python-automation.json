@@ -1,0 +1,30 @@
+{
+  "id": "Notion Template for Investment Tracking (with added Python Automation)",
+  "name": "Notion Template for Investment Tracking (with added Python Automation)",
+  "slug": "notion-template-for-investment-tracking-with-added-python-automation",
+  "description": "This Notion template will help you keep track of all of your investments - personal or business.You can record: The time of purchase of a stockThe stock ticker (MSFT, TSLA, SPY...)The price of purchaseThe overall share percentageP/L dataCurrent price of your shareAge of your stock purchaseBonus:As an addition, you will be able to automate the process of updating the current price of stocks. It would be highly impractical to keep up to date with every single investment by manually typing its pric",
+  "price": 10,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "finance",
+  "creator": {
+    "name": "Yassen Shopov",
+    "url": "https://yassenshopov.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/pltpx",
+  "affiliateUrl": "https://gumroad.com/a/962870099/pltpx",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": null,
+  "ratingCount": null,
+  "salesCount": 23,
+  "tags": [],
+  "useCases": [],
+  "features": "The time of purchase of a stock; The stock ticker (MSFT, TSLA, SPY...); The price of purchase; The overall share percentage; Current price of your share; Age of your stock purchase",
+  "assessmentScore": 82,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.649Z",
+  "lastUpdated": "2026-01-12T20:47:12.649Z"
+}

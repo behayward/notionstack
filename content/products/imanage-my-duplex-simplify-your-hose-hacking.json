@@ -1,0 +1,30 @@
+{
+  "id": "🏠 iManage! My Duplex - Simplify Your Hose Hacking",
+  "name": "🏠 iManage! My Duplex - Simplify Your Hose Hacking",
+  "slug": "imanage-my-duplex-simplify-your-hose-hacking",
+  "description": "House hacking is Awesome! But sometimes managing your duplex can become a mess.What's your personal expense, what is a business one? Where was that rental contract you needed right this second? What was the name of that maintenance guy who fixes your closets two years ago? It's hard to keep everything in mind. Even harder trying to manage multiple Excel files at once.iManage! My Duplex is a Notion tool that we create to will help you manage your duplex. From finances and tenants to tasks and imp",
+  "price": 199,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "ai",
+  "creator": {
+    "name": "Ian Dikhtiar",
+    "url": "https://extycreate.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/145902419/wuunjs",
+  "affiliateUrl": "https://gumroad.com/a/145902419/wuunjs",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": 2,
+  "tags": [],
+  "useCases": [],
+  "features": "Get a complete overview of your duplex - both units, tenant information, and important dates.; Track your finances - income and expenses for each unit, as well as recurring bills.; Stay organized with contacts - from landlords and vendors to contractors and maintenance workers.; Manage tasks easily - from small repairs to big projects.; Keep all leases in one place for easy reference.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.308Z",
+  "lastUpdated": "2026-01-12T20:47:13.308Z"
+}

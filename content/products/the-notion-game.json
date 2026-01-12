@@ -1,0 +1,30 @@
+{
+  "id": "The Notion Game",
+  "name": "The Notion Game",
+  "slug": "the-notion-game",
+  "description": "Worlds first choice-based game built entirely in NotionWith no plugins, software or integrations required to play.Will you help Alex accomplish his life goal?Alex is a geek living in the year 2063 with a desire to build something of value to the world.Inspired by the 2020's most famous app, Notion, he sets out to acquire money for a necessary coding course that will help him bring his app to life.But getting money in 2063 isn't easy, so Alex will have to make some tough choices if he's to succee",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "finance",
+  "creator": {
+    "name": "Pascio",
+    "url": "https://pascio.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/jwnde",
+  "affiliateUrl": "https://gumroad.com/a/962870099/jwnde",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 211,
+  "ratingCount": 211,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Who are you?I am Pascio, official Notion Ambassador, Consultant & Creator of more than 50+ free & premium Notion templates that have served 50,000+ people across the globe.; Can I share this with anyone else?No. This product has a private license. If you wish to share the game with someone, please direct them to this page.; Can I be your affiliate?Sure thing! You can sign up as an affiliatehere.",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.760Z",
+  "lastUpdated": "2026-01-12T20:47:12.760Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "To-do list - Notion template",
+  "name": "To-do list - Notion template",
+  "slug": "to-do-list-notion-template",
+  "description": "This advanced To-Do List Notion template is meticulously crafted to streamline your workflow and maximize efficiency. It features a robust system of three interconnected databases: To-do List, Tasks, and Notes, each playing a crucial role in helping you manage your responsibilities with precision. To-do List Database: This serves as your primary overview, where you can create and manage high-level tasks or projects. Each to-do item is dynamically linked to the Tasks database, allowing you to see",
+  "price": 0,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Digitalix Studios",
+    "url": "https://digitalixstudios.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/ycodyr",
+  "affiliateUrl": "https://gumroad.com/a/962870099/ycodyr",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 57,
+  "recommendation": "RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:13.206Z",
+  "lastUpdated": "2026-01-12T20:47:13.206Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Simple Project Management System Notion Dashboard",
+  "name": "Simple Project Management System Notion Dashboard",
+  "slug": "simple-project-management-system-notion-dashboard",
+  "description": "A project management system based on the exceptional PARA system. Gain an overview of your projects and tasks to supercharge productivity and efficiency. All in Notion.",
+  "price": 20,
+  "currency": "USD",
+  "category": "template",
+  "subcategory": "second-brain",
+  "creator": {
+    "name": "Theresa Dinh",
+    "url": "https://qquynh.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/yqfzwy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/yqfzwy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 1,
+  "ratingCount": 1,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "",
+  "assessmentScore": 82,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.932Z",
+  "lastUpdated": "2026-01-12T20:47:12.932Z"
+}

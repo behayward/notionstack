@@ -1,0 +1,30 @@
+{
+  "id": "Notion Reading Tracker",
+  "name": "Notion Reading Tracker",
+  "slug": "notion-reading-tracker",
+  "description": "Take Control of your Book Collection with the Ultimate Reading TrackerThe perfect tool to organize and picture your entire library with ease! Visualize your To-Buy list Track your Progress Set Priorities Add Highlights and Notes",
+  "price": 1,
+  "currency": "USD",
+  "category": "tool",
+  "subcategory": "tracker",
+  "creator": {
+    "name": "Cosme",
+    "url": "https://heycosme.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/cbmck",
+  "affiliateUrl": "https://gumroad.com/a/962870099/cbmck",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 24,
+  "ratingCount": 24,
+  "salesCount": 648,
+  "tags": [],
+  "useCases": [],
+  "features": "Visualize your To-Buy list; Track your Progress; Set Priorities; Add Highlights and Notes",
+  "assessmentScore": 95,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.682Z",
+  "lastUpdated": "2026-01-12T20:47:12.682Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "A Personal CRM Template (for Notion)",
+  "name": "A Personal CRM Template (for Notion)",
+  "slug": "a-personal-crm-template-for-notion",
+  "description": "A good Personal CRM should do 2 things: Remind you to reach out to those you care about on a regular basis Minimize the amount of work needed to maintain the Personal CRM My template does both 😉Check out my full Notion course: Build Your Command Center in Notion.",
+  "price": 0,
+  "currency": "USD",
+  "category": "course",
+  "subcategory": "dashboard",
+  "creator": {
+    "name": "Jeff Su",
+    "url": "https://jeffsu.gumroad.com/"
+  },
+  "platform": "gumroad",
+  "productUrl": "https://gumroad.com/a/962870099/yskjiy",
+  "affiliateUrl": "https://gumroad.com/a/962870099/yskjiy",
+  "hasAffiliate": true,
+  "affiliateRate": "partner",
+  "rating": 75,
+  "ratingCount": 75,
+  "salesCount": null,
+  "tags": [],
+  "useCases": [],
+  "features": "Remind you to reach out to those you care about on a regular basis; Minimize the amount of work needed to maintain the Personal CRM",
+  "assessmentScore": 75,
+  "recommendation": "HIGHLY RECOMMENDED",
+  "status": "active",
+  "dateAdded": "2026-01-12T20:47:12.570Z",
+  "lastUpdated": "2026-01-12T20:47:12.570Z"
+}
