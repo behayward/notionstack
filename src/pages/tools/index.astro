@@ -1,0 +1,215 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+
+// Get all tools
+const productsDir = join(process.cwd(), 'content/products');
+let allProducts = [];
+
+try {
+  const files = await readdir(productsDir);
+  const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+  for (const file of jsonFiles) {
+    const filePath = join(productsDir, file);
+    const content = await readFile(filePath, 'utf-8');
+    const product = JSON.parse(content);
+    if (product.category === 'tool') {
+      allProducts.push(product);
+    }
+  }
+} catch (error) {
+  allProducts = [];
+}
+
+// Get subcategory filter from URL
+const subcategory = Astro.url.searchParams.get('category');
+
+// Filter products if subcategory specified
+let products = subcategory
+  ? allProducts.filter(p => p.subcategory === subcategory)
+  : allProducts;
+
+// Sort by name
+products.sort((a, b) => a.name.localeCompare(b.name));
+
+// Get unique subcategories for filter
+const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boolean))].sort();
+
+const pageTitle = subcategory
+  ? `${subcategory.charAt(0).toUpperCase() + subcategory.slice(1)} Tools`
+  : 'All Tools';
+
+const pageDescription = subcategory
+  ? `Browse ${products.length} ${subcategory} tools for Notion`
+  : `Browse ${products.length} Notion tools`;
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+>
+  <div class="products-page">
+    <div class="container">
+      <header class="page-header">
+        <h1>{pageTitle}</h1>
+        <p class="product-count">{products.length} {products.length === 1 ? 'tool' : 'tools'}</p>
+      </header>
+
+      <div class="filters">
+        <a href="/tools" class={!subcategory ? 'filter-active' : 'filter-link'}>All Tools</a>
+        {subcategories.map(cat => (
+          <a
+            href={`/tools?category=${cat}`}
+            class={subcategory === cat ? 'filter-active' : 'filter-link'}
+          >
+            {cat}
+          </a>
+        ))}
+      </div>
+
+      <div class="products-grid">
+        {products.map(product => (
+          <ProductCard product={product} />
+        ))}
+      </div>
+
+      {products.length === 0 && (
+        <div class="no-results">
+          <p>No tools found in this category.</p>
+          <a href="/tools" class="btn-back">← View All Tools</a>
+        </div>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .products-page {
+    padding: 3rem 0 4rem;
+    min-height: calc(100vh - 400px);
+  }
+
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.03em;
+  }
+
+  .product-count {
+    color: var(--color-secondary);
+    font-size: 0.9375rem;
+  }
+
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-link,
+  .filter-active {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.875rem;
+    transition: all 0.15s ease;
+    letter-spacing: -0.01em;
+    text-transform: capitalize;
+  }
+
+  .filter-link {
+    background: white;
+    color: var(--color-secondary);
+    border: 1px solid var(--color-border);
+  }
+
+  .filter-link:hover {
+    background: #f9fafb;
+    color: var(--color-primary);
+  }
+
+  .filter-active {
+    background: var(--color-primary);
+    color: white;
+    border: 1px solid var(--color-primary);
+  }
+
+  .products-grid {
+    display: grid;
+    grid-tool-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 5rem 2rem;
+    background: white;
+    border-radius: 0.75rem;
+    border: 1px solid var(--color-border);
+  }
+
+  .no-results p {
+    font-size: 1.125rem;
+    color: var(--color-secondary);
+    margin-bottom: 2rem;
+  }
+
+  .btn-back {
+    display: inline-block;
+    background: var(--color-primary);
+    color: white;
+    padding: 0.875rem 1.75rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    transition: all 0.2s ease;
+  }
+
+  .btn-back:hover {
+    background: #1f2937;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
+  }
+
+  @media (max-width: 768px) {
+    .products-page {
+      padding: 3rem 0 4rem;
+    }
+
+    .container {
+      padding: 0 1rem;
+    }
+
+    .page-header h1 {
+      font-size: 2rem;
+    }
+
+    .filters {
+      gap: 0.5rem;
+    }
+
+    .products-grid {
+      grid-tool-columns: 1fr;
+    }
+  }
+</style>

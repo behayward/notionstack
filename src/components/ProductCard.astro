@@ -18,10 +18,9 @@ interface Props {
 const { product } = Astro.props;
 ---
 
-<a href={`/products/${product.slug}`} class="product-card">
+<a href={`/${product.category}s/${product.slug}`} class="product-card">
   <div class="card-header">
-    <span class="category-badge">{product.category}</span>
-    {product.hasAffiliate && <span class="affiliate-badge">Affiliate</span>}
+    <span class="category-badge">{product.subcategory || product.category}</span>
   </div>
 
   <h3 class="product-title">{product.name}</h3>
@@ -73,15 +72,6 @@ const { product } = Astro.props;
     letter-spacing: 0.02em;
   }
 
-  .affiliate-badge {
-    display: inline-block;
-    background: #dbeafe;
-    color: #1e40af;
-    padding: 0.1875rem 0.5rem;
-    border-radius: 0.25rem;
-    font-size: 0.6875rem;
-    font-weight: 600;
-  }
 
   .product-title {
     font-size: 1rem;

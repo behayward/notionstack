@@ -1,0 +1,340 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+
+export async function getStaticPaths() {
+  const productsDir = join(process.cwd(), 'content/products');
+  const files = await readdir(productsDir);
+  const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+  const paths = await Promise.all(
+    jsonFiles.map(async (file) => {
+      const filePath = join(productsDir, file);
+      const content = await readFile(filePath, 'utf-8');
+      const product = JSON.parse(content);
+
+      // Only include tools
+      if (product.category === 'tool') {
+        return {
+          params: { slug: product.slug },
+          props: { product }
+        };
+      }
+      return null;
+    })
+  );
+
+  return paths.filter(Boolean);
+}
+
+const { product } = Astro.props;
+---
+
+<BaseLayout
+  title={product.name}
+  description={product.description}
+>
+  <article class="product-detail">
+    <div class="container">
+      <div class="breadcrumb">
+        <a href="/">Home</a> / <a href="/tools">Tools</a>
+        {product.subcategory && <> / <a href={`/tools/${product.subcategory}`}>{product.subcategory}</a></>}
+        / {product.name}
+      </div>
+
+      <header class="product-header">
+        <div class="product-meta">
+          <span class="type-badge">Tool</span>
+          {product.subcategory && <span class="category-badge">{product.subcategory}</span>}
+        </div>
+        <h1>{product.name}</h1>
+        <p class="creator">by <a href={product.creator.url} target="_blank" rel="noopener">{product.creator.name}</a></p>
+      </header>
+
+      <div class="product-content">
+        <div class="main-content">
+          <section class="description">
+            <h2>About This Tool</h2>
+            <p>{product.description}</p>
+          </section>
+
+          {product.tags && product.tags.length > 0 && (
+            <section class="tags">
+              <h3>Tags</h3>
+              <div class="tag-list">
+                {product.tags.map(tag => (
+                  <span class="tag">{tag}</span>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {product.useCases && product.useCases.length > 0 && (
+            <section class="use-cases">
+              <h3>Perfect For</h3>
+              <ul>
+                {product.useCases.map(useCase => (
+                  <li>{useCase}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+        </div>
+
+        <aside class="sidebar">
+          <div class="product-card">
+            <div class="price-section">
+              <span class="price">{product.price > 0 ? `$${product.price}` : 'Free'}</span>
+              {product.price > 0 && <span class="currency">{product.currency}</span>}
+            </div>
+
+            <a
+              href={product.hasAffiliate ? product.affiliateUrl : product.productUrl}
+              class="cta-button"
+              target="_blank"
+              rel="noopener"
+            >
+              Get This Tool →
+            </a>
+
+            <div class="product-info">
+              <div class="info-row">
+                <span class="label">Platform</span>
+                <span class="value">{product.platform}</span>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .breadcrumb {
+    color: var(--color-secondary);
+    font-size: 0.875rem;
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .product-header {
+    margin-bottom: 3rem;
+  }
+
+  .product-meta {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .type-badge, .category-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.75rem;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+
+  .type-badge {
+    background: #f3f4f6;
+    color: #6b7280;
+  }
+
+  .category-badge {
+    background: #e5e7eb;
+    color: #374151;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+    color: var(--color-primary);
+  }
+
+  .creator {
+    font-size: 1.125rem;
+    color: var(--color-secondary);
+  }
+
+  .creator a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .creator a:hover {
+    text-decoration: underline;
+  }
+
+  .product-content {
+    display: grid;
+    grid-template-columns: 1fr 350px;
+    gap: 3rem;
+  }
+
+  @media (max-width: 900px) {
+    .product-content {
+      grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+      order: -1;
+    }
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .description h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .description p {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    color: var(--color-secondary);
+  }
+
+  .tags h3, .use-cases h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .tag {
+    background: #f3f4f6;
+    color: #6b7280;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .use-cases ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .use-cases li {
+    padding: 0.5rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+    color: var(--color-secondary);
+    text-transform: capitalize;
+  }
+
+  .use-cases li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--color-primary);
+    font-weight: bold;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 2rem;
+    height: fit-content;
+  }
+
+  .product-card {
+    border: 1px solid var(--color-border);
+    border-radius: 0.75rem;
+    padding: 2rem;
+    background: white;
+  }
+
+  .price-section {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .price {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    letter-spacing: -0.03em;
+  }
+
+  .currency {
+    font-size: 1.125rem;
+    color: var(--color-secondary);
+    margin-left: 0.5rem;
+  }
+
+  .cta-button {
+    display: block;
+    width: 100%;
+    background: var(--color-primary);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.0625rem;
+    transition: all 0.2s ease;
+  }
+
+  .cta-button:hover {
+    background: #1f2937;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
+  }
+
+  .product-info {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .info-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+  }
+
+  .label {
+    color: var(--color-secondary);
+    font-size: 0.875rem;
+  }
+
+  .value {
+    font-weight: 600;
+    text-transform: capitalize;
+    color: var(--color-primary);
+  }
+</style>
