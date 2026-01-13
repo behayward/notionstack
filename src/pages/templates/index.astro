@@ -24,16 +24,8 @@ try {
   allProducts = [];
 }
 
-// Get subcategory filter from URL
-const subcategory = Astro.url.searchParams.get('category');
-
-// Filter products if subcategory specified
-let products = subcategory
-  ? allProducts.filter(p => p.subcategory === subcategory)
-  : allProducts;
-
 // Sort by priority score (revenue potential + quality)
-products.sort((a, b) => {
+allProducts.sort((a, b) => {
   const scoreA =
     (a.hasAffiliate ? 100 : 0) +
     (a.price > 0 ? 50 : 0) +
@@ -46,59 +38,107 @@ products.sort((a, b) => {
     (b.salesCount ? b.salesCount * 0.5 : 0) +
     (b.rating && b.ratingCount >= 3 && b.rating >= 4.0 ? b.rating * 10 : 0);
 
-  return scoreB - scoreA; // Descending order
+  return scoreB - scoreA;
 });
 
 // Get unique subcategories for filter
 const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boolean))].sort();
-
-const pageTitle = subcategory
-  ? `${subcategory.charAt(0).toUpperCase() + subcategory.slice(1)} Templates`
-  : 'All Templates';
-
-const pageDescription = subcategory
-  ? `Browse ${products.length} ${subcategory} templates for Notion`
-  : `Browse ${products.length} Notion templates`;
 ---
 
 <BaseLayout
-  title={pageTitle}
-  description={pageDescription}
+  title="Notion Templates"
+  description={`Browse ${allProducts.length} Notion templates`}
 >
   <div class="products-page">
     <div class="container">
       <header class="page-header">
-        <h1>{pageTitle}</h1>
-        <p class="product-count">{products.length} {products.length === 1 ? 'template' : 'templates'}</p>
+        <h1 id="page-title">All Templates</h1>
+        <p class="product-count"><span id="product-count">{allProducts.length}</span> {allProducts.length === 1 ? 'template' : 'templates'}</p>
       </header>
 
       <div class="filters">
-        <a href="/templates" class={!subcategory ? 'filter-active' : 'filter-link'}>All Templates</a>
+        <button data-category="" class="filter-btn filter-active">All Templates</button>
         {subcategories.map(cat => (
-          <a
-            href={`/templates?category=${cat}`}
-            class={subcategory === cat ? 'filter-active' : 'filter-link'}
-          >
+          <button data-category={cat} class="filter-btn filter-link">
             {cat}
-          </a>
+          </button>
         ))}
       </div>
 
-      <div class="products-grid">
-        {products.map(product => (
-          <ProductCard product={product} />
+      <div class="products-grid" id="products-grid">
+        {allProducts.map(product => (
+          <div class="product-item" data-subcategory={product.subcategory || ''}>
+            <ProductCard product={product} />
+          </div>
         ))}
       </div>
-
-      {products.length === 0 && (
-        <div class="no-results">
-          <p>No templates found in this category.</p>
-          <a href="/templates" class="btn-back">← View All Templates</a>
-        </div>
-      )}
     </div>
   </div>
 </BaseLayout>
+
+<script>
+  // Client-side filtering
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const productItems = document.querySelectorAll('.product-item');
+  const pageTitle = document.getElementById('page-title');
+  const productCount = document.getElementById('product-count');
+
+  // Check URL parameter on load
+  const urlParams = new URLSearchParams(window.location.search);
+  const categoryParam = urlParams.get('category');
+
+  if (categoryParam) {
+    // Find and activate the button for this category
+    filterButtons.forEach(btn => {
+      if (btn.dataset.category === categoryParam) {
+        btn.click();
+      }
+    });
+  }
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const category = button.dataset.category;
+
+      // Update active state
+      filterButtons.forEach(btn => {
+        btn.classList.remove('filter-active');
+        btn.classList.add('filter-link');
+      });
+      button.classList.add('filter-active');
+      button.classList.remove('filter-link');
+
+      // Filter products
+      let visibleCount = 0;
+      productItems.forEach(item => {
+        const itemCategory = item.dataset.subcategory;
+        if (category === '' || itemCategory === category) {
+          item.style.display = 'block';
+          visibleCount++;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      // Update title and count
+      if (category) {
+        pageTitle.textContent = `${category.charAt(0).toUpperCase() + category.slice(1)} Templates`;
+      } else {
+        pageTitle.textContent = 'All Templates';
+      }
+      productCount.textContent = visibleCount;
+
+      // Update URL without reload
+      const url = new URL(window.location);
+      if (category) {
+        url.searchParams.set('category', category);
+      } else {
+        url.searchParams.delete('category');
+      }
+      window.history.pushState({}, '', url);
+    });
+  });
+</script>
 
 <style>
   .products-page {
@@ -138,16 +178,17 @@ const pageDescription = subcategory
     flex-wrap: wrap;
   }
 
-  .filter-link,
-  .filter-active {
+  .filter-btn {
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
-    text-decoration: none;
+    border: none;
+    cursor: pointer;
     font-weight: 600;
     font-size: 0.875rem;
     transition: all 0.15s ease;
     letter-spacing: -0.01em;
     text-transform: capitalize;
+    font-family: inherit;
   }
 
   .filter-link {
@@ -173,36 +214,8 @@ const pageDescription = subcategory
     gap: 1.5rem;
   }
 
-  .no-results {
-    text-align: center;
-    padding: 5rem 2rem;
-    background: white;
-    border-radius: 0.75rem;
-    border: 1px solid var(--color-border);
-  }
-
-  .no-results p {
-    font-size: 1.125rem;
-    color: var(--color-secondary);
-    margin-bottom: 2rem;
-  }
-
-  .btn-back {
-    display: inline-block;
-    background: var(--color-primary);
-    color: white;
-    padding: 0.875rem 1.75rem;
-    border-radius: 0.5rem;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 0.9375rem;
-    transition: all 0.2s ease;
-  }
-
-  .btn-back:hover {
-    background: #1f2937;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transform: translateY(-1px);
+  .product-item {
+    display: block;
   }
 
   @media (max-width: 768px) {
