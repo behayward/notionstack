@@ -108,9 +108,14 @@ const creatorLink = addAffiliateTracking(product.creator.url);
             {product.rating && product.ratingCount && (
               <div class="rating-info">
                 <div class="rating">
-                  <span class="stars">⭐ {product.rating.toFixed(1)}</span>
-                  <span class="count">({product.ratingCount.toLocaleString()} reviews)</span>
+                  <span class="stars">
+                    {[1, 2, 3, 4, 5].map(star => (
+                      <span class={star <= Math.floor(product.rating) ? 'star filled' : 'star empty'}>★</span>
+                    ))}
+                  </span>
+                  <span class="rating-number">{product.rating.toFixed(1)}</span>
                 </div>
+                <span class="count">({product.ratingCount.toLocaleString()} reviews)</span>
               </div>
             )}
           </div>
@@ -279,7 +284,7 @@ const creatorLink = addAffiliateTracking(product.creator.url);
     position: sticky;
     top: 2rem;
     height: fit-content;
-    z-index: 10;
+    z-index: 1;
   }
 
   .product-card {
@@ -334,6 +339,7 @@ const creatorLink = addAffiliateTracking(product.creator.url);
     margin-top: 1.5rem;
     padding-top: 1.5rem;
     border-top: 1px solid var(--color-border);
+    text-align: center;
   }
 
   .rating {
@@ -341,9 +347,28 @@ const creatorLink = addAffiliateTracking(product.creator.url);
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
+    margin-bottom: 0.5rem;
   }
 
   .stars {
+    display: flex;
+    gap: 0.125rem;
+  }
+
+  .star {
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+
+  .star.filled {
+    color: #fbbf24;
+  }
+
+  .star.empty {
+    color: #d1d5db;
+  }
+
+  .rating-number {
     font-size: 1.125rem;
     font-weight: 700;
     color: var(--color-primary);
