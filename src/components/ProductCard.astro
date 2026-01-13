@@ -29,8 +29,8 @@ const isTopSeller = product.salesCount && product.salesCount >= 25;
 <a href={`/${product.category}s/${product.slug}`} class="product-card">
   <div class="card-header">
     <span class="category-badge">{product.subcategory || product.category}</span>
-    {isHighlyRated && <span class="quality-badge highly-rated" title="Highly Rated">⭐</span>}
-    {isTopSeller && <span class="quality-badge top-seller" title="Top Seller">🔥</span>}
+    {isHighlyRated && <span class="quality-badge highly-rated">⭐ Highly Rated</span>}
+    {isTopSeller && <span class="quality-badge top-seller">🔥 Top Seller</span>}
   </div>
 
   <h3 class="product-title">{product.name}</h3>
@@ -85,8 +85,22 @@ const isTopSeller = product.salesCount && product.salesCount >= 25;
   .quality-badge {
     display: inline-flex;
     align-items: center;
-    font-size: 0.875rem;
+    gap: 0.25rem;
+    padding: 0.1875rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.6875rem;
+    font-weight: 600;
     line-height: 1;
+  }
+
+  .highly-rated {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .top-seller {
+    background: #fee2e2;
+    color: #991b1b;
   }
 
   .product-title {
