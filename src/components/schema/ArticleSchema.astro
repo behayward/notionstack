@@ -1,0 +1,60 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  author?: string;
+  datePublished: string;
+  dateModified?: string;
+  image?: string;
+  url: string;
+  publisher?: {
+    name: string;
+    logo?: string;
+  };
+}
+
+const {
+  title,
+  description,
+  author = 'NotionStack Team',
+  datePublished,
+  dateModified,
+  image,
+  url,
+  publisher = {
+    name: 'NotionStack',
+    logo: 'https://notionstack.so/favicon.svg'
+  }
+} = Astro.props;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  author: {
+    '@type': 'Person',
+    name: author
+  },
+  datePublished,
+  ...(dateModified && { dateModified }),
+  ...(image && { image }),
+  url,
+  publisher: {
+    '@type': 'Organization',
+    name: publisher.name,
+    ...(publisher.logo && {
+      logo: {
+        '@type': 'ImageObject',
+        url: publisher.logo
+      }
+    })
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': url
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

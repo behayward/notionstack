@@ -1,0 +1,64 @@
+---
+interface Props {
+  name: string;
+  description: string;
+  image?: string;
+  brand?: string;
+  price?: number;
+  currency?: string;
+  availability?: 'InStock' | 'OutOfStock' | 'PreOrder';
+  url: string;
+  rating?: number;
+  reviewCount?: number;
+  category?: string;
+}
+
+const {
+  name,
+  description,
+  image,
+  brand = 'NotionStack',
+  price,
+  currency = 'USD',
+  availability = 'InStock',
+  url,
+  rating,
+  reviewCount,
+  category
+} = Astro.props;
+
+// Build the Product schema
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name,
+  description,
+  ...(image && { image }),
+  brand: {
+    '@type': 'Brand',
+    name: brand
+  },
+  ...(category && {
+    category
+  }),
+  offers: {
+    '@type': 'Offer',
+    url,
+    priceCurrency: currency,
+    price: price || 0,
+    availability: `https://schema.org/${availability}`,
+    priceValidUntil: new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]
+  },
+  ...(rating && reviewCount && {
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: rating,
+      bestRating: 5,
+      worstRating: 1,
+      ratingCount: reviewCount
+    }
+  })
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

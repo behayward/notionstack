@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
 import ProductCard from '../components/ProductCard.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
@@ -29,6 +30,8 @@ try {
   title="Home"
   description="Curated collection of the best Notion templates, courses, and tools. Hand-picked products to enhance your productivity and workflow."
 >
+  <OrganizationSchema />
+
   <section class="hero">
     <div class="container">
       <div class="hero-content">

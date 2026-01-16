@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProductSchema from '../../components/schema/ProductSchema.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 import { generateHeadline, generateFirstParagraph, extractFeatures, addAffiliateTracking } from '../../utils/productContent';
@@ -36,12 +38,39 @@ const headline = generateHeadline(product.name, product.description, product.sub
 const firstParagraph = generateFirstParagraph(product.description);
 const features = extractFeatures(product.description, product.features || '');
 const creatorLink = addAffiliateTracking(product.creator.url);
+
+// Build full product URL
+const productUrl = `https://notionstack.so/courses/${product.slug}`;
+
+// Build breadcrumb items
+const breadcrumbItems = [
+  { name: 'Home', url: 'https://notionstack.so/' },
+  { name: 'Courses', url: 'https://notionstack.so/courses' },
+  ...(product.subcategory ? [{
+    name: product.subcategory,
+    url: `https://notionstack.so/courses?category=${product.subcategory}`
+  }] : []),
+  { name: product.name, url: productUrl }
+];
 ---
 
 <BaseLayout
   title={product.name}
   description={product.description}
 >
+  <ProductSchema
+    name={product.name}
+    description={product.description}
+    brand={product.creator.name}
+    price={product.price}
+    currency={product.currency}
+    url={product.affiliateUrl || product.productUrl}
+    rating={product.rating}
+    reviewCount={product.ratingCount}
+    category={product.subcategory}
+  />
+  <BreadcrumbSchema items={breadcrumbItems} />
+
   <article class="product-detail">
     <div class="container">
       <div class="breadcrumb">
