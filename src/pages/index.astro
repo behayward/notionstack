@@ -5,7 +5,7 @@ import ProductCard from '../components/ProductCard.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 
-// Get featured products (latest 12)
+// Get featured products (top 12 by priority score)
 const productsDir = join(process.cwd(), 'content/products');
 let products = [];
 
@@ -13,14 +13,33 @@ try {
   const files = await readdir(productsDir);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-  // Load up to 12 products for homepage
-  const featuredFiles = jsonFiles.slice(0, 12);
-
-  for (const file of featuredFiles) {
+  // Load all products
+  const allProducts = [];
+  for (const file of jsonFiles) {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
-    products.push(JSON.parse(content));
+    allProducts.push(JSON.parse(content));
   }
+
+  // Sort by priority score (same as listing pages)
+  allProducts.sort((a, b) => {
+    const scoreA =
+      (a.hasAffiliate ? 100 : 0) +
+      (a.price > 0 ? 50 : 0) +
+      (a.salesCount ? a.salesCount * 0.5 : 0) +
+      (a.rating && a.ratingCount >= 3 && a.rating >= 4.0 ? a.rating * 10 : 0);
+
+    const scoreB =
+      (b.hasAffiliate ? 100 : 0) +
+      (b.price > 0 ? 50 : 0) +
+      (b.salesCount ? b.salesCount * 0.5 : 0) +
+      (b.rating && b.ratingCount >= 3 && b.rating >= 4.0 ? b.rating * 10 : 0);
+
+    return scoreB - scoreA;
+  });
+
+  // Take top 12
+  products = allProducts.slice(0, 12);
 } catch (error) {
   products = [];
 }
