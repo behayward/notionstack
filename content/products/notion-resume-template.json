@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/ncigv",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 246,
-  "ratingCount": 246,
+  "rating": 4.9,
+  "ratingCount": 247,
   "salesCount": null,
   "tags": [
     "Resume"
@@ -28,5 +28,11 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 10:54 AM",
-  "lastUpdated": "2026-01-12T20:47:12.506Z"
+  "lastUpdated": "2026-01-12T20:47:12.506Z",
+  "image": "https://public-files.gumroad.com/ppt8zc5fzkpfpfjkf643tva0yt4h",
+  "rawData": {
+    "description": "Build your portfolio website in minutesAre you looking for a simple way to build a portfolio website? Look no further than this portfolio template for Notion.With a free Notion account, you can download this template and customise it to help others learn more about you and showcase your best work.",
+    "features": [],
+    "reviewQuotes": []
+  }
 }
