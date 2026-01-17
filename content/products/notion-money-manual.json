@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/xdjfx",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 1373,
-  "ratingCount": 1373,
+  "rating": 4.9,
+  "ratingCount": 1374,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -125,5 +125,6 @@
       "Lesson 4: Launch"
     ],
     "reviewQuotes": []
-  }
+  },
+  "image": "https://public-files.gumroad.com/475kiekglvldr83gnlpgucapjxjl"
 }

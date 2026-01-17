@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/obtwr",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 340,
-  "ratingCount": 340,
+  "rating": 4.9,
+  "ratingCount": 341,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -26,5 +26,11 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.531Z",
-  "lastUpdated": "2026-01-12T20:47:12.531Z"
+  "lastUpdated": "2026-01-12T20:47:12.531Z",
+  "image": "https://public-files.gumroad.com/7rxlps3qomovcf1ywhy6c1g4ojol",
+  "rawData": {
+    "description": "I loved using my previous Notion Weekly Planner but having to create a new page for each week started to a little annoying after 2 years.I made a few structural tweaks but kept the core elements, enjoy!If you have questions you can watch me go through it in detail here.Check out my full Notion course: Build Your Command Center in Notion.",
+    "features": [],
+    "reviewQuotes": []
+  }
 }

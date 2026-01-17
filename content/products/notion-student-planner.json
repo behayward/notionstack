@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/eyuci",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 2554,
-  "ratingCount": 2554,
+  "rating": 5,
+  "ratingCount": 2555,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -119,5 +119,6 @@
       "Keep a list of your to-dos and assignments"
     ],
     "reviewQuotes": []
-  }
+  },
+  "image": "https://public-files.gumroad.com/ky9osb4nfm9scwv5j4obm4jy6f82"
 }

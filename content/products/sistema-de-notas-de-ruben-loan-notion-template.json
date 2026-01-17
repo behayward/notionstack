@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/oSXuD",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 409,
-  "ratingCount": 409,
+  "rating": 4.8,
+  "ratingCount": 410,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -26,5 +26,11 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.568Z",
-  "lastUpdated": "2026-01-12T20:47:12.568Z"
+  "lastUpdated": "2026-01-12T20:47:12.568Z",
+  "image": "https://public-files.gumroad.com/1m6vkqe37v5j5jhyzpsqkmuerm8y",
+  "rawData": {
+    "description": "ESTE PRODUCTO SIGUE LA FILOSOFÍA DE PAGA LO QUE QUIERAS. SI NO QUIERES PAGAR NADA SIMPLEMENTE PON 0 EN EL PRECIO.",
+    "features": [],
+    "reviewQuotes": []
+  }
 }

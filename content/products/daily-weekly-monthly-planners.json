@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/ulfur",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 4340,
+  "rating": 4.9,
   "ratingCount": 4340,
   "salesCount": null,
   "tags": [
@@ -120,5 +120,6 @@
       "Monthly Planner"
     ],
     "reviewQuotes": []
-  }
+  },
+  "image": "https://public-files.gumroad.com/dsz98wr9hvmh6oi9li66q1rokida"
 }

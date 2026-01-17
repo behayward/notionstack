@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/klwzu",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 842,
+  "rating": 4.9,
   "ratingCount": 842,
   "salesCount": null,
   "tags": [
@@ -28,5 +28,11 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 11:28 AM",
-  "lastUpdated": "2026-01-12T20:47:12.506Z"
+  "lastUpdated": "2026-01-12T20:47:12.506Z",
+  "image": "https://public-files.gumroad.com/fpjug2kbtze15v54y41cwukt3qpx",
+  "rawData": {
+    "description": "UI/UX Design Learning RoadmapHow to use:After purchase, you will receive an email to view the product's content. If you're logged into Gumroad, you can find the contents in your Gumroad Library (https://app.gumroad.com/library).(Optional) If you don't have a Notion account, sign up here.Click on the Notion template link in the product. (Make sure you are logged into Notion)Open the template link, click \"Duplicate\" on the top right corner.Done! You should be able to make edits to the Notion page. Happy learning!For personal use onlyYou may use this for personal use only. You may modify the templates according to your requirements. This product may not be used in any way whatsoever in which you charge money, collect fees, or receive any form of remuneration. You cannot resell, relicense, or sub-license this product.Enquiries/FeedbackIf you have any feedback or questions, reach me at rachel@rachelhow.comThank you! :)Designed by Rachel How. You may also follow me on YouTube, Twitter, Instagram or check out more resources on my website. 👋 If you read newsletters, you can check mine out here.",
+    "features": [],
+    "reviewQuotes": []
+  }
 }

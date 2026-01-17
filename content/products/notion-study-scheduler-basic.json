@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/lryke",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 430,
+  "rating": 4.8,
   "ratingCount": 430,
   "salesCount": null,
   "tags": [],
@@ -26,5 +26,17 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.620Z",
-  "lastUpdated": "2026-01-12T20:47:12.620Z"
+  "lastUpdated": "2026-01-12T20:47:12.620Z",
+  "image": "https://i.ytimg.com/vi/Pt0FTHW6nNo/hqdefault.jpg",
+  "rawData": {
+    "description": "The perfect study companion for organizing and staying on top of your study schedule. Designed for simplicity and with evidence-based theory so you can enjoy school with peace of mind :) Template includes : Integrated calendar to track ongoing classes and assignments Powerful review system to track confidence levels for each topic Minimalistic weekly planner Simple daily to-do list Simple mood tracker",
+    "features": [
+      "Integrated calendar to track ongoing classes and assignments",
+      "Powerful review system to track confidence levels for each topic",
+      "Minimalistic weekly planner",
+      "Simple daily to-do list",
+      "Simple mood tracker"
+    ],
+    "reviewQuotes": []
+  }
 }

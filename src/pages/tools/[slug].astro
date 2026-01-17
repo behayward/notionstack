@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProductSchema from '../../components/schema/ProductSchema.astro';
 import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
+import FAQSchema from '../../components/schema/FAQSchema.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
 import { generateHeadline, generateFirstParagraph, extractFeatures, addAffiliateTracking } from '../../utils/productContent';
@@ -70,6 +71,9 @@ const breadcrumbItems = [
     category={product.subcategory}
   />
   <BreadcrumbSchema items={breadcrumbItems} />
+  {product.enhancedContent?.faqs && (
+    <FAQSchema items={product.enhancedContent.faqs} />
+  )}
 
   <article class="product-detail">
     <div class="container">
@@ -90,12 +94,28 @@ const breadcrumbItems = [
 
       <div class="product-content">
         <div class="main-content">
-          <section class="description">
-            <h2 class="headline">{headline}</h2>
-            <p class="intro">{firstParagraph}</p>
+          {/* Overview Section */}
+          <section class="overview">
+            <h2>Overview</h2>
+            <p>{product.enhancedContent?.overview || firstParagraph}</p>
           </section>
 
-          {features.length > 0 && (
+          {/* Key Features Section (Enhanced) */}
+          {product.enhancedContent?.featureCategories ? (
+            <section class="features-enhanced">
+              <h2>Key Features</h2>
+              {product.enhancedContent.featureCategories.map(category => (
+                <div class="feature-category">
+                  <h3><span class="icon">{category.icon}</span> {category.category}</h3>
+                  <ul>
+                    {category.features.map(feature => (
+                      <li>{feature}</li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </section>
+          ) : features.length > 0 && (
             <section class="features">
               <h3>What You Get</h3>
               <ul>
@@ -106,6 +126,76 @@ const breadcrumbItems = [
             </section>
           )}
 
+          {/* Problem/Solution Section */}
+          {product.enhancedContent?.problemsSolved && product.enhancedContent?.solutionsBenefits && (
+            <section class="problem-solution">
+              <div class="problems">
+                <h3>Without This Tool</h3>
+                <ul>
+                  {product.enhancedContent.problemsSolved.map(problem => (
+                    <li>{problem}</li>
+                  ))}
+                </ul>
+              </div>
+              <div class="solutions">
+                <h3>With This Tool</h3>
+                <ul>
+                  {product.enhancedContent.solutionsBenefits.map(solution => (
+                    <li>{solution}</li>
+                  ))}
+                </ul>
+              </div>
+            </section>
+          )}
+
+          {/* Best Suited For Section */}
+          {product.enhancedContent?.idealFor && product.enhancedContent?.notRecommendedFor && (
+            <section class="targeting">
+              <div class="ideal-for">
+                <h3>✅ Ideal For</h3>
+                <ul>
+                  {product.enhancedContent.idealFor.map(target => (
+                    <li>{target}</li>
+                  ))}
+                </ul>
+              </div>
+              <div class="not-for">
+                <h3>❌ Not Recommended For</h3>
+                <ul>
+                  {product.enhancedContent.notRecommendedFor.map(target => (
+                    <li>{target}</li>
+                  ))}
+                </ul>
+              </div>
+            </section>
+          )}
+
+          {/* What You Get Section */}
+          {product.enhancedContent?.whatsIncluded && (
+            <section class="whats-included">
+              <h2>What You Get</h2>
+              <ul>
+                {product.enhancedContent.whatsIncluded.map(item => (
+                  <li>{item}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          {/* FAQ Section */}
+          {product.enhancedContent?.faqs && (
+            <section class="faqs">
+              <h2>Frequently Asked Questions</h2>
+              {product.enhancedContent.faqs.map(faq => (
+                <div class="faq-item">
+                  <h3 class="question">{faq.question}</h3>
+                  <p class="answer">{faq.answer}</p>
+                </div>
+              ))}
+            </section>
+          )}
+
+          {/* Fallback: Tags */}
           {product.tags && product.tags.length > 0 && (
             <section class="tags">
               <h3>Tags</h3>
@@ -134,7 +224,7 @@ const breadcrumbItems = [
               Get This Tool →
             </a>
 
-            {product.rating && product.ratingCount && (
+            {product.rating && product.ratingCount && product.rating <= 5 && (
               <div class="rating-info">
                 <div class="rating">
                   <span class="stars">
@@ -147,6 +237,12 @@ const breadcrumbItems = [
                 <span class="count">({product.ratingCount.toLocaleString()} reviews)</span>
               </div>
             )}
+
+            {product.image && (
+              <div class="product-image">
+                <img src={product.image} alt={product.name} />
+              </div>
+            )}
           </div>
         </aside>
       </div>
@@ -155,6 +251,11 @@ const breadcrumbItems = [
 </BaseLayout>
 
 <style>
+  .product-detail {
+    position: relative;
+    z-index: 1;
+  }
+
   .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -311,9 +412,9 @@ const breadcrumbItems = [
 
   .sidebar {
     position: sticky;
-    top: 2rem;
+    top: 6rem;
     height: fit-content;
-    z-index: 1;
+    z-index: 10;
   }
 
   .product-card {
@@ -406,5 +507,284 @@ const breadcrumbItems = [
   .count {
     font-size: 0.875rem;
     color: var(--color-secondary);
+  }
+
+  .product-image {
+    margin-top: 1.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+  }
+
+  .product-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Enhanced Content Sections */
+  .overview {
+    margin-bottom: 2.5rem;
+  }
+
+  .overview h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .overview p {
+    font-size: 1.0625rem;
+    line-height: 1.7;
+    color: var(--color-secondary);
+  }
+
+  .features-enhanced {
+    margin-bottom: 2.5rem;
+  }
+
+  .features-enhanced h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: var(--color-primary);
+  }
+
+  .feature-category {
+    margin-bottom: 2rem;
+  }
+
+  .feature-category h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .feature-category .icon {
+    font-size: 1.25rem;
+  }
+
+  .feature-category ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .feature-category li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    position: relative;
+    color: var(--color-secondary);
+    line-height: 1.6;
+  }
+
+  .feature-category li:before {
+    content: "•";
+    position: absolute;
+    left: 0.5rem;
+    color: var(--color-primary);
+    font-weight: bold;
+  }
+
+  .problem-solution {
+    display: grid;
+    grid-tool-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2.5rem 0;
+  }
+
+  .problems {
+    background: #fef2f2;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid #ef4444;
+  }
+
+  .solutions {
+    background: #f0fdf4;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid #22c55e;
+  }
+
+  .problems h3,
+  .solutions h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .problems ul,
+  .solutions ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .problems li,
+  .solutions li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+    color: var(--color-secondary);
+    line-height: 1.6;
+  }
+
+  .problems li:before {
+    content: "×";
+    position: absolute;
+    left: 0.25rem;
+    color: #ef4444;
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
+
+  .solutions li:before {
+    content: "✓";
+    position: absolute;
+    left: 0.25rem;
+    color: #22c55e;
+    font-weight: bold;
+  }
+
+  .targeting {
+    display: grid;
+    grid-tool-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2.5rem 0;
+  }
+
+  .ideal-for {
+    background: #eff6ff;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid #3b82f6;
+  }
+
+  .not-for {
+    background: #fefce8;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid #eab308;
+  }
+
+  .ideal-for h3,
+  .not-for h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .ideal-for ul,
+  .not-for ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .ideal-for li,
+  .not-for li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+    color: var(--color-secondary);
+    line-height: 1.6;
+  }
+
+  .ideal-for li:before {
+    content: "→";
+    position: absolute;
+    left: 0.25rem;
+    color: #3b82f6;
+    font-weight: bold;
+  }
+
+  .not-for li:before {
+    content: "!";
+    position: absolute;
+    left: 0.5rem;
+    color: #eab308;
+    font-weight: bold;
+  }
+
+  .whats-included {
+    margin: 2.5rem 0;
+  }
+
+  .whats-included h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .whats-included ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .whats-included li {
+    padding-left: 2rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+    color: var(--color-secondary);
+    line-height: 1.6;
+  }
+
+  .whats-included li:before {
+    content: "📦";
+    position: absolute;
+    left: 0;
+    font-size: 1.125rem;
+  }
+
+  .faqs {
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 2px solid var(--color-border);
+  }
+
+  .faqs h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+  }
+
+  .faq-item {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .faq-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .faq-item .question {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 0.75rem;
+  }
+
+  .faq-item .answer {
+    color: var(--color-secondary);
+    line-height: 1.7;
+    font-size: 0.9375rem;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .problem-solution,
+    .targeting {
+      grid-tool-columns: 1fr;
+      gap: 1.5rem;
+    }
   }
 </style>

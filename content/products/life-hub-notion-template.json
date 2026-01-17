@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/etdec",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 313,
-  "ratingCount": 313,
+  "rating": 4.9,
+  "ratingCount": 319,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -26,5 +26,11 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.534Z",
-  "lastUpdated": "2026-01-12T20:47:12.534Z"
+  "lastUpdated": "2026-01-12T20:47:12.534Z",
+  "image": "https://public-files.gumroad.com/82x1l6ios5zg08t5vkh3xjxbwnk5",
+  "rawData": {
+    "description": "The life hub is the perfect aesthetic page to begin your Notion journey and organize your other pages and templates! The life hub is filled with cute widgets and custome-made headers. Please note: other pages will not be included",
+    "features": [],
+    "reviewQuotes": []
+  }
 }

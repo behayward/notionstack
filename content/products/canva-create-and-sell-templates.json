@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/lumdk",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 369,
-  "ratingCount": 369,
+  "rating": 4.9,
+  "ratingCount": 370,
   "salesCount": 541,
   "tags": [],
   "useCases": [],
@@ -26,5 +26,15 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.538Z",
-  "lastUpdated": "2026-01-12T20:47:12.538Z"
+  "lastUpdated": "2026-01-12T20:47:12.538Z",
+  "image": "https://public-files.gumroad.com/2so91qs8ubfjggwltq8e846hn03z",
+  "rawData": {
+    "description": "Canva is the most powerful content creation tool ever!I created a short but to-the-point course to teach you about:Canva Template ResearchCanva Template CreationCanva Template Selling on GumroadI struggle when I first started selling on Canva because no one was that much free to teach me how to create and then sell Canva templates.This course has everything you need to know to research, create and sell templates on Gumroad.How does it work?Pay what you want (or enter $0 to download for free!)Go to the Notion page containing the guide and bookmark itOr choose to duplicate the page into your own Notion workspace to save itLearn about Canva template creation and selling on Gumroad.If you have any worries, you can follow me and tell me:Follow me on:Twitter/Instagram/LinkedInEmail: Ihteshamit@gmail.com",
+    "features": [
+      "Canva Template Research",
+      "Canva Template Creation",
+      "Canva Template Selling on Gumroad"
+    ],
+    "reviewQuotes": []
+  }
 }

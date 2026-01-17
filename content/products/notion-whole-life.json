@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/fbbqmg",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 639,
+  "rating": 4.8,
   "ratingCount": 639,
   "salesCount": 563,
   "tags": [],
@@ -26,5 +26,18 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.729Z",
-  "lastUpdated": "2026-01-12T20:47:12.729Z"
+  "lastUpdated": "2026-01-12T20:47:12.729Z",
+  "image": "https://public-files.gumroad.com/2aa6jds5yvd5bmqsk8kc3aqooxss",
+  "rawData": {
+    "description": "Our Notion Templates are the ultimate solution to boost your productivity and help you lead a more organized life. We have meticulously designed each template to cater to your specific needs, ensuring that you don't have to waste time building pages from scratch.Our collection of templates includes a diverse range of options such as habit tracking, learning programming, mastering a new language, planning your YouTube content, website planning and creating a blog page, and even keeping track of your reading list.Here's what you can expect when you download our Notion Templates:Habit Tracker: Stay on track with your goals and habits, and watch your progress unfold before your eyes.Learn Flutter or any Code: Dive deep into programming and enhance your skills with ease.Learn English or any Language: Master a new language effortlessly with our intuitive template.YouTube Plan: Plan your content and grow your audience on YouTube like a pro.Website Plan and Blog Page: Create a stunning website and blog with ease.Reading List: Keep track of the books you want to read, and never miss a beat.With our Notion Templates, you'll be able to unlock the full potential of Notion and take your productivity to the next level. Don't wait any longer, click the \"I want this\" button and download your copy today!",
+    "features": [
+      "Habit Tracker: Stay on track with your goals and habits, and watch your progress unfold before your eyes.",
+      "Learn Flutter or any Code: Dive deep into programming and enhance your skills with ease.",
+      "Learn English or any Language: Master a new language effortlessly with our intuitive template.",
+      "YouTube Plan: Plan your content and grow your audience on YouTube like a pro.",
+      "Website Plan and Blog Page: Create a stunning website and blog with ease.",
+      "Reading List: Keep track of the books you want to read, and never miss a beat."
+    ],
+    "reviewQuotes": []
+  }
 }

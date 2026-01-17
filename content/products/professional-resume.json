@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/mckym",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 400,
+  "rating": 4.9,
   "ratingCount": 400,
   "salesCount": null,
   "tags": [],
@@ -26,5 +26,11 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.568Z",
-  "lastUpdated": "2026-01-12T20:47:12.568Z"
+  "lastUpdated": "2026-01-12T20:47:12.568Z",
+  "image": "https://public-files.gumroad.com/dznu690dq24iof711fnnudu47rwe",
+  "rawData": {
+    "description": "Create a professional resume in minutes with Notion.",
+    "features": [],
+    "reviewQuotes": []
+  }
 }

@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/536495827/xbpjv",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 462,
-  "ratingCount": 462,
+  "rating": 5,
+  "ratingCount": 465,
   "salesCount": null,
   "tags": [],
   "useCases": [],
@@ -26,5 +26,16 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.641Z",
-  "lastUpdated": "2026-01-12T20:47:13.641Z"
+  "lastUpdated": "2026-01-12T20:47:13.641Z",
+  "image": "https://public-files.gumroad.com/ktujaqw15mxzy2gys9f5nq6p6tda",
+  "rawData": {
+    "description": "A minimal easy to use reading list tracker.What's Inside Reading Goal tracker Book progress indicator Author Database Genre Database This template was created as an alternative to goodreads for managing my books and tracking the books i am reading. The reading tracker for yearly goal updates automatically based on the starting date and finished date. Separate databases for authors and genres give you more flexibility for managing your books. With sidebar navigation you can jump between pages with ease.Some more features are planned. Leave your email during checkout to get notified.📢 Update: I've just launched new a book tracker called smart reading list. This new template can auto populate book meta data and many more cool features i highly recommend checking out smart reading list.Get Smart Reading ListFAQDoes this work on the free version of Notion?Yes. Once you download, you'll get a link to the template you can duplicate it and use as you like. Any other questions?You can contact me on twitter @tonydavidz",
+    "features": [
+      "Reading Goal tracker",
+      "Book progress indicator",
+      "Author Database",
+      "Genre Database"
+    ],
+    "reviewQuotes": []
+  }
 }

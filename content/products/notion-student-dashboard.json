@@ -16,7 +16,7 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/tkfmcx",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 4875,
+  "rating": 5,
   "ratingCount": 4875,
   "salesCount": null,
   "tags": [],
@@ -122,5 +122,6 @@
       "Quick sidebar navigation"
     ],
     "reviewQuotes": []
-  }
+  },
+  "image": "https://public-files.gumroad.com/gg1dakr1ddaqskpmdodaefpo1zs7"
 }
