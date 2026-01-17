@@ -13,8 +13,10 @@
     "import:all": "npm run import:notion && npm run import:blog"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
     "@notionhq/client": "^2.2.15",
     "astro": "^5.16.8",
+    "cheerio": "^1.1.2",
     "csv-parser": "^3.2.0",
     "dotenv": "^16.3.1",
     "notion-to-md": "^3.1.1"
