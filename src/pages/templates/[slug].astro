@@ -84,12 +84,21 @@ const breadcrumbItems = [
       </div>
 
       <header class="product-header">
-        <div class="product-meta">
-          <span class="type-badge">Template</span>
-          {product.subcategory && <span class="category-badge">{product.subcategory}</span>}
+        <div class="header-content">
+          <div class="header-text">
+            <div class="product-meta">
+              <span class="type-badge">Template</span>
+              {product.subcategory && <span class="category-badge">{product.subcategory}</span>}
+            </div>
+            <h1>{product.name}</h1>
+            <p class="creator">By <a href={creatorLink} target="_blank" rel="noopener">{product.creator.name}</a></p>
+          </div>
+          {product.image && (
+            <div class="header-image">
+              <img src={product.image} alt={product.name} />
+            </div>
+          )}
         </div>
-        <h1>{product.name}</h1>
-        <p class="creator">By <a href={creatorLink} target="_blank" rel="noopener">{product.creator.name}</a></p>
       </header>
 
       <div class="product-content">
@@ -273,6 +282,32 @@ const breadcrumbItems = [
 
   .product-header {
     margin-bottom: 3rem;
+  }
+
+  .header-content {
+    display: flex;
+    gap: 3rem;
+    align-items: flex-start;
+  }
+
+  .header-text {
+    flex: 1;
+  }
+
+  .header-image {
+    flex-shrink: 0;
+    width: 280px;
+    height: 200px;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .header-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
   .product-meta {
@@ -762,6 +797,17 @@ const breadcrumbItems = [
 
   /* Mobile responsive */
   @media (max-width: 768px) {
+    .header-content {
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .header-image {
+      width: 100%;
+      max-width: 400px;
+      height: 220px;
+    }
+
     .problem-solution,
     .targeting {
       grid-template-columns: 1fr;
