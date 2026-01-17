@@ -27,28 +27,33 @@ async function scrapeGumroadProduct(url) {
     const html = await response.text();
     const $ = cheerio.load(html);
 
-    // Extract star rating (1-5 scale)
+    // Extract star rating and review count from Gumroad's JSON data
     let starRating = null;
-    const ratingText = $('div[class*="rating"], span[class*="rating"], .product-rating').text();
-    const ratingMatch = ratingText.match(/(\d+\.?\d*)\s*(?:stars?|\/5)/i);
-    if (ratingMatch) {
-      starRating = parseFloat(ratingMatch[1]);
+    let reviewCount = null;
+
+    // Look for ratings JSON object in the page
+    const ratingsMatch = html.match(/"ratings":\s*\{[^}]*"count":\s*(\d+)[^}]*"average":\s*([0-9.]+)/);
+    if (ratingsMatch) {
+      reviewCount = parseInt(ratingsMatch[1]);
+      starRating = parseFloat(ratingsMatch[2]);
     }
 
-    // Alternative: Look for filled stars
+    // Alternative: Look for rating text patterns
     if (!starRating) {
-      const filledStars = $('svg[class*="star-filled"], .star.filled, [class*="icon-star-filled"]').length;
-      if (filledStars > 0) {
-        starRating = filledStars;
+      const ratingText = $('div[class*="rating"], span[class*="rating"], .product-rating').text();
+      const ratingMatch = ratingText.match(/(\d+\.?\d*)\s*(?:stars?|\/5)/i);
+      if (ratingMatch) {
+        starRating = parseFloat(ratingMatch[1]);
       }
     }
 
-    // Extract review count
-    let reviewCount = null;
-    const reviewText = $('div[class*="review"], span[class*="review"], .reviews-count').text();
-    const reviewMatch = reviewText.match(/(\d+)\s*reviews?/i);
-    if (reviewMatch) {
-      reviewCount = parseInt(reviewMatch[1]);
+    // Alternative: Extract review count from text
+    if (!reviewCount) {
+      const reviewText = $('div[class*="review"], span[class*="review"], .reviews-count').text();
+      const reviewMatch = reviewText.match(/(\d+)\s*(?:reviews?|ratings?)/i);
+      if (reviewMatch) {
+        reviewCount = parseInt(reviewMatch[1]);
+      }
     }
 
     // Extract og:image

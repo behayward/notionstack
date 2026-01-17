@@ -16,8 +16,8 @@
   "affiliateUrl": "https://gumroad.com/a/962870099/ifrdj",
   "hasAffiliate": true,
   "affiliateRate": "partner",
-  "rating": 2151,
-  "ratingCount": 2151,
+  "rating": 5,
+  "ratingCount": 2152,
   "salesCount": null,
   "tags": [
     "Expenses"
@@ -121,5 +121,6 @@
       "View by recent, monthly or yearly expenses"
     ],
     "reviewQuotes": []
-  }
+  },
+  "image": "https://public-files.gumroad.com/1rf1wr77clm4ktz704g61sragf30"
 }

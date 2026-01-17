@@ -224,7 +224,7 @@ const breadcrumbItems = [
               Get This Template →
             </a>
 
-            {product.rating && product.ratingCount && (
+            {product.rating && product.ratingCount && product.rating <= 5 && (
               <div class="rating-info">
                 <div class="rating">
                   <span class="stars">
