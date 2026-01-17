@@ -27,7 +27,7 @@
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.541Z",
   "lastUpdated": "2026-01-12T20:47:12.541Z",
-  "image": "https://public-files.gumroad.com/h0g13weap775s43oneg2hpr92zto",
+  "image": "/images/products/spotion-covers.jpg",
   "rawData": {
     "description": "The better way to embed Spotify into Notion.An aesthetic, playable embed for Spotify playlists, songs and albums.Why did I make this?The default Spotify embed is pretty bad for Notion. It doesn't fit the minimalist aesthetic I like for my Notion boards.Furthermore, it doesn't even work! You can only listen to 30 seconds of a song when you play it from Notion.So I made my own version.What do I get with the embed?You get a resizable view of the album/playlist/song art, and when you click on it the song/playlist will play in the Spotify app on your laptop.What the hell is a \"Spotion?\"Spotify + Notion. I feel like you could've figured this one out on your own.",
     "features": [],
