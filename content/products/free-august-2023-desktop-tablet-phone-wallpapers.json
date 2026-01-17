@@ -24,7 +24,8 @@
   "features": "",
   "assessmentScore": 55,
   "recommendation": "RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.745Z",
-  "lastUpdated": "2026-01-12T20:47:12.745Z"
+  "lastUpdated": "2026-01-12T20:47:12.745Z",
+  "inactiveReason": "Outdated year-specific product"
 }

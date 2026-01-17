@@ -16,7 +16,7 @@ try {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
     const product = JSON.parse(content);
-    if (product.category === 'tool') {
+    if (product.category === 'tool' && product.status !== 'inactive') {
       allProducts.push(product);
     }
   }

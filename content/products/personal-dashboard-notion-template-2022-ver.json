@@ -24,7 +24,8 @@
   "features": "After purchase, you will receive an email to view the product's content. If you're logged into Gumroad, you can find the contents in your Gumroad Library (https://app.gumroad.com/library).; (Optional) If you don't have a Notion account, sign uphere.; Click on the Notion template link in the product. (Make sure you are logged into Notion); Open the template link, click \"Duplicate\" on the top right corner.; Done! You should be able to make edits to the Notion page. Happy learning!",
   "assessmentScore": 75,
   "recommendation": "HIGHLY RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.538Z",
-  "lastUpdated": "2026-01-12T20:47:12.538Z"
+  "lastUpdated": "2026-01-12T20:47:12.538Z",
+  "inactiveReason": "Outdated year-specific product"
 }

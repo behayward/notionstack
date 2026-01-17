@@ -24,7 +24,8 @@
   "features": "2022-2023 month calendars (freeand paid); Weekly 2022-2023 month calendars (paid only); Minimal plain text Monthly and Weekday covers (freeand paid); Animals (11); Brands (20); Labels (12); Subjects (9); Workflow (22)",
   "assessmentScore": 85,
   "recommendation": "HIGHLY RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.543Z",
-  "lastUpdated": "2026-01-12T20:47:12.543Z"
+  "lastUpdated": "2026-01-12T20:47:12.543Z",
+  "inactiveReason": "Outdated year-specific product"
 }

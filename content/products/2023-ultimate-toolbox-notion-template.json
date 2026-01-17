@@ -24,7 +24,8 @@
   "features": "🛠 +100 top toolsselected to build your perfect stack.; 👩‍💻👨‍💼👨‍🎨 Pick the toolsthat fits your need: Freelancer, digital creator, entrepreneur, start-ups, ect.; 💵Save moneywith discounts on tools you use daily; 🔄Manage your stack& have a better view on your expenses",
   "assessmentScore": 75,
   "recommendation": "HIGHLY RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.584Z",
-  "lastUpdated": "2026-01-12T20:47:12.584Z"
+  "lastUpdated": "2026-01-12T20:47:12.584Z",
+  "inactiveReason": "Outdated year-specific product"
 }

@@ -24,7 +24,8 @@
   "features": "Week start: Sunday with light theme; Week start: Sunday with dark theme; Week start: Monday with light theme; Week start: Monday with dark themeRead more about it in my blog",
   "assessmentScore": 75,
   "recommendation": "HIGHLY RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.694Z",
-  "lastUpdated": "2026-01-12T20:47:12.694Z"
+  "lastUpdated": "2026-01-12T20:47:12.694Z",
+  "inactiveReason": "Outdated year-specific product"
 }

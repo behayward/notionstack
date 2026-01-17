@@ -13,12 +13,15 @@ try {
   const files = await readdir(productsDir);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-  // Load all products
+  // Load all active products
   const allProducts = [];
   for (const file of jsonFiles) {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
-    allProducts.push(JSON.parse(content));
+    const product = JSON.parse(content);
+    if (product.status !== 'inactive') {
+      allProducts.push(product);
+    }
   }
 
   // Sort by priority score (same as listing pages)

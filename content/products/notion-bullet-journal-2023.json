@@ -24,7 +24,8 @@
   "features": "Task tracking; Event tracking; Mood & Activity logs; Habit tracker; Sleep Tracker; Goal tracker",
   "assessmentScore": 90,
   "recommendation": "HIGHLY RECOMMENDED",
-  "status": "active",
+  "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.625Z",
-  "lastUpdated": "2026-01-12T20:47:12.625Z"
+  "lastUpdated": "2026-01-12T20:47:12.625Z",
+  "inactiveReason": "Outdated year-specific product"
 }
