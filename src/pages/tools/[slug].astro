@@ -5,106 +5,188 @@ import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
 import FAQSchema from '../../components/schema/FAQSchema.astro';
 import { readdir, readFile } from 'fs/promises';
 import { join } from 'path';
-import { generateHeadline, generateFirstParagraph, extractFeatures, addAffiliateTracking } from '../../utils/productContent';
 
 export async function getStaticPaths() {
+  // Check both content/tools and content/products directories
+  const toolsDir = join(process.cwd(), 'content/tools');
   const productsDir = join(process.cwd(), 'content/products');
-  const files = await readdir(productsDir);
-  const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+  let toolFiles = [];
+
+  // Try tools directory first
+  try {
+    const files = await readdir(toolsDir);
+    toolFiles = files.filter(file => file.endsWith('.json')).map(file => ({
+      dir: toolsDir,
+      file
+    }));
+  } catch (error) {
+    // Tools directory doesn't exist yet, check products
+    try {
+      const files = await readdir(productsDir);
+      const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+      for (const file of jsonFiles) {
+        const filePath = join(productsDir, file);
+        const content = await readFile(filePath, 'utf-8');
+        const product = JSON.parse(content);
+
+        if (product.category === 'tool') {
+          toolFiles.push({ dir: productsDir, file });
+        }
+      }
+    } catch (err) {
+      console.error('Error loading tools:', err);
+      return [];
+    }
+  }
 
   const paths = await Promise.all(
-    jsonFiles.map(async (file) => {
-      const filePath = join(productsDir, file);
+    toolFiles.map(async ({ dir, file }) => {
+      const filePath = join(dir, file);
       const content = await readFile(filePath, 'utf-8');
-      const product = JSON.parse(content);
+      const tool = JSON.parse(content);
 
-      // Only include tools
-      if (product.category === 'tool') {
-        return {
-          params: { slug: product.slug },
-          props: { product }
-        };
-      }
-      return null;
+      return {
+        params: { slug: tool.slug },
+        props: { tool }
+      };
     })
   );
 
-  return paths.filter(Boolean);
+  return paths;
 }
 
-const { product } = Astro.props;
+const { tool } = Astro.props;
 
-// Generate content
-const headline = generateHeadline(product.name, product.description, product.subcategory);
-const firstParagraph = generateFirstParagraph(product.description);
-const features = extractFeatures(product.description, product.features || '');
-const creatorLink = addAffiliateTracking(product.creator.url);
-
-// Build full product URL
-const productUrl = `https://notionstack.so/tools/${product.slug}`;
+// Build full tool URL
+const toolUrl = `https://notionstack.so/tools/${tool.slug}`;
 
 // Build breadcrumb items
 const breadcrumbItems = [
   { name: 'Home', url: 'https://notionstack.so/' },
   { name: 'Tools', url: 'https://notionstack.so/tools' },
-  ...(product.subcategory ? [{
-    name: product.subcategory,
-    url: `https://notionstack.so/tools?category=${product.subcategory}`
+  ...(tool.subcategory ? [{
+    name: tool.subcategory,
+    url: `https://notionstack.so/tools?category=${tool.subcategory}`
   }] : []),
-  { name: product.name, url: productUrl }
+  { name: tool.name, url: toolUrl }
 ];
+
+// Helper to capitalize integration method
+const formatIntegration = (method) => {
+  if (!method) return 'Integration';
+  const formatted = {
+    'native': 'Native Integration',
+    'zapier': 'Via Zapier',
+    'api': 'API Integration',
+    'embed': 'Embed/Widget',
+    'extension': 'Browser Extension',
+    'widget': 'Widget'
+  };
+  return formatted[method] || method.charAt(0).toUpperCase() + method.slice(1);
+};
 ---
 
 <BaseLayout
-  title={product.name}
-  description={product.description}
+  title={tool.name}
+  description={tool.tagline || tool.description}
 >
   <ProductSchema
-    name={product.name}
-    description={product.description}
-    brand={product.creator.name}
-    price={product.price}
-    currency={product.currency}
-    url={product.affiliateUrl || product.productUrl}
-    rating={product.rating}
-    reviewCount={product.ratingCount}
-    category={product.subcategory}
+    name={tool.name}
+    description={tool.tagline || tool.description}
+    brand={tool.creator?.name}
+    price={0}
+    currency="USD"
+    url={tool.affiliateUrl || tool.website}
+    rating={tool.rating}
+    reviewCount={tool.ratingCount}
+    category={tool.subcategory}
   />
   <BreadcrumbSchema items={breadcrumbItems} />
-  {product.enhancedContent?.faqs && (
-    <FAQSchema items={product.enhancedContent.faqs} />
+  {tool.enhancedContent?.faqs && (
+    <FAQSchema items={tool.enhancedContent.faqs} />
   )}
 
-  <article class="product-detail">
+  <article class="tool-detail">
     <div class="container">
       <div class="breadcrumb">
         <a href="/">Home</a> / <a href="/tools">Tools</a>
-        {product.subcategory && <> / <a href={`/tools?category=${product.subcategory}`}>{product.subcategory}</a></>}
-        / {product.name}
+        {tool.subcategory && <> / <a href={`/tools?category=${tool.subcategory}`}>{tool.subcategory}</a></>}
+        / {tool.name}
       </div>
 
-      <header class="product-header">
-        <div class="product-meta">
-          <span class="type-badge">Tool</span>
-          {product.subcategory && <span class="category-badge">{product.subcategory}</span>}
+      <header class="tool-header">
+        <div class="tool-meta">
+          <span class="category-badge">{tool.category}</span>
+          {tool.integrationMethod && (
+            <span class="integration-badge">{formatIntegration(tool.integrationMethod)}</span>
+          )}
+          {tool.complexityLevel && (
+            <span class={`complexity-badge complexity-${tool.complexityLevel}`}>
+              {tool.complexityLevel}
+            </span>
+          )}
         </div>
-        <h1>{product.name}</h1>
-        <p class="creator">By <a href={creatorLink} target="_blank" rel="noopener">{product.creator.name}</a></p>
+
+        <h1>{tool.name}</h1>
+
+        {tool.tagline && <p class="tagline">{tool.tagline}</p>}
+
+        <div class="meta-info">
+          {tool.creator?.name && (
+            <span class="creator">By <a href={tool.creator.url} target="_blank" rel="noopener">{tool.creator.name}</a></span>
+          )}
+          {tool.rating && tool.ratingCount && (
+            <span class="rating-meta">⭐ {tool.rating} ({tool.ratingCount.toLocaleString()} reviews)</span>
+          )}
+          {tool.pricingDisplay && (
+            <span class="pricing-meta">{tool.pricingDisplay}</span>
+          )}
+        </div>
+
+        <a
+          href={tool.affiliateUrl || tool.website}
+          class="cta-primary"
+          target="_blank"
+          rel="noopener"
+        >
+          Try {tool.name} →
+        </a>
+
+        {tool.topBenefits && tool.topBenefits.length > 0 && (
+          <div class="benefits-list">
+            {tool.topBenefits.map(benefit => (
+              <span class="benefit">✓ {benefit}</span>
+            ))}
+          </div>
+        )}
       </header>
 
-      <div class="product-content">
+      {/* Quick Facts Bar */}
+      <div class="quick-facts">
+        {tool.pricingDisplay && <span>💰 {tool.pricingDisplay}</span>}
+        {tool.integrationMethod && <span>🔗 {formatIntegration(tool.integrationMethod)}</span>}
+        {tool.complexityLevel && <span>⚡ {tool.complexityLevel.charAt(0).toUpperCase() + tool.complexityLevel.slice(1)}</span>}
+      </div>
+
+      <div class="tool-content">
         <div class="main-content">
           {/* Overview Section */}
           <section class="overview">
             <h2>Overview</h2>
-            <p>{product.enhancedContent?.overview || firstParagraph}</p>
+            {tool.enhancedContent?.overview ? (
+              <div set:html={tool.enhancedContent.overview} />
+            ) : (
+              <p>{tool.description}</p>
+            )}
           </section>
 
-          {/* Key Features Section (Enhanced) */}
-          {product.enhancedContent?.featureCategories ? (
+          {/* Key Features Section */}
+          {tool.enhancedContent?.featureCategories && (
             <section class="features-enhanced">
               <h2>Key Features</h2>
-              {product.enhancedContent.featureCategories.map(category => (
+              {tool.enhancedContent.featureCategories.map(category => (
                 <div class="feature-category">
                   <h3><span class="icon">{category.icon}</span> {category.category}</h3>
                   <ul>
@@ -115,78 +197,25 @@ const breadcrumbItems = [
                 </div>
               ))}
             </section>
-          ) : features.length > 0 && (
-            <section class="features">
-              <h3>What You Get</h3>
-              <ul>
-                {features.map(feature => (
-                  <li>{feature}</li>
+          )}
+
+          {/* Tags / Use Cases */}
+          {tool.tags && tool.tags.length > 0 && (
+            <section class="tags-section">
+              <h3>Use Cases & Tags</h3>
+              <div class="tag-list">
+                {tool.tags.map(tag => (
+                  <span class="tag">{tag}</span>
                 ))}
-              </ul>
-            </section>
-          )}
-
-          {/* Problem/Solution Section */}
-          {product.enhancedContent?.problemsSolved && product.enhancedContent?.solutionsBenefits && (
-            <section class="problem-solution">
-              <div class="problems">
-                <h3>Without This Tool</h3>
-                <ul>
-                  {product.enhancedContent.problemsSolved.map(problem => (
-                    <li>{problem}</li>
-                  ))}
-                </ul>
               </div>
-              <div class="solutions">
-                <h3>With This Tool</h3>
-                <ul>
-                  {product.enhancedContent.solutionsBenefits.map(solution => (
-                    <li>{solution}</li>
-                  ))}
-                </ul>
-              </div>
-            </section>
-          )}
-
-          {/* Best Suited For Section */}
-          {product.enhancedContent?.idealFor && product.enhancedContent?.notRecommendedFor && (
-            <section class="targeting">
-              <div class="ideal-for">
-                <h3>✅ Ideal For</h3>
-                <ul>
-                  {product.enhancedContent.idealFor.map(target => (
-                    <li>{target}</li>
-                  ))}
-                </ul>
-              </div>
-              <div class="not-for">
-                <h3>❌ Not Recommended For</h3>
-                <ul>
-                  {product.enhancedContent.notRecommendedFor.map(target => (
-                    <li>{target}</li>
-                  ))}
-                </ul>
-              </div>
-            </section>
-          )}
-
-          {/* What You Get Section */}
-          {product.enhancedContent?.whatsIncluded && (
-            <section class="whats-included">
-              <h2>What You Get</h2>
-              <ul>
-                {product.enhancedContent.whatsIncluded.map(item => (
-                  <li>{item}</li>
-                ))}
-              </ul>
             </section>
           )}
 
           {/* FAQ Section */}
-          {product.enhancedContent?.faqs && (
+          {tool.enhancedContent?.faqs && tool.enhancedContent.faqs.length > 0 && (
             <section class="faqs">
               <h2>Frequently Asked Questions</h2>
-              {product.enhancedContent.faqs.map(faq => (
+              {tool.enhancedContent.faqs.map(faq => (
                 <div class="faq-item">
                   <h3 class="question">{faq.question}</h3>
                   <p class="answer">{faq.answer}</p>
@@ -195,54 +224,93 @@ const breadcrumbItems = [
             </section>
           )}
 
-          {/* Fallback: Tags */}
-          {product.tags && product.tags.length > 0 && (
-            <section class="tags">
-              <h3>Tags</h3>
-              <div class="tag-list">
-                {product.tags.map(tag => (
-                  <span class="tag">{tag}</span>
+          {/* Alternatives Section */}
+          {tool.alternatives && tool.alternatives.length > 0 && (
+            <section class="alternatives">
+              <h2>Similar Tools</h2>
+              <ul class="alternatives-list">
+                {tool.alternatives.map(altSlug => (
+                  <li>
+                    <a href={`/tools/${altSlug}`}>{altSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')} →</a>
+                  </li>
                 ))}
-              </div>
+              </ul>
             </section>
           )}
         </div>
 
         <aside class="sidebar">
-          <div class="product-card">
-            <div class="price-section">
-              <span class="price">{product.price > 0 ? `$${product.price}` : 'Free'}</span>
-              {product.price > 0 && <span class="currency">{product.currency}</span>}
+          <div class="action-card">
+            {tool.image && (
+              <div class="tool-image">
+                <img src={tool.image} alt={tool.name} />
+              </div>
+            )}
+
+            <div class="pricing-display">
+              {tool.pricingDisplay || 'View Pricing'}
             </div>
 
             <a
-              href={product.hasAffiliate ? product.affiliateUrl : product.productUrl}
+              href={tool.affiliateUrl || tool.website}
               class="cta-button"
               target="_blank"
               rel="noopener"
             >
-              Get This Tool →
+              Try {tool.name} →
             </a>
 
-            {product.rating && product.ratingCount && product.rating <= 5 && (
+            {tool.rating && tool.ratingCount && (
               <div class="rating-info">
                 <div class="rating">
                   <span class="stars">
                     {[1, 2, 3, 4, 5].map(star => (
-                      <span class={star <= Math.floor(product.rating) ? 'star filled' : 'star empty'}>★</span>
+                      <span class={star <= Math.floor(tool.rating) ? 'star filled' : 'star empty'}>★</span>
                     ))}
                   </span>
-                  <span class="rating-number">{product.rating.toFixed(1)}</span>
+                  <span class="rating-number">{tool.rating.toFixed(1)}</span>
                 </div>
-                <span class="count">({product.ratingCount.toLocaleString()} reviews)</span>
+                <span class="count">({tool.ratingCount.toLocaleString()} reviews)</span>
               </div>
             )}
 
-            {product.image && (
-              <div class="product-image">
-                <img src={product.image} alt={product.name} />
+            {tool.topBenefits && tool.topBenefits.length > 0 && (
+              <div class="benefits-sidebar">
+                {tool.topBenefits.map(benefit => (
+                  <div class="benefit-item">✓ {benefit}</div>
+                ))}
               </div>
             )}
+          </div>
+
+          <div class="quick-info-card">
+            <h3>Quick Info</h3>
+            <dl>
+              {tool.creator?.name && (
+                <>
+                  <dt>Company</dt>
+                  <dd><a href={tool.creator.url} target="_blank" rel="noopener">{tool.creator.name}</a></dd>
+                </>
+              )}
+              {tool.integrationMethod && (
+                <>
+                  <dt>Integration</dt>
+                  <dd>{formatIntegration(tool.integrationMethod)}</dd>
+                </>
+              )}
+              {tool.setupTime && (
+                <>
+                  <dt>Setup Time</dt>
+                  <dd>{tool.setupTime}</dd>
+                </>
+              )}
+              {tool.complexityLevel && (
+                <>
+                  <dt>Complexity</dt>
+                  <dd class="complexity-value">{tool.complexityLevel.charAt(0).toUpperCase() + tool.complexityLevel.slice(1)}</dd>
+                </>
+              )}
+            </dl>
           </div>
         </aside>
       </div>
@@ -251,15 +319,18 @@ const breadcrumbItems = [
 </BaseLayout>
 
 <style>
-  .product-detail {
+  .tool-detail {
     position: relative;
     z-index: 1;
+    padding-top: 2rem;
   }
 
   .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
+    position: relative;
+    display: flow-root;
   }
 
   .breadcrumb {
@@ -277,17 +348,24 @@ const breadcrumbItems = [
     text-decoration: underline;
   }
 
-  .product-header {
-    margin-bottom: 3rem;
+  .tool-header {
+    margin-bottom: 2rem;
+    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
   }
 
-  .product-meta {
+  .tool-meta {
     display: flex;
     gap: 0.5rem;
     margin-bottom: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
-  .type-badge, .category-badge {
+  .category-badge, .integration-badge, .complexity-badge {
     display: inline-block;
     padding: 0.25rem 0.75rem;
     border-radius: 0.375rem;
@@ -296,14 +374,33 @@ const breadcrumbItems = [
     font-weight: 600;
   }
 
-  .type-badge {
-    background: #f3f4f6;
-    color: #6b7280;
+  .category-badge {
+    background: #e0e7ff;
+    color: #4338ca;
   }
 
-  .category-badge {
-    background: #e5e7eb;
-    color: #374151;
+  .integration-badge {
+    background: #dbeafe;
+    color: #1e40af;
+  }
+
+  .complexity-badge {
+    text-transform: capitalize;
+  }
+
+  .complexity-beginner {
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  .complexity-intermediate {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .complexity-advanced {
+    background: #fee2e2;
+    color: #991b1b;
   }
 
   h1 {
@@ -314,85 +411,171 @@ const breadcrumbItems = [
     color: var(--color-primary);
   }
 
-  .creator {
-    font-size: 1.125rem;
+  .tagline {
+    font-size: 1.25rem;
     color: var(--color-secondary);
+    margin-bottom: 1rem;
   }
 
-  .creator a {
+  .meta-info {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 0.875rem;
+    color: var(--color-secondary);
+    margin-bottom: 1.5rem;
+  }
+
+  .meta-info a {
     color: var(--color-primary);
     text-decoration: none;
-    font-weight: 600;
   }
 
-  .creator a:hover {
+  .meta-info a:hover {
     text-decoration: underline;
   }
 
-  .product-content {
+  .cta-primary {
+    display: inline-block;
+    background: var(--color-primary);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.0625rem;
+    transition: all 0.2s ease;
+    margin-bottom: 1.5rem;
+  }
+
+  .cta-primary:hover {
+    background: #1f2937;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
+  }
+
+  .benefits-list {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .benefit {
+    color: var(--color-secondary);
+    font-size: 0.9375rem;
+  }
+
+  .quick-facts {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding: 1rem;
+    background: #f9fafb;
+    border-radius: 0.5rem;
+    margin-bottom: 3rem;
+    font-size: 0.9375rem;
+    color: var(--color-secondary);
+    flex-wrap: wrap;
+  }
+
+  .tool-content {
     display: grid;
-    grid-tool-columns: 1fr 350px;
+    grid-template-columns: minmax(0, 1fr) 350px;
     gap: 3rem;
+    align-items: start;
   }
 
   @media (max-width: 900px) {
-    .product-content {
-      grid-tool-columns: 1fr;
+    .tool-content {
+      grid-template-columns: 1fr;
     }
 
     .sidebar {
       order: -1;
+    }
+
+    .tool-header {
+      text-align: left;
+    }
+
+    .tool-meta,
+    .meta-info,
+    .benefits-list,
+    .quick-facts {
+      justify-content: flex-start;
     }
   }
 
   .main-content {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 2.5rem;
+    min-width: 0;
   }
 
-  .description .headline {
-    font-size: 1.75rem;
+  .overview h2,
+  .features-enhanced h2,
+  .faqs h2,
+  .alternatives h2 {
+    font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 1rem;
     color: var(--color-primary);
-    line-height: 1.3;
   }
 
-  .description .intro {
-    font-size: 1.125rem;
+  .overview p,
+  .overview div {
+    font-size: 1.0625rem;
     line-height: 1.7;
     color: var(--color-secondary);
   }
 
-  .features h3, .tags h3 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    color: var(--color-primary);
+  .features-enhanced .feature-category {
+    margin-bottom: 2rem;
   }
 
-  .features ul {
+  .features-enhanced .feature-category h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .features-enhanced .icon {
+    font-size: 1.25rem;
+  }
+
+  .features-enhanced ul {
     list-style: none;
     padding: 0;
   }
 
-  .features li {
-    padding: 0.75rem 0;
-    padding-left: 1.75rem;
+  .features-enhanced li {
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
     position: relative;
     color: var(--color-secondary);
-    font-size: 1.0625rem;
     line-height: 1.6;
   }
 
-  .features li::before {
-    content: "✓";
+  .features-enhanced li:before {
+    content: "•";
     position: absolute;
-    left: 0;
+    left: 0.5rem;
     color: var(--color-primary);
     font-weight: bold;
-    font-size: 1.25rem;
+  }
+
+  .tags-section h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
   }
 
   .tag-list {
@@ -410,39 +593,95 @@ const breadcrumbItems = [
     font-weight: 500;
   }
 
-  .sidebar {
-    position: sticky;
-    top: 6rem;
-    height: fit-content;
-    z-index: 10;
+  .faqs {
+    margin-top: 3rem;
+    padding-top: 3rem;
+    border-top: 2px solid var(--color-border);
   }
 
-  .product-card {
+  .faq-item {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .faq-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .faq-item .question {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 0.75rem;
+  }
+
+  .faq-item .answer {
+    color: var(--color-secondary);
+    line-height: 1.7;
+    font-size: 0.9375rem;
+  }
+
+  .alternatives-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .alternatives-list li {
+    margin-bottom: 0.75rem;
+  }
+
+  .alternatives-list a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .alternatives-list a:hover {
+    text-decoration: underline;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 2rem;
+    height: fit-content;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    align-self: start;
+  }
+
+  .action-card,
+  .quick-info-card {
     border: 1px solid var(--color-border);
     border-radius: 0.75rem;
     padding: 2rem;
     background: white;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.5rem;
   }
 
-  .price-section {
+  .tool-image {
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+  }
+
+  .tool-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .pricing-display {
     text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-primary);
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
     border-bottom: 1px solid var(--color-border);
-  }
-
-  .price {
-    font-size: 3rem;
-    font-weight: 700;
-    color: var(--color-primary);
-    letter-spacing: -0.03em;
-  }
-
-  .currency {
-    font-size: 1.125rem;
-    color: var(--color-secondary);
-    margin-left: 0.5rem;
   }
 
   .cta-button {
@@ -509,282 +748,53 @@ const breadcrumbItems = [
     color: var(--color-secondary);
   }
 
-  .product-image {
+  .benefits-sidebar {
     margin-top: 1.5rem;
-    border-radius: 0.5rem;
-    overflow: hidden;
-    border: 1px solid var(--color-border);
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--color-border);
   }
 
-  .product-image img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  /* Enhanced Content Sections */
-  .overview {
-    margin-bottom: 2.5rem;
-  }
-
-  .overview h2 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-bottom: 1rem;
-    color: var(--color-primary);
-  }
-
-  .overview p {
-    font-size: 1.0625rem;
-    line-height: 1.7;
+  .benefit-item {
+    padding: 0.5rem 0;
     color: var(--color-secondary);
-  }
-
-  .features-enhanced {
-    margin-bottom: 2.5rem;
-  }
-
-  .features-enhanced h2 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-bottom: 1.5rem;
-    color: var(--color-primary);
-  }
-
-  .feature-category {
-    margin-bottom: 2rem;
-  }
-
-  .feature-category h3 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 0.75rem;
-    color: var(--color-primary);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .feature-category .icon {
-    font-size: 1.25rem;
-  }
-
-  .feature-category ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .feature-category li {
-    padding-left: 1.5rem;
-    margin-bottom: 0.5rem;
-    position: relative;
-    color: var(--color-secondary);
-    line-height: 1.6;
-  }
-
-  .feature-category li:before {
-    content: "•";
-    position: absolute;
-    left: 0.5rem;
-    color: var(--color-primary);
-    font-weight: bold;
-  }
-
-  .problem-solution {
-    display: grid;
-    grid-tool-columns: 1fr 1fr;
-    gap: 2rem;
-    margin: 2.5rem 0;
-  }
-
-  .problems {
-    background: #fef2f2;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    border-left: 4px solid #ef4444;
-  }
-
-  .solutions {
-    background: #f0fdf4;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    border-left: 4px solid #22c55e;
-  }
-
-  .problems h3,
-  .solutions h3 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    color: var(--color-primary);
-  }
-
-  .problems ul,
-  .solutions ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .problems li,
-  .solutions li {
-    padding-left: 1.5rem;
-    margin-bottom: 0.75rem;
-    position: relative;
-    color: var(--color-secondary);
-    line-height: 1.6;
-  }
-
-  .problems li:before {
-    content: "×";
-    position: absolute;
-    left: 0.25rem;
-    color: #ef4444;
-    font-weight: bold;
-    font-size: 1.25rem;
-  }
-
-  .solutions li:before {
-    content: "✓";
-    position: absolute;
-    left: 0.25rem;
-    color: #22c55e;
-    font-weight: bold;
-  }
-
-  .targeting {
-    display: grid;
-    grid-tool-columns: 1fr 1fr;
-    gap: 2rem;
-    margin: 2.5rem 0;
-  }
-
-  .ideal-for {
-    background: #eff6ff;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    border-left: 4px solid #3b82f6;
-  }
-
-  .not-for {
-    background: #fefce8;
-    padding: 1.5rem;
-    border-radius: 0.5rem;
-    border-left: 4px solid #eab308;
-  }
-
-  .ideal-for h3,
-  .not-for h3 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    color: var(--color-primary);
-  }
-
-  .ideal-for ul,
-  .not-for ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .ideal-for li,
-  .not-for li {
-    padding-left: 1.5rem;
-    margin-bottom: 0.75rem;
-    position: relative;
-    color: var(--color-secondary);
-    line-height: 1.6;
-  }
-
-  .ideal-for li:before {
-    content: "→";
-    position: absolute;
-    left: 0.25rem;
-    color: #3b82f6;
-    font-weight: bold;
-  }
-
-  .not-for li:before {
-    content: "!";
-    position: absolute;
-    left: 0.5rem;
-    color: #eab308;
-    font-weight: bold;
-  }
-
-  .whats-included {
-    margin: 2.5rem 0;
-  }
-
-  .whats-included h2 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-bottom: 1rem;
-    color: var(--color-primary);
-  }
-
-  .whats-included ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .whats-included li {
-    padding-left: 2rem;
-    margin-bottom: 0.75rem;
-    position: relative;
-    color: var(--color-secondary);
-    line-height: 1.6;
-  }
-
-  .whats-included li:before {
-    content: "📦";
-    position: absolute;
-    left: 0;
-    font-size: 1.125rem;
-  }
-
-  .faqs {
-    margin-top: 3rem;
-    padding-top: 3rem;
-    border-top: 2px solid var(--color-border);
-  }
-
-  .faqs h2 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-bottom: 2rem;
-    color: var(--color-primary);
-  }
-
-  .faq-item {
-    margin-bottom: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid var(--color-border);
-  }
-
-  .faq-item:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
-
-  .faq-item .question {
-    font-size: 1.125rem;
-    font-weight: 600;
-    color: var(--color-primary);
-    margin-bottom: 0.75rem;
-  }
-
-  .faq-item .answer {
-    color: var(--color-secondary);
-    line-height: 1.7;
     font-size: 0.9375rem;
   }
 
-  /* Mobile responsive */
-  @media (max-width: 768px) {
-    .problem-solution,
-    .targeting {
-      grid-tool-columns: 1fr;
-      gap: 1.5rem;
-    }
+  .quick-info-card h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+  }
+
+  .quick-info-card dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.75rem 1rem;
+  }
+
+  .quick-info-card dt {
+    font-weight: 600;
+    color: var(--color-primary);
+    font-size: 0.875rem;
+  }
+
+  .quick-info-card dd {
+    color: var(--color-secondary);
+    font-size: 0.875rem;
+    margin: 0;
+  }
+
+  .quick-info-card a {
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+
+  .quick-info-card a:hover {
+    text-decoration: underline;
+  }
+
+  .complexity-value {
+    text-transform: capitalize;
   }
 </style>
