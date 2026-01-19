@@ -103,7 +103,7 @@
     "pipedream",
     "activepieces"
   ],
-  "image": "/images/tools/make-logo.png",
+  "image": "/images/tools/make-logo.svg",
   "screenshots": [
     "/images/tools/make-scenario-builder.png",
     "/images/tools/make-notion-modules.png"

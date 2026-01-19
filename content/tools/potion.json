@@ -98,7 +98,7 @@
     "notaku",
     "feather"
   ],
-  "image": "/images/tools/potion-logo.png",
+  "image": "/images/tools/potion-logo.svg",
   "screenshots": [
     "/images/tools/potion-website.png",
     "/images/tools/potion-code-editor.png"

@@ -93,7 +93,7 @@
     "ifttt",
     "pipedream"
   ],
-  "image": "/images/tools/zapier-logo.png",
+  "image": "/images/tools/zapier-logo.svg",
   "screenshots": [
     "/images/tools/zapier-workflow-builder.png",
     "/images/tools/zapier-notion-integration.png"

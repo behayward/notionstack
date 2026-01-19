@@ -107,7 +107,7 @@
     "jotform",
     "typeform"
   ],
-  "image": "/images/tools/notionforms-logo.png",
+  "image": "/images/tools/notionforms-logo.svg",
   "screenshots": [
     "/images/tools/notionforms-builder.png",
     "/images/tools/notionforms-database-sync.png"

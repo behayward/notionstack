@@ -101,7 +101,7 @@
     "n8n",
     "automate-io"
   ],
-  "image": "/images/tools/pipedream-logo.png",
+  "image": "/images/tools/pipedream-logo.svg",
   "screenshots": [
     "/images/tools/pipedream-workflow.png",
     "/images/tools/pipedream-code.png"

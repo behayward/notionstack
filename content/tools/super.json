@@ -97,7 +97,7 @@
     "feather",
     "helpkit"
   ],
-  "image": "/images/tools/super-logo.png",
+  "image": "/images/tools/super-logo.svg",
   "screenshots": [
     "/images/tools/super-website-example.png",
     "/images/tools/super-dashboard.png"

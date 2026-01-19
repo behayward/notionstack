@@ -107,7 +107,7 @@
     "jotform",
     "typeform"
   ],
-  "image": "/images/tools/fillout-logo.png",
+  "image": "/images/tools/fillout-logo.svg",
   "screenshots": [
     "/images/tools/fillout-builder.png",
     "/images/tools/fillout-logic.png"

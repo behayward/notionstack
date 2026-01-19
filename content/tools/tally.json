@@ -97,7 +97,7 @@
     "jotform",
     "typeform"
   ],
-  "image": "/images/tools/tally-logo.png",
+  "image": "/images/tools/tally-logo.svg",
   "screenshots": [
     "/images/tools/tally-form-builder.png",
     "/images/tools/tally-notion-integration.png"

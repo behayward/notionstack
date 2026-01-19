@@ -106,7 +106,7 @@
     "n8n",
     "pipedream"
   ],
-  "image": "/images/tools/ifttt-logo.png",
+  "image": "/images/tools/ifttt-logo.svg",
   "screenshots": [
     "/images/tools/ifttt-applet-builder.png",
     "/images/tools/ifttt-notion-integration.png"

@@ -101,7 +101,7 @@
     "pipedream",
     "activepieces"
   ],
-  "image": "/images/tools/n8n-logo.png",
+  "image": "/images/tools/n8n-logo.svg",
   "screenshots": [
     "/images/tools/n8n-workflow.png",
     "/images/tools/n8n-editor.png"

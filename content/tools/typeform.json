@@ -109,7 +109,7 @@
     "fillout",
     "surveymonkey"
   ],
-  "image": "/images/tools/typeform-logo.png",
+  "image": "/images/tools/typeform-logo.svg",
   "screenshots": [
     "/images/tools/typeform-example.png",
     "/images/tools/typeform-builder.png"

@@ -96,7 +96,7 @@
     "feather",
     "simple-ink"
   ],
-  "image": "/images/tools/notaku-logo.png",
+  "image": "/images/tools/notaku-logo.svg",
   "screenshots": [
     "/images/tools/notaku-blog.png",
     "/images/tools/notaku-dashboard.png"
