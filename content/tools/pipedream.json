@@ -1,0 +1,225 @@
+{
+  "id": "pipedream",
+  "name": "Pipedream",
+  "slug": "pipedream",
+  "tagline": "Developer-first automation platform with code and workflows",
+  "description": "Pipedream combines the simplicity of no-code automation with the power of custom code. Build Notion workflows using pre-built actions or write JavaScript/Python code. Perfect for developers who want flexibility without managing infrastructure.",
+  "category": "automation",
+  "subcategory": "workflow-automation",
+  "website": "https://pipedream.com",
+  "affiliateUrl": null,
+  "hasAffiliate": false,
+  "affiliateRate": null,
+  "pricing": "freemium",
+  "pricingDisplay": "Free tier available",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "100 credits/day",
+        "Unlimited workflows",
+        "All integrations",
+        "Code in Node.js/Python"
+      ]
+    },
+    {
+      "name": "Basic",
+      "price": 19,
+      "billing": "monthly",
+      "features": [
+        "1,000 credits/day",
+        "Longer execution time",
+        "Priority support",
+        "Advanced features"
+      ]
+    },
+    {
+      "name": "Advanced",
+      "price": 49,
+      "billing": "monthly",
+      "features": [
+        "10,000 credits/day",
+        "Team collaboration",
+        "SSO support",
+        "Dedicated support"
+      ]
+    }
+  ],
+  "integrationMethod": "api",
+  "complexityLevel": "intermediate",
+  "setupTime": "20-40 minutes",
+  "topBenefits": [
+    "Write code directly in workflows",
+    "Generous free tier for developers",
+    "Instant API endpoints with webhooks",
+    "No infrastructure management"
+  ],
+  "tags": [
+    "automation",
+    "developer-tools",
+    "code-enabled",
+    "workflows",
+    "api",
+    "serverless",
+    "webhooks"
+  ],
+  "useCases": [
+    "Custom API integrations with Notion",
+    "Data transformation and processing",
+    "Event-driven automation workflows",
+    "Webhook processing and routing",
+    "Scheduled data syncing"
+  ],
+  "targetAudience": [
+    "Developers building custom integrations",
+    "Technical product managers",
+    "Data engineers automating pipelines",
+    "Startups needing flexible automation"
+  ],
+  "features": [
+    "Notion API integration",
+    "2,000+ pre-built actions",
+    "Write code in Node.js or Python",
+    "Instant HTTP endpoints",
+    "Webhook triggers",
+    "Scheduled executions (cron)",
+    "Event sources from apps",
+    "npm package support",
+    "Data stores for state",
+    "Built-in auth handling",
+    "Real-time logs",
+    "Version control integration",
+    "Collaboration tools",
+    "Email/Slack notifications",
+    "Generous free tier"
+  ],
+  "alternatives": [
+    "make",
+    "zapier",
+    "n8n",
+    "automate-io"
+  ],
+  "image": "/images/tools/pipedream-logo.png",
+  "screenshots": [
+    "/images/tools/pipedream-workflow.png",
+    "/images/tools/pipedream-code.png"
+  ],
+  "rating": 4.7,
+  "ratingCount": 1580,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:53:19.151Z",
+  "creator": {
+    "name": "Pipedream",
+    "url": "https://pipedream.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pipedream",
+    "linkedin": "https://www.linkedin.com/company/pipedream-hq"
+  },
+  "rawData": {
+    "description": "Pipedream is built for developers who want the speed of no-code automation but need the flexibility to write custom code when required. Connect Notion to over 2,000 apps using pre-built actions, or write Node.js or Python code directly in your workflows. With instant HTTP endpoints, webhook processing, and a generous free tier, Pipedream handles the infrastructure while you focus on building integrations.",
+    "features": [
+      "Notion API integration built-in",
+      "2,000+ app integrations with pre-built actions",
+      "Write custom code in Node.js or Python",
+      "Instant HTTP endpoints for webhooks",
+      "Event-driven triggers from apps",
+      "Scheduled workflow execution (cron)",
+      "Use any npm package",
+      "Built-in data stores for state management",
+      "Automatic auth handling",
+      "Real-time execution logs",
+      "Version control with Git",
+      "Team collaboration features",
+      "Email and Slack notifications",
+      "API request builder",
+      "Generous free tier (100 credits/day)",
+      "No cold starts or timeouts",
+      "Serverless execution"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Pipedream serves as a powerful automation bridge that combines the simplicity of visual workflow builders with the flexibility of custom code development for Notion users. This developer-friendly platform enables teams to create sophisticated integrations between their Notion workspaces and thousands of external applications, while offering the unique ability to inject custom Node.js or Python code whenever pre-built actions fall short of specific requirements.\n\nThe platform connects directly to Notion's API and provides instant access to over 2,000 third-party services through pre-configured connectors. Users can trigger workflows based on database changes, page updates, or scheduled intervals, then process that data through custom logic before routing it to destination apps. Pipedream handles all the technical infrastructure including serverless execution, authentication management, and error handling.\n\nWhat sets this tool apart for Notion power users is its hybrid approach - you can start with drag-and-drop simplicity but seamlessly transition to custom code when you need advanced data transformations, complex business logic, or integrations that don't exist in standard automation tools. This makes it ideal for teams who have outgrown basic automation platforms but want to avoid building and maintaining their own integration infrastructure.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct Notion API connectivity",
+          "Real-time database and page triggers",
+          "Automated authentication handling"
+        ]
+      },
+      {
+        "category": "Development Flexibility",
+        "icon": "💻",
+        "features": [
+          "Custom Node.js and Python code execution",
+          "Access to npm packages and libraries",
+          "Built-in data transformation tools"
+        ]
+      },
+      {
+        "category": "Workflow Management",
+        "icon": "⚡",
+        "features": [
+          "Event-driven and scheduled triggers",
+          "Instant HTTP endpoints for webhooks",
+          "Real-time execution monitoring and logs"
+        ]
+      },
+      {
+        "category": "Enterprise Features",
+        "icon": "🏢",
+        "features": [
+          "Team collaboration and sharing",
+          "Git-based version control",
+          "Built-in data storage for workflow state"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Complex data transformations between Notion and other tools require custom logic that basic automation platforms can't handle",
+      "Development teams need webhook endpoints and API integrations but don't want to manage server infrastructure",
+      "Notion workflows require conditional logic, data validation, or processing that exceeds the capabilities of simple automation tools"
+    ],
+    "solutionsBenefits": [
+      "Write custom code directly in workflows to handle any data transformation or business logic while maintaining the simplicity of visual automation",
+      "Get instant HTTP endpoints and webhook processing without server setup, deployment, or maintenance overhead",
+      "Build sophisticated Notion integrations with advanced conditional logic, error handling, and data validation using familiar programming languages"
+    ],
+    "idealFor": [
+      "Development teams who need custom Notion integrations beyond basic field mapping",
+      "Technical product managers building complex workflow automation with custom business logic",
+      "Data engineers who need to process and transform Notion data before syncing to other systems",
+      "SaaS companies building internal tools that require sophisticated Notion workspace automation"
+    ],
+    "notRecommendedFor": [
+      "Non-technical users who prefer purely visual automation tools (limited coding knowledge required)",
+      "Teams looking for simple, one-click integrations without any customization needs"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Pipedream connects directly through Notion's official API with built-in authentication. You can trigger workflows from database changes, page updates, or comments, then access and modify any Notion content programmatically. Setup requires connecting your Notion account and selecting which workspaces to access."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Basic Notion connections can be established in 5-10 minutes, while custom workflows with code typically take 30 minutes to several hours depending on complexity. The platform provides templates and pre-built actions to accelerate development time."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, Pipedream offers a generous free tier with 100 credits per day, which typically covers several hundred workflow executions monthly. This includes access to all features, custom code capabilities, and the full range of app integrations without time restrictions."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Common scenarios include syncing Notion databases with CRMs or project management tools, processing form submissions into structured Notion pages, generating automated reports from Notion data, and creating custom API endpoints that expose Notion content to other applications with specific formatting or filtering."
+      }
+    ]
+  }
+}

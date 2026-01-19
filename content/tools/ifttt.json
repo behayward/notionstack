@@ -1,0 +1,235 @@
+{
+  "id": "ifttt",
+  "name": "IFTTT",
+  "slug": "ifttt",
+  "tagline": "Simple automation connecting Notion to 700+ apps",
+  "description": "IFTTT (If This Then That) is a user-friendly automation platform that connects Notion to over 700 apps and smart devices. Create simple, reliable automations with a straightforward trigger-action approach perfect for everyday tasks.",
+  "category": "automation",
+  "subcategory": "workflow-automation",
+  "website": "https://ifttt.com",
+  "affiliateUrl": "https://ifttt.com/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "20% of first payment",
+  "affiliateDetails": {
+    "commission": "20% one-time (first payment only)",
+    "cookieDuration": "Not disclosed",
+    "recurring": false,
+    "programUrl": "https://affiliates.ifttt.com/"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $2.50/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "2 Applets",
+        "Unlimited Applet runs",
+        "700+ app connections"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 2.5,
+      "billing": "monthly",
+      "features": [
+        "Unlimited Applets",
+        "20 Applets enabled",
+        "Faster execution",
+        "Multi-step Applets",
+        "Advanced queries"
+      ]
+    },
+    {
+      "name": "Pro+",
+      "price": 5,
+      "billing": "monthly",
+      "features": [
+        "Unlimited Applets",
+        "Unlimited enabled Applets",
+        "Priority support",
+        "Advanced features"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "5-15 minutes",
+  "topBenefits": [
+    "Simplest automation tool to learn",
+    "700+ apps and smart home devices",
+    "Great for personal productivity",
+    "Mobile app for on-the-go automation"
+  ],
+  "tags": [
+    "automation",
+    "workflows",
+    "smart-home",
+    "iot",
+    "simple-automation",
+    "mobile-app",
+    "productivity"
+  ],
+  "useCases": [
+    "Auto-save Instagram posts to Notion",
+    "Create Notion reminders from calendar events",
+    "Log work hours from time tracking apps",
+    "Save email attachments to Notion",
+    "Post Notion updates to social media"
+  ],
+  "targetAudience": [
+    "Individuals automating personal workflows",
+    "Smart home enthusiasts",
+    "Social media managers",
+    "People new to automation"
+  ],
+  "features": [
+    "Native Notion integration",
+    "700+ app and service connections",
+    "Simple trigger-action (If-Then) logic",
+    "Multi-step Applets (Pro)",
+    "Advanced filters and queries",
+    "Mobile app for iOS and Android",
+    "Smart home device integration",
+    "Location-based triggers",
+    "Time and date triggers",
+    "Applet templates",
+    "Fast execution times",
+    "Applet sharing community",
+    "Webhook support",
+    "RSS feed triggers"
+  ],
+  "alternatives": [
+    "zapier",
+    "make",
+    "n8n",
+    "pipedream"
+  ],
+  "image": "/images/tools/ifttt-logo.png",
+  "screenshots": [
+    "/images/tools/ifttt-applet-builder.png",
+    "/images/tools/ifttt-notion-integration.png"
+  ],
+  "rating": 4.4,
+  "ratingCount": 8900,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:50:40.019Z",
+  "creator": {
+    "name": "IFTTT Inc.",
+    "url": "https://ifttt.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IFTTT",
+    "linkedin": "https://www.linkedin.com/company/ifttt"
+  },
+  "rawData": {
+    "description": "IFTTT helps you connect all the apps, services, and devices you use every day with simple, powerful automations. With Notion integration, you can create Applets that automatically sync data between Notion and over 700 other services including Gmail, Google Calendar, Instagram, Twitter, Alexa, and smart home devices. Perfect for personal productivity and simple automation needs.",
+    "features": [
+      "Native Notion integration",
+      "700+ app and device connections",
+      "Simple If-Then automation logic",
+      "Multi-step Applets with conditional logic",
+      "Advanced filters and queries",
+      "Mobile apps (iOS and Android)",
+      "Smart home integration (Alexa, Google Home, etc.)",
+      "Location-based automation",
+      "Time and date-based triggers",
+      "Pre-built Applet templates",
+      "Fast execution and reliability",
+      "Community Applet sharing",
+      "Custom webhooks",
+      "RSS and email triggers",
+      "Social media automation",
+      "Cloud storage connections"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "IFTTT (If This Then That) is a powerful automation platform that bridges the gap between Notion and hundreds of external applications, services, and smart devices. By creating simple conditional workflows called Applets, users can automatically sync data, trigger actions, and maintain consistency across their entire digital ecosystem without any coding knowledge required.\n\nThe platform connects directly to Notion through its native integration, allowing you to set up automated workflows that respond to changes in your Notion workspace or push data from external sources into your databases. Whether you want to automatically capture social media posts into a content database, sync calendar events with project timelines, or trigger smart home devices based on task completions, IFTTT handles the technical complexity behind the scenes.\n\nWhat makes IFTTT particularly valuable for Notion users is its extensive library of pre-built automation templates and its ability to connect disparate systems that would otherwise require manual data entry or complex API integrations. This democratizes automation for everyday users while providing the reliability and speed needed for professional workflows.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct database connections",
+          "Automated page creation",
+          "Property field mapping",
+          "Real-time sync capabilities"
+        ]
+      },
+      {
+        "category": "Automation Logic",
+        "icon": "⚡",
+        "features": [
+          "Conditional if-then workflows",
+          "Multi-step automation chains",
+          "Advanced filtering options",
+          "Time and location-based triggers"
+        ]
+      },
+      {
+        "category": "App Ecosystem",
+        "icon": "🌐",
+        "features": [
+          "700+ supported applications",
+          "Smart home device control",
+          "Social media platform connections",
+          "Cloud storage integrations"
+        ]
+      },
+      {
+        "category": "User Experience",
+        "icon": "📱",
+        "features": [
+          "Mobile app access",
+          "Pre-built template library",
+          "Community workflow sharing",
+          "Visual workflow builder"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Manual data entry between Notion and other apps consuming valuable time",
+      "Inconsistent information across different platforms and tools",
+      "Missing important updates or events due to scattered notification systems",
+      "Complex technical barriers preventing simple automation setups"
+    ],
+    "solutionsBenefits": [
+      "Eliminates repetitive copy-paste work by automatically syncing data between Notion and external services",
+      "Maintains single source of truth by keeping information consistent across all connected platforms",
+      "Creates centralized notification hub in Notion for all important events and updates",
+      "Enables powerful automation workflows without requiring programming skills or technical expertise"
+    ],
+    "idealFor": [
+      "Content creators managing social media posts and publishing schedules in Notion",
+      "Project managers coordinating team workflows across multiple tools and platforms",
+      "Personal productivity enthusiasts building comprehensive life management systems",
+      "Small business owners automating routine tasks between business applications"
+    ],
+    "notRecommendedFor": [
+      "Enterprise teams needing complex multi-conditional logic (limited advanced workflow capabilities)",
+      "Users requiring real-time data processing (some automation delays may occur)"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "IFTTT connects to Notion through official API integration, allowing you to create, update, and read from your Notion databases and pages. Setup involves authorizing IFTTT to access your Notion workspace and then configuring specific triggers and actions through the visual Applet builder."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Basic automations can be set up in 5-10 minutes using pre-built templates. Custom workflows typically take 15-30 minutes to configure and test, with no technical knowledge required thanks to the intuitive drag-and-drop interface."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, IFTTT offers a free tier that includes up to 2 Applets and basic functionality. The Pro plan ($3.99/month) provides unlimited Applets, faster execution, advanced features like multi-step workflows, and priority customer support."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular automations include saving social media posts to content databases, creating Notion tasks from calendar events, logging expenses from banking apps, backing up important emails to project pages, and triggering team notifications when database items are updated."
+      }
+    ]
+  }
+}

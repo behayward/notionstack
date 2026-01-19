@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.538Z",
-  "lastUpdated": "2026-01-12T20:47:12.538Z",
+  "lastUpdated": "2026-01-18T15:17:05.251Z",
   "image": "/images/products/canva-create-and-sell-templates.jpg",
   "rawData": {
     "description": "Canva is the most powerful content creation tool ever!I created a short but to-the-point course to teach you about:Canva Template ResearchCanva Template CreationCanva Template Selling on GumroadI struggle when I first started selling on Canva because no one was that much free to teach me how to create and then sell Canva templates.This course has everything you need to know to research, create and sell templates on Gumroad.How does it work?Pay what you want (or enter $0 to download for free!)Go to the Notion page containing the guide and bookmark itOr choose to duplicate the page into your own Notion workspace to save itLearn about Canva template creation and selling on Gumroad.If you have any worries, you can follow me and tell me:Follow me on:Twitter/Instagram/LinkedInEmail: Ihteshamit@gmail.com",
@@ -36,5 +36,84 @@
       "Canva Template Selling on Gumroad"
     ],
     "reviewQuotes": []
+  },
+  "enhancedContent": {
+    "overview": "A comprehensive beginner's course that teaches aspiring digital entrepreneurs how to research, design, and monetize Canva templates through online marketplaces. Perfect for creators looking to build a passive income stream by leveraging Canva's design tools and selling their creations on platforms like Gumroad.",
+    "featureCategories": [
+      {
+        "category": "Market Research",
+        "icon": "🔍",
+        "features": [
+          "Template demand analysis",
+          "Competitor research methods",
+          "Profitable niche identification"
+        ]
+      },
+      {
+        "category": "Design Production",
+        "icon": "🎨",
+        "features": [
+          "Professional template creation",
+          "Design best practices",
+          "Canva tool mastery"
+        ]
+      },
+      {
+        "category": "Sales & Marketing",
+        "icon": "💰",
+        "features": [
+          "Gumroad store setup",
+          "Template pricing strategies",
+          "Product listing optimization"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Lack of guidance on profitable template niches and market research",
+      "Difficulty creating professional-quality templates that sell consistently",
+      "Confusion about pricing, marketing, and selling digital products online"
+    ],
+    "solutionsBenefits": [
+      "Learn proven research methods to identify high-demand template categories",
+      "Master design techniques that create templates customers actually purchase",
+      "Get step-by-step guidance for setting up profitable Gumroad sales funnels"
+    ],
+    "idealFor": [
+      "Aspiring digital product creators seeking passive income streams",
+      "Graphic designers wanting to monetize their Canva skills",
+      "Side hustlers looking for scalable online business opportunities"
+    ],
+    "notRecommendedFor": [
+      "Advanced designers already selling templates successfully",
+      "Users seeking complex business automation systems"
+    ],
+    "complexityLevel": "beginner",
+    "whatsIncluded": [
+      "Complete Notion-based course guide with research methodologies",
+      "Step-by-step template creation tutorials and best practices",
+      "Gumroad selling strategies with pricing and marketing frameworks"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, the Notion course can be duplicated to your workspace and customized with your own notes and modifications."
+      },
+      {
+        "question": "Do I need Notion AI to use this?",
+        "answer": "No, this course works with standard Notion functionality and doesn't require AI features."
+      },
+      {
+        "question": "How complex is the setup?",
+        "answer": "Very simple - just bookmark or duplicate the Notion page to get started immediately with the course content."
+      },
+      {
+        "question": "Is this updated for 2026?",
+        "answer": "The course covers fundamental principles that remain relevant, though specific platform features may evolve."
+      },
+      {
+        "question": "What if I need help?",
+        "answer": "The creator provides support through Twitter, Instagram, LinkedIn, and email for any questions or guidance needed."
+      }
+    ]
   }
 }

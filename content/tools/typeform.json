@@ -1,0 +1,233 @@
+{
+  "id": "typeform",
+  "name": "Typeform",
+  "slug": "typeform",
+  "tagline": "Beautiful, conversational forms that boost completion rates",
+  "description": "Typeform creates engaging, one-question-at-a-time forms that feel like conversations. With sleek design, smart logic, and integrations including Notion via Zapier, Typeform helps you collect better data with higher completion rates.",
+  "category": "forms",
+  "subcategory": "form-builder",
+  "website": "https://www.typeform.com",
+  "affiliateUrl": "https://www.typeform.com/?ref=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "$20 upfront + 15% recurring",
+  "affiliateDetails": {
+    "commission": "$20 upfront bonus + 15% recurring (up to $500 total)",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://www.typeform.com/partners/"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $25/mo",
+  "pricingTiers": [
+    {
+      "name": "Basic",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "Unlimited typeforms",
+        "10 responses/month",
+        "10 questions per typeform",
+        "Typeform branding"
+      ]
+    },
+    {
+      "name": "Plus",
+      "price": 25,
+      "billing": "monthly",
+      "features": [
+        "Unlimited typeforms",
+        "100 responses/month",
+        "Unlimited questions",
+        "Remove Typeform branding",
+        "Logic jumps"
+      ]
+    },
+    {
+      "name": "Business",
+      "price": 50,
+      "billing": "monthly",
+      "features": [
+        "Unlimited typeforms",
+        "1,000 responses/month",
+        "Custom branding",
+        "Hidden fields",
+        "Priority support"
+      ]
+    }
+  ],
+  "integrationMethod": "zapier",
+  "complexityLevel": "beginner",
+  "setupTime": "15-20 minutes",
+  "topBenefits": [
+    "Conversational UI boosts completion rates",
+    "Beautiful, mobile-first design",
+    "Smart logic and question branching",
+    "Engaging multimedia experiences"
+  ],
+  "tags": [
+    "forms",
+    "surveys",
+    "conversational-forms",
+    "user-experience",
+    "data-collection",
+    "quiz-maker",
+    "design"
+  ],
+  "useCases": [
+    "Customer feedback and satisfaction surveys",
+    "Lead generation and qualification",
+    "Event registrations with personality",
+    "Quizzes and assessments",
+    "Job application forms"
+  ],
+  "targetAudience": [
+    "Marketing teams focused on conversion",
+    "UX researchers collecting feedback",
+    "HR teams creating engaging applications",
+    "Educators building quizzes"
+  ],
+  "features": [
+    "Notion integration via Zapier",
+    "Conversational one-question-at-a-time UI",
+    "Beautiful templates and themes",
+    "Logic jumps and branching",
+    "Calculator and scoring",
+    "Hidden fields for tracking",
+    "Custom branding and themes",
+    "Video and image questions",
+    "File upload collection",
+    "Payment integration (Stripe)",
+    "Multi-language support",
+    "Mobile-optimized design",
+    "Partial completion tracking",
+    "Advanced analytics",
+    "Team collaboration"
+  ],
+  "alternatives": [
+    "jotform",
+    "tally",
+    "fillout",
+    "surveymonkey"
+  ],
+  "image": "/images/tools/typeform-logo.png",
+  "screenshots": [
+    "/images/tools/typeform-example.png",
+    "/images/tools/typeform-builder.png"
+  ],
+  "rating": 4.5,
+  "ratingCount": 4200,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:51:21.977Z",
+  "creator": {
+    "name": "Typeform",
+    "url": "https://www.typeform.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/typeform",
+    "linkedin": "https://www.linkedin.com/company/typeform"
+  },
+  "rawData": {
+    "description": "Typeform revolutionizes data collection with beautiful, conversational forms that feel natural and engaging. Instead of overwhelming users with long forms, Typeform shows one thoughtfully designed question at a time, leading to higher completion rates and better quality responses. Integrate with Notion via Zapier to automatically sync survey responses, lead data, and customer feedback into your Notion databases while maintaining the engaging user experience Typeform is known for.",
+    "features": [
+      "Integration with Notion via Zapier",
+      "Conversational one-question-at-a-time interface",
+      "100+ professionally designed templates",
+      "Smart logic jumps and question branching",
+      "Calculator and scoring for quizzes",
+      "Hidden fields for UTM tracking",
+      "Custom branding with logos and colors",
+      "Video questions and multimedia",
+      "File upload collection",
+      "Payment collection via Stripe",
+      "Multi-language typeforms",
+      "Mobile-first responsive design",
+      "Partial completion tracking",
+      "Advanced analytics and insights",
+      "Team collaboration features",
+      "Custom thank you screens",
+      "Email notifications"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Typeform transforms the traditional data collection experience by creating interactive, dialogue-style forms that engage users through a single-question-at-a-time approach. This thoughtful design methodology significantly improves form completion rates and data quality compared to overwhelming traditional forms. For Notion users, this means you can gather richer, more complete responses from customers, team members, or survey participants while maintaining a professional, branded experience.\n\nThe tool seamlessly connects with Notion through Zapier automation, enabling automatic synchronization of form responses directly into your Notion databases and workspaces. Whether you're collecting customer feedback, processing job applications, or running lead qualification surveys, responses flow instantly into your structured Notion setup without manual data entry.\n\nThe primary advantage for Notion users is the ability to maintain sophisticated data collection workflows while ensuring high completion rates and quality responses. You can focus on analyzing and acting on the data in Notion rather than chasing incomplete submissions or dealing with poor-quality responses from traditional forms.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Zapier-powered automatic sync",
+          "Real-time response updates",
+          "Custom field mapping to Notion properties"
+        ]
+      },
+      {
+        "category": "Form Design",
+        "icon": "🎨",
+        "features": [
+          "Conversational question flow",
+          "Professional template library",
+          "Custom branding with logos and colors"
+        ]
+      },
+      {
+        "category": "Advanced Logic",
+        "icon": "🧠",
+        "features": [
+          "Smart branching and conditional questions",
+          "Built-in calculators and scoring",
+          "Hidden UTM parameter tracking"
+        ]
+      },
+      {
+        "category": "Data Collection",
+        "icon": "📊",
+        "features": [
+          "File upload capabilities",
+          "Payment processing integration",
+          "Partial completion tracking"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Low form completion rates destroying data collection efforts",
+      "Manual data entry from form responses into Notion databases",
+      "Poor user experience with traditional long-form surveys"
+    ],
+    "solutionsBenefits": [
+      "Conversational interface increases completion rates by up to 40% compared to traditional forms",
+      "Automated Zapier integration eliminates manual data transfer and ensures real-time updates in Notion",
+      "One-question-at-a-time design reduces user overwhelm and improves response quality"
+    ],
+    "idealFor": [
+      "Marketing teams running lead generation campaigns tracked in Notion",
+      "HR departments managing recruitment pipelines and candidate data",
+      "Customer success teams collecting feedback and satisfaction surveys",
+      "Event organizers managing registrations and attendee information"
+    ],
+    "notRecommendedFor": [
+      "Users needing complex multi-page forms with extensive validation rules",
+      "Organizations requiring offline form completion capabilities"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Typeform connects to Notion through Zapier automation. When someone submits a form, Zapier automatically creates or updates entries in your chosen Notion database, mapping form fields to your Notion properties without any manual work."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup typically takes 15-30 minutes. You'll spend about 10 minutes creating your form in Typeform, then another 10-20 minutes setting up the Zapier automation to connect with your Notion database."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, Typeform offers a free plan supporting up to 100 responses per month with basic features. Paid plans start around $25/month for unlimited responses and advanced features like logic jumps and custom branding."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular applications include customer feedback surveys that populate CRM databases, job application forms feeding into recruitment pipelines, event registration forms updating attendee lists, and lead qualification surveys that automatically score and categorize prospects in Notion."
+      }
+    ]
+  }
+}

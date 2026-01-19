@@ -29,7 +29,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 1:47 PM",
-  "lastUpdated": "2026-01-12T20:47:12.517Z",
+  "lastUpdated": "2026-01-18T15:16:08.909Z",
   "image": "/images/products/325-chatgpt-prompts-notion-template.jpg",
   "rawData": {
     "description": "THIS PRODUCT IS DISCONTINUED✋If you still want access to it, you can grab it from The Discontinued Bundle.🎁 FREE BONUS:Click here to grab Notion Beginner Bundle (15x free Notion templates) nowClick here to grab my Notion Money Manual (make $10k/m selling templates) now200+ GPT o3-mini prompts to learn how to become a top 1% email marketingThis collection of GPT o3-mini prompts will help you make the most of this new AI tool to supercharge your knowledge on email marketing.How does it work? Pay what you want (or enter $0 to download for free!) Go to the page containing the prompts and bookmark it Or choose to duplicate the page into your own Notion workspace Use the prompts to generate GPT o3-mini responses and supercharge your high email marketing knowledge. Use your newfound knowledge to make $$$. What's included in the 200 prompts? Email list building and segmentation (50 prompts) Email design and template creation (50 prompts) Email deliverability and inbox placement (50 prompts) Email A/B testing and optimization (50 prompts) Total prompts: 200What else?If you're looking for more information on GPT o3-mini Mastery Course:ChatGPT Mastery CourseIf you're looking for more information on ChatGPT Search Planner:ChatGPT Search PlannerIf you're looking for more information on the GPT o3-mini prompts:Copywriting promptsAudience Building promptsHigh Ticket Client closing promptsFrequently Asked Questions What is Notion?Notion is a free-to-use single digital space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want. The GPT o3-mini prompts are hosted inside Notion which is easy to use, navigate and set up even with no prior knowledge. Who are you?I am Pascio, official Notion Ambassador, Consultant &amp; Creator of more than 50+ free &amp; premium Notion templates that have served 200,000+ people across the globe. Can I share this with anyone else?No. This product has a private license. If you wish to share it with someone, please direct them to this page. Can I be your affiliate?Sure thing! You can sign up as an affiliate here. Can I ask you questions?Of course, always. You can send me an email at notionpascio@gmail.com",
@@ -40,5 +40,97 @@
       "Email A/B testing and optimization (50 prompts)"
     ],
     "reviewQuotes": []
+  },
+  "enhancedContent": {
+    "overview": "A comprehensive collection of AI-powered prompts specifically designed to elevate email marketing expertise using GPT o3-mini technology. This resource targets marketers who want to leverage artificial intelligence to master advanced email marketing strategies and achieve top-tier performance in their campaigns.",
+    "featureCategories": [
+      {
+        "category": "List Management & Targeting",
+        "icon": "🎯",
+        "features": [
+          "Audience segmentation strategies",
+          "List building optimization",
+          "Subscriber targeting techniques"
+        ]
+      },
+      {
+        "category": "Creative Development",
+        "icon": "🎨",
+        "features": [
+          "Template design guidance",
+          "Visual email creation",
+          "Brand-consistent layouts"
+        ]
+      },
+      {
+        "category": "Technical Optimization",
+        "icon": "⚙️",
+        "features": [
+          "Deliverability improvement",
+          "Inbox placement strategies",
+          "Technical compliance"
+        ]
+      },
+      {
+        "category": "Performance Analytics",
+        "icon": "📊",
+        "features": [
+          "A/B testing frameworks",
+          "Campaign optimization",
+          "Conversion tracking"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Struggling to create effective email marketing campaigns that convert",
+      "Lack of structured approach to testing and optimizing email performance",
+      "Difficulty leveraging AI tools for marketing strategy development",
+      "Limited knowledge of advanced email deliverability techniques"
+    ],
+    "solutionsBenefits": [
+      "Access to 200+ expertly crafted AI prompts for comprehensive email marketing mastery",
+      "Structured learning path covering all essential email marketing disciplines",
+      "AI-powered insights to accelerate knowledge acquisition and skill development",
+      "Ready-to-use prompts that generate actionable marketing strategies and tactics"
+    ],
+    "idealFor": [
+      "Digital marketers seeking to enhance their email marketing skills",
+      "Business owners wanting to improve their email campaign performance",
+      "Marketing consultants looking to expand their service offerings",
+      "Entrepreneurs building email-based revenue streams"
+    ],
+    "notRecommendedFor": [
+      "Complete beginners who need basic marketing fundamentals first",
+      "Users without access to GPT o3-mini or similar AI tools"
+    ],
+    "complexityLevel": "intermediate",
+    "whatsIncluded": [
+      "200 professionally crafted GPT o3-mini prompts organized by specialty",
+      "Notion-based template for easy navigation and organization",
+      "Four distinct categories covering all aspects of email marketing",
+      "Bookmark-friendly format for quick reference and repeated use"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, you can duplicate the Notion page into your own workspace and modify the prompts or add your own variations as needed."
+      },
+      {
+        "question": "Do I need Notion AI to use this?",
+        "answer": "No, you need access to GPT o3-mini specifically. The prompts are designed for that AI model, while Notion serves as the organizational platform."
+      },
+      {
+        "question": "How complex is the setup?",
+        "answer": "Very simple - just bookmark the page or duplicate it to your Notion workspace. No technical setup required, even for Notion beginners."
+      },
+      {
+        "question": "Is this updated for 2026?",
+        "answer": "Please note this product has been discontinued, though it may still be available through the creator's discontinued bundle."
+      },
+      {
+        "question": "What if I need help?",
+        "answer": "You can contact the creator Pascio directly at notionpascio@gmail.com for any questions or support needs."
+      }
+    ]
   }
 }

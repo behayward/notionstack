@@ -1,0 +1,372 @@
+AI Enhancement Pipeline - Top Products
+
+✓ API key loaded
+Target: Top 100 products
+
+Found 3266 total products
+Products needing enhancement: 85
+
+
+[1/85] The All-in-One Travel Planner: A Notion Template for Travel Lovers
+  Score: 690.0 | Rating: 5 | Price: $3
+  ✓ Enhanced and saved
+
+[2/85] Notion Second Brain
+  Score: 562.5 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[3/85] 900+ AI and No Code Tools for Creators and Businesses
+  Score: 505.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[4/85] 200+ GPT o3-mini prompts to make you top 1% in email marketing
+  Score: 484.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[5/85] Notion Whole Life
+  Score: 479.5 | Rating: 4.8 | Price: $5
+  ✓ Enhanced and saved
+
+[6/85] 100 GPT o3-mini prompts for audience building
+  Score: 454.0 | Rating: 4.8 | Price: $50
+  ✓ Enhanced and saved
+
+[7/85] Canva: Create and Sell templates
+  Score: 419.5 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[8/85] Notion Planner Bundle | Daily, Weekly and Monthly Planner | 3 Dashboard
+  Score: 328.5 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[9/85] Notion Task Manager
+  Score: 304.5 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[10/85] Spotion Covers
+  Score: 264.5 | Rating: 4.7 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 10/85 processed
+
+[11/85] Second Brain
+  Score: 228.5 | Rating: 4.9 | Price: $79
+  ✓ Enhanced and saved
+
+[12/85] Second Brain Notion Template by Rosidssoy
+  Score: 207.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[13/85] 2025 Dream Life Planner ♡ Simple & Aesthetic Notion Template
+  Score: 200.0 | Rating: 5 | Price: $18
+  ✓ Enhanced and saved
+
+[14/85] Creator Brain: The Ultimate Second Brain for Notion + One-Person Business PDF
+  Score: 200.0 | Rating: 5 | Price: $37
+  ✓ Enhanced and saved
+
+[15/85] CRM Template
+  Score: 199.0 | Rating: 4.9 | Price: $9
+  ✓ Enhanced and saved
+
+[16/85] Canva Tutorials, Tips & Tricks: Design Resource in Notion
+  Score: 169.5 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[17/85] 150 GPT o3-mini prompts to make you a top 1% copywriter
+  Score: 163.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[18/85] 100 Days of Code Journal
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[19/85] Book Tracker Notion Template
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[20/85] Book Tracker
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 20/85 processed
+
+[21/85] Canva Mockup Templates for Notion Creators
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[22/85] Content Planner & Calendar - Notion template
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[23/85] Dynamic Habit Tracker
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[24/85] [FREE] The Life Notion Planner
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[25/85] Green, Anime & Matcha Personal Home Dashboard
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[26/85] Green & Matcha Student Planner
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[27/85] Life Planner 2024
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[28/85] Movie & TV Show Tracker
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[29/85] Notion Beginner Bundle (15x Notion Templates)
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[30/85] Notion Creator Starter Kit for Free
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 30/85 processed
+
+[31/85] Notion Life Planner for Free
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[32/85] Notion Planner : Second  Brain 1.0
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[33/85] Notion Project Management for Free
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[34/85] Notion Project Manager
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[35/85] Notion Social Media Planner
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[36/85] Notion World ∙ 150+ Resources to Master Notion
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[37/85] OKR Goal Tracker
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[38/85] PARA Dashboard
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[39/85] Producthunt Launch Checklist
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[40/85] Project & Task Manager
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 40/85 processed
+
+[41/85] Resume Template
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[42/85] Simple Project Management - Notion template
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[43/85] Simple Second Brain for Notion
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[44/85] Sticky Notes Dashboard
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[45/85] Subscription Tracker
+  Score: 150.0 | Rating: 5 | Price: $0
+  ✓ Enhanced and saved
+
+[46/85] 100 ChatGPT prompts to learn how to close high ticket clients consistently
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[47/85] 1001+ Artificial Intelligence Resources
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[48/85] 12 Week Year Planner Notion Template
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[49/85] 365+ Automation Templates
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[50/85] 420+ Marketing Resources
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 50/85 processed
+
+[51/85] 50 Digital Product Ideas
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[52/85] 500+ Productivity Resources
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[53/85] 600+ Notion Resources
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[54/85] A Productive Notion Daily Planner (2023 Version)
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[55/85] Buttons Habit Tracker
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[56/85] ChatGPT-4o guide: Go from zero to hero
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[57/85] ChatGPT Prompts + Resources
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[58/85] Content Calendar
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[59/85] FREE UX/UI Design Roadmap (2025)
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[60/85] FREE Weekly Planner 🗓️
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 60/85 processed
+
+[61/85] Instagram Content Creator Blueprint
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[62/85] Life Hub Notion Template
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[63/85] Minimalist Notion Habit Tracker
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[64/85] Notion Bullet Journal
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[65/85] Notion Creator Guide
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[66/85] Notion Finance Tracker (old)
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[67/85] Notion Finances Tracker
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[68/85] Notion Fitness Planner
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[69/85] Notion HQ Dashboard
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[70/85] Notion Learning Roadmap
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 70/85 processed
+
+[71/85] Portfolio Website Template
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[72/85] Professional Resume
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[73/85] Recursos para estudiantes y docentes
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[74/85] The Action Tracker: Free Life Planner Notion Template
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[75/85] The Creator Bundle
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[76/85] The Side Hustler Checklist - Notion
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[77/85] Time Tracking Template
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[78/85] Travel Planner
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[79/85] UI/UX Design Learning Roadmap
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[80/85] Ultimate Notion Workout Tracker
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+💾 Checkpoint: 80/85 processed
+
+[81/85] Workout Tracker
+  Score: 149.0 | Rating: 4.9 | Price: $0
+  ✓ Enhanced and saved
+
+[82/85] Notion Study Scheduler - Basic
+  Score: 148.0 | Rating: 4.8 | Price: $0
+  ✓ Enhanced and saved
+
+[83/85] Sistema de Notas de Ruben Loan - Notion Template
+  Score: 148.0 | Rating: 4.8 | Price: $0
+  ✓ Enhanced and saved
+
+[84/85] Trading Dashboard
+  Score: 148.0 | Rating: 4.8 | Price: $0
+  ✓ Enhanced and saved
+
+[85/85] List of 250+ Free Notion Templates
+  Score: 147.0 | Rating: 4.7 | Price: $0
+  ✓ Enhanced and saved
+
+=== Enhancement Complete ===
+Total processed: 85
+Successfully enhanced: 85
+Failed: 0
+Skipped: 0
+
+📊 Report saved to data/enhancement-report.json

@@ -1,0 +1,221 @@
+{
+  "id": "make",
+  "name": "Make",
+  "slug": "make",
+  "tagline": "Visual automation platform for advanced Notion workflows",
+  "description": "Make (formerly Integromat) is a powerful visual automation platform that connects Notion to 1,500+ apps with advanced features like data transformation, error handling, and complex logic. Perfect for users who need more control than basic automation tools.",
+  "category": "automation",
+  "subcategory": "workflow-automation",
+  "website": "https://www.make.com",
+  "affiliateUrl": "https://www.make.com/en/register?pc=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "35% recurring for 12 months",
+  "affiliateDetails": {
+    "commission": "35% recurring",
+    "cookieDuration": "12 months from registration",
+    "recurring": true,
+    "programUrl": "https://www.make.com/en/partners/affiliates"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $9/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "1,000 operations/month",
+        "Unlimited scenarios",
+        "15-minute interval"
+      ]
+    },
+    {
+      "name": "Core",
+      "price": 9,
+      "billing": "monthly",
+      "features": [
+        "10,000 operations/month",
+        "Unlimited scenarios",
+        "1-minute interval",
+        "Priority support"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 16,
+      "billing": "monthly",
+      "features": [
+        "10,000 operations/month",
+        "Full-text execution log",
+        "Unlimited users",
+        "Custom variables",
+        "Priority support"
+      ]
+    }
+  ],
+  "integrationMethod": "api",
+  "complexityLevel": "advanced",
+  "setupTime": "30-60 minutes",
+  "topBenefits": [
+    "Visual drag-and-drop interface",
+    "Advanced data transformation",
+    "Real-time execution monitoring",
+    "35% affiliate commission for partners"
+  ],
+  "tags": [
+    "automation",
+    "workflows",
+    "integrations",
+    "advanced",
+    "data-transformation",
+    "api",
+    "no-code",
+    "visual-builder"
+  ],
+  "useCases": [
+    "Complex data syncing between Notion and databases",
+    "Advanced filtering and routing logic",
+    "Multi-step workflows with error handling",
+    "Custom API integrations with Notion",
+    "Automated reporting from Notion data"
+  ],
+  "targetAudience": [
+    "Power users needing advanced automation",
+    "Developers building custom integrations",
+    "Teams with complex workflow requirements",
+    "Businesses automating critical processes"
+  ],
+  "features": [
+    "1,500+ app integrations",
+    "Visual scenario builder",
+    "Advanced data transformation tools",
+    "Real-time execution log",
+    "Error handling with fallback routes",
+    "Webhooks and HTTP requests",
+    "JSON and XML parsing",
+    "Variable storage and data stores",
+    "Team collaboration features",
+    "Scheduling and triggers"
+  ],
+  "alternatives": [
+    "zapier",
+    "n8n",
+    "pipedream",
+    "activepieces"
+  ],
+  "image": "/images/tools/make-logo.png",
+  "screenshots": [
+    "/images/tools/make-scenario-builder.png",
+    "/images/tools/make-notion-modules.png"
+  ],
+  "rating": 4.7,
+  "ratingCount": 3200,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T20:08:52.919Z",
+  "creator": {
+    "name": "Make (Celonis)",
+    "url": "https://www.make.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/makehq",
+    "linkedin": "https://www.linkedin.com/company/make-com"
+  },
+  "rawData": {
+    "description": "Make is a visual platform that lets you design, build, and automate anything from simple tasks to complex workflows in minutes. Connect Notion to your favorite apps without writing a single line of code. Formerly known as Integromat, Make offers powerful features like advanced data transformation, error handling, and real-time monitoring.",
+    "features": [
+      "Visual drag-and-drop scenario builder",
+      "1,500+ pre-built app integrations",
+      "Advanced data transformation and mapping",
+      "Real-time execution monitoring and logs",
+      "Error handling with multiple fallback options",
+      "Custom webhooks and HTTP requests",
+      "JSON and XML parsing capabilities",
+      "Data stores for persistent storage",
+      "Team workspaces and permissions",
+      "Scheduling and interval triggers",
+      "Unlimited active scenarios",
+      "API access for enterprise"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Make is a sophisticated visual automation platform that empowers Notion users to create complex, multi-step workflows without any coding knowledge. Through its intuitive drag-and-drop interface, users can connect their Notion workspaces to over 1,500 applications, enabling seamless data synchronization, automated content management, and intelligent workflow orchestration. The platform excels at handling intricate business logic, data transformations, and conditional routing that goes far beyond simple trigger-action automations.\n\nWhat sets Make apart for Notion users is its ability to handle enterprise-level complexity while remaining visually manageable. Users can build sophisticated scenarios that monitor Notion databases, process data through multiple applications, apply complex filtering logic, and handle errors gracefully with fallback mechanisms. The platform provides real-time execution monitoring, detailed logs, and persistent data storage capabilities that make it ideal for mission-critical workflows.\n\nThe primary value proposition for Notion teams lies in Make's capacity to transform Notion from a standalone productivity tool into the central hub of an integrated business ecosystem, where data flows intelligently between systems and complex business processes run automatically with enterprise-grade reliability.",
+    "featureCategories": [
+      {
+        "category": "Visual Workflow Design",
+        "icon": "🎨",
+        "features": [
+          "Drag-and-drop scenario builder with visual flow mapping",
+          "Advanced conditional logic and branching paths",
+          "Real-time workflow testing and debugging tools"
+        ]
+      },
+      {
+        "category": "Data Processing",
+        "icon": "⚙️",
+        "features": [
+          "Advanced data transformation and field mapping",
+          "JSON and XML parsing for complex data structures",
+          "Built-in data stores for workflow state management"
+        ]
+      },
+      {
+        "category": "Integration Capabilities",
+        "icon": "🔗",
+        "features": [
+          "1,500+ pre-built app connectors including Notion",
+          "Custom webhook creation and HTTP request handling",
+          "Enterprise API access for custom integrations"
+        ]
+      },
+      {
+        "category": "Reliability & Monitoring",
+        "icon": "📊",
+        "features": [
+          "Comprehensive error handling with multiple fallback options",
+          "Real-time execution monitoring and detailed logs",
+          "Flexible scheduling and interval-based triggers"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Complex multi-system data synchronization that requires conditional logic and error handling",
+      "Limited automation capabilities in Notion for advanced business processes",
+      "Inability to create sophisticated workflows that span multiple applications with complex decision trees"
+    ],
+    "solutionsBenefits": [
+      "Enables enterprise-grade workflow automation with visual complexity management and robust error recovery",
+      "Transforms Notion into a central automation hub with unlimited scenario possibilities",
+      "Provides professional-level monitoring and debugging tools for mission-critical business processes"
+    ],
+    "idealFor": [
+      "Enterprise teams needing complex multi-system integrations with Notion as a central hub",
+      "Technical project managers who want visual workflow control without coding requirements",
+      "Growing businesses requiring scalable automation with advanced error handling and monitoring"
+    ],
+    "notRecommendedFor": [
+      "Simple automation needs (basic trigger-action workflows are better served by simpler tools)",
+      "Teams without time to learn workflow design concepts (significant setup investment required)"
+    ],
+    "complexityLevel": "advanced",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Make connects to Notion through official API integration, allowing you to watch for database changes, create/update records, and trigger workflows based on Notion events. Setup requires API key configuration and webhook establishment for real-time monitoring."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup takes 2-4 hours for basic scenarios, but complex multi-app workflows can require 1-2 days to properly configure, test, and optimize. The visual interface helps, but understanding workflow logic is essential."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Make offers a free tier with 1,000 operations per month and basic features. Paid plans start around $9/month for 10,000 operations, with enterprise pricing for unlimited scenarios and advanced features."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular applications include syncing Notion databases with CRM systems, automated report generation from Notion data, complex project management workflows spanning multiple tools, and intelligent content routing based on Notion properties and conditions."
+      }
+    ]
+  }
+}

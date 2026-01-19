@@ -1,0 +1,240 @@
+{
+  "id": "softr",
+  "name": "Softr",
+  "slug": "softr",
+  "tagline": "Build web and mobile apps from Notion databases without code",
+  "description": "Softr transforms your Notion databases into fully functional web and mobile applications with professional UI components, user authentication, and payment integration. Create client portals, directories, membership sites, and custom apps without writing code.",
+  "category": "publishing",
+  "subcategory": "app-builder",
+  "website": "https://www.softr.io",
+  "affiliateUrl": "https://www.softr.io/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "25-30% for first year",
+  "affiliateDetails": {
+    "commission": "25% (Affiliate) or 30% (Expert Program)",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://www.softr.io/affiliate"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $49/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "1 app",
+        "3 app users",
+        "Notion integration",
+        "Basic blocks"
+      ]
+    },
+    {
+      "name": "Starter",
+      "price": 49,
+      "billing": "monthly",
+      "features": [
+        "1 app",
+        "Unlimited app users",
+        "Custom domain",
+        "Remove Softr branding",
+        "User authentication"
+      ]
+    },
+    {
+      "name": "Professional",
+      "price": 139,
+      "billing": "monthly",
+      "features": [
+        "3 apps",
+        "Unlimited app users",
+        "Advanced permissions",
+        "Payment integration",
+        "Custom code"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "intermediate",
+  "setupTime": "30-60 minutes",
+  "topBenefits": [
+    "Turn Notion databases into web/mobile apps",
+    "User authentication and permissions built-in",
+    "Professional UI components included",
+    "Payment integration with Stripe"
+  ],
+  "tags": [
+    "publishing",
+    "app-builder",
+    "notion-to-app",
+    "web-apps",
+    "mobile-apps",
+    "no-code",
+    "user-auth",
+    "payments"
+  ],
+  "useCases": [
+    "Client portals connected to Notion CRM",
+    "Member directories from Notion databases",
+    "Course platforms with Notion content",
+    "Internal tools and dashboards",
+    "Product catalogs and marketplaces"
+  ],
+  "targetAudience": [
+    "Agencies building client portals",
+    "Businesses needing custom apps",
+    "Course creators and educators",
+    "Startups building MVPs"
+  ],
+  "features": [
+    "Native Notion database integration",
+    "Professional UI blocks and templates",
+    "User authentication and permissions",
+    "Custom domain support",
+    "Payment integration (Stripe)",
+    "Responsive design for mobile",
+    "Remove Softr branding",
+    "Custom CSS and code injection",
+    "Form builder",
+    "Charts and analytics blocks",
+    "Search and filtering",
+    "User profiles and dashboards",
+    "Email notifications",
+    "Multi-language support"
+  ],
+  "alternatives": [
+    "super",
+    "potion",
+    "notaku",
+    "pory"
+  ],
+  "image": "/images/tools/softr-logo.png",
+  "screenshots": [
+    "/images/tools/softr-app-builder.png",
+    "/images/tools/softr-templates.png"
+  ],
+  "rating": 4.6,
+  "ratingCount": 890,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:50:17.153Z",
+  "creator": {
+    "name": "Softr",
+    "url": "https://www.softr.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/softr_io",
+    "linkedin": "https://www.linkedin.com/company/softr-io"
+  },
+  "rawData": {
+    "description": "Softr is a no-code platform for building custom web and mobile apps from Notion databases. Create professional client portals, membership sites, directories, and internal tools using pre-built blocks and templates. Connect your Notion workspace and transform your data into powerful applications with user authentication, payments, and advanced permissions.",
+    "features": [
+      "Native Notion database integration",
+      "50+ pre-built UI blocks",
+      "User authentication and permissions system",
+      "Custom domain with SSL",
+      "Remove Softr branding",
+      "Stripe payment integration",
+      "Responsive mobile design",
+      "Custom CSS and code",
+      "Form builder with validation",
+      "Charts and data visualization",
+      "Advanced search and filtering",
+      "User profiles and dashboards",
+      "Email notifications and automations",
+      "Multi-language support",
+      "SEO optimization",
+      "Analytics integration"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Softr empowers Notion users to transform their databases into fully functional web and mobile applications without writing a single line of code. This no-code platform bridges the gap between data management and application development by directly connecting to your Notion workspace and converting your structured information into professional, interactive apps. Whether you're managing client relationships, building member communities, or organizing product catalogs in Notion, Softr provides the tools to turn that data into polished applications.\n\nThe platform works by establishing a real-time connection with your Notion databases, allowing you to select which data to display and how to present it using an extensive library of customizable interface components. You can create everything from password-protected client portals to public-facing directories, complete with user authentication, payment processing, and sophisticated permission controls. The beauty lies in maintaining your existing Notion workflow while extending its capabilities through a user-friendly application layer.\n\nFor Notion power users who've outgrown basic database sharing, Softr delivers the ability to create professional applications that respect your data structure while providing enhanced functionality. Your Notion workspace remains the content management hub, while Softr handles the complex application logic, responsive design, and user experience optimization that transforms raw data into engaging digital experiences.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Real-time database synchronization",
+          "Seamless workspace connection",
+          "Automatic data structure recognition"
+        ]
+      },
+      {
+        "category": "App Building",
+        "icon": "🏗️",
+        "features": [
+          "Extensive pre-designed UI components",
+          "Drag-and-drop interface builder",
+          "Responsive mobile-first design"
+        ]
+      },
+      {
+        "category": "User Management",
+        "icon": "👥",
+        "features": [
+          "Comprehensive authentication system",
+          "Granular permission controls",
+          "Individual user profiles and dashboards"
+        ]
+      },
+      {
+        "category": "Business Features",
+        "icon": "💼",
+        "features": [
+          "Integrated payment processing",
+          "Custom domain deployment",
+          "Professional branding options"
+        ]
+      },
+      {
+        "category": "Advanced Functionality",
+        "icon": "⚡",
+        "features": [
+          "Dynamic data visualization",
+          "Intelligent search and filtering",
+          "Automated email notifications"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Notion databases are powerful for internal use but lack the polish and functionality needed for external sharing with clients or customers",
+      "Creating professional client portals or member sites typically requires expensive development resources and technical expertise",
+      "Notion's basic sharing options don't provide user authentication, payment integration, or advanced permission management"
+    ],
+    "solutionsBenefits": [
+      "Transform existing Notion databases into professional applications with custom branding, SSL security, and responsive design",
+      "Launch client-facing applications in hours instead of months, using pre-built components and templates that require no coding knowledge",
+      "Implement sophisticated user access controls, payment systems, and interactive features while keeping Notion as your data management foundation"
+    ],
+    "idealFor": [
+      "Consultants and agencies managing client projects in Notion who need professional client portals",
+      "Community builders and course creators using Notion for content who want member directories and learning platforms",
+      "Small businesses with Notion-based product catalogs or service directories seeking e-commerce functionality"
+    ],
+    "notRecommendedFor": [
+      "Users needing highly complex custom functionality that requires extensive custom development",
+      "Organizations with strict data security requirements that prevent third-party database connections"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Softr connects directly to your Notion workspace through an authorized API connection. You simply authenticate your Notion account, select which databases to use, and Softr automatically syncs the data in real-time. Any changes you make in Notion are immediately reflected in your Softr application."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Most users can create a basic application within 30-60 minutes. The initial Notion connection takes just a few minutes, and using pre-built templates can have you up and running quickly. More complex applications with custom styling and advanced features typically take a few hours to configure properly."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, Softr offers a free tier that allows you to build and test applications with basic features. Paid plans start at reasonable monthly rates and unlock advanced features like custom domains, payment integration, removing Softr branding, and increased usage limits."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular applications include client portals connected to Notion CRM databases, member directories for communities, course platforms using Notion as the content backend, internal company tools and dashboards, and product catalogs or service marketplaces with integrated payments."
+      }
+    ]
+  }
+}

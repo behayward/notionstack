@@ -1,0 +1,235 @@
+{
+  "id": "jotform",
+  "name": "JotForm",
+  "slug": "jotform",
+  "tagline": "Powerful form builder with native Notion integration",
+  "description": "JotForm is a full-featured online form builder that integrates directly with Notion databases. Create surveys, order forms, registration forms, and more with advanced features like conditional logic, payment processing, and e-signatures, all syncing seamlessly to Notion.",
+  "category": "forms",
+  "subcategory": "form-builder",
+  "website": "https://www.jotform.com",
+  "affiliateUrl": "https://www.jotform.com/?ref=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "30% recurring for 12 months",
+  "affiliateDetails": {
+    "commission": "30% recurring",
+    "cookieDuration": "60 days",
+    "recurring": true,
+    "programUrl": "https://www.jotform.com/partnership/affiliate/"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $34/mo",
+  "pricingTiers": [
+    {
+      "name": "Starter",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "5 forms",
+        "100 submissions/month",
+        "100MB storage",
+        "JotForm branding"
+      ]
+    },
+    {
+      "name": "Bronze",
+      "price": 34,
+      "billing": "monthly",
+      "features": [
+        "25 forms",
+        "1,000 submissions/month",
+        "10GB storage",
+        "Remove JotForm branding",
+        "HIPAA compliance option"
+      ]
+    },
+    {
+      "name": "Silver",
+      "price": 39,
+      "billing": "monthly",
+      "features": [
+        "100 forms",
+        "10,000 submissions/month",
+        "100GB storage",
+        "Advanced features",
+        "Priority support"
+      ]
+    }
+  ],
+  "integrationMethod": "zapier",
+  "complexityLevel": "intermediate",
+  "setupTime": "20-30 minutes",
+  "topBenefits": [
+    "10,000+ form templates available",
+    "Advanced conditional logic",
+    "Payment processing built-in",
+    "E-signature support for contracts"
+  ],
+  "tags": [
+    "forms",
+    "surveys",
+    "payments",
+    "e-signatures",
+    "data-collection",
+    "conditional-logic",
+    "hipaa-compliant"
+  ],
+  "useCases": [
+    "Payment and order forms for businesses",
+    "Registration forms for events",
+    "Survey and feedback collection",
+    "Job applications and HR forms",
+    "Contract signing with e-signatures"
+  ],
+  "targetAudience": [
+    "Businesses processing orders and payments",
+    "HR departments managing applications",
+    "Event organizers handling registrations",
+    "Healthcare providers needing HIPAA compliance"
+  ],
+  "features": [
+    "Notion integration via Zapier",
+    "10,000+ form templates",
+    "Drag-and-drop form builder",
+    "Conditional logic and branching",
+    "Payment processing (Stripe, PayPal, Square)",
+    "E-signature collection",
+    "File uploads with virus scanning",
+    "HIPAA compliance option",
+    "Multi-page forms",
+    "Approval workflows",
+    "Form analytics",
+    "Custom CSS and branding",
+    "Mobile app for offline data collection",
+    "Team collaboration",
+    "Advanced reporting"
+  ],
+  "alternatives": [
+    "typeform",
+    "tally",
+    "fillout",
+    "notionforms"
+  ],
+  "image": "/images/tools/jotform-logo.png",
+  "screenshots": [
+    "/images/tools/jotform-builder.png",
+    "/images/tools/jotform-templates.png"
+  ],
+  "rating": 4.7,
+  "ratingCount": 5600,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:51:01.598Z",
+  "creator": {
+    "name": "JotForm Inc.",
+    "url": "https://www.jotform.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jotform",
+    "linkedin": "https://www.linkedin.com/company/jotform"
+  },
+  "rawData": {
+    "description": "JotForm is a powerful online form builder trusted by millions of organizations worldwide. With over 10,000 templates and advanced features like conditional logic, payment processing, and e-signatures, JotForm makes it easy to create professional forms that integrate with your Notion workflow. Collect data, process payments, and gather signatures all while keeping your Notion databases up to date.",
+    "features": [
+      "Integration with Notion via Zapier",
+      "10,000+ professionally designed templates",
+      "Drag-and-drop form builder",
+      "Advanced conditional logic",
+      "Payment processing (Stripe, PayPal, Square, Authorize.net)",
+      "E-signature collection and contracts",
+      "Secure file uploads with virus scanning",
+      "HIPAA compliance for healthcare",
+      "Multi-page and long forms",
+      "Approval workflows and routing",
+      "Form analytics and reports",
+      "Custom CSS and white-label branding",
+      "Mobile app for offline collection",
+      "Team collaboration and permissions",
+      "Calculation fields and widgets",
+      "Autoresponder emails"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "JotForm transforms how Notion users collect and process external data by providing a comprehensive form-building platform that seamlessly feeds information into your workspace. Whether you're gathering customer feedback, processing orders, or collecting job applications, JotForm eliminates the manual data entry that typically slows down Notion-based workflows. With its extensive template library and drag-and-drop interface, you can quickly create professional forms that match your brand and business needs.\n\nThe platform excels at handling complex form requirements that go beyond basic data collection. From processing payments through multiple gateways to collecting legally binding e-signatures, JotForm manages the entire customer interaction while automatically updating your Notion databases. This means you can focus on analyzing and acting on the data rather than spending time on manual data transfer.\n\nFor Notion users managing client relationships, events, or business operations, JotForm bridges the gap between external data collection and internal organization. The automated synchronization ensures your Notion workspace stays current with real-time submissions, while advanced features like conditional logic and approval workflows add sophistication to your data collection processes without requiring technical expertise.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Automated database synchronization via Zapier",
+          "Real-time form submission updates",
+          "Custom field mapping to Notion properties"
+        ]
+      },
+      {
+        "category": "Form Building",
+        "icon": "📝",
+        "features": [
+          "10,000+ pre-designed templates",
+          "Visual drag-and-drop editor",
+          "Conditional logic and smart fields",
+          "Multi-page form creation"
+        ]
+      },
+      {
+        "category": "Business Operations",
+        "icon": "💼",
+        "features": [
+          "Multiple payment gateway integration",
+          "Digital signature collection",
+          "File upload with security scanning",
+          "Approval workflow automation"
+        ]
+      },
+      {
+        "category": "Customization & Analytics",
+        "icon": "🎨",
+        "features": [
+          "White-label branding options",
+          "Custom CSS styling",
+          "Detailed form analytics",
+          "Automated email responses"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Manual data entry from external submissions into Notion databases",
+      "Lack of professional form options that integrate with Notion workflows",
+      "Difficulty collecting payments and signatures while maintaining Notion-based records"
+    ],
+    "solutionsBenefits": [
+      "Automatically populates Notion databases with form submissions, eliminating manual copy-paste work",
+      "Creates branded, professional forms with advanced features that feed directly into your organized Notion workspace",
+      "Handles complex business processes like payments and contracts while keeping all records synchronized in Notion"
+    ],
+    "idealFor": [
+      "Small business owners using Notion for CRM and customer management",
+      "Event organizers managing registrations and attendee information in Notion",
+      "Service providers collecting client information and maintaining project databases",
+      "HR teams processing applications and maintaining candidate databases"
+    ],
+    "notRecommendedFor": [
+      "Users who only need basic contact forms and don't require Notion integration",
+      "Organizations with complex enterprise security requirements beyond standard compliance"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "JotForm connects to Notion through Zapier automation. When someone submits a form, Zapier automatically creates or updates records in your specified Notion database, mapping form fields to your database properties."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial form creation takes 15-30 minutes using templates, while setting up the Zapier integration to Notion typically requires another 15-20 minutes. More complex forms with conditional logic may take 1-2 hours to configure properly."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, JotForm offers a free plan that includes up to 5 forms and 100 monthly submissions, which covers basic Notion integration needs. Paid plans start at $34/month for increased submissions and advanced features."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular uses include customer intake forms for service businesses, event registration that populates attendee databases, job application forms for HR workflows, and order forms that integrate with inventory and customer management systems in Notion."
+      }
+    ]
+  }
+}

@@ -18,16 +18,20 @@ interface Props {
     salesCount?: number;
     image?: string;
   };
+  urlPrefix?: string;
 }
 
-const { product } = Astro.props;
+const { product, urlPrefix } = Astro.props;
 
 // Quality indicator logic
 const isHighlyRated = product.rating && product.ratingCount && product.rating >= 4.9 && product.ratingCount >= 5;
 const isTopSeller = product.salesCount && product.salesCount >= 25;
+
+// Generate URL based on urlPrefix or category
+const productUrl = urlPrefix ? `/${urlPrefix}/${product.slug}` : `/${product.category}s/${product.slug}`;
 ---
 
-<a href={`/${product.category}s/${product.slug}`} class="product-card">
+<a href={productUrl} class="product-card">
   {product.image && (
     <div class="card-image">
       <img src={product.image} alt={product.name} loading="lazy" />

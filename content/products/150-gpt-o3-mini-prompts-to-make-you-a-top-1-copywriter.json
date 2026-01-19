@@ -26,11 +26,91 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.531Z",
-  "lastUpdated": "2026-01-12T20:47:12.531Z",
+  "lastUpdated": "2026-01-18T15:20:19.784Z",
   "image": "/images/products/150-gpt-o3-mini-prompts-to-make-you-a-top-1-copywriter.jpg",
   "rawData": {
     "description": "THIS PRODUCT IS DISCONTINUED✋If you still want access to it, you can grab it from The Discontinued Bundle.🎁 FREE BONUS:Click here to grab Notion Beginner Bundle (15x free Notion templates) nowClick here to grab my Notion Money Manual (make $10k/m selling templates) now150 GPT o3-mini prompts to make you a top 1% copywriterThis collection of GPT o3-mini prompts will help you make the most of this new AI tool to supercharge your knowledge on copywriting.How does it work? Pay what you want (or enter $0 to download for free!) Go to the page containing the prompts and bookmark it Or choose to duplicate the page into your own Notion workspace Use the prompts to generate GPT o3-mini responses and supercharge your copywriting knowledge Use your newfound knowledge to make $$$. What else?If you're looking for more information on GPT o3-mini Mastery Course:ChatGPT Mastery CourseIf you're looking for more information on ChatGPT Search Planner:ChatGPT Search PlannerIf you're looking for more information on the GPT o3-mini prompts:Email Marketing promptsAudience Building promptsHigh Ticket Client closing promptsFrequently Asked Questions What is Notion?Notion is a free-to-use single digital space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want. The GPT o3-mini prompts are hosted inside Notion which is easy to use, navigate and set up even with no prior knowledge. Who are you?I am Pascio, official Notion Ambassador, Consultant &amp; Creator of more than 50+ free &amp; premium Notion templates that have served 200,000+ people across the globe. Can I share this with anyone else?No. This product has a private license. If you wish to share it with someone, please direct them to this page. Can I be your affiliate?Sure thing! You can sign up as an affiliate here. Can I ask you questions?Of course, always. You can send me an email at notionpascio@gmail.com",
     "features": [],
     "reviewQuotes": []
+  },
+  "enhancedContent": {
+    "overview": "A comprehensive collection of 150 strategically crafted prompts designed to leverage OpenAI's o3-mini model for advanced copywriting mastery. This resource transforms AI interactions into targeted learning experiences that develop high-converting copy skills across multiple marketing disciplines.",
+    "featureCategories": [
+      {
+        "category": "Copywriting Mastery",
+        "icon": "✍️",
+        "features": [
+          "150 expertly designed prompts",
+          "Email marketing copywriting techniques",
+          "High-ticket client closing strategies"
+        ]
+      },
+      {
+        "category": "AI Integration",
+        "icon": "🤖",
+        "features": [
+          "GPT o3-mini optimized prompts",
+          "Structured response generation",
+          "Knowledge extraction workflows"
+        ]
+      },
+      {
+        "category": "Business Applications",
+        "icon": "💼",
+        "features": [
+          "Audience building strategies",
+          "Revenue generation techniques",
+          "Professional copywriting frameworks"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Struggling to create compelling copy that converts prospects into customers",
+      "Difficulty leveraging AI tools effectively for copywriting improvement",
+      "Lack of systematic approach to developing top-tier copywriting skills"
+    ],
+    "solutionsBenefits": [
+      "Structured prompt library that maximizes AI learning potential for copywriting",
+      "Systematic skill development across email marketing, audience building, and sales copy",
+      "Ready-to-use framework for generating professional-grade marketing content"
+    ],
+    "idealFor": [
+      "Aspiring copywriters looking to accelerate skill development",
+      "Marketing professionals wanting to leverage AI for better copy",
+      "Entrepreneurs seeking to improve their marketing communication skills"
+    ],
+    "notRecommendedFor": [
+      "Complete beginners to marketing (requires basic understanding)",
+      "Those without access to GPT o3-mini or similar AI tools"
+    ],
+    "complexityLevel": "intermediate",
+    "whatsIncluded": [
+      "150 strategically designed copywriting prompts",
+      "Email marketing focused prompt collection",
+      "High-ticket sales and audience building prompts",
+      "Notion workspace template with organized prompt library"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, you can duplicate the Notion page to your workspace and modify prompts to suit your specific needs and industry."
+      },
+      {
+        "question": "Do I need Notion AI to use this?",
+        "answer": "No, this requires GPT o3-mini access. The Notion template serves as an organized prompt library for use with OpenAI's platform."
+      },
+      {
+        "question": "How complex is the setup?",
+        "answer": "Very simple - just bookmark the page or duplicate it to your Notion workspace. No technical setup required."
+      },
+      {
+        "question": "Is this updated for 2026?",
+        "answer": "Please note this product is discontinued. Access is available through The Discontinued Bundle for legacy use."
+      },
+      {
+        "question": "What if I need help?",
+        "answer": "Direct email support is available at notionpascio@gmail.com for questions about implementation and usage."
+      }
+    ]
   }
 }

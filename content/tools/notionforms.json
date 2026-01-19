@@ -1,0 +1,241 @@
+{
+  "id": "notionforms",
+  "name": "NotionForms",
+  "slug": "notionforms",
+  "tagline": "Create forms from your Notion databases in seconds",
+  "description": "NotionForms lets you create custom forms directly from any Notion database. Share the form, collect responses, and see them appear instantly in your Notion workspace. Perfect for teams already living in Notion.",
+  "category": "forms",
+  "subcategory": "form-builder",
+  "website": "https://notionforms.io",
+  "affiliateUrl": "https://notionforms.io/?ref=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://notionforms.io/affiliates"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $8/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "1 form",
+        "Unlimited responses",
+        "Basic customization",
+        "Email notifications"
+      ]
+    },
+    {
+      "name": "Personal",
+      "price": 8,
+      "billing": "monthly",
+      "features": [
+        "5 forms",
+        "Unlimited responses",
+        "Custom branding",
+        "File uploads",
+        "Advanced logic"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 16,
+      "billing": "monthly",
+      "features": [
+        "Unlimited forms",
+        "Unlimited responses",
+        "Priority support",
+        "Team collaboration",
+        "Custom domains"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "5 minutes",
+  "topBenefits": [
+    "Connect directly to Notion databases",
+    "Responses appear instantly in Notion",
+    "No need to learn new form builders",
+    "Works with existing database structure"
+  ],
+  "tags": [
+    "forms",
+    "notion-native",
+    "database-forms",
+    "data-collection",
+    "no-code",
+    "automation"
+  ],
+  "useCases": [
+    "Customer intake forms for CRM databases",
+    "Content submission forms for editorial teams",
+    "Bug report forms for product teams",
+    "Survey forms for research projects",
+    "Application forms for hiring processes"
+  ],
+  "targetAudience": [
+    "Teams managing data in Notion",
+    "Small businesses with Notion CRMs",
+    "Content teams collecting submissions",
+    "Anyone needing database-connected forms"
+  ],
+  "features": [
+    "Direct Notion database connection",
+    "Instant response syncing",
+    "Support for all Notion field types",
+    "Conditional logic and branching",
+    "File upload support",
+    "Custom branding and styling",
+    "Email notifications",
+    "Auto-responder emails",
+    "Hidden fields for tracking",
+    "Multi-page forms",
+    "Custom domains (Pro)",
+    "Team collaboration",
+    "Form analytics",
+    "Password protection"
+  ],
+  "alternatives": [
+    "tally",
+    "fillout",
+    "jotform",
+    "typeform"
+  ],
+  "image": "/images/tools/notionforms-logo.png",
+  "screenshots": [
+    "/images/tools/notionforms-builder.png",
+    "/images/tools/notionforms-database-sync.png"
+  ],
+  "rating": 4.6,
+  "ratingCount": 980,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T20:08:29.748Z",
+  "creator": {
+    "name": "NotionForms",
+    "url": "https://notionforms.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/notionforms",
+    "linkedin": "https://www.linkedin.com/company/notionforms"
+  },
+  "rawData": {
+    "description": "NotionForms is the easiest way to create forms for your Notion databases. Connect your Notion workspace, select a database, customize your form, and start collecting responses. Every submission automatically appears in your Notion database - no Zapier, no complicated setup, just simple forms that work.",
+    "features": [
+      "Native Notion database integration",
+      "Instant two-way sync with Notion",
+      "Support for all Notion property types",
+      "Drag-and-drop form builder",
+      "Conditional logic and skip logic",
+      "File uploads to Notion",
+      "Custom CSS for branding",
+      "Email notifications on submission",
+      "Auto-responder confirmations",
+      "Hidden fields and UTM tracking",
+      "Multi-page and multi-step forms",
+      "Custom domains (Pro plan)",
+      "Team workspaces and permissions",
+      "Form submission analytics",
+      "Password-protected forms",
+      "Embed forms anywhere",
+      "Webhook integrations"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "NotionForms bridges the gap between Notion's powerful database capabilities and external data collection by transforming your existing Notion databases into professional web forms. Instead of manually entering data or asking collaborators to access your Notion workspace directly, you can generate custom forms that feed responses directly into your database structure. The tool connects seamlessly with your Notion workspace and mirrors your database properties as form fields, maintaining the same data types and validation rules you've already configured. What makes NotionForms particularly valuable for Notion users is its ability to preserve your existing workflow while expanding data collection beyond your workspace boundaries. Every form submission instantly populates your Notion database with properly formatted data, eliminating the need for manual data entry or complex automation tools, allowing you to maintain your Notion-centered operations while gathering information from clients, customers, or team members who don't need direct Notion access.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct workspace connection",
+          "Real-time database synchronization",
+          "All property type compatibility"
+        ]
+      },
+      {
+        "category": "Form Building",
+        "icon": "📝",
+        "features": [
+          "Visual drag-and-drop editor",
+          "Multi-step form creation",
+          "Conditional field logic"
+        ]
+      },
+      {
+        "category": "Data Management",
+        "icon": "📊",
+        "features": [
+          "File upload handling",
+          "Hidden field tracking",
+          "UTM parameter capture"
+        ]
+      },
+      {
+        "category": "Customization",
+        "icon": "🎨",
+        "features": [
+          "Custom CSS styling",
+          "Brand customization",
+          "Custom domain support"
+        ]
+      },
+      {
+        "category": "Automation",
+        "icon": "⚡",
+        "features": [
+          "Email notifications",
+          "Auto-response messages",
+          "Webhook integrations"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Notion databases are isolated from external data collection without technical integrations",
+      "Manual data entry creates bottlenecks and increases error rates in Notion workflows",
+      "Sharing Notion workspace access for simple data collection compromises security and organization"
+    ],
+    "solutionsBenefits": [
+      "Generate professional forms from existing database structures without rebuilding data architecture",
+      "Eliminate manual transcription and maintain data consistency with automated form-to-database population",
+      "Collect external data while keeping Notion workspace private and maintaining proper access controls"
+    ],
+    "idealFor": [
+      "Customer service teams managing client information in Notion CRM databases",
+      "Content creators collecting submissions and managing editorial workflows in Notion",
+      "Product managers gathering bug reports and feature requests into Notion project databases",
+      "HR teams processing job applications through Notion-based hiring workflows",
+      "Research teams collecting survey responses for analysis in Notion"
+    ],
+    "notRecommendedFor": [
+      "Users needing complex form logic beyond basic conditionals (limited advanced form features)",
+      "Organizations requiring enterprise-grade security compliance for sensitive data collection"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "NotionForms uses Notion's official API to create a direct connection with your workspace. You authorize the connection once, select your target database, and the tool automatically maps your database properties to form fields, maintaining real-time synchronization for all submissions."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup takes 5-10 minutes for a basic form. You'll spend 2-3 minutes connecting your Notion workspace, 2-3 minutes selecting and configuring your database fields, and a few more minutes customizing the form appearance and settings."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "NotionForms typically offers a free tier with basic form functionality and limited submissions per month. Paid plans unlock advanced features like custom domains, enhanced branding options, increased submission limits, and team collaboration features."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "The most common applications include customer intake forms for CRM databases, content submission portals for editorial teams, bug reporting systems for product development, survey collection for research projects, and application forms for hiring processes - all feeding directly into existing Notion database structures."
+      }
+    ]
+  }
+}

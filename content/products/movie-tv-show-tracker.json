@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.645Z",
-  "lastUpdated": "2026-01-12T20:47:12.645Z",
+  "lastUpdated": "2026-01-18T15:23:47.663Z",
   "image": "/images/products/movie-tv-show-tracker.jpg",
   "rawData": {
     "description": "Your Notion Watchlist CompanionCreate a personalized watchlist to ensure you never miss out on watching a fantastic movie or TV show.Genre Cataloging: Categorize and sort your watchlist by your favourite genres.Dedicated Watch Lists: Maintain separate watchlists for movies and TV shows, so nothing gets mixed up.Release Tracking: Stay updated with release dates and platforms, so you're always in the loop.Quick Additions: Speedily add new titles to your watchlist with the button blocks.Watch History: Maintain a log of your recently viewed and all-time favourites for easy recall and re-watching.Grab your Movies &amp; TV Show Tracker today!",
@@ -38,5 +38,89 @@
       "Watch History: Maintain a log of your recently viewed and all-time favourites for easy recall and re-watching."
     ],
     "reviewQuotes": []
+  },
+  "enhancedContent": {
+    "overview": "A comprehensive Notion template designed for entertainment enthusiasts who want to organize their viewing experience systematically. This tracker helps movie and TV show lovers maintain organized watchlists, monitor viewing history, and never lose track of must-watch content across different platforms.",
+    "featureCategories": [
+      {
+        "category": "Content Organization",
+        "icon": "🎬",
+        "features": [
+          "Genre-based categorization system",
+          "Separate movie and TV show databases",
+          "Platform and streaming service tracking"
+        ]
+      },
+      {
+        "category": "Viewing Management",
+        "icon": "📝",
+        "features": [
+          "Personal viewing history log",
+          "Quick-add functionality with buttons",
+          "Release date monitoring system"
+        ]
+      },
+      {
+        "category": "Discovery & Planning",
+        "icon": "🔍",
+        "features": [
+          "Favorites collection management",
+          "Recently watched section",
+          "Personalized recommendation tracking"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Forgetting about movies and shows you wanted to watch",
+      "Mixing up different types of content in a single messy list",
+      "Losing track of what you've already watched and loved",
+      "Missing release dates and availability on streaming platforms"
+    ],
+    "solutionsBenefits": [
+      "Never miss highly anticipated releases with organized tracking",
+      "Maintain clear separation between movies and series for better focus",
+      "Quickly reference your viewing history and rediscover favorites",
+      "Streamline content discovery with genre-based organization"
+    ],
+    "idealFor": [
+      "Movie and TV show enthusiasts with extensive watchlists",
+      "Streaming service subscribers managing multiple platforms",
+      "Content reviewers and critics tracking their viewing",
+      "Families coordinating shared viewing experiences"
+    ],
+    "notRecommendedFor": [
+      "Casual viewers who watch sporadically (may be overcomplicated)",
+      "Users who prefer mobile-first solutions (Notion works better on desktop)"
+    ],
+    "complexityLevel": "beginner",
+    "whatsIncluded": [
+      "Pre-built movie tracking database with custom properties",
+      "TV show management system with episode tracking",
+      "Genre categorization framework",
+      "Quick-add button templates for rapid entry",
+      "Viewing history and favorites sections"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, you can fully customize all databases, properties, and views to match your specific tracking preferences and add additional fields like ratings or notes."
+      },
+      {
+        "question": "Do I need Notion AI to use this?",
+        "answer": "No, this template works with any Notion plan and doesn't require AI features to function properly."
+      },
+      {
+        "question": "How complex is the setup?",
+        "answer": "Very simple - just duplicate the template to your workspace and start adding your content. No technical configuration required."
+      },
+      {
+        "question": "Is this updated for 2026?",
+        "answer": "Yes, this template uses current Notion features and database structures that remain compatible with the latest Notion updates."
+      },
+      {
+        "question": "What if I need help?",
+        "answer": "The template includes setup instructions and examples to get you started quickly with your entertainment tracking."
+      }
+    ]
   }
 }

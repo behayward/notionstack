@@ -68,7 +68,7 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
       <div class="products-grid" id="products-grid">
         {allProducts.map(product => (
           <div class="product-item" data-subcategory={product.subcategory || ''}>
-            <ProductCard product={product} />
+            <ProductCard product={product} urlPrefix="tools" />
           </div>
         ))}
       </div>

@@ -1,0 +1,343 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Notion Tool Schema",
+  "description": "Schema for Notion tools in NotionStack directory",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "slug",
+    "description",
+    "category",
+    "subcategory",
+    "website",
+    "pricing",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the tool"
+    },
+    "name": {
+      "type": "string",
+      "description": "Tool name"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly slug"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the tool"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "publishing",
+        "forms",
+        "automation",
+        "collaboration",
+        "widgets",
+        "ai",
+        "storage",
+        "backup",
+        "analytics",
+        "productivity",
+        "social",
+        "visualization",
+        "communication",
+        "database"
+      ],
+      "description": "Primary category"
+    },
+    "subcategory": {
+      "type": "string",
+      "description": "More specific category (e.g., 'website-builder', 'form-builder')"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "Official website URL"
+    },
+    "affiliateUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "Affiliate tracking URL (if available)"
+    },
+    "hasAffiliate": {
+      "type": "boolean",
+      "description": "Whether affiliate program exists"
+    },
+    "affiliateRate": {
+      "type": "string",
+      "description": "Commission rate (e.g., '30%', 'partner')"
+    },
+    "affiliateDetails": {
+      "type": "object",
+      "properties": {
+        "commission": {
+          "type": "string",
+          "description": "Commission structure"
+        },
+        "cookieDuration": {
+          "type": "string",
+          "description": "Cookie duration (e.g., '365 days')"
+        },
+        "recurring": {
+          "type": "boolean",
+          "description": "Whether commission is recurring"
+        },
+        "programUrl": {
+          "type": "string",
+          "format": "uri",
+          "description": "Affiliate program signup URL"
+        }
+      }
+    },
+    "pricing": {
+      "type": "string",
+      "enum": ["free", "freemium", "paid", "enterprise"],
+      "description": "Pricing model"
+    },
+    "pricingTiers": {
+      "type": "array",
+      "description": "Pricing plan details",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Plan name"
+          },
+          "price": {
+            "type": "number",
+            "description": "Monthly price in USD"
+          },
+          "billing": {
+            "type": "string",
+            "enum": ["monthly", "yearly", "one-time"],
+            "description": "Billing frequency"
+          },
+          "features": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Key features in this tier"
+          }
+        }
+      }
+    },
+    "integrationMethod": {
+      "type": "string",
+      "enum": ["native", "embed", "zapier", "api", "extension", "widget"],
+      "description": "How the tool integrates with Notion"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Searchable tags"
+    },
+    "useCases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Common use cases"
+    },
+    "targetAudience": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Who this tool is for"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Key features list"
+    },
+    "alternatives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Alternative tools (for comparison)"
+    },
+    "image": {
+      "type": "string",
+      "description": "Screenshot or logo URL"
+    },
+    "screenshots": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "Additional screenshots"
+    },
+    "rating": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 5,
+      "description": "Average user rating"
+    },
+    "ratingCount": {
+      "type": "integer",
+      "description": "Number of ratings"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "deprecated", "unknown"],
+      "description": "Current tool status"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Whether we've verified this tool is active"
+    },
+    "dateAdded": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When added to NotionStack"
+    },
+    "lastUpdated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Last update date"
+    },
+    "creator": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Company or creator name"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Creator website"
+        }
+      }
+    },
+    "social": {
+      "type": "object",
+      "properties": {
+        "twitter": {
+          "type": "string",
+          "description": "Twitter handle or URL"
+        },
+        "linkedin": {
+          "type": "string",
+          "description": "LinkedIn URL"
+        },
+        "discord": {
+          "type": "string",
+          "description": "Discord server"
+        }
+      }
+    },
+    "rawData": {
+      "type": "object",
+      "description": "Raw scraped data for AI enhancement",
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "features": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "reviewQuotes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "enhancedContent": {
+      "type": "object",
+      "description": "AI-generated enhanced content (same as products)",
+      "properties": {
+        "overview": {
+          "type": "string"
+        },
+        "featureCategories": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string"
+              },
+              "icon": {
+                "type": "string"
+              },
+              "features": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "problemsSolved": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "solutionsBenefits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "idealFor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "notRecommendedFor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "complexityLevel": {
+          "type": "string",
+          "enum": ["beginner", "intermediate", "advanced"]
+        },
+        "whatsIncluded": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "faqs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "question": {
+                "type": "string"
+              },
+              "answer": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

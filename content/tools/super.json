@@ -1,0 +1,227 @@
+{
+  "id": "super",
+  "name": "Super",
+  "slug": "super",
+  "tagline": "Turn your Notion pages into fast, beautiful websites",
+  "description": "Super transforms your Notion pages into blazing-fast websites with custom domains, SEO optimization, and professional designs. No coding required - just write in Notion and publish instantly.",
+  "category": "publishing",
+  "subcategory": "website-builder",
+  "website": "https://super.so",
+  "affiliateUrl": "https://super.so/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://super.so/partners"
+  },
+  "pricing": "paid",
+  "pricingDisplay": "From $12/mo",
+  "pricingTiers": [
+    {
+      "name": "Starter",
+      "price": 12,
+      "billing": "monthly",
+      "features": [
+        "Custom domain",
+        "Fast loading speeds",
+        "SEO optimization",
+        "Password protection",
+        "Remove Super branding"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 20,
+      "billing": "monthly",
+      "features": [
+        "Everything in Starter",
+        "Custom code injection",
+        "Multiple sites",
+        "Advanced analytics",
+        "Priority support"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "10-15 minutes",
+  "topBenefits": [
+    "Lightning-fast page loads",
+    "SEO-optimized automatically",
+    "Write in Notion, publish instantly",
+    "Custom domains and branding"
+  ],
+  "tags": [
+    "publishing",
+    "website-builder",
+    "notion-to-website",
+    "seo",
+    "custom-domain",
+    "no-code",
+    "landing-pages"
+  ],
+  "useCases": [
+    "Personal portfolios and blogs",
+    "Company websites and landing pages",
+    "Product documentation sites",
+    "Course and membership sites",
+    "Help centers and knowledge bases"
+  ],
+  "targetAudience": [
+    "Content creators and bloggers",
+    "Startups needing quick websites",
+    "Freelancers showcasing portfolios",
+    "Teams building documentation sites"
+  ],
+  "features": [
+    "Notion-native publishing",
+    "Custom domain support",
+    "Lightning-fast CDN delivery",
+    "Automatic SEO optimization",
+    "Password-protected pages",
+    "Custom meta tags and descriptions",
+    "Remove Super branding",
+    "Custom code injection",
+    "Google Analytics integration",
+    "Custom fonts and styling",
+    "Pretty URLs",
+    "Automatic sitemap generation",
+    "Social media preview cards",
+    "Mobile-responsive design"
+  ],
+  "alternatives": [
+    "potion",
+    "notaku",
+    "feather",
+    "helpkit"
+  ],
+  "image": "/images/tools/super-logo.png",
+  "screenshots": [
+    "/images/tools/super-website-example.png",
+    "/images/tools/super-dashboard.png"
+  ],
+  "rating": 4.7,
+  "ratingCount": 2400,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T20:09:17.422Z",
+  "creator": {
+    "name": "Super",
+    "url": "https://super.so"
+  },
+  "social": {
+    "twitter": "https://twitter.com/superdotso",
+    "linkedin": "https://www.linkedin.com/company/superdotso"
+  },
+  "rawData": {
+    "description": "Super.so is the fastest way to build websites with Notion. Write in Notion, publish with Super. Get blazing fast page loads, SEO optimization, custom domains, and beautiful designs without touching code. Used by thousands of creators, startups, and teams worldwide.",
+    "features": [
+      "Publish Notion pages as websites instantly",
+      "Custom domain with SSL",
+      "Lightning-fast CDN delivery (< 1s load time)",
+      "Automatic SEO optimization",
+      "Password protection for private pages",
+      "Custom meta tags and Open Graph",
+      "Remove Super branding",
+      "Custom CSS and JavaScript injection",
+      "Google Analytics and tracking",
+      "Custom fonts from Google Fonts",
+      "Pretty URLs without random IDs",
+      "Automatic sitemap and robots.txt",
+      "Social media preview optimization",
+      "Fully mobile-responsive",
+      "Multi-site support (Pro)",
+      "Priority support and updates"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Super transforms your Notion workspace into a professional web presence by converting your Notion pages directly into fast-loading, beautifully designed websites. Rather than forcing you to learn complex web development tools or migrate content to traditional website builders, Super works seamlessly with your existing Notion workflow - simply write and organize your content in Notion as you normally would, then publish it instantly as a fully functional website with professional features.\n\nThe platform handles all the technical complexities of modern web publishing, including performance optimization, search engine visibility, and mobile responsiveness, while maintaining the simplicity that makes Notion so powerful. This means you can focus entirely on creating great content and organizing information in Notion, while Super automatically delivers enterprise-grade website performance with sub-second loading times and professional styling.\n\nFor Notion users who need to share their work publicly - whether it's documentation, portfolios, blogs, or company websites - Super eliminates the traditional barrier between internal knowledge management and external web presence. You get the best of both worlds: Notion's intuitive content creation experience combined with the speed, SEO capabilities, and professional appearance that modern websites demand.",
+    "featureCategories": [
+      {
+        "category": "Publishing & Performance",
+        "icon": "⚡",
+        "features": [
+          "Instant website publishing from Notion pages",
+          "Lightning-fast page loading under 1 second",
+          "Global CDN content delivery",
+          "Automatic mobile responsiveness"
+        ]
+      },
+      {
+        "category": "Professional Branding",
+        "icon": "🎨",
+        "features": [
+          "Custom domain connection with SSL security",
+          "Remove Super branding for clean presentation",
+          "Custom CSS and JavaScript capabilities",
+          "Google Fonts integration for typography"
+        ]
+      },
+      {
+        "category": "SEO & Discovery",
+        "icon": "🔍",
+        "features": [
+          "Built-in SEO optimization tools",
+          "Custom meta tags and social media previews",
+          "Clean URLs without random identifiers",
+          "Automated sitemap and robots.txt generation"
+        ]
+      },
+      {
+        "category": "Privacy & Analytics",
+        "icon": "🔒",
+        "features": [
+          "Password protection for private content",
+          "Google Analytics integration",
+          "Multi-site management capabilities",
+          "Custom tracking implementation"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Complex website creation requiring technical skills and separate content management",
+      "Slow loading times and poor SEO performance from basic Notion sharing",
+      "Difficulty maintaining professional web presence while using Notion for content creation",
+      "Time-consuming process of duplicating content between Notion and traditional websites"
+    ],
+    "solutionsBenefits": [
+      "Publish professional websites directly from Notion without coding or content migration",
+      "Achieve enterprise-grade performance with automatic optimization and global CDN delivery",
+      "Maintain consistent branding with custom domains, styling options, and white-label presentation",
+      "Streamline workflow by managing all content in Notion while delivering polished public websites"
+    ],
+    "idealFor": [
+      "Content creators and bloggers who organize their work in Notion",
+      "Startups and small businesses using Notion for internal documentation",
+      "Freelancers and consultants needing portfolio sites connected to their Notion workspace",
+      "Teams creating public-facing documentation, help centers, or knowledge bases",
+      "Educators and course creators managing content in Notion"
+    ],
+    "notRecommendedFor": [
+      "E-commerce businesses needing shopping cart functionality (lacks commerce features)",
+      "Organizations requiring complex user authentication systems (limited to basic password protection)"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Super connects directly to your Notion workspace through native integration. You simply share your Notion page with Super, and it automatically converts the content into a website while maintaining real-time synchronization with your Notion updates."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup takes about 5-10 minutes. You can have a basic website live immediately after connecting your Notion page. Custom domain setup and styling customizations may take an additional 15-30 minutes depending on your requirements."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Super offers a free tier that includes basic website publishing with Super branding. Paid plans start at around $12/month and include custom domains, branding removal, advanced SEO features, and priority support."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular use cases include converting Notion documentation into public help centers, transforming personal Notion pages into professional portfolios, publishing blog content directly from Notion databases, and creating company websites that sync with internal Notion workspaces."
+      }
+    ]
+  }
+}

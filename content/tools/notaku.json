@@ -1,0 +1,232 @@
+{
+  "id": "notaku",
+  "name": "Notaku",
+  "slug": "notaku",
+  "tagline": "Turn Notion pages into websites and blogs with ease",
+  "description": "Notaku converts your Notion workspace into beautiful websites and blogs with custom domains, SEO tools, and newsletter integration. Ideal for bloggers and content creators who want a simple Notion-to-web solution.",
+  "category": "publishing",
+  "subcategory": "website-builder",
+  "website": "https://notaku.so",
+  "affiliateUrl": "https://notaku.so/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://notaku.so/affiliates"
+  },
+  "pricing": "paid",
+  "pricingDisplay": "From $5/mo",
+  "pricingTiers": [
+    {
+      "name": "Personal",
+      "price": 5,
+      "billing": "monthly",
+      "features": [
+        "1 website",
+        "Custom domain",
+        "Basic SEO",
+        "Newsletter integration"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 12,
+      "billing": "monthly",
+      "features": [
+        "3 websites",
+        "Advanced SEO",
+        "Custom code",
+        "Remove branding",
+        "Analytics"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "10-15 minutes",
+  "topBenefits": [
+    "Most affordable Notion website builder",
+    "Great for blogs and content sites",
+    "Newsletter integration included",
+    "Simple setup for non-technical users"
+  ],
+  "tags": [
+    "publishing",
+    "website-builder",
+    "blogging",
+    "notion-to-website",
+    "newsletters",
+    "affordable",
+    "seo"
+  ],
+  "useCases": [
+    "Personal blogs and writing portfolios",
+    "Newsletter landing pages",
+    "Simple company websites",
+    "Documentation and help centers",
+    "Content creator portfolios"
+  ],
+  "targetAudience": [
+    "Bloggers and writers",
+    "Newsletter creators",
+    "Small businesses on a budget",
+    "Content creators and educators"
+  ],
+  "features": [
+    "Native Notion integration",
+    "Custom domain support",
+    "SEO optimization tools",
+    "Newsletter signup integration",
+    "Custom CSS styling",
+    "Analytics tracking",
+    "Remove Notaku branding",
+    "Mobile responsive design",
+    "Fast page loading",
+    "Social media preview cards",
+    "Multiple site management",
+    "Blog-focused features",
+    "RSS feed generation",
+    "Search functionality"
+  ],
+  "alternatives": [
+    "super",
+    "potion",
+    "feather",
+    "simple-ink"
+  ],
+  "image": "/images/tools/notaku-logo.png",
+  "screenshots": [
+    "/images/tools/notaku-blog.png",
+    "/images/tools/notaku-dashboard.png"
+  ],
+  "rating": 4.5,
+  "ratingCount": 720,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:52:28.245Z",
+  "creator": {
+    "name": "Notaku",
+    "url": "https://notaku.so"
+  },
+  "social": {
+    "twitter": "https://twitter.com/notaku_so"
+  },
+  "rawData": {
+    "description": "Notaku is an affordable and user-friendly platform for converting Notion pages into professional websites and blogs. With built-in newsletter integration, SEO tools, and a focus on content publishing, Notaku is perfect for bloggers, writers, and content creators who want to maintain their workflow in Notion while reaching a wider audience on the web.",
+    "features": [
+      "Direct Notion page synchronization",
+      "Custom domain with SSL",
+      "SEO optimization and meta tags",
+      "Newsletter signup integration",
+      "Custom CSS for styling",
+      "Google Analytics integration",
+      "Remove Notaku branding",
+      "Mobile-responsive design",
+      "Fast CDN delivery",
+      "Social media preview cards",
+      "Multi-site dashboard",
+      "Blog post categories and tags",
+      "RSS feed generation",
+      "Built-in search",
+      "Pretty URLs",
+      "Automatic updates from Notion"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Notaku transforms your Notion workspace into a powerful web publishing platform, enabling content creators to seamlessly convert their Notion pages into professional websites and blogs. The tool maintains a live connection with your Notion content, automatically updating your website whenever you make changes to your pages, eliminating the need to manually transfer content between platforms.\n\nBy bridging the gap between Notion's excellent writing and organization capabilities and the web's publishing requirements, Notaku allows creators to maintain their preferred Notion workflow while delivering polished, SEO-optimized websites to their audience. The platform handles all the technical aspects of web publishing - from SSL certificates to mobile responsiveness - so users can focus entirely on creating great content within their familiar Notion environment.\n\nThe key advantage lies in its simplicity and automation: writers, bloggers, and content creators can publish professional websites without learning web development, managing hosting, or dealing with complex content management systems, all while keeping their content creation process centered in Notion.",
+    "featureCategories": [
+      {
+        "category": "Notion Synchronization",
+        "icon": "🔄",
+        "features": [
+          "Live page synchronization from Notion",
+          "Automatic content updates",
+          "Multi-site management dashboard"
+        ]
+      },
+      {
+        "category": "Publishing & SEO",
+        "icon": "🚀",
+        "features": [
+          "SEO meta tags optimization",
+          "Custom domain with SSL security",
+          "Mobile-responsive layouts",
+          "Fast CDN content delivery"
+        ]
+      },
+      {
+        "category": "Content Management",
+        "icon": "📝",
+        "features": [
+          "Blog categories and tagging system",
+          "RSS feed generation",
+          "Built-in site search",
+          "Clean URL structure"
+        ]
+      },
+      {
+        "category": "Analytics & Marketing",
+        "icon": "📊",
+        "features": [
+          "Google Analytics integration",
+          "Newsletter signup forms",
+          "Social media preview cards",
+          "Custom CSS styling options"
+        ]
+      },
+      {
+        "category": "Professional Features",
+        "icon": "⭐",
+        "features": [
+          "White-label branding removal",
+          "Advanced customization options",
+          "Professional templates"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Content creators stuck managing content in Notion but needing a public website presence",
+      "Technical barriers preventing Notion users from publishing professional-looking websites",
+      "Time-consuming manual process of copying content from Notion to website platforms",
+      "Lack of SEO optimization and web publishing features in Notion's native sharing"
+    ],
+    "solutionsBenefits": [
+      "Maintain your entire content workflow in Notion while automatically publishing to the web",
+      "Launch professional websites without technical skills or web development knowledge",
+      "Save hours of manual content transfer with automatic synchronization",
+      "Reach wider audiences with SEO-optimized, fast-loading websites generated from Notion content"
+    ],
+    "idealFor": [
+      "Solo content creators and bloggers who write and organize in Notion",
+      "Small business owners using Notion for documentation who need public websites",
+      "Newsletter creators wanting professional landing pages connected to their Notion workflow",
+      "Writers and journalists maintaining portfolios and publishing regularly from Notion"
+    ],
+    "notRecommendedFor": [
+      "Large enterprises needing complex e-commerce functionality (limited business features)",
+      "Teams requiring advanced user authentication or membership sites (basic publishing focus)"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Notaku connects directly to your Notion workspace through official API integration. You simply share your Notion pages with Notaku, and it automatically converts them into web pages while maintaining live synchronization. Any changes you make in Notion appear on your website within minutes."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup takes approximately 10-15 minutes. You'll connect your Notion account, select which pages to publish, choose a template, and configure your domain. The automated nature means most users can have their first website live within an hour of starting."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Notaku offers a free tier that includes basic website publishing with Notaku branding. Paid plans start at affordable monthly rates and include custom domains, SSL certificates, branding removal, and advanced features like newsletter integration and detailed analytics."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular uses include converting Notion writing into personal blogs, turning project documentation into public help centers, creating portfolio websites from Notion galleries, and building newsletter landing pages that sync with Notion content databases."
+      }
+    ]
+  }
+}

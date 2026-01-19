@@ -1,0 +1,225 @@
+{
+  "id": "n8n",
+  "name": "n8n",
+  "slug": "n8n",
+  "tagline": "Open-source workflow automation you can self-host",
+  "description": "n8n is a powerful, open-source automation tool that gives you complete control over your workflows. Self-host for free or use the cloud version. Connect Notion to 350+ apps with visual workflow design and full code extensibility.",
+  "category": "automation",
+  "subcategory": "workflow-automation",
+  "website": "https://n8n.io",
+  "affiliateUrl": null,
+  "hasAffiliate": false,
+  "affiliateRate": null,
+  "pricing": "freemium",
+  "pricingDisplay": "Free (self-hosted) or from $20/mo",
+  "pricingTiers": [
+    {
+      "name": "Self-Hosted",
+      "price": 0,
+      "billing": "one-time",
+      "features": [
+        "Unlimited workflows",
+        "Unlimited executions",
+        "Full feature access",
+        "Self-hosted on your infrastructure"
+      ]
+    },
+    {
+      "name": "Cloud Starter",
+      "price": 20,
+      "billing": "monthly",
+      "features": [
+        "5,000 executions/month",
+        "Fully managed",
+        "All integrations",
+        "Community support"
+      ]
+    },
+    {
+      "name": "Cloud Pro",
+      "price": 50,
+      "billing": "monthly",
+      "features": [
+        "50,000 executions/month",
+        "Priority support",
+        "Advanced features",
+        "Team collaboration"
+      ]
+    }
+  ],
+  "integrationMethod": "api",
+  "complexityLevel": "advanced",
+  "setupTime": "1-3 hours (self-hosted) or 30 minutes (cloud)",
+  "topBenefits": [
+    "100% open-source and transparent",
+    "Self-host for complete data control",
+    "Extend with custom code",
+    "No vendor lock-in"
+  ],
+  "tags": [
+    "automation",
+    "open-source",
+    "self-hosted",
+    "workflows",
+    "developer-friendly",
+    "privacy",
+    "extensible"
+  ],
+  "useCases": [
+    "Self-hosted automation for data privacy",
+    "Custom integrations with proprietary systems",
+    "Complex workflows requiring code",
+    "Enterprise automation with full control",
+    "Budget-friendly unlimited automation"
+  ],
+  "targetAudience": [
+    "Developers building custom automations",
+    "Privacy-conscious organizations",
+    "Enterprises needing self-hosted solutions",
+    "Teams with technical resources"
+  ],
+  "features": [
+    "Notion integration built-in",
+    "350+ pre-built integrations",
+    "Visual workflow editor",
+    "Self-hosting option (Docker, npm)",
+    "Custom code nodes (JavaScript)",
+    "Webhook triggers",
+    "Scheduled executions",
+    "Error workflows",
+    "Database nodes for querying",
+    "HTTP request node",
+    "Open-source (Apache 2.0)",
+    "Active community",
+    "Version control friendly",
+    "Environment variables",
+    "Execution history"
+  ],
+  "alternatives": [
+    "make",
+    "zapier",
+    "pipedream",
+    "activepieces"
+  ],
+  "image": "/images/tools/n8n-logo.png",
+  "screenshots": [
+    "/images/tools/n8n-workflow.png",
+    "/images/tools/n8n-editor.png"
+  ],
+  "rating": 4.8,
+  "ratingCount": 2100,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:52:53.008Z",
+  "creator": {
+    "name": "n8n GmbH",
+    "url": "https://n8n.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/n8n_io",
+    "linkedin": "https://www.linkedin.com/company/n8n-io"
+  },
+  "rawData": {
+    "description": "n8n (nodemation) is a free and open-source workflow automation tool that puts you in control of your data and processes. Unlike proprietary automation platforms, n8n can be self-hosted on your own infrastructure, giving you complete privacy and unlimited executions at no cost. With a visual workflow editor, 350+ integrations including Notion, and the ability to write custom JavaScript code, n8n is perfect for developers and privacy-conscious organizations who need powerful automation without vendor lock-in.",
+    "features": [
+      "Native Notion integration",
+      "350+ app and service integrations",
+      "Visual drag-and-drop workflow editor",
+      "Self-hosting with Docker or npm",
+      "Custom JavaScript code nodes",
+      "Webhook and HTTP request support",
+      "Scheduled workflow execution",
+      "Error handling workflows",
+      "Database query nodes",
+      "Open-source Apache 2.0 license",
+      "Active developer community",
+      "Git-friendly workflow files",
+      "Environment variable support",
+      "Full execution history",
+      "Cloud hosting option available",
+      "Team collaboration features",
+      "Advanced debugging tools"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "n8n is a powerful open-source automation platform that gives Notion users complete control over their workflow automation without the limitations of proprietary tools. Unlike subscription-based automation services, n8n can be hosted on your own servers, providing unlimited workflow executions, complete data privacy, and the freedom to customize integrations exactly how you need them. The platform features a visual drag-and-drop editor that makes building complex automations accessible, while still offering the flexibility to incorporate custom JavaScript for advanced users.\n\nFor Notion users, n8n serves as a robust bridge between your workspace and hundreds of other applications through its native Notion integration and extensive API connectivity. You can automate database updates, synchronize content across platforms, trigger notifications based on Notion changes, and create sophisticated workflows that respond to specific conditions in your workspace. The self-hosted nature means sensitive business data never leaves your infrastructure, making it ideal for organizations with strict privacy requirements.\n\nThe platform's greatest strength lies in its balance of accessibility and power - beginners can create useful automations through the visual interface, while developers can build enterprise-grade solutions with custom code nodes and advanced logic. With over 350 integrations available and an active open-source community continuously adding new capabilities, n8n provides a future-proof automation solution that grows with your needs.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct Notion database operations",
+          "Real-time workspace monitoring",
+          "Automated content synchronization"
+        ]
+      },
+      {
+        "category": "Self-Hosting Control",
+        "icon": "🏠",
+        "features": [
+          "Docker and npm deployment options",
+          "Complete data privacy",
+          "Unlimited workflow executions"
+        ]
+      },
+      {
+        "category": "Workflow Building",
+        "icon": "⚡",
+        "features": [
+          "Visual drag-and-drop editor",
+          "Custom JavaScript code support",
+          "Advanced error handling and debugging"
+        ]
+      },
+      {
+        "category": "Connectivity",
+        "icon": "🌐",
+        "features": [
+          "350+ app integrations",
+          "Webhook and HTTP request handling",
+          "Database query capabilities"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Limited automation executions and high costs from subscription automation services",
+      "Data privacy concerns when using third-party automation platforms with sensitive Notion content",
+      "Inability to create custom integrations with proprietary or less common systems"
+    ],
+    "solutionsBenefits": [
+      "Unlimited automation runs with one-time setup cost and complete ownership of your infrastructure",
+      "Keep all Notion data and automation logic within your own servers for maximum security and compliance",
+      "Build custom connectors and complex workflows using JavaScript and extensive API support"
+    ],
+    "idealFor": [
+      "Privacy-focused organizations that need to keep Notion data within their own infrastructure",
+      "Development teams requiring custom automation logic and advanced workflow capabilities",
+      "Budget-conscious businesses wanting unlimited automation without recurring subscription costs",
+      "Enterprise users needing to integrate Notion with proprietary internal systems"
+    ],
+    "notRecommendedFor": [
+      "Non-technical users seeking plug-and-play automation without any setup complexity",
+      "Teams without server infrastructure or technical resources for self-hosting management"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "n8n connects to Notion through its native integration node that uses Notion's official API. You'll need to create a Notion integration token and grant appropriate permissions to your databases and pages. The integration supports reading, creating, updating, and deleting database items, as well as monitoring changes in real-time."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup typically takes 1-2 hours if you're familiar with Docker or Node.js. This includes installation, basic configuration, and setting up your first Notion integration. Creating your first automation workflow usually takes another 30-60 minutes depending on complexity."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "n8n is completely free and open-source under the Apache 2.0 license when self-hosted. You only pay for your own server infrastructure costs. There's also an optional cloud hosting service available for those who prefer managed hosting, which offers a free tier with limited executions."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular use cases include automatically syncing Notion databases with CRM systems, creating new database entries from form submissions, generating reports by pulling data from multiple sources into Notion, and triggering notifications when specific conditions are met in your workspace. Many users also automate content publishing workflows and backup processes."
+      }
+    ]
+  }
+}

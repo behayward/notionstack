@@ -1,0 +1,231 @@
+{
+  "id": "fillout",
+  "name": "Fillout",
+  "slug": "fillout",
+  "tagline": "Powerful forms with advanced Notion database integration",
+  "description": "Fillout combines powerful form-building features with seamless Notion integration. Create complex forms with conditional logic, calculations, and file uploads that sync directly to your Notion databases with field mapping and automation.",
+  "category": "forms",
+  "subcategory": "form-builder",
+  "website": "https://fillout.com",
+  "affiliateUrl": "https://fillout.com/?ref=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://fillout.com/partners"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "From $19/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "Unlimited forms",
+        "1,000 submissions/month",
+        "Notion integration",
+        "Basic features"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 19,
+      "billing": "monthly",
+      "features": [
+        "Unlimited forms",
+        "5,000 submissions/month",
+        "Advanced logic",
+        "File uploads",
+        "Custom branding"
+      ]
+    },
+    {
+      "name": "Business",
+      "price": 49,
+      "billing": "monthly",
+      "features": [
+        "Unlimited submissions",
+        "Team collaboration",
+        "Priority support",
+        "Advanced features"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "intermediate",
+  "setupTime": "15-25 minutes",
+  "topBenefits": [
+    "Advanced conditional logic",
+    "Calculation fields for quotes",
+    "Notion database field mapping",
+    "Beautiful mobile-friendly forms"
+  ],
+  "tags": [
+    "forms",
+    "notion-integration",
+    "conditional-logic",
+    "calculations",
+    "file-uploads",
+    "data-collection"
+  ],
+  "useCases": [
+    "Quote and pricing calculators",
+    "Multi-step application forms",
+    "Intake forms with complex logic",
+    "Survey forms with branching",
+    "Registration with conditional questions"
+  ],
+  "targetAudience": [
+    "Businesses needing complex forms",
+    "Sales teams collecting quote requests",
+    "Service providers with intake processes",
+    "Organizations with conditional workflows"
+  ],
+  "features": [
+    "Native Notion database integration",
+    "Advanced conditional logic",
+    "Calculation fields and formulas",
+    "Multi-step forms",
+    "File upload with storage",
+    "Custom branding and themes",
+    "Form scheduling",
+    "Payment collection",
+    "E-signature fields",
+    "Hidden fields for tracking",
+    "Email notifications",
+    "Partial submissions",
+    "Form analytics",
+    "Team collaboration",
+    "Custom domains"
+  ],
+  "alternatives": [
+    "tally",
+    "notionforms",
+    "jotform",
+    "typeform"
+  ],
+  "image": "/images/tools/fillout-logo.png",
+  "screenshots": [
+    "/images/tools/fillout-builder.png",
+    "/images/tools/fillout-logic.png"
+  ],
+  "rating": 4.7,
+  "ratingCount": 1240,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:49:51.020Z",
+  "creator": {
+    "name": "Fillout",
+    "url": "https://fillout.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fillouthq",
+    "linkedin": "https://www.linkedin.com/company/fillout"
+  },
+  "rawData": {
+    "description": "Fillout is a powerful form builder designed for teams that need advanced features like conditional logic, calculations, and complex data collection workflows. With direct Notion database integration, Fillout makes it easy to create sophisticated forms that automatically populate your Notion workspace with properly structured data. Perfect for businesses handling quotes, applications, and multi-step processes.",
+    "features": [
+      "Direct Notion database sync",
+      "Advanced conditional logic and branching",
+      "Calculation fields for quotes and estimates",
+      "Multi-step and multi-page forms",
+      "File uploads with cloud storage",
+      "Custom branding with logos and colors",
+      "Form scheduling with start/end dates",
+      "Payment collection via Stripe",
+      "E-signature capture",
+      "Hidden fields for UTM and tracking",
+      "Email notifications and confirmations",
+      "Save and continue partial submissions",
+      "Form analytics and conversion tracking",
+      "Team collaboration and permissions",
+      "Custom domain support",
+      "Webhook integrations",
+      "A/B testing"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Fillout transforms how teams collect and organize data by creating sophisticated forms that seamlessly feed information directly into their Notion databases. Unlike basic form builders, Fillout specializes in complex data collection scenarios where you need advanced logic, calculations, and multi-step workflows that can handle everything from customer intake to quote generation. The platform connects natively with Notion, ensuring that every form submission automatically creates properly formatted database entries without manual data transfer or formatting headaches.\n\nWhat sets Fillout apart is its ability to handle intricate business processes that require conditional branching, real-time calculations, and progressive data collection across multiple pages. Whether you're building a client onboarding sequence that adapts based on user responses or creating dynamic pricing calculators that populate your Notion CRM, Fillout bridges the gap between simple contact forms and enterprise-grade data collection. The result is a streamlined workflow where complex information flows automatically into your Notion workspace, properly categorized and ready for your team to act upon.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Real-time database synchronization",
+          "Automatic field mapping",
+          "Native Notion workspace connection"
+        ]
+      },
+      {
+        "category": "Advanced Logic",
+        "icon": "⚡",
+        "features": [
+          "Smart conditional branching",
+          "Dynamic field calculations",
+          "Multi-page form flows"
+        ]
+      },
+      {
+        "category": "Professional Features",
+        "icon": "🎨",
+        "features": [
+          "Custom branding options",
+          "Payment processing integration",
+          "Digital signature collection"
+        ]
+      },
+      {
+        "category": "Business Tools",
+        "icon": "📊",
+        "features": [
+          "Form performance analytics",
+          "Team collaboration controls",
+          "Automated email workflows"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Manual data entry from forms into Notion databases wastes time and introduces errors",
+      "Basic form builders can't handle complex business logic and conditional workflows",
+      "Difficulty creating professional forms that match brand identity while maintaining Notion integration"
+    ],
+    "solutionsBenefits": [
+      "Eliminates manual data transfer with automatic Notion database population and proper formatting",
+      "Enables sophisticated form logic that adapts to user responses and calculates values in real-time",
+      "Provides professional, branded forms that seamlessly integrate with existing Notion workflows"
+    ],
+    "idealFor": [
+      "Service businesses creating quote calculators that feed into Notion project databases",
+      "HR teams managing complex application processes with conditional questions",
+      "Sales teams collecting qualified leads through multi-step intake forms",
+      "Consultants gathering detailed client information for Notion-based project management"
+    ],
+    "notRecommendedFor": [
+      "Simple contact forms where basic tools would suffice",
+      "Teams only needing occasional form collection without complex logic requirements"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Fillout connects directly to your Notion workspace through a native integration that maps form fields to your database properties. Once connected, submissions automatically create new database entries in real-time without requiring zapier or manual import processes."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Basic forms with Notion integration can be set up in 15-30 minutes. More complex forms with conditional logic and calculations typically take 1-2 hours to configure properly, depending on your workflow requirements."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Fillout offers a free tier that includes basic form building and Notion integration for up to 1,000 submissions per month. Paid plans unlock advanced features like conditional logic, payments, and custom branding starting at competitive monthly rates."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular applications include client intake forms that populate CRM databases, service request forms with dynamic pricing, job applications with conditional sections, and survey forms where responses automatically organize into Notion project trackers."
+      }
+    ]
+  }
+}

@@ -87,6 +87,11 @@ const breadcrumbItems = [
         <div class="product-meta">
           <span class="type-badge">Template</span>
           {product.subcategory && <span class="category-badge">{product.subcategory}</span>}
+          {product.enhancedContent?.complexityLevel && (
+            <span class={`complexity-badge complexity-${product.enhancedContent.complexityLevel}`}>
+              {product.enhancedContent.complexityLevel}
+            </span>
+          )}
         </div>
         <h1>{product.name}</h1>
         <p class="creator">By <a href={creatorLink} target="_blank" rel="noopener">{product.creator.name}</a></p>
@@ -304,6 +309,25 @@ const breadcrumbItems = [
   .category-badge {
     background: #e5e7eb;
     color: #374151;
+  }
+
+  .complexity-badge {
+    text-transform: capitalize;
+  }
+
+  .complexity-beginner {
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  .complexity-intermediate {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .complexity-advanced {
+    background: #fee2e2;
+    color: #991b1b;
   }
 
   h1 {

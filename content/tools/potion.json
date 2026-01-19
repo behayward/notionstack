@@ -1,0 +1,222 @@
+{
+  "id": "potion",
+  "name": "Potion",
+  "slug": "potion",
+  "tagline": "Lightning-fast Notion websites with custom code capabilities",
+  "description": "Potion transforms your Notion pages into ultra-fast websites with advanced customization options. Add custom code, SEO optimization, and professional features while maintaining the simplicity of managing content in Notion.",
+  "category": "publishing",
+  "subcategory": "website-builder",
+  "website": "https://potion.so",
+  "affiliateUrl": "https://potion.so/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://potion.so/partners"
+  },
+  "pricing": "paid",
+  "pricingDisplay": "From $12/mo",
+  "pricingTiers": [
+    {
+      "name": "Personal",
+      "price": 12,
+      "billing": "monthly",
+      "features": [
+        "1 site",
+        "Custom domain",
+        "SEO optimization",
+        "Custom code injection",
+        "Fast CDN"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 24,
+      "billing": "monthly",
+      "features": [
+        "5 sites",
+        "Everything in Personal",
+        "Password protection",
+        "Custom fonts",
+        "Priority support"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "intermediate",
+  "setupTime": "15-30 minutes",
+  "topBenefits": [
+    "Fastest Notion website performance",
+    "Custom code for advanced design",
+    "Built for developers and designers",
+    "Powerful SEO capabilities"
+  ],
+  "tags": [
+    "publishing",
+    "website-builder",
+    "notion-to-website",
+    "custom-code",
+    "seo",
+    "fast-loading",
+    "developers"
+  ],
+  "useCases": [
+    "Developer portfolios with custom styling",
+    "High-performance blogs and publications",
+    "Company websites needing custom branding",
+    "Documentation sites with code examples",
+    "Landing pages with conversion optimization"
+  ],
+  "targetAudience": [
+    "Developers wanting custom control",
+    "Designers needing precise styling",
+    "Technical bloggers and writers",
+    "Agencies building client sites"
+  ],
+  "features": [
+    "Native Notion integration",
+    "Lightning-fast page loads",
+    "Custom code injection (HTML/CSS/JS)",
+    "Advanced SEO optimization",
+    "Custom domain with SSL",
+    "Password-protected pages",
+    "Custom fonts (Google Fonts, custom)",
+    "Analytics integration",
+    "Pretty URLs",
+    "Social media cards",
+    "Sitemap generation",
+    "Mobile responsive",
+    "Dark mode support",
+    "Custom redirects",
+    "Multi-site management"
+  ],
+  "alternatives": [
+    "super",
+    "softr",
+    "notaku",
+    "feather"
+  ],
+  "image": "/images/tools/potion-logo.png",
+  "screenshots": [
+    "/images/tools/potion-website.png",
+    "/images/tools/potion-code-editor.png"
+  ],
+  "rating": 4.8,
+  "ratingCount": 1650,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:51:42.296Z",
+  "creator": {
+    "name": "Potion",
+    "url": "https://potion.so"
+  },
+  "social": {
+    "twitter": "https://twitter.com/potion_so",
+    "linkedin": "https://www.linkedin.com/company/potion-so"
+  },
+  "rawData": {
+    "description": "Potion is designed for developers and designers who want the content management simplicity of Notion combined with the power and flexibility of custom code. Create blazing-fast websites from your Notion pages, then enhance them with custom HTML, CSS, and JavaScript to achieve pixel-perfect designs and advanced functionality. Perfect for those who need more control than traditional Notion website builders offer.",
+    "features": [
+      "Direct Notion page connection",
+      "Optimized for speed and performance",
+      "Custom code injection (HTML, CSS, JavaScript)",
+      "Advanced SEO tools and meta tags",
+      "Custom domain with automatic SSL",
+      "Password protection for private pages",
+      "Custom font upload and Google Fonts",
+      "Google Analytics and tracking",
+      "Clean, pretty URLs",
+      "Open Graph and social cards",
+      "Automatic sitemap generation",
+      "Fully mobile responsive",
+      "Dark mode and theme support",
+      "Custom 301 redirects",
+      "Multi-site dashboard",
+      "Real-time preview",
+      "Version control"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Potion bridges the gap between Notion's user-friendly content management and professional web development needs. This platform transforms your Notion pages into high-performance websites while preserving the ability to inject custom code for advanced functionality and pixel-perfect designs. Unlike typical Notion website builders that limit customization, Potion maintains the simplicity of managing content in Notion while giving developers and designers complete creative control over the final presentation.\n\nThe tool works by establishing a direct connection to your Notion database, automatically pulling content and converting it into optimized web pages. What sets Potion apart is its dual nature - non-technical users can create beautiful sites using Notion's familiar interface, while developers can enhance these sites with custom HTML, CSS, and JavaScript to achieve professional-grade results.\n\nFor Notion users who've outgrown basic website builders but want to keep their content workflow in Notion, Potion delivers enterprise-level website performance without sacrificing the content management experience they already know and love.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct page synchronization",
+          "Real-time content updates",
+          "Multi-database support"
+        ]
+      },
+      {
+        "category": "Performance & SEO",
+        "icon": "⚡",
+        "features": [
+          "Lightning-fast page loading",
+          "Advanced meta tag management",
+          "Automated sitemap creation"
+        ]
+      },
+      {
+        "category": "Customization",
+        "icon": "🎨",
+        "features": [
+          "Custom code injection capabilities",
+          "Font upload and Google Fonts",
+          "Theme and dark mode options"
+        ]
+      },
+      {
+        "category": "Professional Features",
+        "icon": "🚀",
+        "features": [
+          "Custom domain with SSL",
+          "Password-protected pages",
+          "Analytics integration"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Limited design control with standard Notion website publishers",
+      "Poor website performance and SEO optimization from Notion pages",
+      "Inability to add custom functionality to Notion-based websites"
+    ],
+    "solutionsBenefits": [
+      "Full design freedom through custom code injection while maintaining Notion workflow",
+      "Professional-grade website speed and search engine optimization",
+      "Advanced features like password protection, custom domains, and analytics integration"
+    ],
+    "idealFor": [
+      "Developers who want Notion content management with coding flexibility",
+      "Design agencies building client websites with custom requirements",
+      "Tech companies needing high-performance documentation sites",
+      "Content creators requiring advanced customization beyond basic builders"
+    ],
+    "notRecommendedFor": [
+      "Complete beginners with no coding knowledge (limited customization benefits)",
+      "Users seeking simple, template-based solutions (overcomplicated for basic needs)"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Potion connects directly to your Notion workspace through API access, automatically syncing your pages and databases in real-time. You simply grant permission to specific pages, and changes in Notion immediately reflect on your live website."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Basic setup takes 10-15 minutes for a functional website. However, implementing custom code and advanced features typically requires 1-3 hours depending on your design complexity and technical requirements."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Potion offers a free tier with basic functionality and Potion branding. Paid plans start at reasonable monthly rates and include custom domains, SSL certificates, advanced SEO tools, and priority support."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Primary applications include developer portfolios with custom styling, high-performance company blogs, documentation sites with code syntax highlighting, and landing pages requiring conversion optimization features beyond standard Notion publishers."
+      }
+    ]
+  }
+}

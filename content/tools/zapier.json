@@ -1,0 +1,210 @@
+{
+  "id": "zapier",
+  "name": "Zapier",
+  "slug": "zapier",
+  "tagline": "Connect Notion to 7,000+ apps with automated workflows",
+  "description": "Zapier is the leading automation platform that connects Notion with thousands of apps. Create automated workflows (Zaps) to sync data, trigger actions, and eliminate manual work between Notion and your favorite tools.",
+  "category": "automation",
+  "subcategory": "workflow-automation",
+  "website": "https://zapier.com",
+  "affiliateUrl": null,
+  "hasAffiliate": false,
+  "pricing": "freemium",
+  "pricingDisplay": "From $19.99/mo",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "100 tasks/month",
+        "Single-step Zaps",
+        "15-minute update time"
+      ]
+    },
+    {
+      "name": "Starter",
+      "price": 19.99,
+      "billing": "monthly",
+      "features": [
+        "750 tasks/month",
+        "Multi-step Zaps",
+        "15-minute update time",
+        "Premium apps"
+      ]
+    },
+    {
+      "name": "Professional",
+      "price": 49,
+      "billing": "monthly",
+      "features": [
+        "2,000 tasks/month",
+        "Unlimited Zaps",
+        "2-minute update time",
+        "Custom logic with paths",
+        "Advanced admin features"
+      ]
+    }
+  ],
+  "integrationMethod": "zapier",
+  "complexityLevel": "intermediate",
+  "setupTime": "15-30 minutes",
+  "topBenefits": [
+    "Connect Notion to 7,000+ apps",
+    "No coding required",
+    "Multi-step automation workflows",
+    "Active community with pre-built templates"
+  ],
+  "tags": [
+    "automation",
+    "workflows",
+    "integrations",
+    "no-code",
+    "productivity",
+    "sync",
+    "api-connector"
+  ],
+  "useCases": [
+    "Sync form submissions to Notion databases",
+    "Auto-create tasks from emails",
+    "Backup Notion pages to cloud storage",
+    "Post Notion updates to Slack channels",
+    "Create calendar events from Notion tasks"
+  ],
+  "targetAudience": [
+    "Teams automating workflows",
+    "Solopreneurs managing multiple tools",
+    "Businesses needing custom integrations",
+    "Anyone wanting to connect Notion to other apps"
+  ],
+  "features": [
+    "7,000+ app integrations",
+    "Visual workflow builder",
+    "Multi-step automation (Zaps)",
+    "Filters and conditional logic",
+    "Scheduled triggers",
+    "Custom webhooks",
+    "Error handling and auto-retry",
+    "Team collaboration workspaces"
+  ],
+  "alternatives": [
+    "make",
+    "n8n",
+    "ifttt",
+    "pipedream"
+  ],
+  "image": "/images/tools/zapier-logo.png",
+  "screenshots": [
+    "/images/tools/zapier-workflow-builder.png",
+    "/images/tools/zapier-notion-integration.png"
+  ],
+  "rating": 4.5,
+  "ratingCount": 12500,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T20:09:38.903Z",
+  "creator": {
+    "name": "Zapier Inc.",
+    "url": "https://zapier.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zapier",
+    "linkedin": "https://www.linkedin.com/company/zapier"
+  },
+  "rawData": {
+    "description": "Zapier is an automation platform that connects over 7,000 apps. With Notion integration, you can create automated workflows (Zaps) that trigger actions based on events in Notion or other apps. Move info between Notion and your web apps automatically, so you can focus on your most important work.",
+    "features": [
+      "7,000+ app integrations",
+      "Visual workflow builder with drag-and-drop",
+      "Multi-step Zaps for complex automations",
+      "Filters and paths for conditional logic",
+      "Scheduled triggers for time-based automation",
+      "Custom webhooks for advanced integrations",
+      "Error handling with automatic retry",
+      "Team workspaces for collaboration",
+      "Transfer up to 100 records per action",
+      "Premium app access"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Zapier serves as the ultimate bridge between Notion and your entire software ecosystem, transforming isolated tools into a unified, automated workflow machine. This powerful automation platform eliminates the tedious manual work of moving data between Notion and over 7,000 other applications by creating intelligent triggers and actions that respond to changes across your digital workspace. Whether you're capturing form responses directly into Notion databases, automatically generating tasks from incoming emails, or syncing project updates to communication channels, Zapier turns your Notion workspace into the central nervous system of your productivity stack.\n\nThe platform's visual workflow builder makes complex automation accessible to users at any technical level, allowing you to create sophisticated multi-step processes without writing code. You can establish conditional logic, schedule recurring actions, and handle errors gracefully while maintaining complete control over how your data flows between systems. For Notion users seeking to maximize their workspace's potential, Zapier represents the difference between managing information manually and orchestrating it intelligently across every tool in your arsenal.",
+    "featureCategories": [
+      {
+        "category": "Workflow Automation",
+        "icon": "⚡",
+        "features": [
+          "Visual drag-and-drop workflow designer",
+          "Complex multi-step automation sequences",
+          "Conditional logic with filters and branching paths"
+        ]
+      },
+      {
+        "category": "Integration Network",
+        "icon": "🔗",
+        "features": [
+          "Access to 7,000+ application connections",
+          "Premium app integrations included",
+          "Custom webhook support for advanced connectivity"
+        ]
+      },
+      {
+        "category": "Data Management",
+        "icon": "📊",
+        "features": [
+          "Bulk transfer up to 100 records per action",
+          "Automatic error handling with retry logic",
+          "Scheduled triggers for time-based operations"
+        ]
+      },
+      {
+        "category": "Collaboration Tools",
+        "icon": "👥",
+        "features": [
+          "Team workspace sharing",
+          "Collaborative automation editing",
+          "Usage monitoring and analytics"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Constantly switching between apps to manually copy data into Notion databases",
+      "Missing important information because it's scattered across disconnected tools",
+      "Spending hours on repetitive data entry tasks instead of strategic work"
+    ],
+    "solutionsBenefits": [
+      "Creates seamless data flow between all your tools and Notion, eliminating manual copying",
+      "Centralizes information automatically in Notion, ensuring nothing falls through the cracks",
+      "Frees up valuable time by handling routine data tasks in the background"
+    ],
+    "idealFor": [
+      "Project managers coordinating data across multiple tools and Notion databases",
+      "Marketing teams capturing leads from various sources into Notion CRMs",
+      "Content creators managing workflows between creation tools and Notion planning systems",
+      "Small business owners automating customer data flow into Notion tracking systems"
+    ],
+    "notRecommendedFor": [
+      "Users who only work within Notion and don't need external integrations",
+      "Teams with extremely simple workflows that don't justify automation complexity"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Zapier connects to Notion through official API integration, allowing you to trigger automations when Notion items are created, updated, or deleted, and vice versa. Setup requires connecting your Notion account and selecting specific databases or pages to monitor."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Basic automations can be configured in 10-15 minutes, while complex multi-step workflows might take 1-2 hours to set up and test properly. The visual interface makes the process straightforward even for non-technical users."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, Zapier offers a free plan with 100 tasks per month and access to basic features. Paid plans start around $20/month and include more tasks, premium app access, and advanced features like multi-step workflows."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular automations include syncing form submissions to Notion databases, creating Notion tasks from email or Slack messages, backing up Notion content to cloud storage, and posting Notion updates to team communication channels automatically."
+      }
+    ]
+  }
+}

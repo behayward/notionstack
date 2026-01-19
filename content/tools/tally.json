@@ -1,0 +1,220 @@
+{
+  "id": "tally",
+  "name": "Tally",
+  "slug": "tally",
+  "tagline": "Beautiful forms that connect directly to Notion databases",
+  "description": "Tally is the simplest way to create forms that write directly to your Notion databases. No complex setup, no coding required. Just connect your Notion database and start collecting responses in seconds.",
+  "category": "forms",
+  "subcategory": "form-builder",
+  "website": "https://tally.so",
+  "affiliateUrl": "https://tally.so/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://tally.so/partners"
+  },
+  "pricing": "freemium",
+  "pricingDisplay": "Free forever plan available",
+  "pricingTiers": [
+    {
+      "name": "Free",
+      "price": 0,
+      "billing": "monthly",
+      "features": [
+        "Unlimited forms",
+        "Unlimited responses",
+        "Notion integration",
+        "Basic calculations",
+        "File uploads (10MB)"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 29,
+      "billing": "monthly",
+      "features": [
+        "Everything in Free",
+        "Remove Tally branding",
+        "Custom domains",
+        "File uploads (1GB)",
+        "Advanced logic",
+        "Email notifications",
+        "Team collaboration"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "5-10 minutes",
+  "topBenefits": [
+    "Free unlimited forms and responses",
+    "Direct Notion database integration",
+    "No coding or complex setup",
+    "Beautiful, customizable designs"
+  ],
+  "tags": [
+    "forms",
+    "notion-integration",
+    "data-collection",
+    "surveys",
+    "free",
+    "no-code",
+    "database-sync"
+  ],
+  "useCases": [
+    "Lead capture forms for marketing teams",
+    "Customer feedback surveys",
+    "Event registration with Notion tracking",
+    "Job application forms",
+    "Order forms for small businesses"
+  ],
+  "targetAudience": [
+    "Teams needing simple form solutions",
+    "Marketers collecting leads in Notion",
+    "Small businesses on a budget",
+    "Anyone wanting direct Notion integration"
+  ],
+  "features": [
+    "Direct Notion database integration",
+    "Unlimited forms and responses (Free plan)",
+    "Conditional logic and branching",
+    "File uploads and attachments",
+    "Custom calculations",
+    "Hidden fields for tracking",
+    "Embed anywhere (website, Notion, etc.)",
+    "Custom domains",
+    "Remove branding (Pro)",
+    "Team collaboration",
+    "Email notifications",
+    "Multi-page forms"
+  ],
+  "alternatives": [
+    "fillout",
+    "notionforms",
+    "jotform",
+    "typeform"
+  ],
+  "image": "/images/tools/tally-logo.png",
+  "screenshots": [
+    "/images/tools/tally-form-builder.png",
+    "/images/tools/tally-notion-integration.png"
+  ],
+  "rating": 4.8,
+  "ratingCount": 1850,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T20:08:07.303Z",
+  "creator": {
+    "name": "Tally Forms",
+    "url": "https://tally.so"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TallyForms",
+    "linkedin": "https://www.linkedin.com/company/tally-forms"
+  },
+  "rawData": {
+    "description": "Tally is the free online form builder that creates forms with the ease of creating a doc. No coding. No time-consuming setup. Native Notion integration means responses flow directly into your Notion databases without any middleman or automation tool.",
+    "features": [
+      "Native Notion database integration",
+      "Unlimited forms on free plan",
+      "Unlimited responses on free plan",
+      "Drag-and-drop form builder",
+      "Conditional logic and question branching",
+      "File uploads with storage",
+      "Custom calculations and formulas",
+      "Hidden fields for UTM tracking",
+      "Embed forms anywhere",
+      "Custom domains (Pro)",
+      "Remove Tally branding (Pro)",
+      "Team collaboration features",
+      "Email notifications and confirmations",
+      "Multi-page and multi-step forms",
+      "Payment collection via Stripe",
+      "Quiz mode with scoring"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Tally transforms how Notion users collect data by providing a seamless form-building experience that connects directly to your workspace databases. This intuitive form builder eliminates the complexity typically associated with data collection tools, offering a document-like editing experience that anyone can master without technical expertise. The platform's standout feature is its direct integration with Notion databases, ensuring that every form submission automatically populates your workspace without requiring third-party automation tools or complex workflows. Whether you're gathering customer feedback, processing job applications, or managing event registrations, Tally streamlines the entire process from form creation to data organization within your existing Notion setup.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct database synchronization",
+          "Real-time response updates",
+          "Seamless workspace connectivity"
+        ]
+      },
+      {
+        "category": "Form Building",
+        "icon": "🛠️",
+        "features": [
+          "Visual drag-and-drop editor",
+          "Multi-step form creation",
+          "Conditional logic branching"
+        ]
+      },
+      {
+        "category": "Data Collection",
+        "icon": "📊",
+        "features": [
+          "File upload capabilities",
+          "Custom calculation fields",
+          "UTM parameter tracking"
+        ]
+      },
+      {
+        "category": "Customization",
+        "icon": "🎨",
+        "features": [
+          "Custom domain support",
+          "Branding removal options",
+          "Flexible embed options"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Manual data entry from external forms into Notion databases",
+      "Complex setup processes for integrating form builders with Notion",
+      "Limited customization options in basic form solutions"
+    ],
+    "solutionsBenefits": [
+      "Automatic data population eliminates manual transfer and reduces errors",
+      "Native integration means instant setup without technical configuration",
+      "Advanced features like conditional logic and payments enhance form functionality"
+    ],
+    "idealFor": [
+      "Marketing teams tracking leads and campaigns in Notion",
+      "HR departments managing recruitment workflows",
+      "Small businesses processing orders and customer inquiries",
+      "Event organizers collecting registration data"
+    ],
+    "notRecommendedFor": [
+      "Users needing complex enterprise-level form features",
+      "Teams requiring advanced payment processing beyond basic Stripe integration"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Tally connects directly to your Notion databases through a native integration, automatically sending form responses to designated database tables without requiring Zapier or other automation tools."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Most users can create and connect their first form to Notion within 10-15 minutes, thanks to the intuitive drag-and-drop builder and straightforward database connection process."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Yes, Tally offers a generous free tier with unlimited forms and responses, making it accessible for individuals and small teams. Premium features like custom domains and branding removal require a paid plan."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular applications include lead generation forms for marketing databases, customer feedback surveys, job application tracking, event registration management, and order processing for small businesses."
+      }
+    ]
+  }
+}

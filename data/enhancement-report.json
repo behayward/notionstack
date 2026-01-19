@@ -1,10 +1,11 @@
 {
-  "timestamp": "2026-01-17T17:39:44.095Z",
+  "timestamp": "2026-01-18T15:40:19.347Z",
   "stats": {
-    "processed": 7,
-    "enhanced": 7,
+    "processed": 85,
+    "enhanced": 85,
     "failed": 0,
     "skipped": 0
   },
-  "productsEnhanced": 10
+  "limit": 100,
+  "productsEnhanced": 85
 }

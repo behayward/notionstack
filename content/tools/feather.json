@@ -1,0 +1,229 @@
+{
+  "id": "feather",
+  "name": "Feather",
+  "slug": "feather",
+  "tagline": "SEO-optimized blog publishing from Notion",
+  "description": "Feather is built specifically for bloggers who want to write in Notion and publish SEO-optimized content. Features include email capture, custom domains, and powerful SEO tools to help your blog rank and grow.",
+  "category": "publishing",
+  "subcategory": "blogging",
+  "website": "https://feather.so",
+  "affiliateUrl": "https://feather.so/?via=notionstack",
+  "hasAffiliate": true,
+  "affiliateRate": "Partner program",
+  "affiliateDetails": {
+    "commission": "Partner commission structure",
+    "cookieDuration": "Not disclosed",
+    "recurring": true,
+    "programUrl": "https://feather.so/partners"
+  },
+  "pricing": "paid",
+  "pricingDisplay": "From $8/mo",
+  "pricingTiers": [
+    {
+      "name": "Starter",
+      "price": 8,
+      "billing": "monthly",
+      "features": [
+        "1 blog",
+        "Custom domain",
+        "Email collection",
+        "Basic SEO tools"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": 20,
+      "billing": "monthly",
+      "features": [
+        "3 blogs",
+        "Advanced SEO",
+        "Newsletter integration",
+        "Custom code",
+        "Analytics"
+      ]
+    }
+  ],
+  "integrationMethod": "native",
+  "complexityLevel": "beginner",
+  "setupTime": "10-20 minutes",
+  "topBenefits": [
+    "Purpose-built for bloggers",
+    "Advanced SEO optimization",
+    "Email list building included",
+    "Fast, clean blog design"
+  ],
+  "tags": [
+    "publishing",
+    "blogging",
+    "seo",
+    "newsletter",
+    "email-marketing",
+    "content-creators",
+    "writers"
+  ],
+  "useCases": [
+    "Professional blogs with SEO focus",
+    "Newsletter-based publications",
+    "Content marketing blogs",
+    "Personal writing portfolios",
+    "Niche topic blogs"
+  ],
+  "targetAudience": [
+    "Professional bloggers and writers",
+    "Content marketers",
+    "Newsletter publishers",
+    "SEO-focused creators"
+  ],
+  "features": [
+    "Native Notion blog integration",
+    "Advanced SEO optimization",
+    "Email capture and list building",
+    "Custom domain with SSL",
+    "Newsletter integration (Substack, ConvertKit, etc.)",
+    "Google Analytics tracking",
+    "Clean, fast blog templates",
+    "Mobile responsive design",
+    "Social media preview cards",
+    "RSS feed generation",
+    "Custom CSS and styling",
+    "Blog post scheduling",
+    "Categories and tags",
+    "Author profiles",
+    "Related posts"
+  ],
+  "alternatives": [
+    "super",
+    "potion",
+    "notaku",
+    "hashnode"
+  ],
+  "image": "/images/tools/feather-logo.png",
+  "screenshots": [
+    "/images/tools/feather-blog.png",
+    "/images/tools/feather-editor.png"
+  ],
+  "rating": 4.6,
+  "ratingCount": 580,
+  "status": "active",
+  "verified": true,
+  "dateAdded": "2026-01-18T00:00:00.000Z",
+  "lastUpdated": "2026-01-18T21:52:04.939Z",
+  "creator": {
+    "name": "Feather",
+    "url": "https://feather.so"
+  },
+  "social": {
+    "twitter": "https://twitter.com/feather_so"
+  },
+  "rawData": {
+    "description": "Feather specializes in turning Notion pages into SEO-optimized blogs that rank well in search engines and convert readers into subscribers. Write your content in the familiar Notion interface, then let Feather handle the technical details of publishing, SEO, and email capture. Perfect for serious bloggers and content creators who want to grow their audience.",
+    "features": [
+      "Notion-native blog publishing",
+      "Advanced SEO optimization tools",
+      "Email capture and subscriber management",
+      "Custom domain with automatic SSL",
+      "Newsletter platform integrations",
+      "Google Analytics and tracking",
+      "Fast, SEO-friendly blog templates",
+      "Fully mobile responsive",
+      "Open Graph and social cards",
+      "Automatic RSS feed generation",
+      "Custom CSS for branding",
+      "Post scheduling and drafts",
+      "Categories and tag organization",
+      "Multi-author support",
+      "Related post suggestions",
+      "Comment integration options",
+      "Search functionality"
+    ]
+  },
+  "enhancedContent": {
+    "overview": "Feather transforms your Notion workspace into a powerful blog publishing platform that's built for growth and search engine visibility. Instead of wrestling with complex blogging platforms or losing your familiar writing environment, you can create and publish directly from Notion while Feather handles all the technical optimization behind the scenes. The platform seamlessly converts your Notion pages into fast-loading, search-friendly blog posts that are designed to attract readers and convert them into subscribers.\n\nThe integration works by connecting directly to your Notion workspace, allowing you to write, edit, and organize content exactly as you normally would. Once you're ready to publish, Feather automatically applies advanced SEO optimizations, generates clean URLs, adds proper metadata, and ensures your content loads quickly across all devices. This approach eliminates the typical friction between content creation and publication, letting you focus on what matters most – creating valuable content that resonates with your audience and grows your subscriber base organically.",
+    "featureCategories": [
+      {
+        "category": "Notion Integration",
+        "icon": "🔗",
+        "features": [
+          "Direct Notion page publishing",
+          "Native writing interface",
+          "Automatic content synchronization"
+        ]
+      },
+      {
+        "category": "SEO & Performance",
+        "icon": "🎯",
+        "features": [
+          "Advanced search optimization tools",
+          "Fast-loading templates",
+          "Automatic RSS generation"
+        ]
+      },
+      {
+        "category": "Audience Building",
+        "icon": "📈",
+        "features": [
+          "Built-in email capture forms",
+          "Newsletter platform connections",
+          "Subscriber management tools"
+        ]
+      },
+      {
+        "category": "Customization",
+        "icon": "🎨",
+        "features": [
+          "Custom domain setup with SSL",
+          "Branding with custom CSS",
+          "Mobile-responsive design"
+        ]
+      },
+      {
+        "category": "Content Management",
+        "icon": "📝",
+        "features": [
+          "Post scheduling system",
+          "Multi-author collaboration",
+          "Category and tag organization"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Struggling with complex blogging platforms while preferring Notion's writing experience",
+      "Poor search engine rankings due to lack of technical SEO knowledge",
+      "Difficulty converting blog readers into email subscribers and building an audience"
+    ],
+    "solutionsBenefits": [
+      "Write and publish directly from Notion without learning new tools or losing your preferred workflow",
+      "Automatic SEO optimization ensures better search rankings without technical expertise required",
+      "Built-in subscriber capture and newsletter integrations turn readers into a growing email list"
+    ],
+    "idealFor": [
+      "Content creators and bloggers who love writing in Notion but need professional publishing capabilities",
+      "Marketing professionals running content strategies from Notion who need SEO-optimized output",
+      "Solo entrepreneurs and coaches building thought leadership through consistent blogging",
+      "Small teams collaborating on content in Notion who want streamlined publishing workflows"
+    ],
+    "notRecommendedFor": [
+      "Casual bloggers who don't need advanced SEO features or subscriber management",
+      "Teams already invested in complex CMS systems with extensive customization needs"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How does this integrate with Notion?",
+        "answer": "Feather connects directly to your Notion workspace through API integration. You simply write and organize content in Notion as usual, then designate which pages should be published. The platform automatically syncs your content and handles the conversion to optimized blog posts."
+      },
+      {
+        "question": "What's the setup time?",
+        "answer": "Initial setup typically takes 15-30 minutes, including connecting your Notion workspace, choosing a template, and configuring your domain. Most users can publish their first post within an hour of signing up."
+      },
+      {
+        "question": "Is there a free plan?",
+        "answer": "Feather offers a free tier that includes basic publishing features and Feather subdomain hosting. Paid plans unlock custom domains, advanced SEO tools, email capture features, and premium support, starting at competitive monthly rates."
+      },
+      {
+        "question": "What are the main use cases for Notion users?",
+        "answer": "Popular use cases include turning Notion content databases into professional blogs, publishing newsletter archives, creating documentation sites, sharing research and insights, and building personal brand websites directly from existing Notion workspaces."
+      }
+    ]
+  }
+}

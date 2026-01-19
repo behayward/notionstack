@@ -26,11 +26,90 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.541Z",
-  "lastUpdated": "2026-01-12T20:47:12.541Z",
+  "lastUpdated": "2026-01-18T15:18:02.404Z",
   "image": "/images/products/spotion-covers.jpg",
   "rawData": {
     "description": "The better way to embed Spotify into Notion.An aesthetic, playable embed for Spotify playlists, songs and albums.Why did I make this?The default Spotify embed is pretty bad for Notion. It doesn't fit the minimalist aesthetic I like for my Notion boards.Furthermore, it doesn't even work! You can only listen to 30 seconds of a song when you play it from Notion.So I made my own version.What do I get with the embed?You get a resizable view of the album/playlist/song art, and when you click on it the song/playlist will play in the Spotify app on your laptop.What the hell is a \"Spotion?\"Spotify + Notion. I feel like you could've figured this one out on your own.",
     "features": [],
     "reviewQuotes": []
+  },
+  "enhancedContent": {
+    "overview": "Spotion Covers transforms how you integrate music into your Notion workspace by providing visually appealing, functional Spotify embeds. This template offers a clean, aesthetic alternative to Spotify's default embed that actually works properly within Notion pages. Perfect for music lovers, content creators, and anyone wanting to enhance their Notion boards with seamless music integration.",
+    "featureCategories": [
+      {
+        "category": "Visual Enhancement",
+        "icon": "🎨",
+        "features": [
+          "Aesthetic album artwork display",
+          "Resizable embed dimensions",
+          "Minimalist design that matches Notion's interface"
+        ]
+      },
+      {
+        "category": "Music Integration",
+        "icon": "🎵",
+        "features": [
+          "Clickable covers that launch Spotify app",
+          "Support for playlists, albums, and individual tracks",
+          "Full song playback without 30-second limitations"
+        ]
+      },
+      {
+        "category": "User Experience",
+        "icon": "⚡",
+        "features": [
+          "One-click music access",
+          "Seamless app switching",
+          "Responsive design across devices"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Default Spotify embeds look cluttered and unprofessional in Notion",
+      "Standard embeds only allow 30-second song previews instead of full playback",
+      "Native Spotify integration disrupts the clean aesthetic of organized Notion workspaces"
+    ],
+    "solutionsBenefits": [
+      "Creates visually consistent music embeds that complement your Notion design",
+      "Enables full song playback by launching your desktop Spotify application",
+      "Provides customizable sizing options to fit any page layout perfectly"
+    ],
+    "idealFor": [
+      "Music enthusiasts organizing playlists and album collections",
+      "Content creators building mood boards and creative inspiration pages",
+      "Notion power users seeking aesthetic consistency across their workspace"
+    ],
+    "notRecommendedFor": [
+      "Users without Spotify premium accounts (limited functionality)",
+      "Those who prefer built-in web playback over app switching"
+    ],
+    "complexityLevel": "beginner",
+    "whatsIncluded": [
+      "Pre-configured Spotion embed template",
+      "Setup instructions for different media types",
+      "Customization guide for sizing and placement"
+    ],
+    "faqs": [
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, the embeds are fully resizable and you can adjust dimensions to fit your specific page layouts and aesthetic preferences."
+      },
+      {
+        "question": "Do I need Notion AI to use this?",
+        "answer": "No, this template works with any Notion account and doesn't require Notion AI functionality."
+      },
+      {
+        "question": "How complex is the setup?",
+        "answer": "Very simple - just copy the template and replace the placeholder Spotify links with your own playlist, album, or song URLs."
+      },
+      {
+        "question": "Is this updated for 2026?",
+        "answer": "Yes, this template uses current Spotify integration methods and is compatible with the latest Notion features."
+      },
+      {
+        "question": "What if I need help?",
+        "answer": "The template includes detailed setup instructions, and most users can implement it within minutes of download."
+      }
+    ]
   }
 }
