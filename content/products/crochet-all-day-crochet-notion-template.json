@@ -26,5 +26,85 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.629Z",
-  "lastUpdated": "2026-01-12T20:47:12.629Z"
+  "lastUpdated": "2026-01-19T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "Crochet All Day is a comprehensive digital workspace designed specifically for crochet enthusiasts who want to organize their projects, track their yarn stash, and manage their craft hobby efficiently within Notion. This all-in-one template eliminates the chaos of scattered patterns, mystery yarn skeins, and forgotten works-in-progress by providing a centralized hub for every aspect of your crochet journey. Whether you're juggling multiple projects or building a substantial yarn collection, this template keeps everything organized and accessible.\n\nThe template features a project tracker with a built-in row counter for managing your current WIPs (works in progress), a comprehensive yarn stash organizer that tracks weights, colors, and fibers, a pattern library for your favorite designs, and an inspiration board for future project ideas. Rate your yarns and patterns to remember what works best, and never lose track of which row you're on with the integrated counter feature.\n\nPerfect for crocheters who have grown beyond casual dabbling and need a system to manage multiple ongoing projects, a growing yarn collection, and an ever-expanding list of patterns they want to try. This digital solution replaces scattered notebooks, photos of yarn labels, and mental tracking with one organized workspace.",
+    "featureCategories": [
+      {
+        "category": "Project Management",
+        "icon": "🧶",
+        "features": [
+          "Comprehensive project tracker for upcoming, in-progress, and finished crochet projects",
+          "Built-in row counter to track progress on current WIPs",
+          "Project status tracking from planning through completion"
+        ]
+      },
+      {
+        "category": "Yarn Stash Organization",
+        "icon": "🧵",
+        "features": [
+          "Complete yarn inventory system tracking skeins, weights, colors, and fibers",
+          "Rating system to remember which yarns you love",
+          "Easy reference for matching yarn to future projects"
+        ]
+      },
+      {
+        "category": "Pattern Library",
+        "icon": "📚",
+        "features": [
+          "Organized storage for your favorite crochet patterns",
+          "Pattern categorization for quick discovery",
+          "Links to online patterns and notes on physical patterns"
+        ]
+      },
+      {
+        "category": "Creative Planning",
+        "icon": "✨",
+        "features": [
+          "Inspiration board for project ideas and design concepts",
+          "Planning space for upcoming projects with yarn matching",
+          "Visual organization of future crochet goals"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Eliminates the frustration of losing track of which row you're on in complex patterns, especially when switching between multiple WIPs",
+      "Prevents buying duplicate yarn or forgetting what's in your stash by providing a searchable inventory",
+      "Removes the chaos of scattered patterns across bookmarks, printouts, and purchased pdfs with no organization system"
+    ],
+    "solutionsBenefits": [
+      "Track multiple crochet projects simultaneously with the row counter ensuring you never lose your place, even when switching between WIPs",
+      "Build a searchable yarn stash database so you can instantly check what you own before buying new materials or plan projects around existing yarn",
+      "Organize your pattern collection with ratings and notes, making it easy to find the perfect pattern when inspiration strikes"
+    ],
+    "idealFor": [
+      "Active crocheters managing multiple works-in-progress who need to track rows and project status",
+      "Yarn enthusiasts with growing stash collections who want to catalog their inventory by weight, color, and fiber",
+      "Pattern collectors looking to organize their favorite designs and remember which ones worked well",
+      "Crochet hobbyists who want a digital planning system for upcoming projects and creative ideas"
+    ],
+    "notRecommendedFor": [
+      "Very casual crocheters who only work on one simple project at a time and don't need organization systems",
+      "Those who prefer traditional paper notebooks and physical organization over digital tracking"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "Download the free template and duplicate it to your Notion workspace. Start by adding your current projects to the tracker and using the row counter for your active WIP. Then inventory your yarn stash by adding skeins with their details. Finally, add your go-to patterns to the library and use the inspiration board for future project ideas."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The template includes a project tracker for planning, tracking, and completing crochet projects with a row counter for WIPs, a yarn stash organizer with properties for weight, color, fiber, and ratings, a pattern library for storing favorite designs, and an inspiration board for future project ideas."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes! After duplicating, you can add custom fields like hook size preferences, project difficulty ratings, yarn shop sources, or pattern designer names. Modify the organization structure, create different project views, or add additional databases for tools, finished object photos, or gift planning."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Use it to track row counts on active projects so you never lose your place, catalog your entire yarn stash to avoid duplicate purchases and plan projects around existing yarn, organize pattern collections with ratings and notes for easy reference, plan future projects by matching patterns with your stash, and maintain a visual inspiration board for creative ideas."
+      }
+    ]
+  }
 }

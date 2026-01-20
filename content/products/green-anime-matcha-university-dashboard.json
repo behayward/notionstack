@@ -26,5 +26,82 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.574Z",
-  "lastUpdated": "2026-01-12T20:47:12.574Z"
+  "lastUpdated": "2026-01-19T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "The Green, Anime & Matcha University Dashboard makes academic life both organized and aesthetically delightful. Created through a collaboration between The Matcha Vibe and Itsmoul, this template offers six beautifully designed theme variations ranging from serene Studio Ghibli aesthetics to clean minimalist layouts. It's not just about looking good—this dashboard consolidates everything university students need in one place: subject-specific notes, grade tracking, goal setting, schedule management, and assignment reminders. Whether you're drawn to the warm Sunset Serenity theme or the calming Matcha aesthetic, you'll find a version that makes studying feel less like a chore and more like time spent in your favorite digital space.",
+    "featureCategories": [
+      {
+        "category": "Academic Organization",
+        "icon": "📚",
+        "features": [
+          "Subject-specific note databases organized by class and topic",
+          "Comprehensive grade tracker showing performance across all courses",
+          "Assignment and exam reminder system with due date alerts",
+          "Class schedule viewer to see your weekly university timetable"
+        ]
+      },
+      {
+        "category": "Goal Setting & Planning",
+        "icon": "🎯",
+        "features": [
+          "Academic goal tracker for semester and yearly objectives",
+          "Weekly planning sections to organize study sessions and commitments",
+          "Progress tracking for long-term projects and research papers"
+        ]
+      },
+      {
+        "category": "Aesthetic Themes",
+        "icon": "🎨",
+        "features": [
+          "Six unique aesthetic themes: Sunset Serenity, Studio Ghibli, Chill Green, Simple, Minimalistic, and Matcha",
+          "Color-coordinated layouts that reduce visual overwhelm",
+          "Calming design elements inspired by anime and nature aesthetics"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Scattered notes across different apps, notebooks, and loose papers creating study chaos",
+      "No centralized view of grades making it hard to identify courses needing more attention",
+      "Missing assignment deadlines because reminders are buried in email or scattered syllabi",
+      "Boring, generic academic planners that feel like homework just to look at",
+      "Difficulty staying motivated to use productivity tools that don't spark joy"
+    ],
+    "solutionsBenefits": [
+      "All university materials centralized in one aesthetic Notion workspace you'll actually want to open",
+      "Grade tracking provides instant visibility into academic performance across all classes",
+      "Assignment reminders prevent last-minute panic and all-nighters from forgotten due dates",
+      "Multiple theme options let you match your dashboard to your personal aesthetic and mood",
+      "Beautiful design transforms administrative tasks into moments of calm and organization"
+    ],
+    "idealFor": [
+      "University students who value aesthetics and want their study space to inspire productivity",
+      "Anime and Studio Ghibli fans looking for themed academic organization tools",
+      "Visual learners who organize better with color-coded, beautifully designed systems",
+      "Students managing multiple courses who need centralized grade and assignment tracking",
+      "Anyone who's tried productivity tools but abandoned them because they weren't engaging enough"
+    ],
+    "notRecommendedFor": [
+      "Students preferring ultra-minimal, text-only interfaces without visual design elements",
+      "Those who organize exclusively with physical planners and notebooks"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "After duplicating the template, choose your favorite theme from the six options (you can always switch later). Then add your current courses, input your class schedule, and start transferring notes and assignments. The intuitive layout makes setup quick and straightforward."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "You get six complete theme variations (Sunset Serenity, Studio Ghibli, Chill Green, Simple, Minimalistic, and Matcha), each including subject notes databases, grade trackers, goal planners, schedule views, and assignment/exam reminder systems. All themes have identical functionality with different aesthetics."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes! Beyond choosing between six themes, you can customize subject categories, modify the grade calculation system, add custom properties to notes and assignments, and adjust colors and icons. You can also mix elements from different themes to create your perfect aesthetic."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Managing all university coursework in one organized space, tracking GPA and grades across semesters, staying on top of assignment and exam deadlines, organizing study notes by subject and topic, and creating a study environment that's both functional and visually inspiring."
+      }
+    ]
+  }
 }

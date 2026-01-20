@@ -26,5 +26,83 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.675Z",
-  "lastUpdated": "2026-01-12T20:47:12.675Z"
+  "lastUpdated": "2026-01-19T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "Workout Planner 2.0 is your comprehensive fitness command center built entirely in Notion, designed to transform how you approach training and nutrition. This template brings together everything serious gym-goers need: muscle group organization, exercise libraries, workout programs, progress tracking charts, goal setting, and meal planning—all in one unified system. Whether you're a beginner starting your fitness journey or an experienced lifter optimizing your training split, this planner provides the structure to track workouts, monitor progression, plan nutrition, and stay accountable to your fitness goals. No more scattered notes in different apps or lost workout logs—everything lives in your Notion workspace.",
+    "featureCategories": [
+      {
+        "category": "Workout Management",
+        "icon": "💪",
+        "features": [
+          "Muscle group database to organize exercises by target areas (chest, back, legs, etc.)",
+          "Exercise library with detailed movement tracking and personal records",
+          "Workout program builder to design and follow structured training splits",
+          "Navigation bar for quick access to all fitness components"
+        ]
+      },
+      {
+        "category": "Progress Tracking",
+        "icon": "📈",
+        "features": [
+          "Chart progress visualization to see strength gains and workout consistency",
+          "Workout goals tracker with measurable targets and completion status",
+          "Progress chart framework (customizable to track weight, reps, or measurements)",
+          "Historical workout logs to review past training sessions"
+        ]
+      },
+      {
+        "category": "Nutrition Planning",
+        "icon": "🍽️",
+        "features": [
+          "Meal planner to organize daily nutrition and meal prep",
+          "Macronutrient tracking integration for diet management",
+          "Recipe database to store healthy meal ideas and cooking instructions"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Lost workout logs in scattered gym notebooks that disappear when you need them most",
+      "No clear progression tracking making it impossible to know if you're actually getting stronger",
+      "Forgotten personal records and inability to track volume progression over time",
+      "Disconnected nutrition planning that doesn't align with your training program",
+      "Lack of structure in workout routines leading to imbalanced muscle development"
+    ],
+    "solutionsBenefits": [
+      "Centralized fitness hub keeps all workout history, programs, and nutrition plans in one searchable Notion space",
+      "Progress charts visualize strength gains and training consistency, providing motivation through visible improvement",
+      "Muscle group organization ensures balanced training by tracking work across all body areas",
+      "Integrated meal planner connects nutrition to training goals, supporting recovery and muscle growth",
+      "Goal tracker maintains focus on specific targets like hitting a PR or completing a training phase"
+    ],
+    "idealFor": [
+      "Gym enthusiasts following structured programs like PPL, Upper/Lower, or bodybuilding splits",
+      "Beginners wanting to organize their fitness journey from day one with proper tracking systems",
+      "Athletes preparing for competitions who need meticulous training and nutrition logs",
+      "Fitness coaches managing their own training while designing client programs",
+      "Anyone serious about progressive overload and tracking measurable strength improvements"
+    ],
+    "notRecommendedFor": [
+      "Casual exercisers who prefer workout tracking apps with automatic rep counting and timers",
+      "Those wanting pre-built workout programs rather than a framework to create their own"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "After duplicating the template, start by populating the muscle groups you want to target, then add exercises to your exercise library. Build your first workout program (or input your current routine), and begin logging workouts. Set up your meal planner and customize the progress chart to track your specific metrics."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The template includes muscle group databases, exercise/workout logging systems, workout program builder, chart progress visualizations, workout goals tracker, meal planner, and a customizable progress chart framework. It also features a navigation bar for quick access to all sections."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes! You can add custom muscle groups, create your own exercise library, design unique workout programs, modify the progress chart to track specific metrics (weight, body fat, measurements), and adapt the meal planner to your dietary approach (keto, macro counting, etc.)."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Logging daily workouts with sets, reps, and weights for progressive overload tracking, organizing training splits by muscle groups, setting and monitoring strength or physique goals, planning weekly meal prep aligned with training goals, and reviewing historical training data to identify plateaus or plan deload weeks."
+      }
+    ]
+  }
 }

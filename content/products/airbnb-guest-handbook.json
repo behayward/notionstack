@@ -26,5 +26,92 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.721Z",
-  "lastUpdated": "2026-01-12T20:47:12.721Z"
+  "lastUpdated": "2026-01-19",
+  "enhancedContent": {
+    "overview": "The AirBnB Guest Handbook streamlines your short-term rental hosting by providing guests with a comprehensive, shareable digital guide directly in Notion. This all-inclusive handbook answers common questions before they're asked, reducing host workload while elevating the guest experience with professional, always-updated information.\n\nInstead of answering the same questions via message after message, this template lets you create once and share indefinitely. Update house rules, check-in procedures, WiFi passwords, or local recommendations anytime—the shared link stays the same, ensuring guests always have current information at their fingertips.",
+    "featureCategories": [
+      {
+        "category": "Essential Property Information",
+        "icon": "🏠",
+        "features": [
+          "Contact details and emergency numbers in one accessible location",
+          "Detailed house rules and property guidelines",
+          "Check-in and checkout procedures with step-by-step instructions",
+          "Property location details and directions for arrival"
+        ]
+      },
+      {
+        "category": "Guest Instructions",
+        "icon": "📋",
+        "features": [
+          "Appliance operation guides (heating, cooling, laundry systems)",
+          "Cleaning guidelines and expectations during stay",
+          "WiFi network information and connection instructions",
+          "Trash and recycling procedures"
+        ]
+      },
+      {
+        "category": "Local Area Guide",
+        "icon": "🗺️",
+        "features": [
+          "Restaurant recommendations with cuisine types and price ranges",
+          "Tourist attractions and must-see spots nearby",
+          "Transportation options and public transit information",
+          "Shopping, entertainment, and local services directory"
+        ]
+      },
+      {
+        "category": "Host Tools",
+        "icon": "⚙️",
+        "features": [
+          "One-time setup with unlimited sharing via stable link",
+          "Easy updates that automatically reflect for all future guests",
+          "No Notion account required for guests to view",
+          "Professional presentation that enhances property value"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Eliminates repetitive guest questions about WiFi passwords, check-in times, appliance usage, and local recommendations",
+      "Prevents miscommunication about house rules and checkout procedures that can lead to disputes or poor reviews",
+      "Solves the problem of outdated printed materials that require reprinting every time something changes",
+      "Removes the burden of being constantly available to answer basic property questions during guest stays"
+    ],
+    "solutionsBenefits": [
+      "Answer every common question once in the handbook, then share the same link with every guest automatically at booking",
+      "Update any information instantly (WiFi password, recommended restaurants, house rules) without needing to contact past or current guests",
+      "Guests access the handbook via public web link—no Notion account required—making it universally accessible from any device",
+      "Professional digital guide positions your property as well-managed and guest-focused, leading to better reviews and repeat bookings"
+    ],
+    "idealFor": [
+      "Airbnb and VRBO hosts managing one or multiple short-term rental properties who want to provide excellent guest communication",
+      "Property managers handling bookings for multiple owners who need consistent, professional guest materials",
+      "First-time hosts looking to establish professional systems and reduce the learning curve of guest management",
+      "Experienced hosts who want to scale their operations by reducing time spent answering repetitive questions",
+      "Hosts in tourist-heavy areas who frequently get asked for local recommendations and directions"
+    ],
+    "notRecommendedFor": [
+      "Hosts with extremely simple properties where a basic printed sheet suffices and digital updates aren't necessary",
+      "Those renting exclusively to long-term tenants who don't need tourist information or frequent guidance"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this guest handbook template?",
+        "answer": "After duplicating the template to your Notion workspace, customize it with your property details, house rules, and local recommendations. Then publish the page to the web (making it publicly accessible) and share the link with guests at booking confirmation. The template includes a video walkthrough to guide you through customization."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The handbook includes sections for contact information, property location and directions, check-in/checkout procedures, house rules, appliance instructions (heating, laundry, cleaning), WiFi details, emergency contacts, local restaurant and attraction guides, transportation options, and customizable sections for property-specific information."
+      },
+      {
+        "question": "Can I customize this template for my property?",
+        "answer": "Yes, the template is fully customizable within Notion. Add your branding, adjust sections to match your property features, include specific appliance manuals, customize local recommendations for your area, add photos of your property, and modify the layout to emphasize what matters most to your guests. All content can be edited to fit your unique hosting style."
+      },
+      {
+        "question": "What are the main use cases for this handbook?",
+        "answer": "Primary use cases include providing check-in information to arriving guests, answering common questions about property amenities and operation, sharing local area recommendations for dining and activities, communicating house rules and expectations clearly, reducing host workload by centralizing all guest information, and creating a professional impression that leads to better reviews and ratings."
+      }
+    ]
+  }
 }

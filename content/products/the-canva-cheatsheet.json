@@ -26,5 +26,91 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.544Z",
-  "lastUpdated": "2026-01-12T20:47:12.544Z"
+  "lastUpdated": "2026-01-19",
+  "enhancedContent": {
+    "overview": "The Canva Cheatsheet is a comprehensive design resource for Notion creators and solopreneurs who need to create professional marketing materials without formal design training. This template recognizes the reality that running a business requires both great products and great marketing - and marketing requires visual content that catches attention and converts.\n\nFor just $5, you get access to over 50 curated font pairings, design element recommendations, and practical exercises to strengthen your design skills. This isn't a generic design course - it's a targeted resource specifically created for Notion template creators and small business owners who use Canva for their marketing graphics, social media posts, product thumbnails, and promotional materials.\n\nThe template bridges the gap between having access to Canva's tools and actually knowing how to use them effectively. With actionable recommendations and proven combinations, you'll spend less time experimenting and more time creating professional-quality designs that elevate your brand.",
+    "featureCategories": [
+      {
+        "category": "Font & Typography",
+        "icon": "✍️",
+        "features": [
+          "50+ curated font pairings for professional designs",
+          "Typography guidelines for readability and impact",
+          "Header and body text combinations that work",
+          "Brand-appropriate font selection tips"
+        ]
+      },
+      {
+        "category": "Design Elements",
+        "icon": "🎨",
+        "features": [
+          "Element recommendations for various design types",
+          "Color scheme suggestions and combinations",
+          "Layout templates and composition guidelines",
+          "Visual hierarchy best practices"
+        ]
+      },
+      {
+        "category": "Skill Building",
+        "icon": "📚",
+        "features": [
+          "Hands-on exercises to practice design principles",
+          "Branding development activities",
+          "Real-world design challenges with solutions",
+          "Progressive skill-building curriculum"
+        ]
+      },
+      {
+        "category": "Time Optimization",
+        "icon": "⏱️",
+        "features": [
+          "Quick-reference guide for fast design decisions",
+          "Pre-tested combinations to avoid trial and error",
+          "Workflow shortcuts and efficiency tips",
+          "Templates for common design needs"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Design paralysis from too many Canva options and no clear direction",
+      "Unprofessional-looking marketing materials hurting brand credibility",
+      "Hours wasted on trial-and-error with fonts and layouts",
+      "Lack of design knowledge preventing effective visual marketing"
+    ],
+    "solutionsBenefits": [
+      "50+ proven font pairings eliminate guesswork and ensure professional typography every time you create a design",
+      "Targeted exercises build practical design skills specifically for solopreneurs and Notion creators, not generic design theory",
+      "Quick-reference format means faster design decisions and less time staring at blank Canva canvases",
+      "Branding insights help create cohesive visual identity across all your marketing materials"
+    ],
+    "idealFor": [
+      "Notion template creators who need professional graphics for product listings and marketing",
+      "Solopreneurs managing their own marketing without a design team or budget",
+      "Content creators who use Canva but struggle to create polished, professional designs",
+      "Small business owners wanting to elevate their brand visuals without hiring a designer"
+    ],
+    "notRecommendedFor": [
+      "Professional designers who already have advanced typography and composition knowledge",
+      "Those who don't use Canva and prefer other design tools like Adobe or Figma"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "Simply duplicate the template to your Notion workspace and browse the font pairing recommendations. Start by selecting 2-3 combinations that match your brand vibe, then use the exercises to practice applying them in Canva."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "Over 50 font pairing recommendations, design element suggestions, hands-on exercises to strengthen your design skills, and branding development activities. All organized in an easy-to-reference Notion format."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, you can add your own favorite combinations, document your brand guidelines, and expand the exercises based on your specific design needs. It works great as a living design reference."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Perfect for creating social media graphics, product thumbnails, email headers, promotional materials, course covers, and any marketing collateral where you need professional typography and design without hiring a designer."
+      }
+    ]
+  }
 }

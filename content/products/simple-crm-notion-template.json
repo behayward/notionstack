@@ -26,5 +26,93 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.549Z",
-  "lastUpdated": "2026-01-12T20:47:12.549Z"
+  "lastUpdated": "2026-01-19",
+  "enhancedContent": {
+    "overview": "Transform Notion into your complete sales command center with this streamlined CRM template designed for solopreneurs, freelancers, and small businesses. The Simple CRM delivers enterprise-level contact and deal management without the complexity or monthly subscription fees of traditional CRM platforms. Track unlimited contacts and accounts, manage your sales pipeline, and organize leads all within the Notion workspace you already use daily.\n\nThis template addresses the specific needs of small business owners who find tools like Salesforce overwhelming and expensive, but still need professional-grade relationship management. With dedicated views for incoming leads and active pipeline deals, you can focus on what matters most at each stage of your sales process. The intuitive structure makes it easy to see which prospects need attention, which deals are moving forward, and which clients require follow-up.\n\nWhat makes this CRM particularly valuable is its simplicity combined with power. You don't need training to use it effectively—the template's logical organization mirrors natural sales workflows. Track deal values to forecast revenue, categorize clients by status, and maintain detailed notes on every interaction. For consultants, coaches, agencies, and service providers who need to manage client relationships without enterprise software complexity, this template provides everything essential in a clean, accessible format.",
+    "featureCategories": [
+      {
+        "category": "Contact Management",
+        "icon": "👥",
+        "features": [
+          "Unlimited contacts database with customizable fields for names, companies, roles, and contact details",
+          "Relationship tracking to understand connection strength and engagement level",
+          "Activity history to log all interactions and touchpoints with each contact",
+          "Tags and categories for segmenting contacts by industry, priority, or source"
+        ]
+      },
+      {
+        "category": "Account Organization",
+        "icon": "🏢",
+        "features": [
+          "Separate accounts database for managing company-level relationships",
+          "Link multiple contacts to single accounts for complex B2B sales",
+          "Active and inactive client views to focus on current opportunities",
+          "Account status tracking from prospect to active client to past customer"
+        ]
+      },
+      {
+        "category": "Sales Pipeline",
+        "icon": "📊",
+        "features": [
+          "Dedicated pipeline view showing deals at each sales stage",
+          "Deal value tracking for revenue forecasting and priority setting",
+          "Stage progression from lead to proposal to closed-won",
+          "Visual board view to drag deals through your sales process"
+        ]
+      },
+      {
+        "category": "Lead Management",
+        "icon": "🎯",
+        "features": [
+          "Focused incoming leads view to quickly assess new opportunities",
+          "Lead source tracking to understand which marketing efforts work best",
+          "Priority flags for high-value or time-sensitive opportunities",
+          "Conversion tracking from lead to paying customer"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Eliminates the chaos of managing client relationships across scattered emails, spreadsheets, and sticky notes",
+      "Removes the barrier of expensive monthly CRM subscriptions that small businesses struggle to justify",
+      "Solves the problem of forgotten follow-ups and lost opportunities that slip through the cracks",
+      "Addresses the learning curve of complex enterprise CRMs that require extensive training and setup"
+    ],
+    "solutionsBenefits": [
+      "Centralizes all contact information, deal details, and interaction history in one searchable Notion database",
+      "Provides professional CRM functionality at zero ongoing cost, using Notion's free or existing paid tier",
+      "Creates automatic reminders and clear visibility into which leads and clients need immediate attention",
+      "Delivers intuitive, pre-built views that match natural sales workflows without configuration complexity"
+    ],
+    "idealFor": [
+      "Freelancers and consultants managing multiple client relationships and project proposals",
+      "Solopreneurs and small business owners who need CRM functionality without enterprise pricing",
+      "Service providers and agencies tracking leads from inquiry through proposal to contract",
+      "Coaches and course creators nurturing prospects through a longer sales cycle",
+      "B2B sales professionals managing relationships with multiple stakeholders per account",
+      "Anyone currently using spreadsheets or email to track sales who needs better organization"
+    ],
+    "notRecommendedFor": [
+      "Large sales teams requiring role-based permissions, automation workflows, and advanced reporting that enterprise CRMs provide",
+      "Businesses needing native integrations with marketing automation platforms, email sequencing tools, or telephony systems"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this CRM template?",
+        "answer": "After downloading, duplicate the template to your Notion workspace. Start by adding your existing contacts and accounts, then begin tracking new leads as they come in. The template includes pre-configured views for leads, pipeline, and clients, so you can immediately start organizing your sales activities without setup."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The template includes a contacts database for unlimited people records, an accounts database for company management, a dedicated leads view for new opportunities, a pipeline view showing deals by stage, active/inactive client filters, and deal value tracking fields for revenue forecasting."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Absolutely. You can add custom properties like industry, company size, last contact date, or any fields specific to your business. The views and filters are fully customizable, and you can create additional views for specific segments like high-value accounts or prospects in particular regions."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Primary uses include managing freelance client relationships, tracking consulting proposals through the sales process, organizing agency leads and prospects, maintaining service business customer records, nurturing coaching or course enrollments, and replacing expensive CRM subscriptions for small businesses."
+      }
+    ]
+  }
 }

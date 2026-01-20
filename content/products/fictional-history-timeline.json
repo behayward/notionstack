@@ -26,5 +26,93 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.546Z",
-  "lastUpdated": "2026-01-12T20:47:12.546Z"
+  "lastUpdated": "2026-01-19",
+  "enhancedContent": {
+    "overview": "Bring order to complex fictional timelines with this specialized Notion template designed for worldbuilders and storytellers. The Fictional History Timeline helps writers create chronological maps of their story worlds, tracking events, characters, and locations across time periods with precision and clarity. Born from the challenge of understanding intricate narratives like the TV series LOST, this template transforms tangled plot threads into organized, visual timelines.\n\nWhether you're writing a novel, developing a TV series, creating a tabletop RPG campaign, or building a video game world, managing historical events across multiple timelines and character perspectives can quickly become overwhelming. This template provides dedicated databases and views that let you see your fictional history from different angles—by character, by location, by time period, or by storyline. It's particularly powerful for stories with non-linear narratives, flashbacks, parallel timelines, or centuries-spanning histories.\n\nThe template combines simplicity with depth, offering enough structure to keep complex timelines organized while remaining flexible enough to adapt to any genre or story type. Writers can track cause-and-effect relationships between events, ensure character ages align with plot developments, and identify gaps or inconsistencies in their worldbuilding before they become problems in the manuscript.",
+    "featureCategories": [
+      {
+        "category": "Timeline Management",
+        "icon": "📅",
+        "features": [
+          "Chronological event tracking across multiple time periods and eras",
+          "Visual timeline views that display events in sequential order",
+          "Date and time period fields for precise event placement",
+          "Support for both specific dates and approximate time ranges"
+        ]
+      },
+      {
+        "category": "Worldbuilding Organization",
+        "icon": "🌍",
+        "features": [
+          "Character database linked to historical events they participated in",
+          "Location tracking to map where events occurred in your world",
+          "Event categorization by storyline, importance, or story arc",
+          "Relationship tracking between interconnected events"
+        ]
+      },
+      {
+        "category": "Multiple Perspectives",
+        "icon": "👁️",
+        "features": [
+          "Filter timeline by specific characters to see their personal history",
+          "View events by location to understand regional history",
+          "Organize by storyline to follow individual plot threads",
+          "Switch between different timeline views for various analytical needs"
+        ]
+      },
+      {
+        "category": "Story Development",
+        "icon": "✍️",
+        "features": [
+          "Notes field for each event to capture important details",
+          "Reference tracking to link events to story chapters or scenes",
+          "Consistency checking by visualizing character movements through time",
+          "Gap identification to spot missing historical periods"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Eliminates timeline confusion and continuity errors that plague complex stories with non-linear narratives or multiple time periods",
+      "Prevents character age inconsistencies and impossible timeline overlaps that readers quickly notice",
+      "Solves the challenge of tracking cause-and-effect relationships across hundreds or thousands of years of fictional history",
+      "Addresses the difficulty of visualizing how different storylines and character arcs intersect temporally"
+    ],
+    "solutionsBenefits": [
+      "Creates a single source of truth for your story's chronology, preventing contradictions and ensuring all events align logically",
+      "Provides multiple filtered views so you can examine your timeline from character, location, or storyline perspectives",
+      "Enables quick reference during writing to verify when events occurred and who was present, maintaining consistency",
+      "Helps identify pacing issues and timeline gaps that need additional worldbuilding or plot development"
+    ],
+    "idealFor": [
+      "Fantasy and science fiction novelists building worlds with extensive histories spanning centuries or millennia",
+      "Screenplay writers developing TV series or film franchises with complex, interconnected timelines and flashbacks",
+      "Tabletop RPG game masters creating campaign worlds with rich historical backgrounds for players to explore",
+      "Comic book and graphic novel creators tracking character origins and major events across multiple story arcs",
+      "Video game narrative designers mapping quest chronologies and world events that affect gameplay",
+      "Any writer working with non-linear storytelling, time travel plots, or multiple intersecting character timelines"
+    ],
+    "notRecommendedFor": [
+      "Writers working on contemporary, single-timeline stories where chronology is straightforward and linear",
+      "Authors who prefer minimal worldbuilding and focus primarily on character development rather than historical depth"
+    ],
+    "complexityLevel": "intermediate",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "After accessing the template, duplicate it to your Notion workspace. Start by creating your major historical eras or time periods, then add significant events with dates, involved characters, and locations. Use the different views to see your timeline from various perspectives and identify any gaps or inconsistencies."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The template includes an events database for tracking historical occurrences, a characters database to link people to events, a locations database for geographical context, and multiple filtered timeline views that let you see your history by character, location, time period, or storyline."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, the template is fully customizable. You can add custom properties like event importance, story arc tags, or world-specific categories. The databases and views can be modified to match your specific worldbuilding needs, whether you're tracking magical systems, technological developments, or political changes."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Primary uses include organizing complex novel timelines with flashbacks, building RPG campaign histories, developing TV series chronologies, mapping fantasy world histories across ages, tracking time travel plot mechanics, and ensuring character ages and life events remain consistent across your story."
+      }
+    ]
+  }
 }
