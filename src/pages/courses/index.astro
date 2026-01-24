@@ -16,7 +16,8 @@ try {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
     const product = JSON.parse(content);
-    if (product.category === 'course' && product.status !== 'inactive') {
+    // Only show courses with enhanced content and active status
+    if (product.category === 'course' && product.status !== 'inactive' && product.enhancedContent) {
       allProducts.push(product);
     }
   }
@@ -210,7 +211,7 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
 
   .products-grid {
     display: grid;
-    grid-course-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1.5rem;
   }
 
@@ -236,7 +237,7 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
     }
 
     .products-grid {
-      grid-course-columns: 1fr;
+      grid-template-columns: 1fr;
     }
   }
 </style>

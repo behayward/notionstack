@@ -16,7 +16,8 @@ try {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
     const product = JSON.parse(content);
-    if (product.category === 'template' && product.status !== 'inactive') {
+    // Only show templates with enhanced content and active status
+    if (product.category === 'template' && product.status !== 'inactive' && product.enhancedContent) {
       allProducts.push(product);
     }
   }
@@ -24,17 +25,19 @@ try {
   allProducts = [];
 }
 
-// Sort by priority score (revenue potential + quality)
+// Sort by revenue potential (paid + affiliate first)
 allProducts.sort((a, b) => {
   const scoreA =
-    (a.hasAffiliate ? 100 : 0) +
-    (a.price > 0 ? 50 : 0) +
+    (a.hasAffiliate && a.price > 0 ? 200 : 0) + // Paid WITH affiliate = best
+    (a.price > 0 ? 100 : 0) + // Paid products
+    (a.hasAffiliate ? 50 : 0) + // Has affiliate program
     (a.salesCount ? a.salesCount * 0.5 : 0) +
     (a.rating && a.ratingCount >= 3 && a.rating >= 4.0 ? a.rating * 10 : 0);
 
   const scoreB =
-    (b.hasAffiliate ? 100 : 0) +
-    (b.price > 0 ? 50 : 0) +
+    (b.hasAffiliate && b.price > 0 ? 200 : 0) +
+    (b.price > 0 ? 100 : 0) +
+    (b.hasAffiliate ? 50 : 0) +
     (b.salesCount ? b.salesCount * 0.5 : 0) +
     (b.rating && b.ratingCount >= 3 && b.rating >= 4.0 ? b.rating * 10 : 0);
 
@@ -56,6 +59,27 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
         <p class="product-count"><span id="product-count">{allProducts.length}</span> {allProducts.length === 1 ? 'template' : 'templates'}</p>
       </header>
 
+      <div class="search-sort-bar">
+        <div class="search-box">
+          <input
+            type="search"
+            id="search-input"
+            placeholder="Search templates..."
+            class="search-input"
+          />
+        </div>
+        <div class="sort-controls">
+          <label for="sort-select">Sort by:</label>
+          <select id="sort-select" class="sort-select">
+            <option value="revenue">Best Value</option>
+            <option value="rating">Highest Rated</option>
+            <option value="price-high">Price: High to Low</option>
+            <option value="price-low">Price: Low to High</option>
+            <option value="free">Free First</option>
+          </select>
+        </div>
+      </div>
+
       <div class="filters">
         <button data-category="" class="filter-btn filter-active">All Templates</button>
         {subcategories.map(cat => (
@@ -67,7 +91,16 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
 
       <div class="products-grid" id="products-grid">
         {allProducts.map(product => (
-          <div class="product-item" data-subcategory={product.subcategory || ''}>
+          <div
+            class="product-item"
+            data-subcategory={product.subcategory || ''}
+            data-name={product.name.toLowerCase()}
+            data-description={(product.description || '').toLowerCase()}
+            data-price={product.price || 0}
+            data-rating={product.rating || 0}
+            data-has-affiliate={product.hasAffiliate ? 'true' : 'false'}
+            data-creator={(product.creator?.name || '').toLowerCase()}
+          >
             <ProductCard product={product} />
           </div>
         ))}
@@ -77,28 +110,83 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
 </BaseLayout>
 
 <script>
-  // Client-side filtering
+  // Elements
   const filterButtons = document.querySelectorAll('.filter-btn');
-  const productItems = document.querySelectorAll('.product-item');
+  const productItems = Array.from(document.querySelectorAll('.product-item'));
   const pageTitle = document.getElementById('page-title');
   const productCount = document.getElementById('product-count');
+  const searchInput = document.getElementById('search-input');
+  const sortSelect = document.getElementById('sort-select');
+  const productsGrid = document.getElementById('products-grid');
 
-  // Check URL parameter on load
-  const urlParams = new URLSearchParams(window.location.search);
-  const categoryParam = urlParams.get('category');
+  let currentCategory = '';
+  let currentSearchTerm = '';
 
-  if (categoryParam) {
-    // Find and activate the button for this category
-    filterButtons.forEach(btn => {
-      if (btn.dataset.category === categoryParam) {
-        btn.click();
-      }
+  // Filter and sort products
+  function updateProducts() {
+    let visibleItems = productItems.filter(item => {
+      // Category filter
+      const itemCategory = item.dataset.subcategory;
+      const matchesCategory = currentCategory === '' || itemCategory === currentCategory;
+
+      // Search filter
+      const matchesSearch = currentSearchTerm === '' ||
+        item.dataset.name.includes(currentSearchTerm) ||
+        item.dataset.description.includes(currentSearchTerm) ||
+        item.dataset.creator.includes(currentSearchTerm);
+
+      return matchesCategory && matchesSearch;
     });
+
+    // Sort
+    const sortValue = sortSelect.value;
+    if (sortValue === 'revenue') {
+      // Paid + affiliate first, then paid, then affiliate, then free
+      visibleItems.sort((a, b) => {
+        const aPrice = parseFloat(a.dataset.price);
+        const bPrice = parseFloat(b.dataset.price);
+        const aAffiliate = a.dataset.hasAffiliate === 'true';
+        const bAffiliate = b.dataset.hasAffiliate === 'true';
+
+        const aScore = (aPrice > 0 && aAffiliate ? 200 : 0) + (aPrice > 0 ? 100 : 0) + (aAffiliate ? 50 : 0);
+        const bScore = (bPrice > 0 && bAffiliate ? 200 : 0) + (bPrice > 0 ? 100 : 0) + (bAffiliate ? 50 : 0);
+
+        return bScore - aScore;
+      });
+    } else if (sortValue === 'rating') {
+      visibleItems.sort((a, b) => parseFloat(b.dataset.rating) - parseFloat(a.dataset.rating));
+    } else if (sortValue === 'price-high') {
+      visibleItems.sort((a, b) => parseFloat(b.dataset.price) - parseFloat(a.dataset.price));
+    } else if (sortValue === 'price-low') {
+      visibleItems.sort((a, b) => parseFloat(a.dataset.price) - parseFloat(b.dataset.price));
+    } else if (sortValue === 'free') {
+      visibleItems.sort((a, b) => parseFloat(a.dataset.price) - parseFloat(b.dataset.price));
+    }
+
+    // Hide all first
+    productItems.forEach(item => item.style.display = 'none');
+
+    // Show and reorder visible items
+    visibleItems.forEach(item => {
+      item.style.display = 'block';
+      productsGrid.appendChild(item);
+    });
+
+    // Update count
+    productCount.textContent = visibleItems.length;
+
+    // Update title
+    if (currentCategory) {
+      pageTitle.textContent = `${currentCategory.charAt(0).toUpperCase() + currentCategory.slice(1)} Templates`;
+    } else {
+      pageTitle.textContent = 'All Templates';
+    }
   }
 
+  // Category filter
   filterButtons.forEach(button => {
     button.addEventListener('click', () => {
-      const category = button.dataset.category;
+      currentCategory = button.dataset.category;
 
       // Update active state
       filterButtons.forEach(btn => {
@@ -108,36 +196,38 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
       button.classList.add('filter-active');
       button.classList.remove('filter-link');
 
-      // Filter products
-      let visibleCount = 0;
-      productItems.forEach(item => {
-        const itemCategory = item.dataset.subcategory;
-        if (category === '' || itemCategory === category) {
-          item.style.display = 'block';
-          visibleCount++;
-        } else {
-          item.style.display = 'none';
-        }
-      });
+      updateProducts();
 
-      // Update title and count
-      if (category) {
-        pageTitle.textContent = `${category.charAt(0).toUpperCase() + category.slice(1)} Templates`;
-      } else {
-        pageTitle.textContent = 'All Templates';
-      }
-      productCount.textContent = visibleCount;
-
-      // Update URL without reload
+      // Update URL
       const url = new URL(window.location);
-      if (category) {
-        url.searchParams.set('category', category);
+      if (currentCategory) {
+        url.searchParams.set('category', currentCategory);
       } else {
         url.searchParams.delete('category');
       }
       window.history.pushState({}, '', url);
     });
   });
+
+  // Search
+  searchInput.addEventListener('input', (e) => {
+    currentSearchTerm = e.target.value.toLowerCase();
+    updateProducts();
+  });
+
+  // Sort
+  sortSelect.addEventListener('change', updateProducts);
+
+  // Load from URL on page load
+  const urlParams = new URLSearchParams(window.location.search);
+  const categoryParam = urlParams.get('category');
+  if (categoryParam) {
+    filterButtons.forEach(btn => {
+      if (btn.dataset.category === categoryParam) {
+        btn.click();
+      }
+    });
+  }
 </script>
 
 <style>
@@ -168,6 +258,62 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
   .product-count {
     color: var(--color-secondary);
     font-size: 0.9375rem;
+  }
+
+  .search-sort-bar {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .search-box {
+    flex: 1;
+    max-width: 400px;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 0.625rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    font-size: 0.9375rem;
+    font-family: inherit;
+    transition: border-color 0.15s ease;
+  }
+
+  .search-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+  }
+
+  .sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .sort-controls label {
+    font-size: 0.875rem;
+    color: var(--color-secondary);
+    font-weight: 500;
+  }
+
+  .sort-select {
+    padding: 0.625rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-family: inherit;
+    background: white;
+    cursor: pointer;
+    transition: border-color 0.15s ease;
+  }
+
+  .sort-select:focus {
+    outline: none;
+    border-color: var(--color-primary);
   }
 
   .filters {
@@ -229,6 +375,24 @@ const subcategories = [...new Set(allProducts.map(p => p.subcategory).filter(Boo
 
     .page-header h1 {
       font-size: 2rem;
+    }
+
+    .search-sort-bar {
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .search-box {
+      max-width: 100%;
+    }
+
+    .sort-controls {
+      width: 100%;
+      justify-content: space-between;
+    }
+
+    .sort-select {
+      flex: 1;
     }
 
     .filters {

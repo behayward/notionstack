@@ -13,13 +13,14 @@ try {
   const files = await readdir(productsDir);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
 
-  // Load all active products
+  // Load all active products with enhanced content
   const allProducts = [];
   for (const file of jsonFiles) {
     const filePath = join(productsDir, file);
     const content = await readFile(filePath, 'utf-8');
     const product = JSON.parse(content);
-    if (product.status !== 'inactive') {
+    // Only show products with enhanced content
+    if (product.status !== 'inactive' && product.enhancedContent) {
       allProducts.push(product);
     }
   }
