@@ -26,5 +26,102 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.815Z",
-  "lastUpdated": "2026-01-12T20:47:12.815Z"
+  "lastUpdated": "2026-01-20T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "The Midjourney Photorealistic Cheat Sheet is a comprehensive reference guide designed to help AI artists create stunningly realistic images using Midjourney. This paid resource ($9) combines a quick-reference cheat sheet with a detailed Notion document containing over 150 photographic elements, prompt formulas, and technical specifications that elevate AI-generated images from obviously synthetic to convincingly photorealistic.\n\nCreated by Rory Flynn, this template addresses one of the biggest challenges in AI image generation: making outputs look genuinely photographic rather than artificially rendered. The resource breaks down the technical language of photography—camera types, lenses, film stocks, lighting conditions, compositions—and translates them into effective Midjourney prompts.\n\nWith 264 sales, this template has become a go-to resource for AI artists, content creators, and marketers who need photorealistic images for professional projects. It's particularly valuable for users who understand that better prompts yield better results, and who want to move beyond generic AI aesthetics to create images indistinguishable from professional photography.",
+    "featureCategories": [
+      {
+        "title": "Prompt Formulas & Elements",
+        "icon": "📝",
+        "features": [
+          "9 Midjourney prompt formulas for photorealism",
+          "14 key photographic elements explained",
+          "Structured approach to building effective prompts",
+          "Clear framework for consistent results"
+        ]
+      },
+      {
+        "title": "Camera & Technical Specs",
+        "icon": "📷",
+        "features": [
+          "22 camera selections with use cases",
+          "11 lens selections and their effects",
+          "16 film stocks for different aesthetics",
+          "Technical specifications that create authenticity"
+        ]
+      },
+      {
+        "title": "Visual Style Controls",
+        "icon": "🎨",
+        "features": [
+          "12 photography styles (portrait, landscape, documentary, etc.)",
+          "27 lighting conditions for mood and atmosphere",
+          "10 color grades for cinematic looks",
+          "9 textures to add depth and realism"
+        ]
+      },
+      {
+        "title": "Composition & Perspective",
+        "icon": "🎬",
+        "features": [
+          "18 composition techniques",
+          "10 perspectives and viewing angles",
+          "12 photography-specific perspectives",
+          "6 depth of field options",
+          "8 motion effects"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "AI-generated images that look obviously artificial",
+      "Inconsistent results from Midjourney prompts",
+      "Not knowing which technical terms create photorealistic effects",
+      "Trial-and-error approach wasting time and credits",
+      "Difficulty matching specific photographic styles"
+    ],
+    "solutionsBenefits": [
+      "150+ cataloged elements provide comprehensive photographic vocabulary",
+      "Prompt formulas eliminate guesswork and reduce experimentation",
+      "Technical specifications create authentic photographic aesthetics",
+      "Organized Notion format makes reference quick and easy",
+      "Professional-quality results justify the modest $9 investment"
+    ],
+    "idealFor": [
+      "AI artists creating images for professional projects",
+      "Content creators needing photorealistic visuals",
+      "Marketers and designers using AI-generated imagery",
+      "Midjourney users wanting to master photorealism",
+      "Photographers exploring AI as a creative tool",
+      "Anyone frustrated with obviously AI-looking outputs"
+    ],
+    "notRecommendedFor": [
+      "Users preferring stylized or obviously AI-generated aesthetics",
+      "Complete beginners to Midjourney (start with basics first)",
+      "Those who don't use Midjourney for their AI image generation",
+      "Users unwilling to invest $9 in improving their prompts"
+    ],
+    "complexityLevel": {
+      "rating": 2,
+      "label": "Easy",
+      "details": "Reference resource that's easy to use—just look up the effect you want and incorporate those terms into your Midjourney prompts. Some basic photography knowledge helpful but not required, as elements are explained in the Notion doc."
+    },
+    "faqs": [
+      {
+        "question": "Do I need photography knowledge to use this cheat sheet?",
+        "answer": "No, the Notion document explains each photographic element and how it affects your images. While photography knowledge helps, the cheat sheet is designed to teach you the relevant concepts as you use them in your prompts."
+      },
+      {
+        "question": "Will this work with other AI image generators besides Midjourney?",
+        "answer": "The prompt formulas are optimized specifically for Midjourney. However, many of the photographic concepts (lighting, camera types, composition) can be adapted for other AI image generators like Stable Diffusion or DALL-E, though results may vary."
+      },
+      {
+        "question": "Is this a one-time purchase or subscription?",
+        "answer": "This is a one-time $9 purchase that gives you lifetime access to the cheat sheet and Notion document. You'll receive a link to duplicate the Notion template into your own workspace."
+      },
+      {
+        "question": "How do I use the photographic elements in my prompts?",
+        "answer": "The cheat sheet includes 9 prompt formulas that show you exactly how to structure your prompts and where to incorporate specific elements like camera types, lenses, lighting conditions, and compositions to achieve photorealistic results."
+      }
+    ]
+  }
 }

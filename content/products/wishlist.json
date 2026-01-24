@@ -26,5 +26,92 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.520Z",
-  "lastUpdated": "2026-01-12T20:47:13.520Z"
+  "lastUpdated": "2026-01-20T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "The Wishlist template transforms impulse shopping into intentional purchasing by centralizing all your desired items in one organized digital workspace. Rather than scattered wish lists across multiple stores and platforms, this template gives you a unified view of everything you want, helping you make more thoughtful buying decisions.\n\nDesigned to combat buyer's remorse and budget overruns, the template includes a comprehensive wishlist database with custom dividers for organization and integrated web clipper recommendations for easy item capture. Whether you're saving for big purchases, managing gift ideas, or simply trying to be more mindful about spending, this centralized system helps you prioritize wants versus needs and track items over time before committing to purchase.",
+    "featureCategories": [
+      {
+        "name": "Organization",
+        "icon": "📂",
+        "features": [
+          "Centralized wishlist database for all desired items",
+          "Custom dividers for categorizing items",
+          "Multi-platform consolidation (Amazon, etc.)",
+          "Clean visual organization of products"
+        ]
+      },
+      {
+        "name": "Capture Tools",
+        "icon": "🔖",
+        "features": [
+          "Web clipper integration recommendations",
+          "Quick item entry and link saving",
+          "Product details and notes storage",
+          "Image attachment for visual reference"
+        ]
+      },
+      {
+        "name": "Decision Support",
+        "icon": "💭",
+        "features": [
+          "Time-based reflection before purchasing",
+          "Priority and urgency tracking",
+          "Budget planning and cost tracking",
+          "Want vs. need evaluation space"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Scattered wishlists across multiple shopping platforms and apps",
+      "Impulse purchases that lead to buyer's remorse",
+      "Forgetting about items you wanted to buy later",
+      "Difficulty prioritizing purchases within budget constraints",
+      "Lost shopping links and product information"
+    ],
+    "solutionsBenefits": [
+      "All wishlists consolidated in your Notion workspace for easy access",
+      "Built-in cooling-off period that reduces impulse buying",
+      "Visual organization that helps prioritize most-wanted items",
+      "Integrated with web clippers for one-click item saving",
+      "Free template that eliminates need for multiple wishlist apps"
+    ],
+    "idealFor": [
+      "Mindful shoppers working to reduce impulse purchases",
+      "Budget-conscious individuals tracking desired items",
+      "Gift planners collecting ideas throughout the year",
+      "People managing wishlists across multiple stores",
+      "Anyone trying to make more intentional buying decisions",
+      "Collectors tracking items to acquire over time"
+    ],
+    "notRecommendedFor": [
+      "Families needing shared collaborative wishlists",
+      "Users wanting automatic price tracking and alerts",
+      "People needing advanced budgeting and expense tracking features",
+      "Gift registry management for events"
+    ],
+    "complexityLevel": {
+      "level": "Beginner",
+      "setupTime": "10 minutes",
+      "learningCurve": "Minimal - intuitive database entry",
+      "customizationLevel": "Medium - customize categories and properties"
+    },
+    "faqs": [
+      {
+        "question": "Can this template track prices and alert me to sales?",
+        "answer": "This template focuses on organizing and tracking items you want rather than monitoring price changes. You'll manually update prices and can note when items go on sale, but it doesn't include automated price tracking or alerts."
+      },
+      {
+        "question": "How does the web clipper integration work?",
+        "answer": "The template includes recommendations for web clippers that work with Notion, allowing you to save products from any website directly to your wishlist database. You'll need to set up a compatible web clipper extension separately."
+      },
+      {
+        "question": "Can I share this wishlist with family or friends for gift ideas?",
+        "answer": "Yes, you can share your Notion page with others to give them access to your wishlist. This makes it perfect for sharing gift ideas with family members, though the template is designed primarily for personal use rather than collaborative wishlist management."
+      },
+      {
+        "question": "Does this work for both physical products and experiences?",
+        "answer": "Absolutely! While designed with shopping in mind, you can use the wishlist database to track any type of desired item or experience - from gadgets and books to concerts, courses, or travel destinations."
+      }
+    ]
+  }
 }

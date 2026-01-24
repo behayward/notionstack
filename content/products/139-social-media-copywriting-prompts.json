@@ -26,5 +26,92 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.698Z",
-  "lastUpdated": "2026-01-12T20:47:12.698Z"
+  "lastUpdated": "2026-01-20T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "This comprehensive collection of 139 ChatGPT prompts transforms social media copywriting from a time-consuming challenge into a streamlined process. Designed for content creators, marketers, and business owners, this Notion resource provides ready-to-use prompts that generate professional social media copy for various platforms and purposes. Rather than spending hours crafting the perfect post or struggling with writer's block, you can leverage AI assistance to produce engaging, conversion-focused content in minutes. The prompts cover everything from attention-grabbing hooks to engagement-driving captions and platform-specific content strategies.",
+    "featureCategories": [
+      {
+        "category": "Prompt Library",
+        "icon": "📝",
+        "features": [
+          "139 carefully crafted ChatGPT prompts for social media copywriting",
+          "Platform-specific prompts (Instagram, Twitter, LinkedIn, Facebook)",
+          "Category-organized prompts for easy navigation",
+          "Copy-paste ready format for immediate use with ChatGPT"
+        ]
+      },
+      {
+        "category": "Content Types",
+        "icon": "✍️",
+        "features": [
+          "Prompts for hooks and attention-grabbers",
+          "Caption and post body generators",
+          "Call-to-action (CTA) optimization prompts",
+          "Hashtag and engagement strategy prompts"
+        ]
+      },
+      {
+        "category": "Strategy & Optimization",
+        "icon": "🎯",
+        "features": [
+          "Audience targeting and persona-based prompts",
+          "Conversion-focused copywriting frameworks",
+          "Brand voice consistency prompts",
+          "A/B testing variation generators"
+        ]
+      },
+      {
+        "category": "Organization",
+        "icon": "📁",
+        "features": [
+          "Notion database for bookmark and organization",
+          "Search and filter functionality",
+          "Notes section for saving best results",
+          "Quick reference guide for prompt usage"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Writer's block and creative burnout when trying to produce consistent social media content daily",
+      "Time-consuming copywriting process that takes hours away from other business activities",
+      "Inconsistent post quality and engagement rates due to rushed or uninspired copy",
+      "Lack of copywriting expertise or training making it difficult to craft compelling social posts"
+    ],
+    "solutionsBenefits": [
+      "Eliminates writer's block by providing 139 proven prompts that generate fresh content ideas instantly through ChatGPT",
+      "Dramatically reduces copywriting time from hours to minutes by providing ready-made prompts you simply copy and paste",
+      "Ensures consistently high-quality, engaging content by leveraging expert-crafted prompts that follow proven copywriting frameworks",
+      "Makes professional-level copywriting accessible to anyone, regardless of writing experience or marketing background"
+    ],
+    "idealFor": [
+      "Social media managers handling multiple client accounts who need to produce high-volume content efficiently",
+      "Small business owners and solopreneurs managing their own social media without a marketing background",
+      "Content creators and influencers looking to improve engagement and maintain consistent posting schedules",
+      "Marketing agencies seeking to streamline their social media content creation workflow",
+      "Anyone struggling with writer's block or looking to improve their social media copywriting skills"
+    ],
+    "notRecommendedFor": [
+      "Users who don't have access to ChatGPT or similar AI tools to utilize the prompts",
+      "People seeking ready-made posts rather than prompts that require AI tool interaction"
+    ],
+    "complexityLevel": "beginner",
+    "faqs": [
+      {
+        "question": "How do I get started with this template?",
+        "answer": "After purchasing, you'll receive a Notion link containing all 139 prompts. Simply duplicate the template to your workspace, browse the organized categories, select a prompt that fits your need, copy it, paste it into ChatGPT, and use the AI-generated copy for your social media posts."
+      },
+      {
+        "question": "What's included in this template?",
+        "answer": "The template includes 139 ChatGPT prompts specifically designed for social media copywriting, organized by platform and content type. You'll get prompts for hooks, captions, CTAs, hashtags, and various post formats, all in an easy-to-navigate Notion database that you can bookmark and reference anytime."
+      },
+      {
+        "question": "Can I customize this template?",
+        "answer": "Yes, the Notion template is fully customizable. You can add your own prompts, modify existing ones to better fit your brand voice, create custom categories, add notes about which prompts work best for your audience, and organize the database in whatever way suits your workflow."
+      },
+      {
+        "question": "What are the main use cases?",
+        "answer": "Primary use cases include generating daily social media posts across platforms, creating engagement-driving captions for product launches, developing platform-specific content strategies, overcoming writer's block during content creation sessions, and training AI to write in your brand's voice for consistent content output."
+      }
+    ]
+  }
 }

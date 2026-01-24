@@ -26,5 +26,93 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.625Z",
-  "lastUpdated": "2026-01-12T20:47:13.625Z"
+  "lastUpdated": "2026-01-20T00:00:00.000Z",
+  "enhancedContent": {
+    "overview": "Notion Invoice and Proposal Manager is a comprehensive, free solution that streamlines the often complex tasks of invoicing clients and creating professional proposals. Designed for freelancers, consultants, and small businesses, this all-in-one template eliminates the need for multiple paid tools by bringing everything into your Notion workspace.\n\nThe template includes fully customizable invoice and proposal templates that you can duplicate and adapt for each client, complete with built-in pricing calculators that make adding discounts and computing totals effortless. No more spreadsheet juggling or formatting headaches—just clean, professional documents ready to send.\n\nBeyond document creation, the system includes dedicated trackers for both invoices and proposals, plus monthly and yearly reporting views that give you instant insight into your business performance. The dashboard view provides a command center for monitoring all your client work, outstanding invoices, and proposal status at a glance. For professionals who want to present polished, consistent client communications without paying for specialized software, this free template delivers enterprise-quality organization.",
+    "featureCategories": [
+      {
+        "icon": "📄",
+        "title": "Professional Templates",
+        "features": [
+          "Clean, editable invoice template",
+          "Professional proposal template",
+          "Built-in pricing calculator with discount support",
+          "Consistent branding across all client documents"
+        ]
+      },
+      {
+        "icon": "📊",
+        "title": "Tracking & Organization",
+        "features": [
+          "Invoice tracker for managing all billing",
+          "Proposal tracker for monitoring opportunities",
+          "Status tracking for paid/unpaid/pending",
+          "Client database integration"
+        ]
+      },
+      {
+        "icon": "📈",
+        "title": "Reporting Dashboard",
+        "features": [
+          "Monthly revenue reports",
+          "Yearly financial overview",
+          "Dashboard view of all activities",
+          "Quick insights into business performance"
+        ]
+      }
+    ],
+    "problemsSolved": [
+      "Paying for separate invoicing and proposal software",
+      "Inconsistent formatting across client documents",
+      "Manual calculation errors when applying discounts",
+      "No centralized system to track outstanding invoices",
+      "Difficulty monitoring proposal success rates",
+      "Lack of financial reporting for freelance work"
+    ],
+    "solutionsBenefits": [
+      "Completely free alternative to paid invoicing software",
+      "Professional, consistent templates for all client communications",
+      "Automated calculations eliminate manual math errors",
+      "All invoices tracked in one organized system",
+      "Visual pipeline for managing proposal stages",
+      "Built-in reporting for financial insights and tax preparation"
+    ],
+    "idealFor": [
+      "Freelancers managing multiple client projects",
+      "Consultants creating proposals and tracking invoices",
+      "Small business owners wanting professional client documents",
+      "Service providers needing organized billing systems",
+      "Notion users consolidating business operations",
+      "Anyone wanting free alternatives to paid invoicing tools"
+    ],
+    "notRecommendedFor": [
+      "Large businesses needing enterprise invoicing features",
+      "Users requiring automatic payment processing integration",
+      "Those needing legally complex contract templates",
+      "Businesses with sophisticated accounting software requirements"
+    ],
+    "complexityLevel": {
+      "setup": "beginner",
+      "dailyUse": "beginner",
+      "customization": "beginner"
+    },
+    "faqs": [
+      {
+        "question": "Can I actually send these invoices to clients, or are they just for tracking?",
+        "answer": "You can absolutely send these to clients. The invoice template is designed to be professional and client-ready. You can share the Notion page directly, export as PDF, or copy the content into an email. Many freelancers use these templates as their primary invoicing system, customizing them with their branding and business details."
+      },
+      {
+        "question": "How does the pricing calculator work?",
+        "answer": "The template includes formula-based fields that automatically calculate line item totals, subtotals, discount amounts, and final totals. You simply enter your service descriptions, quantities, and rates, plus any discount percentage, and the calculator handles all the math. This eliminates manual calculation errors and makes adjusting quotes quick and easy."
+      },
+      {
+        "question": "What's included in the monthly and yearly reports?",
+        "answer": "The reporting views aggregate your invoice data to show total revenue, number of invoices sent, payment status breakdowns, and trends over time. Monthly reports help you track cash flow, while yearly reports are particularly useful for tax preparation and annual business planning. These are visual database views that update automatically as you add invoices."
+      },
+      {
+        "question": "Can I customize the templates with my business branding?",
+        "answer": "Yes, both the invoice and proposal templates are fully customizable. You can add your logo, adjust colors, modify field layouts, change terminology, and adapt the structure to match your business needs. The templates are starting points designed to be personalized while maintaining professional presentation."
+      }
+    ]
+  }
 }
