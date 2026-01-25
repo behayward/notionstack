@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.532Z",
-  "lastUpdated": "2026-01-18T15:26:08.670Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-world-150-resources-to-master-notion.jpg",
   "rawData": {
     "description": "Discover the powerful world of Notion with this free directory of the best resources and tools about Notion. In this directory, you’ll find everything you need to improve your use of Notion. Whether you are a beginner or want to boost your Notion skills, this list will help you find useful tools and resources to make you a Notion master. What’s inside? ✔ Courses ✔ Blogs ✔ Youtube Channels ✔ Newsletters ✔ Communities ✔ Website Builders ✔ Apps ✔ Widgets ✔ Chrome Extensions ✔ Design Assets How it works This is a free directory stored on a Notion page. You’ll be able to duplicate it into your own Notion workspace and customize it. You’ll be able to navigate through the directory using the different categories and tags. 👉 Deep dive into the amazing world of Notion with this directory of more than 150 useful resources and tools. It’s free. About the creators Hey, we are Valentin and Quentin, Notion Certified and cofounders of the Notion templates marketplace Notion Everything. For more templates, resources, and pro-tips about Notion, check out our Templates, subscribe to our weekly Newsletter, follow us on Twitter. © 2023 NotionEverything. All rights reserved.",
@@ -115,5 +115,6 @@
         "answer": "The creators offer ongoing support through their newsletter and social channels. The directory also includes links to Notion communities for additional assistance."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-world-150-resources-to-master-notion.jpg"
 }

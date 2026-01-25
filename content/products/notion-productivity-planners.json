@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.657Z",
-  "lastUpdated": "2026-01-18T15:14:27.330Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-productivity-planners.jpg",
   "rawData": {
     "description": "Beat procrastination with these 3 Productivity Planners!These Daily, Weekly, &amp; Monthly Productivity Planners will help you: Make more conscious adjustments Gain more mental clarity Give you direction Increase your focus Heighten your awareness Supercharge your productivity WalkthroughA complete template walkthrough can be found on my channel through the button below:Productivity Planners WalkthroughLife OS DashboardGo From Overwhelmed to Organized in Just 10 Minutes.The complete life management system that replaces all your productivity apps and transforms your daily chaos into calm, focused action.Stop prioritizing your schedule. Start scheduling your priorities:Learn more about the Life OS DashboardFAQsHow to download the template?Open the template link, and click \"Duplicate\" on the top right corner to duplicate it to your workspace.What is inside the templates?This finance tracker template contains a yearly overview, income &amp; expense tracker, subscription tracker &amp; calendar, bank accounts database, and income &amp; expense sources.Have more questions?Send your feedback or queries to contact@chrisnotion.com",
@@ -129,5 +129,6 @@
         "answer": "Support is available via email at contact@chrisnotion.com for any questions about setup, customization, or maximizing the template's effectiveness."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-productivity-planners.jpg"
 }

@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.538Z",
-  "lastUpdated": "2026-01-18T15:21:13.808Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/book-tracker.jpg",
   "rawData": {
     "description": "Keep track of your reading progress and lessons learnedThis Notion template helps you keep track of your progress and stay motivated. For example, if you're trying to read one book every month, tracking your progress can help you stay on track. Add quotes or highlights from the book View your reading progress and status Create your custom set of book genres",
@@ -120,5 +120,6 @@
         "answer": "The template includes built-in usage instructions and examples. Most setup questions are covered in the included documentation, making it self-service friendly for users of all experience levels."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/book-tracker.jpg"
 }

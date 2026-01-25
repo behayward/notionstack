@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.052Z",
-  "lastUpdated": "2026-01-18T15:40:00.759Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/trading-dashboard.jpg",
   "rawData": {
     "description": "Unlock your path to trading success with our Trading Journal - the essential tool every trader needs. Gain unparalleled insights into your performance, identify patterns for strategy refinement, and stay disciplined with objective analysis. Our journal empowers you to manage risk effectively, learn from every trade, and continuously improve.With Notion, you can easily monitor your account balance, net profit/loss, add new trades effortlessly, track your progress weekly, monthly, or yearly, and get a comprehensive overview of your performance through the profit/loss calendar. Not only can you track your live trading, but you can also analyze your backtesting sessions and access historical data effortlessly.FAQsHow to download the template?Open the template link, and click \"Duplicate\" on the top right corner to duplicate it to your workspace.Have more questions?Send your feedback or queries to itstomtrades@gmail.com",
@@ -119,5 +119,6 @@
         "answer": "Support is available via email at the provided contact address. The creator offers guidance on setup, customization questions, and troubleshooting any template functionality issues."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/trading-dashboard.jpg"
 }

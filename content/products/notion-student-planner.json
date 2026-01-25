@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.545Z",
-  "lastUpdated": "2026-01-12T20:47:12.545Z",
+  "lastUpdated": "2026-01-24",
   "enhancedContent": {
     "overview": "A comprehensive Notion template designed specifically for students to organize their academic life in one centralized workspace. This planner helps students manage coursework, track academic goals, and maintain visibility over their weekly schedule and assignments. Perfect for students seeking to streamline their academic organization and boost productivity throughout the semester.",
     "featureCategories": [
@@ -120,5 +120,6 @@
     ],
     "reviewQuotes": []
   },
-  "image": "/images/products/notion-student-planner.jpg"
+  "image": "/images/products/notion-student-planner.jpg",
+  "imageUrl": "/images/products/notion-student-planner.jpg"
 }

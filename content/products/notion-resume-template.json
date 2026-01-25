@@ -28,7 +28,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 10:54 AM",
-  "lastUpdated": "2026-01-18T15:36:13.768Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-resume-template.jpg",
   "rawData": {
     "description": "Build your portfolio website in minutesAre you looking for a simple way to build a portfolio website? Look no further than this portfolio template for Notion.With a free Notion account, you can download this template and customise it to help others learn more about you and showcase your best work.",
@@ -118,5 +118,6 @@
         "answer": "The template includes built-in guidance and setup instructions. For additional support, you can access Notion's help resources or community forums for general Notion usage questions."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-resume-template.jpg"
 }

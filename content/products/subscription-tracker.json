@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.534Z",
-  "lastUpdated": "2026-01-18T15:28:50.359Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/subscription-tracker.jpg",
   "rawData": {
     "description": "Never forget about your subscriptions again!A Notion template that helps you keep track of your subscriptions, so you never forget to renew or cancel them.What's inside? Set reminders for subscription renewal Group subscriptions by categories e.g. entertainment, education, business Calculate monthly &amp; yearly expenses for each category View subscriptions by their status",
@@ -121,5 +121,6 @@
         "answer": "The template includes setup instructions and usage guidelines. For additional support, most template creators provide email support or community access for troubleshooting and customization help."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/subscription-tracker.jpg"
 }

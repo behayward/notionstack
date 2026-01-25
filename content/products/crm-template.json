@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.541Z",
-  "lastUpdated": "2026-01-18T15:19:43.947Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/crm-template.jpg",
   "rawData": {
     "description": "Capture and track your leads in NotionA CRM template helps you manage interactions and relationships with customers, potential leads, and sales opportunities. Track each customer's stage in the pipeline and follow up promptly to avoid missing any opportunities.Get it now and easily track all your leads and clients in Notion!",
@@ -125,5 +125,6 @@
         "answer": "The template includes comprehensive documentation and setup guides. Additional support may vary by creator, but most Notion templates come with community access or direct creator support."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/crm-template.jpg"
 }

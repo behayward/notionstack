@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.642Z",
-  "lastUpdated": "2026-01-18T15:33:12.029Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/free-weekly-planner.jpg",
   "rawData": {
     "description": "Introducing the FREE Weekly Planner Notion Template! Designed to help you manage your time effectively and stay on top of your daily, weekly, and monthly tasks, this powerful tool allows you to stay organized and focused on your goals.Whether you're a busy professional, a student, or someone who wants to stay organized and focused on their goals, this Weekly Planner Notion Template is an essential tool for achieving success in all areas of your life. So, start using it today and experience the power of staying organized and focused on your goals!To start using this template, follow these simple steps:1.Purchase and instantly download it.2.Access the template by downloading the PDF.3.Duplicate the template and start planning!",
@@ -111,5 +111,6 @@
         "answer": "The template includes setup instructions, though specific ongoing support may be limited as this is a free template offering."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/free-weekly-planner.jpg"
 }

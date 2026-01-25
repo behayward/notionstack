@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.530Z",
-  "lastUpdated": "2026-01-18T15:40:19.346Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/list-of-250-free-notion-templates.jpg",
   "rawData": {
     "description": "Discover 250+ free Notion templates.Receive a list of 250+ free Notion templates ready for you to explore and use.What's inside:List of 250+ free Notion templates.FAQs:1. What is Notion?Notion is an all-in-one workspace that allows you to take notes, add tasks, manage projects, and get organized. Whether you're writing or planning, Notion has a versatile design for getting things done.2. What is Notion template?Notion templates are pre-built Notion components that can be imported into your Notion workspace and are a great way to boost your productivity in Notion.3. How I will receive a template?After purchase, you'll receive a link to duplicate the Notion template to your workspace.4. Will I need to pay to use Notion?No, Notion does offer a free plan with no strings attached. 5. How can I become an affiliate? Click here to fill out the affiliate form.6. I have more questions.Send your question at modest@notionway.com. I will be more than happy to answer.© 2022 Notionway. All rights reserved.",
@@ -117,5 +117,6 @@
         "answer": "Support is available via email for questions about the directory itself. For individual template issues, you may need to reference the original creator's documentation or Notion's help resources."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/list-of-250-free-notion-templates.jpg"
 }

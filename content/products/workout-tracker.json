@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.567Z",
-  "lastUpdated": "2026-01-18T15:39:09.199Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/workout-tracker.jpg",
   "rawData": {
     "description": "Introducing the Ultimate Workout Tracking Template for Notion!Plan your workout days and track your exercises, reps, sets, and weights all in one place. This Notion template allows you to add as many exercises as you want, grouped by different muscle groups, so you can easily plan your workout routine.With the ability to check off completed sets, you can track your progress and stay motivated. Plus, you can easily view an archive of all the exercises you've ever done to see your progression and plan future workouts better.Muscle GroupsHere are some of the key features:Basic Version: Training Schedule Workout Routines Workout History Exercises Database Exercise Groups Pro Version: Everything in Basic Version Muscle Group Covers Custom Exercise Groups Weekly Workout Planner Weight Tracking Equipments Database Mobile-Optimized Pages Whether you're a fitness enthusiast or just starting out, this workout tracker template will help you achieve your fitness goals in no time. Get it now and take your workout routine to the next level!",
@@ -136,5 +136,6 @@
         "answer": "The template includes setup instructions and usage guides. For additional support, you can reach out through the provided support channels for assistance with customization or troubleshooting."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/workout-tracker.jpg"
 }

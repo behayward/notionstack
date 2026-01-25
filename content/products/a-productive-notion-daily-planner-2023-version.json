@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "inactive",
   "dateAdded": "2026-01-12T20:47:12.531Z",
-  "lastUpdated": "2026-01-18T15:31:32.532Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/a-productive-notion-daily-planner-2023-version.jpg",
   "rawData": {
     "description": "I loved using my previous Notion Weekly Planner but having to create a new page for each week started to a little annoying after 2 years.I made a few structural tweaks but kept the core elements, enjoy!If you have questions you can watch me go through it in detail here.Check out my full Notion course: Build Your Command Center in Notion.",
@@ -112,5 +112,6 @@
         "answer": "The template includes a detailed video walkthrough, and you can access additional support through the associated Notion course community."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/a-productive-notion-daily-planner-2023-version.jpg"
 }

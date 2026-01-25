@@ -33,7 +33,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "October 1, 2022 9:02 AM",
-  "lastUpdated": "2026-01-18T15:18:21.953Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/ultimate-second-brain.jpg",
   "rawData": {
     "description": "Get Your Life Organized with a Second BrainSecond Brain is an all-in-one Notion system that tracks your goals, projects, notes, and everything in between.Building on Tiago Forte's PARA method, we've expanded its principles to provide a comprehensive system for productivity and knowledge management.What's included? All-In-One Dashboard Goal Setting Project &amp; Task Management Note-Taking System References Management Quotes &amp; Highlights Reading List Transform Notion into your Second Brain today!",
@@ -135,5 +135,6 @@
         "answer": "The template includes setup guides and usage instructions. Most creators also provide email support for technical questions and customization guidance."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/ultimate-second-brain.jpg"
 }

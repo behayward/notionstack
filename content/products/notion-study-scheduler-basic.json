@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.620Z",
-  "lastUpdated": "2026-01-18T15:39:27.816Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-study-scheduler-basic.jpg",
   "rawData": {
     "description": "The perfect study companion for organizing and staying on top of your study schedule. Designed for simplicity and with evidence-based theory so you can enjoy school with peace of mind :) Template includes : Integrated calendar to track ongoing classes and assignments Powerful review system to track confidence levels for each topic Minimalistic weekly planner Simple daily to-do list Simple mood tracker",
@@ -122,5 +122,6 @@
         "answer": "The template includes setup instructions and usage guidelines. Most questions can be resolved through Notion's help documentation for basic database and calendar functions."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-study-scheduler-basic.jpg"
 }

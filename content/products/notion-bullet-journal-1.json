@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.648Z",
-  "lastUpdated": "2026-01-18T15:34:17.834Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-bullet-journal-1.jpg",
   "rawData": {
     "description": "A simple Notion bullet journal for reflection &amp; planning.Life OS DashboardGo From Overwhelmed to Organized in Just 10 Minutes.The complete life management system that replaces all your productivity apps and transforms your daily chaos into calm, focused action.Stop prioritizing your schedule. Start scheduling your priorities:Learn more about the Life OS DashboardHow to download the template? Pay what you think is fair (or enter \"0\" to get it for free!) Continue with the checkout process and add your email You'll receive an email containing the link and be redirected to the product page Before you click on the template link make sure to give this product a rating Open the Notion link and click duplicate in the top right corner and enjoy! Send your feedback or queries to contact@chrisnotion.com",
@@ -112,5 +112,6 @@
         "answer": "Direct email support is available at contact@chrisnotion.com for any questions about setup, customization, or usage."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-bullet-journal-1.jpg"
 }

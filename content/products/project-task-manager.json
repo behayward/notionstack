@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.652Z",
-  "lastUpdated": "2026-01-18T15:27:18.591Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/project-task-manager.jpg",
   "rawData": {
     "description": "Turn your chaos into productivityThis simple project &amp; task management system will help you streamline your to-do list and projects.It's designed to help you stop prioritizing your schedule so you can start scheduling your priorities.This project &amp; task manager also contains a project overview &amp; progress bar and a time tracker for your tasks.Stop managing your to-do lists and start doing them.Template walkthrough:A full video tutorial with chapters can be found here:How To Build A Simple Project &amp; Task Manager In NotionLife OS DashboardGo From Overwhelmed to Organized in Just 10 Minutes.The complete life management system that replaces all your productivity apps and transforms your daily chaos into calm, focused action.Stop prioritizing your schedule. Start scheduling your priorities:Learn more about the Life OS DashboardHow to download the template? Pay what you think is fair (or enter \"0\" to get it for free!) Continue with the checkout process and add your email You'll receive an email containing the link and be redirected to the product page Before you click on the template link make sure to give this product a rating Open the Notion link and click duplicate in the top right corner and enjoy! Send your feedback or queries to contact@chrisnotion.com",
@@ -124,5 +124,6 @@
         "answer": "You can send feedback or questions directly to the creator at contact@chrisnotion.com for personalized support."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/project-task-manager.jpg"
 }

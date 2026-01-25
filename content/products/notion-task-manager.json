@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.530Z",
-  "lastUpdated": "2026-01-18T15:17:46.291Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-task-manager.jpg",
   "rawData": {
     "description": "Keep your tasks and projects organised.A minimal Notion dashboard to track and manage your tasks and projects.Do you often find yourself struggling to keep track of your tasks and projects? Do you feel like you're always forgetting something important? Say goodbye to the chaos and hello to the Task Manager Notion Template from Bodie!Our template is designed to help you stay organized and on top of your tasks and projects. With a simple and intuitive interface, you can easily create and manage your to-do list, set due dates and reminders, and track your progress.The Task Manager Notion Template is fully customizable to fit your unique needs. You can categorize your tasks by project, priority, or any other criteria that makes sense for you. Plus, the template's user-friendly design makes it easy to navigate and update as you go.Say goodbye to missed deadlines and forgotten tasks and hello to a more productive and organized you. Our Task Manager Notion Template will help you stay on top of your workload so you can focus on what really matters - achieving your goals.Ready to take your productivity to the next level? Purchase the Task Manager Template from Bodie today and start getting things done!Features Includes: New Tasks button to create new tasks quickly Keep track of tasks due Prioritising your tasks Managing tasks with different projects FAQsHow to download the template?Open the template link, then click \"Duplicate\" on the top right corner to duplicate it to your workspace.How can I become an affiliate?Click here to fill out the affiliate form.Still have questions?Send your feedback or queries to my Twitter or email me at meetbodie@gmail.com",
@@ -123,5 +123,6 @@
         "answer": "Support is available through the creator's Twitter account and email. The template also includes basic setup instructions and customization guidance."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-task-manager.jpg"
 }

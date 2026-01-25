@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.533Z",
-  "lastUpdated": "2026-01-18T15:38:13.959Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/travel-planner.jpg",
   "rawData": {
     "description": "Plan your next travel better with NotionOrganize and keep track of your destinations, itinerary, and expenses for a better travel experience.What's Inside?Basic Travel PlannerThe basic planner is designed for those focusing on a singular journey.Plan an itinerary for a single tripUltimate Travel Dashboard:All-in-one Travel Companion: Designed for the frequent explorer, our ultimate dashboard lets you plan and manage unlimited trips all in one place. But we didn't stop there. Plan unlimited trips and itineraries Track your travel expenses for every trip Log your travel reflection in your journal Collect travel essentials and items Navigation sidebar and action buttons Ready to elevate your travel planning process? Get your Ultimate Travel Planner today.",
@@ -132,5 +132,6 @@
         "answer": "The template includes detailed setup instructions and usage guides. Additional support availability depends on the creator's offerings with this specific template."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/travel-planner.jpg"
 }

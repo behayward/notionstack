@@ -28,7 +28,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 10:47 AM",
-  "lastUpdated": "2026-01-12T20:47:12.504Z",
+  "lastUpdated": "2026-01-24",
   "enhancedContent": {
     "overview": "A comprehensive time management system featuring three interconnected Notion planners for daily, weekly, and monthly organization. Perfect for busy professionals, students, and anyone seeking to maximize productivity through structured planning. Transform chaotic schedules into organized, actionable timelines.",
     "featureCategories": [
@@ -121,5 +121,6 @@
     ],
     "reviewQuotes": []
   },
-  "image": "/images/products/daily-weekly-monthly-planners.jpg"
+  "image": "/images/products/daily-weekly-monthly-planners.jpg",
+  "imageUrl": "/images/products/daily-weekly-monthly-planners.jpg"
 }

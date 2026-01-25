@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.548Z",
-  "lastUpdated": "2026-01-18T15:32:41.928Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/content-calendar.jpg",
   "rawData": {
     "description": "Plan and Manage Your Content Calendar in NotionPlan your social media content across multiple platforms all in one place. Unlimited Channels: Manage content for Facebook, Instagram, Twitter, LinkedIn, YouTube, TikTok, and more, all in one place. Content Tracking: Plan and track all your social media content from idea to published, ensuring you never miss a post.",
@@ -116,5 +116,6 @@
         "answer": "The template includes setup instructions and usage guidelines to get you started quickly."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/content-calendar.jpg"
 }

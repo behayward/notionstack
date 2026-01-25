@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.527Z",
-  "lastUpdated": "2026-01-18T15:30:07.622Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/365-automation-templates.jpg",
   "rawData": {
     "description": "A year's worth of automation templates at the tip of your fingers.A curated list of the best no-code automation templates to automate your databases, productivity, IoT, and more!What's included?Bardeen TemplatesMake TemplatesZapier TemplatesIFTT TemplatesWhalesync Templates... and a lot more!Who will benefit from this?Busy peopleAutomation enthusiastsAnyone looking to automate their life or businessFAQsHow to download the template?This is a Notion public website. Just bookmark it! :)Still, have questions?No worries! Contact me in my DMs: TwitterPS: If purchased, don’t forget to leave a rating :) ⭐⭐⭐⭐⭐",
@@ -134,5 +134,6 @@
         "answer": "Direct support is available through the creator's Twitter DMs. The creator encourages users to reach out with questions or issues."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/365-automation-templates.jpg"
 }

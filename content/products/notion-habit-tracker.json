@@ -28,7 +28,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 10:50 AM",
-  "lastUpdated": "2026-01-12T20:47:12.504Z",
+  "lastUpdated": "2026-01-24",
   "enhancedContent": {
     "overview": "A comprehensive Notion-based habit tracking system designed to help individuals build and maintain consistent daily routines. Perfect for anyone looking to develop positive behaviors through systematic monitoring and progress visualization, transforming small daily actions into lasting lifestyle changes.",
     "featureCategories": [
@@ -121,5 +121,6 @@
     "features": [],
     "reviewQuotes": []
   },
-  "image": "/images/products/notion-habit-tracker.jpg"
+  "image": "/images/products/notion-habit-tracker.jpg",
+  "imageUrl": "/images/products/notion-habit-tracker.jpg"
 }

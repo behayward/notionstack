@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.902Z",
-  "lastUpdated": "2026-01-18T15:28:14.686Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/simple-second-brain-for-notion.jpg",
   "rawData": {
     "description": "This template is your secret weapon to conquer chaos and make your life a breeze. 💡 You'll find everything you need to keep your life in order. Take notes and stash links like a pro. Keep your tasks organized and your goals on track, whether you're hustling professionally or crushing personal milestones. Balance life and work like a champ, and keep your go-to tools and references at your fingertips. What is Notion?Notion is the ultimate productivity app - an all-in-one workspace to organize work, projects, notes, ideas and moreIf you are new to Notion, you'll have to create a Notion account.How does this work?After purchase, you'll receive a link to duplicate this Notion template into your Notion account. Is Notion free to use?Yes. This template is compatible with a free Notion account.",
@@ -123,5 +123,6 @@
         "answer": "The template includes built-in guidance and setup instructions. For additional support, you can reach out through the provided contact information after purchase."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/simple-second-brain-for-notion.jpg"
 }

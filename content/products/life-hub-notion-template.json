@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.534Z",
-  "lastUpdated": "2026-01-18T15:33:46.499Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/life-hub-notion-template.jpg",
   "rawData": {
     "description": "The life hub is the perfect aesthetic page to begin your Notion journey and organize your other pages and templates! The life hub is filled with cute widgets and custome-made headers. Please note: other pages will not be included",
@@ -111,5 +111,6 @@
         "answer": "The template is designed to be self-explanatory for beginners, though specific support availability depends on the creator's offerings."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/life-hub-notion-template.jpg"
 }

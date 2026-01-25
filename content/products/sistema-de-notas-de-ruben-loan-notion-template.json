@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.568Z",
-  "lastUpdated": "2026-01-18T15:39:42.756Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/sistema-de-notas-de-ruben-loan-notion-template.jpg",
   "rawData": {
     "description": "ESTE PRODUCTO SIGUE LA FILOSOFÍA DE PAGA LO QUE QUIERAS. SI NO QUIERES PAGAR NADA SIMPLEMENTE PON 0 EN EL PRECIO.",
@@ -111,5 +111,6 @@
         "answer": "The template includes comprehensive setup instructions, though direct creator support availability may vary."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/sistema-de-notas-de-ruben-loan-notion-template.jpg"
 }

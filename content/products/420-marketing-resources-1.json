@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:13.523Z",
-  "lastUpdated": "2026-01-18T15:30:24.947Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/420-marketing-resources-1.jpg",
   "rawData": {
     "description": "Discover the best marketing resourcesThe only marketing resources list you'll ever need to choose for your next marketing tool, browser extension, web resource, and much more!What's included?Marketing Management ToolsSocial Media ToolsWebsite Optimization ToolsContent Marketing ToolsWeb Resources... and a lot more!Who will benefit from this?Digital Marketing ProfessionalsMarketing AgenciesFounders &amp; EntrepreneursAnyone looking for Marketing tools &amp; resourcesFAQsHow to download the template?This is a Notion public website. Just bookmark it! :)Still, have questions?No worries! Contact me in my DMs: TwitterPS: If purchased, don’t forget to leave a rating :) ⭐⭐⭐⭐⭐",
@@ -137,5 +137,6 @@
         "answer": "Support is available through the creator's Twitter DMs as mentioned in the product details."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/420-marketing-resources-1.jpg"
 }

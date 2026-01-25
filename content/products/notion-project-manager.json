@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.594Z",
-  "lastUpdated": "2026-01-18T15:25:34.282Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-project-manager.jpg",
   "rawData": {
     "description": "Project Management made effortless with this easy to use Notion Project management Template.Manage your Projects seamlessly with this customisable Notion Template. Manage your Tasks, relate them to projects and keep track of your works in a systematic way.Never Miss a task with the task overdue feature! FAQs1. What is Notion?Notion is a comprehensive and fully-integrated workspace that simplifies note-taking, task management, project planning, and organisation. Designed with versatility in mind, Notion offers a user-friendly interface that facilitates productivity and maximises efficiency. Whether you're a writer or a project manager, Notion is the ultimate workspace to help you get things done.2. What is Notion template?Notion templates are ready-made components that can be imported into your Notion workspace to optimise your productivity and save you a ton of time. These templates are tailored to specific needs. By utilising Notion templates, you can streamline your workflow and accelerate your productivity in no time.3. How I will receive a template?Click \"I want this\" button and Duplicate this template to your Notion workspace.4. Does Notion have a Free plan?Yes6. If you have any other questionsIf you have more question, feel free to drop me an email or DM me on Twitter.Visit my Website:Notion4management.com",
@@ -115,5 +115,6 @@
         "answer": "Support is available through email or Twitter DM with the creator, plus additional resources at Notion4management.com for extended guidance."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-project-manager.jpg"
 }

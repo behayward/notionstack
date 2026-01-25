@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.645Z",
-  "lastUpdated": "2026-01-18T15:23:47.663Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/movie-tv-show-tracker.jpg",
   "rawData": {
     "description": "Your Notion Watchlist CompanionCreate a personalized watchlist to ensure you never miss out on watching a fantastic movie or TV show.Genre Cataloging: Categorize and sort your watchlist by your favourite genres.Dedicated Watch Lists: Maintain separate watchlists for movies and TV shows, so nothing gets mixed up.Release Tracking: Stay updated with release dates and platforms, so you're always in the loop.Quick Additions: Speedily add new titles to your watchlist with the button blocks.Watch History: Maintain a log of your recently viewed and all-time favourites for easy recall and re-watching.Grab your Movies &amp; TV Show Tracker today!",
@@ -122,5 +122,6 @@
         "answer": "The template includes setup instructions and examples to get you started quickly with your entertainment tracking."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/movie-tv-show-tracker.jpg"
 }

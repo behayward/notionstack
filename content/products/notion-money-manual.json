@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.684Z",
-  "lastUpdated": "2026-01-12T20:47:12.684Z",
+  "lastUpdated": "2026-01-24",
   "enhancedContent": {
     "overview": "A comprehensive business course teaching entrepreneurs how to build, launch, and monetize Notion templates as a passive income stream. Created by an Official Notion Ambassador who generated $275,000+ from template sales, this manual provides actionable strategies for turning template ideas into profitable digital products.",
     "featureCategories": [
@@ -126,5 +126,6 @@
     ],
     "reviewQuotes": []
   },
-  "image": "/images/products/notion-money-manual.jpg"
+  "image": "/images/products/notion-money-manual.jpg",
+  "imageUrl": "/images/products/notion-money-manual.jpg"
 }

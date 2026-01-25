@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.678Z",
-  "lastUpdated": "2026-01-18T15:36:46.302Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/recursos-para-estudiantes-y-docentes.jpg",
   "rawData": {
     "description": "Sácale el mayor provecho a tu correo institucionalEl correo institucional tiene una gran cantidad de servicios gratuitos asociados que facilitan la vida al estudiante, así que hemos elaborado una lista que te va a ayudar.¿Qué incluye?Plataformas de diseñoPlataformas de diagramaciónPlataformas de prototipadoPlataformas de entretenimientoY más¿Quién se beneficiará de esto?Estudiantes universitariosEstudiantes en generalDocentesPreguntas Frecuentes¿Funciona esto con una cuenta gratuita de Notion?Totalmente. Solo tienes que duplicar el tema desde el enlace después de su compra.¿Cómo descargar la plantilla?Es muy fácil. Solo tienes que abrir el enlace de la plantilla y hacer clic en \"Duplicar\" en la esquina superior derecha para duplicarla en tu espacio de trabajo. Si estás en el móvil, haz clic en el menú de 3 puntos para mostrar la opción de duplicar.¿Todavía tiene preguntas?No te preocupes. Contáctanos por TwitterHaznos saber tu opinión¿Te han sido útiles nuestras plantillas? Nos encantaría saberloPD: Si lo descargas, no olvides dejar una valoración :) ⭐⭐⭐⭐⭐",
@@ -121,5 +121,6 @@
         "answer": "Support is available through Twitter contact, and the template includes clear instructions for accessing each resource type."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/recursos-para-estudiantes-y-docentes.jpg"
 }

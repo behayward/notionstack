@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.531Z",
-  "lastUpdated": "2026-01-18T15:32:26.628Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/chatgpt-prompts-resources.jpg",
   "rawData": {
     "description": "700 AI Tools and ChatGPT Prompts in one Notion File.",
@@ -113,5 +113,6 @@
         "answer": "Support availability varies by creator, but the template's intuitive Notion structure makes it easy to navigate and modify independently without extensive assistance."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/chatgpt-prompts-resources.jpg"
 }

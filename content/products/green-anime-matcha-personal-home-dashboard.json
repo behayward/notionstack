@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.601Z",
-  "lastUpdated": "2026-01-18T15:22:47.043Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/green-anime-matcha-personal-home-dashboard.jpg",
   "rawData": {
     "description": "💡 Collaboration between The Matcha Vibe and Itsmoul!Everyone needs a personal space they can call their own. A place where you can write down your thoughts, journal, track time, build habits - and do all that with just a few clicks. With this FREE Personal Home Dashboard - we bring you 6 different themes with all added capabilities to help you have a matcha-better day! 🍵This Notion Personal Home Dashboard comes in six versions: 🌅 Sunset Serenity theme 🏔️ Studio Ghibli Theme 🌿 Chill Green Theme 🍃 Simple Theme 🌱 Minimalistic Theme 🍵 Matcha Café Theme This Notion Personal Home Dashboard includes: 📅 Daily Planner 🗓️ Weekly Goals Tracker 💯 Miscellaneous Goals Tracker 🖊️ Journal 🏃 Habit Tracker 🎬 Movie Watchlist ⛩️ Anime Watchlist 📄 Project Planner ✨ Wishlist 📚 Reading List ✈️ Travel Planner 💵 Finance Tracker FAQsHow to download it?Click \"Duplicate\" on the top right corner to duplicate the template to your Notion workspace.How to make this template mine?After downloading and duplicating the template, you can delete the given examples and add your own! Still have queries?Contact me or send feedback on heymatchavibe@gmail.com PS: The template is free so that anyone can access it and make use of it! However if you do like the template please tip in with any amount you can. It would help me build more products! Thank you, and I hope you have a matcha-better day! 🍵As this is a digital product, all sales are final.The Notion templates and content inside the Notion Personal Home Dashboard must be used for personal use only. By viewing, downloading, or using this template, you agree not to resell or exploit any portion of this template for any commercial purposes.",
@@ -143,5 +143,6 @@
         "answer": "Support is available via email at heymatchavibe@gmail.com for questions about customization or template usage."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/green-anime-matcha-personal-home-dashboard.jpg"
 }

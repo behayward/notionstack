@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.568Z",
-  "lastUpdated": "2026-01-18T15:36:29.305Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/professional-resume.jpg",
   "rawData": {
     "description": "Create a professional resume in minutes with Notion.",
@@ -111,5 +111,6 @@
         "answer": "The template includes built-in guidance and examples. For additional support, most creators provide email assistance or community forums."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/professional-resume.jpg"
 }

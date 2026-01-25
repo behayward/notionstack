@@ -28,7 +28,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "April 10, 2023 10:45 AM",
-  "lastUpdated": "2026-01-12T20:47:12.504Z",
+  "lastUpdated": "2026-01-24",
   "enhancedContent": {
     "overview": "A comprehensive Notion-based financial management system designed to help individuals gain complete visibility into their spending habits. This template transforms chaotic financial data into organized, actionable insights that enable users to make informed decisions about their money and identify opportunities for savings.",
     "featureCategories": [
@@ -122,5 +122,6 @@
     ],
     "reviewQuotes": []
   },
-  "image": "/images/products/notion-expense-tracker.jpg"
+  "image": "/images/products/notion-expense-tracker.jpg",
+  "imageUrl": "/images/products/notion-expense-tracker.jpg"
 }

@@ -26,7 +26,7 @@
   "recommendation": "RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.551Z",
-  "lastUpdated": "2026-01-18T15:27:38.227Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/resume-template.jpg",
   "rawData": {
     "description": "Create a professional resume in NotionThis Notion template helps you get your resume ready in less than 5 minutes.Update your resume from any browser or deviceCreate a shareable URL in one click or invite others privatelyNo need to pay for an additional website or hosting.",
@@ -123,5 +123,6 @@
         "answer": "The template includes detailed setup instructions and customization tips. For additional support, you can reference Notion's help documentation or community forums for general usage questions."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/resume-template.jpg"
 }

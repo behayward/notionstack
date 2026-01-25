@@ -26,7 +26,7 @@
   "recommendation": "HIGHLY RECOMMENDED",
   "status": "active",
   "dateAdded": "2026-01-12T20:47:12.538Z",
-  "lastUpdated": "2026-01-18T15:35:56.544Z",
+  "lastUpdated": "2026-01-24",
   "image": "/images/products/notion-learning-roadmap.jpg",
   "rawData": {
     "description": "A Roadmap to go from Beginner to Advanced in NotionSave 100+ hours of research on where to start learning Notion.I curated this roadmap of must-know features from beginner to advanced, along with the best learning resources.",
@@ -111,5 +111,6 @@
         "answer": "The roadmap includes links to community resources and official Notion documentation, plus you can seek help in Notion user communities referenced in the materials."
       }
     ]
-  }
+  },
+  "imageUrl": "/images/products/notion-learning-roadmap.jpg"
 }
